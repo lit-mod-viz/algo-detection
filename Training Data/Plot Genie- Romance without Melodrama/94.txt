@@ -1,84 +1,65 @@
- 
+g».
 
  
 
-PLOT GEN!E INDEX
-
-P R O B L E M 8
-L13 T F I V B
-(CON’I‘INUED)
-
-8. Obliged to risk fortune in an effort to escape from imprisn
-onment.
-
-9. Desired vengeance against a cheater opposed by lack of in—
-ﬂuence.
-
-IO. Obliged to risk position in an effort to brave a terrible disease.
-
-II. Desired vengeance against the opposite sex opposed by duty
-to country.
-
-12. Obliged to prevent a terrible in’-
-weakness‘
-
-13. Desired vengeance ag
-
-ment weather.
-
-    
-  
  
 
-Ice opposed by Iysical
+PLOT GENIE ROMANCE
 
- 
+LIST TWO
+CHARACTER ATTRIBUTES
+(BAD, WITH A REDEEMING TRAIT)
+(CONTINUED)
 
-    
- 
-   
- 
-  
+116. Immoral, capricious, but fair’minded.
+117. Inquisitive, guile‘ful, but gallant.
 
-y distance‘
-pposed by false
+118. Jealous, arbitrary, but aristocratic.
 
-lack of inﬂuence
-[8. Obliged to risk
+119. Lustful, impetuous, but magnetic.
 
-     
-  
- 
+120. Lazy, thoughtless, but jolly.
 
-20. leiged t0 recov
+121. Languid, affected, but loving.
 
-21. Desired vengeance,
-to life.
+122. Listless, dissipated, but migratory.
 
-22. Obliged to risk friendship in an effort to brave deep waters.
+123. Miserly, mocdy, but learned.
 
-23. Desired vengeance against a law breaker opposed by mental
-weakness.
+124. Malicious, Magical, but dah'berate.
 
-24. Obliged to risk health in an effort t0 expose a vicious ring.
+125. Mercenary, egotistical, but constructive.
+126. Mischievous, eﬂusive, but tenderhearted.
+127. Meddlesome, suspicious, but sentimental.
+128. Mmdacious, irreverent, Witty.
 
-25. Desired vengeance against race, nation or clan opposed by
-duty to reiigion.
+129. Mercﬂess, irritable, but emphatic.
 
-26. Obliged t0 restore health or happiness to a loved one opposed
-by rivals.
+130. Mirthless, jealous, but moral.
 
-Z7. Desired vengeance against a tyrant or oppressor opposed by
-enemies‘
+131. Misanthropic, lethargic, but inventive.
+132. Mundane, inquisitive, but mild/mannered.
+133. Nervous, despotic, but accomplished.
+134. Narrow’minded, inconsiderate, but ambitious.
+135‘. Neglectful, mendacious, but passionate.
+136. Niggardly, petulant, but musical.
 
-28. Obliged to risk liberty in an effort to brave a maniac ox- insane
+137. Nomadic, militant, but masterful.
 
-1: person opposed by duty to religion.
-nst a rival in love oppmsed by danger
+138. Obstinate, envious, but earnest.
 
- 
+139. Opinionated, lawless. but profound.
 
-[92!
+140. ObduraCe, indiscreet, but idealistic.
+
+141. Overbearing, licentious, but persistent.
+142. Obstreperous, hystexical, but chaste.
+
+143. Obsequious, malicious, but passive.
+
+144. Outspoken, irresponsible, but jolly.
+
+[92]
 
  
 
