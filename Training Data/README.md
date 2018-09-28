@@ -23,4 +23,4 @@ For page "n", the file would be named "n.txt".
 
 **6. Plotto** : Scanned copy is very low resolution, so it is not able to identify any text and all files are blank. Can get better resolution of images. *Not included in the corpus for now*
 
-**7. Ten Million Photoplay Plots** : Pages are horizontally algined and each page of the PDF has two pages of the book, so it is not able to identify any text and files have incorrectly identified content. Need to rotate and split pages.*Not included in the corpus for now*
+**7. Ten Million Photoplay Plots** : Pages are horizontally algined and each page of the PDF has two pages of the book, so it is not able to identify any text and files have incorrectly identified content. Need to rotate and split pages. *Not included in the corpus for now*
