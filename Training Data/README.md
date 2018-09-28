@@ -7,7 +7,7 @@ Each book has a folder of text files of its content. Every page of the book has 
 with all of its content. 
 For page "n", the file would be named "n.txt".
 
-##The list of books, in order of their accuracy, is as follows:
+## The list of books, in order of their accuracy, is as follows:
 
 **1. Thirty Six Dramatic Situations** : Most accurate conversion by far, very few errors.
 **2. Plot Genie Index- General Formula** : Quite accurate, but a few letters or words have not been recognised properly throughout the text.
