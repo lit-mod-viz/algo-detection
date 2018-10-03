@@ -31,8 +31,8 @@ The data will consist of two tables (for efficiency in storage)
 - Group #: Group in which that example belongs **(data type: character, categorical: A,B,C,D..)**
 
 ## Relevant text files
-Situation     | File range
-------------- | -------------
+Situation     | Text files with data
+------------- | --------------------
 1             | 21-25 
 2             | 26-27
 3             | 28-31
