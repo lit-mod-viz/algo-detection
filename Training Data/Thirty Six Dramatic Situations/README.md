@@ -5,7 +5,8 @@ In this file we describe how we structure the data available in the book and cre
 ## Structure of the book:
 - Introduction: Irrelevant to our current needs
 - Each chapter henceforth defines and gives examples of each of the thirty six dramatic situations. An example of a chapter
- stucture is illustrated below:
+ stucture is illustrated below
+ - Conclusion: Irrelevant to our current needs
 ### Sample chapter structure
 - Name of the situation
 - Dynamic elements involved in the situation
