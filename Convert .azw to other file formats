@@ -1,0 +1,25 @@
+Steps for converting .azw file to .epub or .pdf or .txt:
+
+Pre-requisites for these steps:
+•	Calibre downloaded on the system
+•	Download the DeDRM plugin zip file
+•	Kindle file in .azw format
+
+1.	Install DeDRM plugin for Calibre:
+•	Unzip the downloaded zip file for DeDRM
+•	Run calibre. From the Preferences menu select “Change calibre behavior”
+•	Click on Plugins (under “Advanced”) — it looks like a jigsaw puzzle piece.
+•	Click on the large “Load plugin from file” button
+•	Navigate to the tools folder unzipped in step 2
+•	Open the “DeDRM_calibre_plugin” folder
+•	Select the DeDRM_plugin.zip file in that folder
+•	Click on the “Add” (sometimes “Open”) button.
+•	Click on the “Yes” button in the “Are you sure?” warning dialog that appears. A “Success” dialog will appear, saying that the plug-in has been installed. Click on “OK”
+2.	Now, add the book in the calibre library by clicking on the green button “Add books” at the top.
+3.	Select the book and click on “Convert books” -> “Convert Individually”.
+4.	A window pops up. Select the “Page Setup” from the left side-bar of the window.
+5.	In that, select: “Default Output Profile” for Output Profile section and “Kindle” for Input Profile Section
+6.	Again, navigate back to “Metadata” from left side-bar and select the required output format from the dropdown – epub or pdf or txt
+7.	This creates the file in that particular format.
+8.	When the job is done, you can select the book from the main screen and on right side-bar of its description, it will show the formats available for that particular book. 
+9.	Right-click on it and download that.
