@@ -11,7 +11,7 @@ Usual + Unusual Female - 180 + 180,
 Problems 6 lists of 180 each 
 basically 180 of everything 
 
-Two approaches to structure the data:
+Three approaches to structure the data:
 1. Different columns for 9 elements, listing all the 180 data rows in each.
     Advantages:
     1. More Readable
