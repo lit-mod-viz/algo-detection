@@ -21,8 +21,8 @@ In conjunction with Plot Robot Mechanical. We need Mechanical Robot for this and
     *	Number ends with 3 then list 3
     *	Number ends with 4 then list 1
     *	… Number ends with 10 the list 1
-    *	Page no 39-49 contains the examples of plot which can be used for testing data.
-    *	There is a list of 232 suggested backgrounds, where to use that?
+*	Page no 39-49 contains the examples of plot which can be used for testing data.
+*	There is a list of 232 suggested backgrounds, where to use that?
 
 
 # Structuring of Data
