@@ -1,8 +1,8 @@
 # PLOT GENIE - ROMANCE WITHOUT MELODRAMA
 
 In conjunction with Plot Robot Mechanical. We need Mechanical Robot for this and the General Formula.
-•	Recommended: To turn the disk once for each operation
-•	The 9 operations provide:
+* Recommended: To turn the disk once for each operation
+* The 9 operations provide:
 o	1 - The Lover
 o	2 – The Beloved Locale
 o	3 – The Rival
