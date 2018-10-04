@@ -3,10 +3,10 @@
 In conjunction with Plot Robot Mechanical. We need Mechanical Robot for this and the General Formula.
 * Recommended: To turn the disk once for each operation
 * The 9 operations provide:
-o	1 - The Lover
-o	2 – The Beloved Locale
-o	3 – The Rival
-o	4 – The Love Obstacle
+  * 1 - The Lover
+  * 2 – The Beloved Locale
+  * 3 – The Rival
+  * 4 – The Love Obstacle
 o	5 – The Supporting Character
 o	6 – Traits of Supporting Character
 o	7 – Effort to Win
