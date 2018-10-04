@@ -16,13 +16,13 @@ In conjunction with Plot Robot Mechanical. We need Mechanical Robot for this and
 *	The author decides between a male or female character. If the author decides to take a male character for the lover, then he should select male for rival and female for beloved.
 *	For operation 5, since there are only 10 supporting characters, so when spinning Genie Robot, you take its last digit for mapping it to the list.
 *	For operation 6, there are six lists and to choose which list we follow the following rule:
- *	Number ends with 1 then list 1
- *	Number ends with 2 then list 2
- *	Number ends with 3 then list 3
- *	Number ends with 4 then list 1
- *	… Number ends with 10 the list 1
- *	Page no 39-49 contains the examples of plot which can be used for testing data.
- *	There is a list of 232 suggested backgrounds, where to use that?
+  *	Number ends with 1 then list 1
+  *	Number ends with 2 then list 2
+  *	Number ends with 3 then list 3
+  *	Number ends with 4 then list 1
+  *	… Number ends with 10 the list 1
+  *	Page no 39-49 contains the examples of plot which can be used for testing data.
+  *	There is a list of 232 suggested backgrounds, where to use that?
 
 
 # Structuring of Data
