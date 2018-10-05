@@ -7,43 +7,43 @@ In this file we describe how we structure the data available in the book and cre
 The number of elements to be chosen for each categroy is provided on page number 16 - however, it is arbitary.
 - Each chapter henceforth defines and gives the list for each plot requisite.
 Operation 1: The Murder
-  List A: Victim (180)
-  List B: Locale (180)
-  List C: Method of Murder (180)
-  List D: Robbery - type of thing taken (10)
-  List E: Forgery (10)
-  List F: Destruction of property (10)
-  List G: Kidnapping (10)
+  -List A: Victim (180)
+  -List B: Locale (180)
+  -List C: Method of Murder (180)
+  -List D: Robbery - type of thing taken (10)
+  -List E: Forgery (10)
+  -List F: Destruction of property (10)
+  -List G: Kidnapping (10)
   
 Operation 2: The Clue
-  List A: List of clues (180)
-  List B: List of objects (180)
+  -List A: List of clues (180)
+  -List B: List of objects (180)
   
 Operation 3: Principal suspect 
-  List A: List of suspects (180)
+  -List A: List of suspects (180)
 
 Operation 4: Method of investigation
-  List A: List of methods (180)
-  List B: List of methdos (180)
+  -List A: List of methods (180)
+  -List B: List of methdos (180)
   
 Operation 5: Suspicious situation
-  List A: List of circumstances (180)
-  List B: List of circumstances (180)
-  List C: List of circumstances (180)
+  -List A: List of circumstances (180)
+  -List B: List of circumstances (180)
+  -List C: List of circumstances (180)
   
 Operatin 6: Thrilling situation develops when
-  List A: List of circumstances (180)
+  -List A: List of circumstances (180)
   
 Operation 7: The solution is precipitated when
-  List A: List of circumstances (180)
+  -List A: List of circumstances (180)
 
 Operation 8: The guilty one is
-  List A: List of people (180)
+  -List A: List of people (180)
   
 Operation 9: The motive is
-  List A: List of motives (180)
-  List B: List of motives (180)
-  List C: List of motives (180)
+  -List A: List of motives (180)
+  -List B: List of motives (180)
+  -List C: List of motives (180)
   
 An example of a chapter stucture is illustrated below
  
@@ -58,7 +58,7 @@ An example of a chapter stucture is illustrated below
 Data can be structured in the same possible three approaches mentioned in “Index – README.md” file.
 
 ## Relevant text files
-Operaition    | Text files with data
+Operation     | Text files with data
 ------------- | --------------------
 1             | 43-59 
 2             | 60-72
