@@ -6,6 +6,7 @@ In this file we describe how we structure the data available in the book and cre
 - The Formula - General Instructions: Describes the formula to be used with the genie robot. The rest of the content is irrelevant.
 The number of elements to be chosen for each categroy is provided on page number 16 - however, it is arbitary.
 - Each chapter henceforth defines and gives the list for each plot requisite.
+
 Operation 1: The Murder
   - List A: Victim (180)
   - List B: Locale (180)
