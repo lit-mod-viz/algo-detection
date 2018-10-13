@@ -11,16 +11,16 @@ For page "n", the file would be named "n.txt".
 
 ## The list of books, in order of their accuracy, is as follows:
 
-**1. Thirty Six Dramatic Situations** : Most accurate conversion by far, very few errors.
+**1. Thirty Six Dramatic Situations** : Most accurate conversion by far, very few errors. *Not included in the corpus for now*
 
-**2. Plot Genie Index- General Formula** : Quite accurate, but a few letters or words have not been recognised properly throughout the text.
+**2. Plot Genie Index- General Formula** : Quite accurate, but a few letters or words have not been recognised properly throughout the text. **Waiting for transcription of the data**
 
-**3. Plot Genie- Romance without Melodrama** : A lot of portions converted well, but very large errors in letter indentification, resulting in some meaningless data.
+**3. Plot Genie- Romance without Melodrama** : A lot of portions converted well, but very large errors in letter indentification, resulting in some meaningless data. **The data has been cleaned - available in the *Clean Data* Folder**
 
-**4. Plot Genie- Detective-Mystery** : Few portions converted, but list numbers are printed seperately from list content, so might be difficult to map number to text.
+**4. Plot Genie- Detective-Mystery** : Few portions converted, but list numbers are printed seperately from list content, so might be difficult to map number to text. *Not included in the corpus for now*
 
-**5. Plot Genie- Action-Adventure -1931** : Very few protions are accurate, and list to content mapping is not proper in this case as well.
+**5. Plot Genie- Action-Adventure -1931** : Very few protions are accurate, and list to content mapping is not proper in this case as well. *Not included in the corpus for now*
 
-**6. Plotto** : Scanned copy is very low resolution, so it is not able to identify any text and all files are blank. Can get better resolution of images. *Not included in the corpus for now*
+**6. Plotto** : Scanned copy is very low resolution, so it is not able to identify any text and all files are blank. Can get better resolution of images. **Waiting for transcription of the data**
 
 **7. Ten Million Photoplay Plots** : Pages are horizontally algined and each page of the PDF has two pages of the book, so it is not able to identify any text and files have incorrectly identified content. Need to rotate and split pages. *Not included in the corpus for now*
