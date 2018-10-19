@@ -1,2 +1,3 @@
-1. CSV of content IDs downloaded from archive.org advanced tool
-2. Clean the terminal quotes with `:%s/.\{1}$//`
+For development use the files in test-target-corpus. The full corpus will be
+available on our research server (we should get everything working on a subset
+first).
