@@ -726,7 +726,7 @@
 179. Timber buyer - Lumber camp
 180. Railroad engineer - Railroad yards
 
-*Rivals - Male
+* Rivals - Male
 1. Spy
 2. Guide
 3. Heir
