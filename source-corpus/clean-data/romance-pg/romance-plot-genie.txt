@@ -970,125 +970,125 @@
 59. Noblewoman 
 60. Manicurist
 61. Governess
-62.  Artist
-63.  Nurse
-64.  Musician
-65.  Manikin
-66.  Aviator:
-67.  Seamstress
-68.  Snake charmer
-69.  Geisha
-70.  Laundress
-71.  Reformer
-72.  Bohemian
-73.  Editor
-74.  Acrobat
-75.  Diplomat
-76.  Communist
-77.  Physician
-78.  Scenarist
-79.  Desperado
-80.  Costumer
-81.  Appraiser
-82.  Farmerette
-83.  Mountaineer
-84.  Circus performer
-85.  Chauffeuse
-86.  Linguist
-87.  Charlatan
-88.  Violinist
-89.  Blind girl
-90.  Stage director
-91.  “Extra" girl
-92.  Psychoanalyst
-93.  Room mate
-94.  Class mate
-95.  Colleague
-96.  Employee
-97.  Courtesan
-98.  Business rival
-99.  Girlhood chum
-100.  Sorority sister
-101.  Adventuress
-102.  Journalist
-103.  Chorus girl
-104.  Housemaid
-105.  Playwright
-106.  Saleswoman
-107.  Heiress
-108.  Dancer
-109.  Co'ed
-110.  Athlete
-111.  Invalid
-112.  Gang mall
-113.  Attorney
-114.  Hypnotist
-115.  Milk maid
-116.  Composer
-117.  Forewoman
-118.  Scientist
-119.  Immigrant
-120.  Dietitian
-121.  Promoter
-122.  Translator
-123.  Huckstress
-124.  Magistrate
-125.  Politician
-126.  Telegrapher
-127.  Horsewoman
-128.  Policewoman
-129.  Press agent
-130.  Circus freak
-131.  Racketeer
-132.  Comique
+62. Artist
+63. Nurse
+64. Musician
+65. Manikin
+66. Aviator:
+67. Seamstress
+68. Snake charmer
+69. Geisha
+70. Laundress
+71. Reformer
+72. Bohemian
+73. Editor
+74. Acrobat
+75. Diplomat
+76. Communist
+77. Physician
+78. Scenarist
+79. Desperado
+80. Costumer
+81. Appraiser
+82. Farmerette
+83. Mountaineer
+84. Circus performer
+85. Chauffeuse
+86. Linguist
+87. Charlatan
+88. Violinist
+89. Blind girl
+90. Stage director
+91. “Extra" girl
+92. Psychoanalyst
+93. Room mate
+94. Class mate
+95. Colleague
+96. Employee
+97. Courtesan
+98. Business rival
+99. Girlhood chum
+100. Sorority sister
+101. Adventuress
+102. Journalist
+103. Chorus girl
+104. Housemaid
+105. Playwright
+106. Saleswoman
+107. Heiress
+108. Dancer
+109. Co'ed
+110. Athlete
+111. Invalid
+112. Gang mall
+113. Attorney
+114. Hypnotist
+115. Milk maid
+116. Composer
+117. Forewoman
+118. Scientist
+119. Immigrant
+120. Dietitian
+121. Promoter
+122. Translator
+123. Huckstress
+124. Magistrate
+125. Politician
+126. Telegrapher
+127. Horsewoman
+128. Policewoman
+129. Press agent
+130. Circus freak
+131. Racketeer
+132. Comique
 133. Inn keeper
 134. Indian maid
 135. Club woman
-136.  Director
-137.  Champion
-138.  Factory worker
-139.  Employer
-140.  Guardian
-141.  Friend
-142.  Coworker
-143.  Instructor
-144.  Bartender
-145.  Promoter
-146.  Fisherman
-147.  Sportsman
-148.  Smuggler
-149.  Warden
-150.  Pugilist
-151.  Merchant
-152.  Sheriff
-153.  Landlord
-154.  Advisor
-155.  Social rival
-156.  Colleague
-157.  Manager
-158.  Bootlegger
-159.  Undertaker
-160.  Clergyman
-161.  Aviator
-162.  Statesman
-163.  Convict
-164.  Athlete
-165.  Financier
-166.  Magician
-167.  Employee
-168.  Partner
-169.  Business rival
+136. Director
+137. Champion
+138. Factory worker
+139. Employer
+140. Guardian
+141. Friend
+142. Coworker
+143. Instructor
+144. Bartender
+145. Promoter
+146. Fisherman
+147. Sportsman
+148. Smuggler
+149. Warden
+150. Pugilist
+151. Merchant
+152. Sheriff
+153. Landlord
+154. Advisor
+155. Social rival
+156. Colleague
+157. Manager
+158. Bootlegger
+159. Undertaker
+160. Clergyman
+161. Aviator
+162. Statesman
+163. Convict
+164. Athlete
+165. Financier
+166. Magician
+167. Employee
+168. Partner
+169. Business rival
 170. Legal Opponent
-171.  Professor
-172.  Gangster
-173.  Prosecutor
-174.  Press agent
-175.  Policeman
-176.  Magistrate
-177.  Bouncer
-178.  Acrobat
-179.  Reformer
-180.  Fireman
+171. Professor
+172. Gangster
+173. Prosecutor
+174. Press agent
+175. Policeman
+176. Magistrate
+177. Bouncer
+178. Acrobat
+179. Reformer
+180. Fireman
 
 * Obstacles to love
 1. The match is opposed by a father
@@ -2037,7 +2037,7 @@
 22. Distant duty calls beloved.
 23. Misunderstanding as to identity of beloved.
 24. The imminence 0r occurrence of a strike.
-25. The likelihood of lover becoming 1'11.
+25. The likelihood of lover becoming ill.
 26. Lover being crippled by disease or accident.
 27. Beloved being injured by accident.
 28. Likelihood of lover‘s losing fortune.
