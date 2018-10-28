@@ -3,7 +3,7 @@
 In this project we have used a dataset extracted from the Plot Genie and Plotto books to train a machine
 capable of detecting the traces of historial algorithm composition.
 
-Our training corpus included:
+#### Our source corpus included:
 
 - Ten Million Photoplay Plots (1919) by Wycliffe Hill 
 - The Thirty-Six Dramatic Situations (1924) by Georges Polti
@@ -15,6 +15,9 @@ Our training corpus included:
 - Plot Genie: Short-Short Story (1934)
 - Plot Genie: Detective-Mystery (1936)
 
-Sanity Test (known) Corpus
+#### Our target corpus includes a set of articles from pulp fiction magazines written in the 1900's.
 
-Exploratory (unknown) Corpus
+#### Our testing corpus has been partitioned into two categories:
+
+- **suspected-algo**: These are texts that we suspect have been written using our source books. For example, Adrift in the unknown by William Cook and Six gun gamble by James Olsen.
+- **suspected-no-algo**: These are texts that we know have not been written paraphrased from our source. They mostly include very well known and popular texts written by reputed authors. For example, Tender Buttons by Getrude Stein.
