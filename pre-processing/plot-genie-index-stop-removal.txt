@@ -1,0 +1,2880 @@
+asia 
+zoo 
+navy 
+bank 
+farm 
+mine 
+lake 
+ship 
+fort 
+india 
+court 
+beach 
+yacht 
+near river 
+slums 
+ranch 
+bayou 
+docks 
+depot 
+dixie 
+harbour 
+colony 
+egypt 
+back stage 
+school 
+morgue 
+desert 
+seashore 
+circus 
+amazon 
+canyon 
+island 
+prison 
+swamp 
+plains 
+africa 
+office 
+casino 
+bowery 
+arabia 
+forest 
+castle 
+foundry 
+theatre 
+mission 
+airport 
+college 
+caravan 
+asylum 
+factory 
+jungle 
+mansion 
+banquet 
+arsenal 
+museum 
+trenches 
+submarine 
+festival 
+hospital 
+academy 
+hawaii 
+hacienda 
+frontier 
+vineyard 
+dope den 
+dam site 
+orchard 
+ballroom 
+saw mill 
+mountains 
+plantation 
+argentine 
+army post 
+west point military school 
+dance hall 
+gymnasium 
+train 
+bad lands 
+river 
+sanitorium 
+canebrake 
+paper mill 
+small town 
+south seas 
+legislature 
+oil fields 
+near east 
+masque ball 
+race track 
+speakeasy 
+auto champ 
+lighthouse 
+pine woods 
+sheep ranch 
+steel mill 
+far north 
+prison camp 
+alps 
+road house 
+dude ranch 
+power house 
+camp meeting 
+movie studio 
+bandit camp 
+field hospital 
+among grain fields 
+custom house 
+wagon train 
+logging camp 
+wealthy home 
+ranger camp 
+laboratory 
+railroad yards 
+radio station 
+haunted house 
+reform school 
+tribal village 
+artist studio 
+country estate 
+savage country 
+back settlement 
+department store 
+flowery kingdom 
+machine shop 
+newspaper office 
+wireless station 
+tropical garden 
+smugglers cave 
+explorer camp 
+police headquarters 
+construction camp 
+deserted village 
+indian reservation 
+financial district 
+spiritualistic hall 
+everglades 
+san francisco china-town 
+paris latin quarter 
+english manor house 
+polo game 
+tennis tournament 
+regatta 
+cattle ranch australia 
+high seas 
+klondyke 
+summer resort 
+underworld 
+ghost town sierras 
+church yard 
+new england 
+scottish highlands 
+riviera 
+country club 
+catacombs 
+refugee camp 
+collegiate football game 
+passenger airliner 
+ruined abbey 
+night club 
+ghetto 
+houseboat 
+greenwich village 
+polar regions 
+golf links 
+north woods 
+salmon cannery 
+hunting lodge 
+world war 
+rum-running boat 
+bermudas 
+irish fishing village 
+trapper cabin 
+prize fight 
+secret service headquarters 
+mardi gras 
+french chateau 
+penthouse 
+gambling hall 
+small town hotel 
+fraternity house 
+spy 
+diver 
+guide 
+judge 
+gypsy 
+miner 
+nomad 
+nurse 
+pilot 
+jockey 
+racer 
+clerk 
+scout 
+poet 
+clown 
+trapper 
+bandit 
+ranger 
+banker 
+consul 
+artist 
+bishop 
+cowboy 
+farmer 
+actor 
+beggar 
+magician 
+tailor 
+gunner 
+sailor 
+dancer 
+editor 
+warden 
+trader 
+singer 
+hunter 
+broker 
+cobbler 
+soldier 
+gymnast 
+barber 
+gambler 
+peddler 
+rancher 
+waiter 
+acrobat 
+chemist 
+burglar 
+fireman 
+cashier 
+assayer 
+doctor 
+florist 
+sheriff 
+aviator 
+convict 
+invalid 
+printer 
+athlete 
+servant 
+gangster 
+surveyor 
+governor 
+merchant 
+vagabond 
+bondsman 
+inventor 
+director 
+autocrat 
+captain 
+composer 
+explorer 
+bell boy 
+smuggler 
+merchant 
+humorist 
+reporter 
+scholar 
+submarine officer 
+jazz orchestra leader 
+lighthouse tender 
+singing master 
+customs officer 
+school teacher 
+administrator 
+aeronautical engineer 
+army officer 
+backwoodsman 
+manufacturer 
+navy officer 
+automobile racer 
+photographer 
+homesteader 
+press agent 
+timekeeper 
+caretaker 
+telegrapher 
+halfbreed 
+taxi driver 
+mining engineer 
+radio singer 
+electrician 
+interpreter 
+moonshiner 
+coast guard 
+equestrian 
+missionary 
+adventurer 
+journalist 
+millwright 
+specialist 
+astrologer 
+evangelist 
+playwright 
+statesman 
+realtor 
+capitalist 
+fisherman 
+clergyman 
+blacksmith 
+cartoonist 
+prosecutor 
+novelist 
+auctioneer 
+commandant 
+aristocrat 
+biographer 
+contractor 
+cameraman 
+technician 
+mine owner 
+instructor 
+astronomer 
+accountant 
+sportsman 
+lumberman 
+bohemian 
+geologist 
+candidate 
+scientist 
+forester 
+librarian 
+hypnotist 
+lifeguard 
+policeman 
+salesman 
+newsboy 
+executive 
+collegian 
+pianist 
+prospector 
+machinist 
+publisher 
+architect 
+cattleman 
+bank teller 
+performer 
+detective 
+chauffer 
+attorney 
+druggist 
+costumer 
+midshipman 
+nobleman 
+foreman 
+pugilist 
+auditor 
+promoter 
+violist 
+constable 
+railroad engineer 
+auto mechanic 
+air mail pilot 
+radio announcer 
+draughtsman 
+golf champion 
+carpenter 
+civil engineer 
+football hero 
+politician 
+exporter 
+botanist 
+anarchist 
+paymaster 
+squatter 
+ski jumper 
+comedian 
+treasurer 
+gondolier 
+archduke 
+factor 
+senator 
+croupier 
+settler 
+pioneer 
+philatelist 
+tutor 
+diplomat 
+caveman 
+lobbyist 
+pacifist 
+reformer 
+dietician 
+inn keeper 
+sculptor 
+invader 
+driller 
+courier 
+epicure 
+analyst 
+outrider 
+warlord 
+physicist 
+healer 
+oarsman 
+prophet 
+wizard 
+triplet 
+cossack 
+chef 
+cavalryman 
+chaplain 
+mystic 
+mandarin 
+shipwright 
+engraver 
+pirate 
+trumpeter 
+harpooner 
+gigolo 
+matador 
+historian 
+powderman 
+octoroon 
+immigrant 
+dictator 
+furrier 
+ringmaster 
+hermit 
+impresario 
+translator 
+monarch 
+statistician 
+philosopher 
+vigilante 
+troubadour 
+philanthropist 
+animal trainer 
+orientalist 
+archaeologist 
+spiritualist 
+trophy hunter 
+buccaneer 
+racketeer 
+messenger 
+bookmaker 
+arab 
+hijacker 
+swimmer 
+rurale 
+fencer 
+poacher 
+voyageur 
+censor 
+eskimo 
+lancer 
+faker 
+apache 
+sheik 
+bibliophile 
+cheer leader 
+grocer 
+lineman 
+conductor 
+shepherd 
+prince 
+ambassador 
+surgeon 
+communist 
+dentist 
+peon 
+juror 
+yogi 
+cadet 
+friar 
+peasant 
+juggler 
+colonist 
+palmist 
+legionnaire 
+watchman 
+man-about-town 
+vaudeville artist 
+research chemist 
+airplane mechanician 
+sports editor 
+taxidermist 
+toreador 
+evolutionist 
+polo player 
+member parliament 
+mounted police 
+landscape gardener 
+college president 
+captain industry 
+news photographer 
+motion picture producer 
+football coach 
+tennis champion 
+courtier 
+deacon 
+dragoon 
+minstrel 
+wrangler 
+landlord 
+recorder 
+canoeist 
+motion picture director 
+interior decorator 
+dramatic critic 
+drawbridge tender 
+curio collector 
+tight rope walker 
+glass blower 
+artilleryman 
+horticulturist 
+airport manager 
+coffee taster 
+iconoclast 
+navigator 
+quartermaster 
+bootlegger 
+symphony orchestra leader 
+secret service operative 
+graphologist 
+stage director 
+pipe organist 
+accoustician 
+lapidarist 
+infantryman 
+globe trotter 
+balloonist 
+revolutionist 
+archbishop 
+metallurgist 
+beach comber 
+egyptologist 
+harbor master 
+toxicologist 
+psychoanalyst 
+magnate 
+appraiser 
+art dealer 
+criminalogist 
+radio operator 
+meteorologist 
+baseball pitcher 
+us marine officer 
+jiu-jitsu expert 
+metaphysician 
+countess 
+modiste 
+musician 
+athlete 
+waitress 
+manikin 
+invalid 
+duchess 
+peasant 
+housemaid 
+secretary 
+noblewoman 
+chorus girl 
+chambermaid 
+sportswoman 
+evangelist 
+society belle 
+adventuress 
+school teacher 
+stenographer 
+telephone operator 
+journalist 
+aristocrat 
+playwright 
+manicurist 
+saleswoman 
+movie star 
+divorcee 
+governess 
+cashier 
+widow 
+heiress 
+actress 
+artist 
+dancer 
+model 
+nurse 
+co-ed 
+milliner 
+poetess 
+consul daughter sister 
+apache 
+broker 
+rancher 
+collegian 
+actor 
+guide 
+miner 
+nomad 
+dope addict 
+backwoodsman 
+racer 
+judge daughter sister 
+clown 
+juror 
+faker 
+scout 
+wizard 
+trader 
+warden 
+hunter 
+mystic 
+farmer 
+gunman 
+singer 
+tailor 
+gunner 
+sailor 
+miller 
+peon 
+sage 
+spy 
+baker 
+diver 
+artist 
+cowboy 
+doctor 
+editor 
+bandit 
+banker 
+publisher 
+missionary 
+constable 
+merchant 
+promoter 
+sheriff 
+janitor daughter sister 
+soldier 
+gangster 
+professor 
+florist 
+beggar 
+colonist 
+convict 
+gambler 
+fireman 
+peddler 
+realtor 
+captain 
+chemist 
+trapper 
+athlete 
+cobbler 
+magician 
+pugilist 
+scientist 
+vagabond 
+reformer 
+juggler 
+squatter 
+golf champion 
+landlord 
+novelist 
+explorer 
+fiddler 
+shepherd 
+junkman 
+oil king 
+director daughter sister 
+acrobat 
+statesman 
+homesteader 
+driller 
+mine owner 
+aviator 
+cattleman 
+composer 
+ferryman 
+district attorney 
+exporter 
+french poilu 
+druggist 
+assayer 
+customs officer 
+radio operator 
+globetrotter 
+harbor master 
+mounted policeman 
+lighthouse tender 
+college president 
+taxidermist 
+rum runner 
+taxi driver 
+photographer 
+impresario 
+ringmaster 
+contractor 
+architect 
+psychoanalyst 
+orchestra leader 
+coast guard 
+equestrian 
+criminal daughter sister 
+navy officer 
+telegrapher 
+radio announcer 
+manufacturer 
+geologist 
+clergyman 
+air mail pilot 
+interpreter 
+moonshiner 
+sportsman 
+evangelist 
+night club hostess 
+restauranteur 
+police officer 
+hijacker 
+specialist 
+executive 
+prosecutor 
+fisherman 
+governor 
+football hero 
+prospector 
+politician 
+counterfeiter 
+army officer 
+mining engineer 
+tennis champion 
+diva 
+waif 
+spy 
+siren 
+twin 
+ayah 
+agent 
+nomad 
+queen 
+guide 
+diver 
+beggar 
+critic 
+creole 
+regent 
+juror 
+duenna 
+trader 
+tomboy 
+weaver 
+triplet 
+convict 
+attorney 
+houri 
+cowgirl 
+broker 
+geisha 
+mystic 
+censor 
+choir leader 
+servant 
+cocotte 
+zoologist 
+acrobat 
+palmist 
+florist 
+fencer 
+canvasser 
+taxi dancer 
+editor 
+aviatrix 
+gang moll 
+debutante 
+registrar 
+scenarist 
+princess 
+eurasian 
+costumer 
+lion tamer 
+odalisque 
+seamstress 
+hypnotist 
+senorita 
+harpist 
+reporter 
+designer 
+gambler 
+bookkeeper 
+mind reader 
+milk maid 
+detective 
+laundress 
+nautch girl 
+satirist 
+recorder 
+composer 
+explorer 
+bayadeer 
+magdalen 
+huntress 
+reformer 
+forewoman 
+pacifist 
+violinist 
+hula girl 
+bohemian 
+botanist 
+octoroon 
+pianist 
+dowager 
+confectioner 
+girl scout 
+immigrant 
+tourist 
+comedienne 
+dietician 
+radio singer 
+college dean 
+shop keeper 
+clairvoyant 
+bandit queen 
+communist 
+cave woman 
+translator 
+physician 
+huckstress 
+statistician 
+anarchist 
+gang leader 
+inn keeper 
+occultist 
+novelist 
+telegrapher 
+appraiser 
+astrologer 
+biographer 
+farmerette 
+policewoman 
+mountaineer 
+press agent 
+court reporter 
+society editor 
+chauffeuse 
+linguist 
+lecturer 
+courtezan 
+biologist 
+charlatan 
+political leader 
+tennis champion 
+interior decorator 
+gold champion 
+circus freak 
+salvation army lass 
+beauty operator 
+movie extra ” girl 
+cabaret entertainer 
+booking agent 
+factory worker 
+orchestra leader 
+motion picture director 
+settlement worker 
+social secretary 
+blind girl 
+club woman 
+ranch owner 
+manufacturer 
+notary public 
+antiques collector 
+business executive 
+music teacher 
+pipe organist 
+premiere danseuse 
+suffragette 
+radio entertainer 
+psychoanalyst 
+linotype operator 
+factory worker 
+trapeze performer 
+historical character 
+cotton picker 
+ventriloquist 
+hotel hostess 
+elevator operator 
+horticulturist 
+equestrienne 
+metaphysician 
+tea room owner 
+beauty prize winner 
+snake charmer 
+secret service operative 
+stage director 
+night club hostess 
+ship stewardess 
+marathon dancer 
+criminal decoy 
+cossak daughter sister 
+mandarin 
+smuggler 
+hindoo adept 
+notorious woman 
+member parliament 
+chinese tong leader 
+voyageur 
+factor 
+revolutionist 
+backwoodsman 
+archaeologist 
+vigilante 
+minstrel 
+desired fortune opposed enemies 
+relief stigma opposed rivals 
+desired liberty opposed suspicion 
+strike threatened poverty 
+desired health opposed enemies 
+relief habit opposed friends 
+strike threatened insult 
+desired liberty opposed rivals 
+mutiny threatened enemies 
+race war threatened rivals 
+relief stigma opposed rivals 
+feud threatened enemies 
+relief habit opposed rivals 
+feud threatened enemies 
+boycott threatened rivals 
+desired fortune opposed friends 
+relief stigma opposed enemies 
+feud threatened rivals 
+mutiny threatened poverty 
+desired liberty opposed distance 
+relief stigma opposed poverty 
+revolution threatened rivals 
+mutiny threatened insult 
+desired power opposed enemies 
+race war threatened insult 
+relief pursuit opposed rivals 
+desired fortune opposed distance 
+boycott threatened insult 
+relief stigma opposed distance 
+desired health opposed rivals 
+relief pursuit opposed friends 
+feud threatened poverty 
+desired power opposed suspicion 
+mutiny threatened rivals 
+relief injury opposed rivals 
+boycott threatened enemies 
+desired position opposed rivals 
+race war threatened poverty 
+desired fortune opposed suspicion 
+relief sickness opposed rivals 
+feud threatened oppression 
+desired liberty opposed friends 
+relief sickness opposed enemies 
+feud threatened ignorance 
+desired fortune opposed rivals 
+relief habit opposed poverty 
+boycott threatened poverty 
+race war threatened enemies 
+desired power opposed friends 
+relief stigma opposed suspicion 
+desired liberty opposed enemies 
+relief sickness opposed poverty 
+feud threatened superstition 
+revolution threatened poverty 
+boycott threatened ignorance 
+mutiny threatened ignorance 
+desired position opposed enemies 
+relief sickness opposed friends 
+mutiny threatened ignorance 
+revolution threatened insult 
+relief suit opposed poverty 
+desired power opposed distance 
+revolution threatened enemies 
+desired position opposed distance 
+boycott threatened superstition 
+desired position opposed suspicion 
+relief pursuit opposed suspicion 
+mutiny threatened persecution 
+race war threatened ignorance 
+relief oppression opposed rivals 
+desired information opposed friends 
+desired fame opposed rivals 
+feud threatened insult 
+desired health opposed friends 
+strike threatened enemies 
+desired fame opposed distance 
+feud threatened persecution 
+desired health opposed distance 
+mutiny threatened oppression 
+desired fame opposed suspicion 
+strike threatened rivals 
+desired fame opposed enemies 
+strike threatened oppression 
+desired fame opposed friends 
+strike threatened ignorance 
+rebellion threatened rivals 
+feud threatened fatal ambition 
+race war threatened insult 
+desired health opposed suspicion 
+strike threatened persecution 
+desired information opposed rivals 
+family revolt threatened insult 
+strike threatened fatal ambition 
+family revolt threatened poverty 
+desired approbation opposed rivals 
+rebellion threatened insult 
+desired fame opposed danger life 
+rebellion threatened poverty 
+family revolt threatened rivals 
+desired position opposed friends 
+desired power opposed danger life 
+relief prosecution opposed rivals 
+rebellion threatened superstitions 
+desired power opposed legal procedure 
+relief oppression opposed enemies 
+desired liberty opposed danger life 
+relief pursuit opposed enemies 
+race war threatened fatal ambition 
+desired liberty opposed legal procedure 
+relief oppression opposed friends 
+rebellion threatened ignorance 
+relief pursuit opposed distance 
+desired liberty opposed duty country 
+family revolt threatened enemies 
+strike threatened superstition 
+desired fame opposed lack money 
+rebellion threatened oppression 
+relief sickness opposed distance 
+desired fortune opposed lack money 
+relief sickness opposed suspicion 
+relief habit opposed distance 
+race war threatened persecution 
+boycott threatened persecution 
+desired information opposed enemies 
+desired approbation opposed suspicion 
+relief injury opposed friends 
+mutiny threatened fatal ambition 
+battle sexes threatened insult 
+revolution threatened persecution 
+relief oppression opposed poverty 
+desired liberty opposed lack money 
+race war threatened superstition 
+battle sexes threatened rivals 
+boycott threatened persecution 
+relief oppression opposed distance 
+desired power opposed duty country 
+relief oppression opposed suspicion 
+desired information opposed distance 
+relief imprisonment opposed rivals 
+desired liberty opposed duty religion 
+rebellion threatened persecution 
+family revolt threatened ignorance 
+desired fortune opposed danger life 
+relief habit opposed suspicion 
+rebellion threatened loss liberty 
+desired health opposed danger life 
+relief imprisonment opposed enemies 
+rebellion threatened enemies 
+desired power opposed lack money 
+strike threatened duty country 
+rebellion threatened fatal ambition 
+relief habit opposed enemies 
+feud threatened duty country 
+desired power opposed suspicion 
+relief injury opposed suspicion 
+strike threatened loss liberty 
+family revolt threatened superstition 
+rebellion threatened duty country 
+desired fortune opposed legal procedure 
+relief imprisonment opposed friends 
+desired liberty opposed legal procedure 
+boycott threatened fatal ambition 
+mutiny threatened duty country 
+feud threatened duty loved ones 
+battle sexes threatened poverty 
+desired power opposed duty religion 
+relief injury opposed poverty 
+mutiny threatened loss liberty 
+race war threatened physical suffering 
+relief imprisonment opposed distance 
+desired position opposed lack money 
+desired fame opposed duty religion 
+relief injury opposed distance 
+revolution threatened oppression 
+religious uprising threatened insult 
+desired home refuge opposed friends 
+relief persecution rivals 
+desired accomplishment opposed enemies 
+relief persecution opposed enemies 
+desired approbation opposed distance 
+relief persecution opposed poverty 
+boycott threatened duty country 
+desired home refuge opposed suspicion 
+revolution threatened ignorance 
+desired accomplishment opposed rivals 
+battle sexes threatened enemies 
+desired approbation opposed enemies 
+relief injury opposed enemies 
+desired home refuge opposed enemies 
+relief persecution opposed distance 
+feud threatened duty religion 
+desired home refuge opposed distance 
+relief prosecution opposed enemies 
+desired health opposed lack money 
+relief injury opposed danger life 
+feud threatened unjust accusation 
+relief stigma opposed danger life 
+feud threatened physical suffering 
+revolution threatened superstition 
+desired accomplishment opposed distance 
+boycott threatened mental derangement 
+desired liberty opposed false accusation 
+relief prosecution opposed friends 
+desired power opposed mental weakness 
+relief prosecution opposed poverty 
+mutiny threatened mental derangement 
+desired position opposed danger life 
+relief persecution opposed suspicion 
+mutiny threatened duty religion 
+desired power opposed physical weakness 
+boycott threatened loss liberty 
+mutiny threatened unjust accusation 
+desired fortune opposed duty country 
+relief pursuit opposed danger life 
+revolution threatened duty country 
+desired fortune opposed duty religion 
+relief stigma opposed legal procedure 
+desired liberty opposed lack information 
+desired fortune opposed inclement weather 
+relief habit opposed danger life 
+desired fortune opposed mental incapacity 
+boycott threatened duty religion 
+desired power opposed lack influence 
+boycott threatened physical suffering 
+desired fortune opposed false accusation 
+mutiny threatened duty loved ones 
+desired fortune opposed lack information 
+battle sexes threatened ignorance 
+desired liberty opposed inclement weather 
+relief sickness opposed danger life 
+desired fortune opposed duty loved ones 
+relief imprisonment opposed suspicion 
+race war threatened loss liberty 
+desired power opposed lack facilities 
+race war threatened duty country 
+desired power opposed inclement weather 
+boycott threatened unjust accusation 
+desired position opposed inclement weather 
+desired health opposed legal procedure 
+relief imprisonment opposed poverty 
+feud threatened mental derangement 
+desired fortune opposed lack influence 
+relief sickness opposed legal procedure 
+desired liberty opposed lack influence 
+relief stigma opposed mental weakness 
+desired position opposed mental weakness 
+mutiny threatened physical suffering 
+desired power opposed lack information 
+desired liberty opposed lack facilities 
+relief persecution opposed friends 
+boycott threatened duty loved ones 
+desired fortune opposed physical incapacity 
+relief pursuit opposed mental weakness 
+revolution threatened fatal ambition 
+desired liberty opposed duty loved ones 
+relief pursuit opposed legal procedure 
+desired fortune opposed lack facilities 
+relief injury opposed mental weakness 
+strike threatened duty religion 
+desired power opposed duty loved ones 
+relief injury opposed duty country 
+revolution threatened mental derangement 
+desired position opposed physical weakness 
+relief habit opposed legal procedure 
+battle sexes threatened persecution 
+relief injury opposed legal procedure 
+desired position opposed lack information 
+relief injury opposed false accusation 
+race war threatened duty religion 
+desired position opposed lack influence 
+relief stigma opposed false accusation 
+desired position opposed duty country 
+desired health opposed false accusation 
+boycott threatened unjust discrimination 
+desired information opposed lack money 
+desired fame opposed lack influence 
+desired health opposed duty country 
+desired information opposed suspicion 
+strike threatened physical suffering 
+desired information opposed danger life 
+relief prosecution opposed suspicion 
+desired fame opposed mental weakness 
+desired accomplishment opposed friends 
+desired liberty opposed physical weakness 
+relief oppression opposed legal procedure 
+desired accomplishment opposed suspicion 
+desired fame opposed physical weakness 
+desired health opposed mental weakness 
+desired position opposed duty religion 
+relief stigma opposed duty country 
+relief habit opposed duty loved ones 
+revolution threatened physical suffering 
+relief stigma opposed inclement weather 
+desired fame opposed duty country 
+desired information opposed lack clue 
+desired health opposed lack information 
+desired position opposed lack facilities 
+relief pursuit opposed weakness 
+desired fame opposed lack information 
+desired health opposed inclement weather 
+battle sexes threatened oppression 
+desired position opposed duty loved ones 
+desired fame opposed legal procedure 
+feud threatened loss liberty 
+desired fame opposed false accusation 
+desired position opposed legal procedure 
+desired approbation opposed danger life 
+relief sickness opposed mental weakness 
+desired position opposed false accusation 
+feud threatened unjust discrimination 
+desired home refuge opposed rivals 
+desired health opposed physical weakness 
+desired fame opposed lack facilities 
+revolution threatened loss liberty 
+desired fame opposed duty loved ones 
+relief stigma opposed lack influence 
+feud threatened danger life health 
+desired information opposed duty country 
+rebellion threatened duty religion 
+relief pursuit opposed false accusations 
+desired approbation opposed lack money 
+race war threatened duty loved ones 
+desired fame opposed inclement weather 
+desired information opposed mental weakness 
+desired approbation opposed enemies 
+revolution threatened duty loved ones 
+strike threatened unjust accusation 
+desired health opposed lack influence 
+relief sickness opposed duty religion 
+desired information opposed legal procedure 
+desired health opposed duty loved ones 
+relief sickness opposed false accusation 
+desired approbation opposed legal procedure 
+relief stigma opposed lack facilities 
+revolution threatened physical suffering 
+relief habit opposed inclement weather 
+revolution threatened duty religion 
+relief habit opposed false accusation 
+desired health opposed lack facilities 
+relief sickness opposed duty loved ones 
+race war threatened mental derangement 
+relief stigma opposed duty religion 
+desired health opposed duty religion 
+desired approbation opposed false accusation 
+race war threatened unjust accusation 
+relief sickness opposed inclement weather 
+relief injury opposed duty religion 
+battle sexes threatened superstition 
+desired approbation opposed duty religion 
+relief pursuit opposed duty religion 
+relief prosecution opposed distance 
+rebellion threatened unjust accusation 
+desired approbation opposed mental weakness 
+relief sickness opposed lack influence 
+strike threatened mental derangement 
+desired approbation opposed duty country 
+relief oppression opposed legal procedure 
+relief pursuit opposed duty country 
+family revolt threatened persecution 
+religious uprising threatened poverty 
+religious uprising threatened rivals 
+battle sexes threatened danger life health 
+desired home refuge opposed lack facilities 
+obliged recover lost person opposed physical weakness 
+desired vengeance cheater opposed enemies 
+desired approbation opposed lack information 
+relief oppression opposed duty religion 
+obliged risk life effort undertake dangerous mission 
+desired vengeance race nation clan opposed enemies 
+obliged recover lost person opposed lack influence 
+desired information opposed physical weakness 
+relief oppression opposed danger life 
+mutiny threatened unjust discrimination 
+obliged risk liberty effort apprehend criminal 
+desired accomplishment opposed false accusation 
+battle sexes threatened unjust discrimination 
+obliged risk life effort engage battle 
+relief stigma opposed lack information 
+mutiny threatened danger life health 
+battle sexes threatened loss liberty 
+obliged risk life effort apprehend criminal 
+desired home refuge opposed lack information 
+relief unjust accusation opposed duty loved ones 
+obliged risk honor effort brave storm cataclysm 
+desired information opposed inclement weather 
+relief pursuit opposed lack information 
+family revolt threatened fatal ambition 
+obliged risk friendship effort prove one strength 
+desired vengeance race nation clan opposed rivals 
+relief unjust accusation opposed lack facilities 
+desired approbation opposed physical weakness 
+relief sickness opposed duty country 
+obliged prevent terrible injustice opposed danger life 
+family revolt threatened duty country 
+boycott threatened danger life health 
+obliged risk health effort brave deep waters 
+desired vengeance opposite sex opposed enemies 
+desired accomplishment opposed lack facilities 
+obliged recover lost person opposed enemies 
+relief pursuit opposed lack facilities 
+desired accomplishment opposed danger life 
+obliged recover lost person opposed distance 
+desired information opposed lack influence 
+relief pursuit opposed duty loved ones 
+race war threatened danger life health 
+obliged risk health effort brave air voyage 
+desired vengeance rival love opposed rivals 
+desired home refuge opposed inclement weather 
+relief oppression opposed false accusation 
+race war threatened unjust discrimination 
+obliged recover lost person opposed rivals 
+desired home refuge opposed physical weakness 
+relief imprisonment opposed lack information 
+rebellion threatened danger life health 
+desired vengeance rival love opposed enemies 
+obliged recover lost person opposed friends 
+battle sexes threatened duty loved ones 
+relief imprisonment opposed lack facilities 
+obliged risk health effort overthrow monarch 
+relief pursuit opposed inclement weather 
+desired information opposed duty loved ones 
+relief habit opposed mental weakness 
+obliged risk honor effort put rebellion 
+desired approbation opposed duty loved ones 
+relief stigma opposed physical weakness 
+obliged recover lost person opposed poverty 
+relief sickness opposed lack information 
+religious uprising threatened loss liberty 
+desired information opposed duty religion 
+relief sickness opposed physical weakness 
+obliged recover lost person opposed lack information 
+desired vengeance race nation clan opposed poverty 
+battle sexes threatened mental derangement 
+relief prosecution opposed danger life 
+desired accomplishment opposed duty religion 
+obliged solve mysterious crime opposed enemies 
+family revolt threatened unjust discrimination 
+desired information opposed false accusation 
+relief sickness opposed lack facilities 
+strike threatened unjust discrimination 
+battle sexes threatened fatal ambition 
+obliged risk honor effort overthrow monarch 
+relief oppression opposed lack information 
+desired information opposed lack facilities 
+relief imprisonment opposed duty country 
+strike threatened duty loved ones 
+obliged risk honor effort engage battle 
+battle sexes threatened unjust accusation 
+obliged solve mysterious crime opposed rivals 
+relief persecution opposed legal procedure 
+desired approbation opposed lack facilities 
+relief imprisonment opposed duty loved ones 
+obliged recover lost person opposed mental weakness 
+desired vengeance race nation clan opposed friends 
+religious uprising threatened unjust discrimination 
+relief unjust accusation opposed lack information 
+desired approbation opposed lack influence 
+rebellion threatened physical suffering 
+relief oppression opposed physical weakness 
+desired home refuge opposed duty country 
+obliged solve mysterious crime opposed friends 
+rebellion threatened unjust discrimination 
+desired accomplishment opposed legal procedure 
+relief imprisonment opposed inclement weather 
+obliged recover lost valuables opposed distance 
+religious uprising threatened duty country 
+obliged risk love effort overthrow monarch 
+desired home refuge opposed mental weakness 
+relief oppression opposed inclement weather 
+obliged recover lost person opposed suspicion 
+strike threatened danger life health 
+obliged risk honor effort expose vicious ring 
+relief unjust accusation opposed false accusation 
+desired home refuge opposed duty loved ones 
+obliged recover lost valuables opposed inclement weather 
+religious uprising threatened duty loved ones 
+obliged risk honor effort brave air voyage 
+desired accomplishment opposed physical weakness 
+relief imprisonment opposed physical weakness 
+obliged recover lost person opposed duty country 
+religious uprising threatened danger life health 
+obliged risk life effort capture vicious animal 
+desired vengeance race nation clan opposed distance 
+obliged recover lost person opposed inclement weather 
+desired home refuge opposed lack money 
+battle sexes threatened duty country 
+obliged risk life effort rescue unfortunate 
+desired vengeance opposite sex opposed danger life 
+obliged solve mysterious crime opposed duty religion 
+desired vengeance race nation clan opposed physical weakness 
+obliged restore health happiness loved one opposed distance 
+desired vengeance cheater opposed danger life 
+relief unjust accusation opposed inclement weather 
+desired home refuge opposed duty religion 
+relief imprisonment opposed danger life 
+desired accomplishment opposed duty country 
+obliged recover lost valuables opposed rivals 
+family revolt threatened duty religion 
+desired approbation opposed inclement weather 
+relief imprisonment opposed legal procedure 
+desired home refuge opposed false accusation 
+family revolt threatened duty loved ones 
+relief pursuit opposed lack influence 
+desired home refuge opposed danger life 
+relief oppression opposed duty country 
+obliged recover lost valuables opposed friends 
+revolution threatened unjust accusation 
+family revolt threatened oppression 
+religious uprising threatened enemies 
+rebellion threatened mental derangement 
+relief stigma opposed duty loved ones 
+desired accomplishment opposed mental weakness 
+relief oppression opposed mental weakness 
+relief habit opposed duty religion 
+religious uprising threatened oppression 
+rebellion threatened duty loved ones 
+relief habit opposed duty country 
+family revolt threatened loss liberty 
+relief unjust accusation opposed distance 
+relief injury opposed physical weakness 
+battle sexes threatened physical suffering 
+obliged recover lost valuables opposed duty country 
+desired vengeance law breaker opposed enemies 
+relief prosecution opposed lack information 
+desired accomplishment opposed duty loved ones 
+revolution threatened danger life health 
+obliged identify unknown person opposed suspicion 
+desired vengeance law breaker opposed friends 
+relief prosecution opposed physical weakness 
+desired accomplishment opposed lack influence 
+obliged recover lost valuables opposed danger life 
+obliged risk liberty effort rescue unfortunate 
+relief unjust accusation opposed physical weakness 
+desired accomplishment opposed inclement weather 
+relief oppression opposed lack facilities 
+obliged recover lost valuables opposed mental weakness 
+desired vengeance law breaker opposed false accusation 
+obliged risk position effort brave air voyage 
+revolution threatened unjust discrimination 
+battle sexes threatened duty religion 
+religious uprising threatened persecution 
+obliged risk life effort overthrow monarch 
+family revolt threatened danger life health 
+desired vengeance opposite sec opposed friends 
+desired home refuge opposed lack influence 
+relief imprisonment opposed false accusation 
+obliged recover lost person opposed danger life 
+relief prosecution opposed inclement weather 
+desired home refuge opposed legal procedure 
+relief imprisonment opposed lack influence 
+obliged recover lost information clue opposed friends 
+religious uprising threatened mental derangement 
+obliged risk life effort prove one strength 
+religious uprising threatened unjust accusation 
+obliged risk honor effort rescue loved one 
+family revolt threatened mental derangement 
+obliged identify unknown person opposed friends 
+obliged risk health effort put rebellion 
+obliged recover lost information clue opposed poverty 
+desired vengeance insulter opposed suspicion 
+religious uprising threatened duty religion 
+obliged risk health effort destroy government 
+obliged risk fortune un effort brave deep waters 
+religious uprising threatened fatal ambition 
+obliged recover lost valuables opposed lack facilities 
+desired vengeance insulter opposed inclement weather 
+obliged risk health effort brave terrible disease 
+obliged identify unknown person opposed false accusation 
+desired vengeance law breaker opposed lack influence 
+obliged risk friendship effort put rebellion 
+obliged prevent terrible injustice opposed mental weakness 
+obliged risk health effort brave storm cataclysm 
+desired vengeance opposite sex opposed legal procedure 
+obliged prevent terrible injustice opposed false accusation 
+obliged risk honor effort apprehend dangerous criminal 
+obliged risk health effort rescue unfortunate 
+desired vengeance opposite sex opposed distance 
+obliged prevent terrible injustice opposed suspicion 
+obliged identify unknown person opposed danger life 
+obliged recover lost information clue opposed mental weakness 
+desired vengeance law breaker opposed inclement weather 
+obliged prevent terrible injustice opposed duty country 
+obliged identify unknown person opposed lack facilities 
+obliged recover lost information clue opposed distance 
+relief unjust accusation opposed duty religion 
+desired accomplishment opposed duty religion 
+relief imprisonment opposed physical weakness 
+obliged recover lost valuables opposed poverty 
+desired accomplishment opposed mental weakness 
+obliged recover lost information clue opposed rivals 
+obliged risk health effort prove one strength 
+religious uprising threatened physical suffering 
+obliged prevent terrible injustice opposed distance 
+obliged risk happiness effort prove one strength 
+obliged prevent crime injury opposed danger life 
+desired vengeance cheater opposed false accusation 
+obliged recover lost person opposed duty loved ones 
+obliged solve mysterious crime opposed mental weakness 
+obliged prevent crime injury opposed legal procedure 
+obliged risk happiness effort capture vicious animal 
+desired vengeance cheater opposed legal procedure 
+desired vengeance tyrant oppressor opposed lack information 
+obliged risk friendship effort brave maniac insane person 
+obliged prevent terrible injustice opposed lack facilities 
+desired vengeance law breaker opposed duty religion 
+obliged recover lost information clue opposed danger life 
+desired vengeance cheater opposed lack facilities 
+obliged prevent crime injury opposed duty country 
+obliged risk liberty effort expose vicious ring 
+obliged solve mystery phenomenon opposed legal procedure 
+desired vengeance law breaker opposed lack information 
+obliged risk happiness effort undertake dangerous mission 
+obliged restore health happiness loved one opposed poverty 
+desired vengeance one damaged good name opposed duty religion 
+obliged solve mystery phenomenon opposed lack facilities 
+desired vengeance cheater opposed duty religion 
+relief persecution opposed duty loved ones 
+obliged prevent catastrophe opposed distance 
+desired vengeance opposite sex opposed rivals 
+obliged recover lost person opposed lack facilities 
+obliged risk health effort escape punishment 
+desired vengeance race nation clan opposed danger life 
+obliged solve mystery phenomenon opposed in-clement weather 
+desired vengeance cheater opposed duty loved ones 
+obliged recover lost valuables opposed lack influence 
+relief persecution opposed lack information 
+religious uprising threatened superstition 
+desired vengeance one caused loss valuables opposed duty country 
+relief unjust accusation opposed rivals 
+desired vengeance one caused loss valuables opposed lack facilities 
+obliged restore health happiness loved one opposed duty religion 
+desired vengeance race nation clan opposed lack information 
+obliged risk happiness effort brave maniac insane person 
+obliged prevent terrible injustice opposed duty religion 
+desired vengeance rival love opposed friends 
+obliged risk position effort brave deep waters 
+obliged recover lost valuables opposed suspicion 
+relief injury opposed physical weakness 
+obliged risk name effort engage battle 
+family revolt threatened unjust accusation 
+obliged risk life effort put rebellion 
+obliged prevent terrible injustice opposed legal procedure 
+desired vengeance one caused injury opposed poverty 
+obliged risk friendship effort brave mental destruction 
+desired vengeance tyrant oppressor opposed duty loved ones 
+obliged restore health happiness loved one opposed legal procedure 
+desired vengeance one damaged good name opposed legal procedure 
+obliged restore health happiness loved one opposed lack facilities 
+desired vengeance one caused loss valuables opposed lack influence 
+relief unjust accusation opposed friends 
+desired vengeance one caused loss valuables opposed duty loved ones 
+obliged restore health happiness loved one opposed duty loved ones 
+desired vengeance tyrant oppressor opposed physical weakness 
+obliged prevent terrible injustice opposed inclement weather 
+desired vengeance rival love opposed poverty 
+obliged recover lost valuables opposed false accusation 
+obliged risk fortune effort engage battle 
+obliged risk name effort apprehend criminal 
+desired vengeance tyrant oppressor opposed friends 
+obliged risk position effort brave storm cataclysm 
+obliged recover lost information clue opposed lack information 
+desired vengeance law breaker opposed physical weakness 
+obliged risk love effort expose vicious ring 
+desired vengeance rival love opposed distance 
+obliged restore health happiness loved one opposed friends 
+desired vengeance one damaged good name opposed rivals 
+obliged risk friendship effort undertake dangerous mission 
+desired vengeance tyrant oppressor opposed rivals 
+obliged risk fortune effort rescue loved one 
+relief persecution opposed lack facilities 
+obliged risk honor effort prove one strength 
+obliged prevent catastrophe opposed danger life 
+desired vengeance opposite sex opposed mental weakness 
+obliged risk health effort brave maniac insane person 
+desired vengeance race nation clan opposed suspicion 
+obliged risk position effort escape imprisonment 
+desired vengeance opposite sex opposed suspicion 
+obliged risk fortune effort rescue unfortunate 
+relief persecution opposed inclement weather 
+religious uprising threatened ignorance 
+desired vengeance one damage good name opposed lack influence 
+obliged restore health happiness loved one opposed suspicious 
+obliged risk fortune effort brave air voyage 
+obliged prevent crime injury opposed rivals 
+desired vengeance one caused loss valuables opposed physical weakness 
+family revolt threatened physical suffering 
+obliged prevent terrible injustice opposed enemies 
+obliged identify unknown person opposed duty country 
+desired vengeance one damaged good name opposed distance 
+obliged risk friendship effort brave air voyage 
+desired vengeance race nation clan opposed mental weakness 
+obliged risk name effort undertake dangerous mission 
+desired vengeance tyrant oppressor opposed duty country 
+obliged restore health happiness loved one opposed false accusation 
+desired vengeance one caused loss valuables opposed mental weakness 
+relief injury opposed inclement weather 
+desired vengeance one damaged good name opposed lack facilities 
+obliged restore health happiness loved one opposed danger life 
+desired vengeance law breaker opposed lack facilities 
+obliged solve mysterious crime opposed physical weakness 
+relied injury opposed lack information 
+obliged recover lost valuables opposed legal procedure 
+obliged prevent terrible injustice opposed poverty 
+obliged risk name effort overthrow monarch 
+relief unjust accusation opposed danger life 
+obliged identify unknown person opposed enemies 
+desired vengeance opposite sex opposed poverty 
+obliged recover lost information clue opposed duty country 
+desired vengeance one caused injury opposed physical weakness 
+obliged risk health effort undertake dangerous mission 
+desired vengeance one caused injury opposed legal procedure 
+desired vengeance one caused loss valuables opposed false accusation 
+desired vengeance one caused loss valuables opposed duty religion 
+desired vengeance race nation clan opposed legal procedure 
+obliged risk love effort rescue loved one 
+relief prosecution opposed duty loved ones 
+obliged risk liberty effort overthrow monarch 
+desired vengeance opposite sex opposed lack information 
+obliged risk happiness effort escape imprisonment 
+desired vengeance one caused injury opposed duty loved ones 
+desired vengeance race nation clan opposed inclement weather 
+obliged risk honor effort brave maniac insane person 
+vengeance tyrant oppressor opposed suspicion 
+obliged risk liberty effort undertake dangerous mission 
+desired vengeance rival love opposed duty country 
+obliged risk position effort brave mental destruction 
+desired vengeance one damaged good name opposed friends 
+obliged risk fortune effort escape imprisonment 
+desired vengeance cheater opposed lack influence 
+obliged risk position effort brave terrible disease 
+desired vengeance opposite sex opposed duty country 
+obliged prevent terrible injustice opposed physical weakness 
+desired vengeance rival love opposed inclement weather 
+obliged solve mysterious crime opposed distance 
+desired vengeance opposite sex opposed false accusation 
+obliged prevent catastrophe opposed lack facilities 
+desired vengeance race nation clan opposed lack influence 
+obliged risk friendship effort escape imprisonment 
+desired vengeance cheater opposed poverty 
+obliged recover lost person opposed duty religion 
+desired vengeance rival love opposed danger life 
+obliged risk friendship effort brave deep waters 
+desired vengeance law breaker opposed mental weakness 
+obliged risk health effort expose vicious ring 
+desired vengeance race nation clan opposed duty religion 
+obliged restore health happiness loved one opposed rivals 
+desired vengeance tyrant oppressor opposed enemies 
+obliged risk liberty effort brave maniac insane person 
+desired vengeance opposite sex opposed inclement weather 
+obliged risk love effort brave storm cataclysm 
+desired vengeance rival love opposed false accusation 
+obliged risk friendship effort capture vicious animal 
+desired vengeance race nation clan opposed false accusation 
+obliged risk happiness effort brave mental destruction 
+desired vengeance tyrant oppressor opposed poverty 
+obliged risk position effort overthrow monarch 
+desired vengeance rival love opposed legal procedure 
+obliged risk health effort brave mental destruction 
+desired vengeance opposite sex opposed duty loved ones 
+obliged restore health happiness loved one opposed mental weakness 
+desired vengeance one caused loss valuables opposed rivals 
+obliged risk position effort brave maniac insane person 
+desired vengeance tyrant oppressor opposed inclement weather 
+obliged solve mysterious crime opposed lack information 
+desired vengeance one damaged good name opposed duty loved ones 
+obliged restore health happiness loved one opposed duty country 
+desired vengeance one caused loss valuables opposed enemies 
+obliged risk honor effort undertake dangerous mission 
+desired vengeance one caused injury opposed lack influence 
+obliged risk happiness effort brave storm cataclysm 
+desired vengeance rival love opposed lack information 
+obliged restore health happiness loved one opposed enemies 
+desired vengeance tyrant oppressor opposed e mental weakness 
+obliged solve mystery phenomenon opposed false accusation 
+desired vengeance race nation clan opposed lack facilities 
+obliged recover lost information clue opposed legal procedure 
+desired vengeance opposite sex opposed physical weakness 
+obliged risk health effort capture vicious animal 
+desired vengeance rival love opposed suspicion 
+obliged risk position effort rescue unfortunate 
+desired vengeance tyrant oppressor opposed lack influence 
+obliged risk love effort undertake dangerous mission 
+desired vengeance race nation clan opposed duty loved ones 
+obliged risk friendship effort expose vicious ring 
+desired vengeance one caused injury opposed rivals 
+desired vengeance one caused loss valuables opposed danger life 
+obliged restore health happiness loved one opposed inclement weather 
+desired vengeance rival love opposed duty loved ones 
+obliged risk friendship effort brave terrible disease 
+desired vengeance tyrant oppressor opposed distance 
+obliged prevent terrible injustice opposed lack influence 
+desired vengeance race nation clan opposed duty country 
+obliged prevent terrible injustice opposed lack information 
+desired vengeance cheater opposed inclement weather 
+obliged solve mystery phenomenon opposed duty 
+desired vengeance opposite sex opposed lack influence 
+obliged recover lost information clue opposed false accusation 
+desired vengeance rival love opposed mental weakness 
+obliged risk friendship effort rescue unfortunate 
+desired vengeance insulter opposed duty loved ones 
+obliged risk happiness n effort brave terrible disease 
+desired vengeance tyrant oppressor opposed legal procedure 
+obliged solve mystery phenomenon opposed danger life 
+desired vengeance law breaker opposed duty country 
+obliged recover lost information opposed lack influence 
+desired vengeance one caused injury opposed suspicion 
+obliged solve mystery phenomenon opposed lack information 
+desired vengeance rival love opposed duty religion 
+obliged risk happiness effort rescue unfortunate 
+desired vengeance insulter opposed lack facilities 
+obliged risk fortune effort brave mental destruction 
+relief persecution opposed false accusation 
+desired vengeance one caused loss valuables opposed lack information 
+obliged risk love effort brave maniac insane person 
+desired vengeance one caused injury opposed lack facilities 
+obliged risk position effort put rebellion 
+desired vengeance one damaged good name opposed enemies 
+obliged risk name effort prove one strength 
+desired vengeance rival love opposed lack facilities 
+obliged risk life effort brave storm cataclysm 
+desired vengeance cheater opposed physical weakness 
+obliged risk liberty effort brave air volage 
+desired vengeance insulter opposed danger life 
+obliged risk happiness effort put rebellion 
+desired vengeance one damaged good name opposed suspicion 
+obliged restore health happiness loved one opposed lack information 
+desired vengeance one caused loss valuables opposed inclement weather 
+obliged prevent crime injury opposed lack facilities 
+desired vengeance one caused injury opposed false accusation 
+obliged prevent catastrophe opposed lack influence 
+desired vengeance one damaged good name opposed danger life 
+obliged solve mysterious crime opposed duty loved ones 
+desired vengeance one caused loss valuables opposed suspicion 
+obliged risk happiness effort expose vicious ring 
+desired vengeance insulter opposed legal procedure 
+obliged risk fortune effort brave maniac insane person 
+desired vengeance one caused injury opposed lack information 
+obliged risk liberty effort brave storm cataclysm 
+relief unjust accusation opposed suspicion 
+desired vengeance insulter opposed duty religion 
+obliged risk honor effort escape imprisonment 
+desired vengeance one caused injury opposed enemies 
+obliged solve mysterious crime opposed inclement weather 
+desired vengeance tyrant oppressor opposed duty religion 
+obliged risk friendship effort brave storm cataclysm 
+desired vengeance one caused loss valuables opposed poverty 
+obliged risk position effort expose vicious ring 
+desired vengeance one caused injury opposed danger life 
+obliged risk life effort brave terrible disease 
+desired vengeance one damages good name opposed poverty 
+obliged risk liberty effort escape imprisonment 
+desired vengeance insulter opposed lack influence 
+obliged risk love effort capture vicious animal 
+desired vengeance one caused injury opposed distance 
+obliged risk fortune effort capture vicious animal 
+desired vengeance law breaker opposed duty loved ones 
+obliged risk friendship effort overthrow monarch 
+desired vengeance insulter opposed lack information 
+obliged risk honor effort brave mental destruction 
+desired vengeance one caused injury opposed friends 
+obliged risk happiness effort overthrow government 
+desired vengeance rival love opposed lack influence 
+obliged identify unknown person opposed inclement weather 
+desired vengeance cheater opposed mental weakness 
+relied unjust accusation opposed enemies 
+obliged prevent catastrophe opposed poverty 
+relief habit opposed lack influence 
+obliged prevent catastrophe opposed physical weakness 
+desired vengeance law breaker opposed legal procedure 
+obliged prevent crime injury opposed false accusation 
+obliged solve mysterious crime opposed legal procedure 
+obliged recover lost valuables opposed duty loved ones 
+desired vengeance insulter opposed mental weakness 
+obliged risk happiness effort overthrow monarch 
+obliged solve mysterious crime opposed duty country 
+obliged recover lost information clue opposed duty religion 
+obliged identify unknown person opposed lack information 
+desired vengeance cheater opposed duty country 
+obliged risk position effort destroy government 
+obliged prevent crime injury opposed physical weakness 
+obliged solve mystery phenomenon opposed lack influence 
+obliged prevent catastrophe opposed inclement weather 
+obliged recover lost information clue opposed suspicion 
+desired vengeance insulter opposed physical weakness 
+obliged risk love effort escape imprisonment 
+obliged risk position effort apprehend vicious criminal 
+obliged prevent catastrophe opposed duty loved ones 
+obliged solve mysterious crime opposed lack fa-cilities 
+obliged prevent crime injury opposed lack in-fluence 
+obliged identify unknown person opposed duty religion 
+obliged prevent catastrophe opposed lack infor-mation 
+desired vengeance insulter opposed false accusa-tion 
+obliged risk happiness effort brave air voyage 
+obliged recover lost valuables opposed enemies 
+desired vengeance one damaged good name 
+obliged risk fortunes effort brave storm cataclysm 
+obliged risk liberty effort brave terrible disease 
+obliged prevent terrible injustice opposed duty loved ones 
+obliged solve mystery phenomenon opposed mental weakness 
+obliged prevent catastrophe opposed duty country 
+relief oppression opposed lack influence 
+obliged risk friendship effort rescue loved one 
+desired vengeance tyrant oppressor opposed danger life 
+obliged prevent crime injury opposed inclement weather 
+obliged risk happiness effort rescue loved one 
+desired vengeance cheater opposed lack information 
+relief imprisonment opposed mental weakness 
+desired vengeance one caused loss valuables opposed legal procedure 
+obliged restore health happiness loved one opposed lack influence 
+obliged risk position effort capture vicious animal 
+obliged solve mystery phenomenon opposed duty country 
+desired vengeance one damaged good name opposed duty country 
+obliged restore health happiness loved one opposed physical weakness 
+obliged prevent catastrophe opposed false accusation 
+obliged identify unknown person opposed duty loved ones 
+obliged risk happiness effort apprehend criminal 
+obliged risk name effort escape imprisonment 
+obliged risk liberty effort brave mental destruction 
+obliged prevent terrible injustice opposed friends 
+obliged prevent crime injury opposed lack information 
+obliged identify unknown person opposed physical weakness 
+obliged solve mysterious crime opposed lack influence 
+obliged recover lost information clue opposed duty loved ones 
+desired vengeance law breaker opposed danger life 
+relief unjust accusation opposed mental weakness 
+desired vengeance insulter opposed poverty 
+obliged recover lost person opposed legal procedure 
+obliged identify unknown person opposed mental weakness 
+obliged prevent crime injury opposed duty loved ones 
+obliged risk friendship effort destroy government 
+obliged risk name effort brave mental destruction 
+obliged risk liberty effort put rebellion 
+obliged solve mystery phenomenon opposed physical weakness 
+obliged prevent catastrophe opposed mental weakness 
+obliged identify unknown person opposed lack influence 
+desired vengeance rival love opposed physical weakness 
+obliged risk love effort brave terrible disease 
+obliged risk life effort brave maniac insane person 
+obliged solve mystery phenomenon opposed suspicion 
+obliged prevent catastrophe opposed legal procedure 
+obliged recover lost information clue opposed lack facilities 
+desired vengeance one damaged good name opposed inclement weather 
+relief injury opposed duty loved ones 
+obliged risk fortune effort overthrow monarch 
+obliged solve mystery phenomenon opposed duty loved ones 
+desired vengeance one caused loss valuables opposed danger life 
+obliged risk position effort undertake dangerous mission 
+obliged prevent crime injury opposed duty religion 
+obliged solve mysterious crime opposed poverty 
+desired vengeance cheater opposed distance 
+obliged recover lost information clue opposed inclement weather 
+desired vengeance one damaged good name opposed false accusation 
+obliged risk liberty effort capture vicious animal 
+obliged risk fortune effort brave terrible disease 
+obliged risk love effort prove one strength 
+obliged risk liberty effort destroy government 
+obliged recover lost valuables opposed duty religion 
+desired vengeance cheater opposed friends 
+relief prosecution opposed lack facilities 
+obliged risk love effort destroy government 
+obliged prevent catastrophe opposed rivals 
+desired vengeance one cause injury opposed inclement weather 
+obliged risk name effort brave maniac insane person 
+obliged risk liberty effort rescue loved one 
+obliged identify unknown person opposed distance 
+relief prosecution opposed lack influence 
+obliged risk love effort put rebellion 
+obliged risk fortune effort expose vicious ring 
+obliged risk name effort brave terrible disease 
+obliged risk life effort brave air voyage 
+obliged risk honor effort capture vicious animal 
+obliged risk liberty effort prove one strength 
+desired vengeance law breaker opposed poverty 
+relief prosecution opposed mental weakness 
+desired vengeance one caused loss valuables opposed distance 
+relief unjust accusation opposed poverty 
+obliged risk name effort rescue unfortunate 
+obliged risk love effort brave deep waters 
+obliged risk fortune effort destroy government 
+obliged prevent crime injury opposed poverty 
+obliged solve mystery phenomenon opposed friends 
+desired vengeance cheater opposed rivals 
+relief persecution opposed duty religion 
+obliged risk name effort brave air voyage 
+obliged risk liberty effort engage battle 
+relief oppression opposed duty loved ones 
+desired vengeance one caused injury opposed duty country 
+obliged prevent crime injury opposed mental weakness 
+obliged risk love effort brave mental destruction 
+obliged risk name effort brave storm cataclysm 
+obliged risk honor effort brave terrible disease 
+obliged solve mystery phenomenon opposed poverty 
+obliged prevent catastrophe opposed duty religion 
+obliged solve mysterious crime opposed suspicion 
+desired vengeance law breaker opposed rivals 
+relief persecution opposed lack influence 
+obliged risk name effort expose vicious ring 
+obliged risk fortune effort apprehend criminal 
+obliged risk life effort brave mental destruction 
+obliged risk health effort engage battle 
+obliged risk life effort escape imprisonment 
+obliged prevent crime injury opposed suspicion 
+obliged solve mystery phenomenon opposed enemies 
+obliged recover lost valuables opposed physical weakness 
+desired vengeance one caused injury opposed duty religion 
+relief persecution opposed physical weakness 
+desired vengeance opposite sex opposed duty religion 
+obliged risk position effort rescue loved one 
+obliged risk life effort brave deep waters 
+desired vengeance insulter opposed enemies 
+relief persecution opposed false accusation 
+obliged risk name effort put rebellion 
+obliged identify unknown person opposed poverty 
+obliged prevent catastrophe opposed suspicion 
+desired vengeance insulter opposed rivals 
+relief unjust accusation opposed duty country 
+obliged risk friendship effort engage battle 
+obliged risk name effort brave deep waters 
+obliged risk honor effort rescue unfortunate 
+obliged solve mystery phenomenon opposed distance 
+obliged prevent crime injury opposed enemies 
+desired vengeance insulter opposed distance 
+relief persecution opposed legal procedure 
+obliged risk fortune effort prove one strength 
+obliged risk life effort expose vicious ring 
+obliged prevent crime injury opposed friends 
+obliged recover lost information clue opposed physical weakness 
+desired vengeance tyrant oppressor opposed lack facilities 
+obliged risk friendship effort apprehend criminal 
+obliged identify unknown person opposed legal procedure 
+relief prosecution opposed mental weakness 
+obliged risk honor effort destroy government 
+desired vengeance insulter opposed duty country 
+obliged solve mysterious crime opposed danger life 
+obliged risk happiness effort brave deep waters 
+obliged risk life effort destroy government 
+obliged risk fortune effort undertake dangerous mission 
+desired vengeance one damaged good name opposed mental weakness 
+relief persecution opposed danger life 
+obliged recover lost valuables opposed lack information 
+obliged solve mysterious crime opposed false accusation 
+obliged risk name effort capture vicious animal 
+obliged risk position effort prove one strength 
+relief injury opposed lack influence 
+desired vengeance one caused loss valuables opposed friends 
+desired vengeance opposite sex opposed lack facilities 
+obliged risk happiness effort engage battle 
+relief habit opposed physical weakness 
+obliged risk love effort brave air voyage 
+obliged prevent terrible injustice opposed rivals 
+relief unjust accusation opposed lack influence 
+obliged risk name effort destroy government 
+obliged prevent catastrophe opposed enemies 
+obliged risk love effort rescue unfortunate 
+relief persecution opposed duty country 
+desired vengeance one caused injury opposed mental weakness 
+obliged recover lost person opposed false accusation 
+relief prosecution opposed duty religion 
+obliged risk love effort engage battle 
+obliged prevent catastrophe opposed friends 
+relief habit opposed lack facilities 
+obliged risk love effort apprehend criminal 
+desired vengeance tyrant oppressor opposed false accusation 
+obliged risk position effort engage battle 
+relief unjust accusation opposed legal procedure 
+obliged recover lost information clue opposed enemies 
+desired vengeance cheater opposed suspicion 
+obliged risk name effort rescue loved one 
+relief injury opposed lack facilities 
+obliged risk fortune effort put rebellion 
+desired vengeance insulter opposed friends 
+obliged prevent crime injury opposed distance 
+relief prosecution opposed duty country 
+desired vengeance law breaker opposed suspicion 
+obliged risk health effort rescue loved one 
+relief habit opposed lack information 
+desired vengeance one damaged good name opposed lack information 
+obliged identify unknown person opposed rivals 
+obliged risk life effort rescue loved one 
+desired vengeance law breaker opposed distance 
+lover beloved political enemy 
+duty profession stands way 
+kin beloved disgraced lover 
+lover beloved business rivals 
+lover beloved related blood 
+betrothal loved one stands way 
+match opposed mother 
+beloved infatuated another 
+difference rank stands way 
+lover held prisoner 
+lover beloved cousins 
+match opposed children 
+difference belief stands way 
+lover recognize beloved one 
+lover accused deranged 
+lover past conceal 
+duty country stands way 
+lover must recover lost person 
+beloved kin injured lover 
+match opposed grandparent 
+lover feels deserving 
+beloved one recognize lover 
+lover imaginary past hide 
+beloved spurns love lover 
+pride stands way love 
+beloved supposedly married 
+love returned beloved 
+duty religion stands way 
+match opposed guardian 
+feud exists families 
+match opposed father 
+lover professional rival 
+beloved accused deranged 
+beloved honor bound pursue lover 
+lover doubts endurance beloved 
+beloved forgotten lover 
+lover believes love futile 
+beloved fear jealous rival 
+lover ashamed family 
+marriage beloved stands way 
+race barrier 
+duty loved one stands way 
+lover member enemy clan 
+match opposed sister one 
+lover required recover lost information 
+kin loved persecuted lover kin 
+lovers social rivals one inferior 
+loved one physically incapacitated 
+lover doubtful identity beloved 
+beloved falsely accused pauper 
+lover beloved brother sister 
+imaginary inequality rank 
+lover made solemn vow love 
+beloved sure love returned 
+lover falsely accused dishonest 
+match opposed brother one 
+duty unfortunate stands way 
+kin loved one robbed lover 
+beloved imaginary past hide 
+great difference ages 
+beloved believes love futile 
+beloved doubts endurance lover 
+lover forgotten beloved 
+lover honor bound pursue beloved 
+match opposed children one 
+lover pursued loved one crime 
+beloved falsely accused untrue 
+lover ashamed family beloved 
+beloved recognize lover 
+beloved fear jealous rival 
+lover required prevent catastrophe 
+real inequality education 
+imaginary race barrier 
+lover falsely accused pauper 
+beloved feels deserving 
+beloved ashamed family lover 
+duty principle stands way 
+match opposed uncle aunt 
+convention stands way meeting 
+beloved conceals affection lover 
+lovers mental rivals one inferior 
+lover required solve mysterious crime 
+lover falsely accused untrue 
+imaginary betrothal beloved 
+beloved greatly ashamed family 
+lover required recover lost valuable 
+lover falsely accused mentally unfit 
+lover physically incapacitated 
+beloved taken vows love 
+lovers business rivals one inferior 
+separated great distance 
+stands way union 
+lover made solemn vow love 
+lover sworn vengeance beloved 
+lover accused deception wealth 
+beloved possesses fatal ambition fame 
+lover required prevent crime injury 
+suspected kinship lovers 
+lover possessed fatal ambition wealth 
+lover sworn bring beloved justice 
+lover required restore health happiness 
+lovers professional rivals one inferior 
+beloved falsely accused socially unfit 
+lover required identify unknown person 
+lover possesses fatal ambition fame 
+lover falsely accused committing crime 
+lover beloved rival leaders 
+contract agreement stands way love 
+misunderstanding caused enemies 
+professional relationship prohibits union 
+lover country war beloved 
+beloved sworn bring lover justice 
+misunderstanding caused accident 
+lover mistaken beloved enemy 
+twin one lovers stands way 
+beloved falsely accused mentally unfit 
+lover accused deception identity 
+beloved distraught threatened loss name 
+imaginary inequality education 
+lover opposite legal side beloved 
+lover possessed fatal ambition power 
+beloved imagines love another 
+lover sworn vengeance kin beloved 
+kinsman lover accused mentally deranged 
+lover falsely accused socially unfit 
+lover sworn bring kin beloved justice 
+beloved falsely accused dishonest 
+imaginary difference ages 
+beloved distraught threatened loss fortune 
+beloved accused deception authority 
+lover possessed fatal ambition revenge 
+lover accused deception position 
+beloved distraught threatened loss honor 
+moral relationship lovers prohibits union 
+misunderstanding caused rivals 
+love balked threatened permanent separation 
+lover known broken promise pledge 
+beloved pursued lover broken law 
+business relationship lovers prohibits union 
+lover accused deception authority 
+lover required prevent terrible injustice 
+beloved distraught threatened loss health 
+beloved falsely accused committing offense 
+lover required solve mystery phenomenon 
+great mental difference lovers 
+imaginary kinship exists lovers 
+beloved possesses fatal ambition power 
+lover accused deception social standing 
+social relationship lovers prohibits union 
+great physical difference 
+lover falsely accused committing offense 
+beloved possessed fatal ambition revenge 
+beloved attention distracted faring effort overthrow tyrant 
+kinsman beloved possessed fatal ambition power 
+beloved distraught threatened loss liberty 
+kinsman beloved accused deranged 
+beloved accused deception social standing 
+kinsman beloved possessed fatal ambition fame 
+beloved attention distracted daring effort stop rebellion 
+beloved falsely accused committing crime 
+lover accused deception accomplishments 
+beloved possessed fatal ambition wealth 
+beloved attention distracted daring effort achieve distinction 
+kinsman beloved possessed fatal ambition revenge 
+beloved accused deception wealth 
+kinsman lover possesses fatal ambition fame 
+beloved accused deception identity 
+beloved attention distracted daring effort save people 
+kinsman beloved possessed fatal ambition wealth 
+beloved accused deception intentions 
+great financial difference exists lovers 
+lover accused deception accomplishments 
+kinsman lover possessed fatal ambition revenge 
+beloved attention distracted daring effort win battle 
+beloved accused deception position 
+great social difference lovers 
+lover accused deception intentions 
+kinsman lover possessed fatal ambition wealth 
+beloved attention distracted daring effort instigate rebellion 
+kinsman lover possesses fatal ambition 
+deception threatens loss relief 
+remorse threatens sacrifice fame 
+fatal indiscretion threatens loss love 
+illicit love affair threatens loss advantage loved one 
+revenge sought kinsman committed crime 
+child wanted 
+deception threatens loss fame 
+remorse threatens sacrifice love 
+fatal ambition threatens deprive loved one achievement 
+revenge sought immortal brought loss loved one 
+deception threatens loss health 
+remorse threatens sacrifice power 
+fatal indiscretion threatens loss fame 
+revenge sought immortal brought loss name 
+remorse threatens sacrifice advantage loved one 
+deception threatens loss love 
+romance threatens sacrifice power 
+fatal indiscretion threatens loss reward 
+illicit love affair adultery threatens loss achievement 
+fatal indiscretion threatens loss position loved one 
+remorse threatens sacrifice riches 
+deception threatens loss power 
+fatal indiscretion threatens loss health 
+illicit love affair adultery threatens loss reward 
+fatal ambition threatens deprive loved one liberty 
+remorse threatens sacrifice happiness 
+deception threatens loss advantage 
+fatal indiscretion threatens loss power 
+illicit love affair threatens loss relief loved one 
+fatal indiscretion threatens loss advantage loved one 
+deception threatens loss reward 
+remorse threatens sacrifice position 
+rivalry kinsmen riches 
+fatal ambition threatens loss achievement loved one 
+illicit love affair adultery threatens loss loved one 
+remorse threatens sacrifice achievement 
+deception threatens loss riches 
+fatal indiscretion threatens loss relief 
+fatal ambition threatens deprive one love 
+loss valuable properties threatened kinsman 
+rivalry unequals achievement 
+fatal ambition threatens deprive one health 
+remorse threatens result self-destruction 
+fatal indiscretion threatens loss achievement 
+remorse threatens sacrifice loved one 
+rivalry unequals advantage 
+fatal ambition threatens deprive one power 
+remorse threatens sacrifice advantage 
+fatal indiscretion threatens loss happiness 
+rivalry kinsmen love 
+loss liberty threatened kinsman 
+fatal ambition threatens deprive one life 
+rivalry unequals power 
+fatal discretion threatens loss liberty 
+deception threatens loss loved one 
+mental derangement threatened kinsman 
+fatal ambition threatens deprive one fame 
+rivalry kinsmen reward 
+remorse threatens sacrifice liberty 
+fatal indiscretion threatens loss position 
+rivalry unequals fame 
+fatal ambition threatens deprive one revenge 
+deception threatens loss happiness 
+fatal indiscretion threatens loss advantage 
+rivalry kinsmen achievement 
+fatal ambition threatens deprive one reward 
+rivalry kinsmen advantage 
+deception threatens loss achievement 
+superstition stands way relief 
+rivalry unequals riches 
+fatal ambition threatens deprive one liberty 
+deception threatens loss position 
+rivalry kinsmen power 
+fatal ambition threatens deprive one advantage 
+kinsman threatens bring humiliation shame 
+rivalry unequals position 
+deception threatens loss liberty 
+superstition threatens loss desired possession 
+rivalry unequals love 
+fatal ambition threatens deprive one riches 
+fatal indiscretion threatens loss riches 
+rivalry kinsmen fame 
+remorse threatens sacrifice reward 
+fatal ambition threatens deprive one relief 
+rivalry kinsmen position 
+remorse threatens sacrifice relief 
+fatal ambition threatens deprive one position 
+rivalry unequals reward 
+remorse threatens result commission crime 
+fatal ambition threatens deprive one happiness 
+physical misfortune injuries threatened kinsman 
+fatal ambition threatens deprive loved one health 
+deception threatens loss riches loved one 
+remorse threatens sacrifice fame loved one 
+illicit love affair adultery threatens loss life 
+fatal indiscretion threatens loss health loved one 
+loss reputation good name threatened kinsman 
+fatal ambition threatens deprive one achievement 
+rivalry mortal immortal power 
+revenge sought kinsman given insult 
+fatal indiscretion threatens loss revenge loved one 
+illicit love affair adultery threatens loss relief 
+remorse threatens sacrifice power loved one 
+fatal ambition threatens deprive loved one power 
+rivalry mortal immortal riches 
+deception threatens loss health loved one 
+remorse threatens sacrifice reward loved one 
+fatal indiscretion threatens loss riches loved one 
+rivalry mortal immortal fame 
+illicit love affair adultery threatens loss liberty 
+fatal ambition threatens deprive loved one position 
+deception threatens loss revenge loved one 
+fatal indiscretion threatens loss reward loved one 
+illicit love affair adultery threatens loss love 
+rivalry mortal immortal reward 
+remorse threatens sacrifice happiness loved one 
+fatal ambition threatens life loved one 
+illicit love affair adultery threatens loss power 
+rivalry mortal immortal love 
+deception threatens loss advantage loved one 
+fatal ambition threatens deprive loved one fame 
+remorse threatens sacrifice relief loved one 
+illicit love affair adultery threatens loss fame 
+rivalry mortal immortal position 
+deception threatens loss achievement loved one 
+fatal indiscretion threatens loss love loved one 
+remorse threatens sacrifice revenge loved one 
+illicit love affair adultery threatens loss health 
+fatal ambition threatens deprive loved one revenge 
+revenge sought kinsman joined enemy 
+illicit love affair adultery threatens loss position 
+deception threatens loss love loved one 
+remorse threatens sacrifice riches loved one 
+fatal ambition threatens deprive loved one love 
+rivalry mortal immortal achievement 
+illicit love affair threatens loss happiness loved one 
+fatal indiscretion threatens loss fame loved one 
+deception threatens loss happiness loved one 
+revenge sought kinsman deserted loved one 
+illicit love affair adultery threatens loss happiness 
+fatal ambition threatens deprive loved one advantage 
+remorse threatens sacrifice life loved one 
+illicit love affair threatens loss fame loved one 
+deception threatens loss life loved one 
+revenge sought immortal brought loss mind 
+illicit love affair threatens loss revenge loved one 
+remorse threatens sacrifice position loved one 
+fatal ambition threatens deprive loved one happiness 
+revenge sought kinsman brought misfortune loved one 
+illicit love affair threatens loss life loved one 
+remorse threatens sacrifice achievement loved one 
+deception threatens loss position loved one 
+revenge sought immortal brought loss health 
+fatal indiscretion threatens loss happiness loved one 
+illicit love affair threatens loss reward loved one 
+remorse threatens sacrifice liberty loved one 
+fatal indiscretion threatens loss relief loved one 
+illicit love affair threatens loss health loved one 
+deception threatens loss liberty loved one 
+revenge sought immortal brought loss liberty 
+illicit love affair threatens loss power loved one 
+fatal ambition threatens deprive loved one riches 
+deception threatens loss reward loved one 
+illicit love affair threatens loss liberty loved one 
+revenge sought immortal brought loss happiness 
+fatal indiscretion threatens loss liberty loved one 
+remorse threatens sacrifice love loved one 
+illicit love affair threatens loss position loved one 
+rivalry mortal immortal advantage 
+fatal ambition threatens deprive loved one reward 
+deception threatens loss power loved one 
+illicit love affair threatens loss achievement loved one 
+revenge sought immortal brought loss life 
+fatal indiscretion threatens loss life loved one 
+illicit love affair threatens loss love loved one 
+deception threatens loss fame loved one 
+remorse threatens sacrifice health loved one 
+fatal ambition threatens deprive loved one relief 
+illicit love affair threatens loss riches loved one 
+revenge sought immortal brought loss riches 
+sacrifice passion habit mania threatens loss relief 
+madness mental derangement threatens loss achievement 
+innocent person accused committed robbery 
+kidnapping threatened prevent information given 
+advantage threatened revolt authority 
+duty honor principle stands way happiness 
+sacrifice passion habit mania threatens loss power 
+madness mental derangement threatens loss happiness 
+abduction threatened parties desiring valuable information 
+innocent person accused suspected coward 
+duty honor principle stands way advantage 
+sacrifice passion habit mania threatens loss love 
+kidnapping threatened parties desiring valuable information 
+madness mental derangement endangers life 
+sacrifice passion habit mania threatens loss mind 
+innocent person accused slave passion 
+madness mental derangement threatens loss loved one 
+abduction threatened prevent information given 
+loved one threatened revolt authority 
+innocent person accused committee theft 
+sacrifice passion habit mania threatens loss reward 
+duty honor principle stands way position 
+madness mental derangement threatens loss advantage 
+kidnapping threatened parties desiring revenge 
+sacrifice passion habit mania threatens loss advantage 
+madness mental derangement threatens loss liberty 
+innocent person accused fugitive justice 
+abduction threatened parties desiring revenge 
+duty religion stands way achievement 
+innocent person accused dishonorable 
+kidnapping threatened ransom seekers 
+fortune threatened revolt authority 
+threatened banishment legal proceedings 
+innocent person accused disloyal 
+duty loved one stands way reward 
+abduction result mistaken identity 
+madness mental derangement threatens loss position 
+innocent person accused committed murder 
+sacrifice passion habit mania threatens loss loved one 
+duty honor principle stands way liberty 
+madness mental derangement threatens loss fortune 
+innocent person accused mentally deranged 
+sacrifice passion habit mania threatens loss health 
+duty honor principle stands way achievement 
+madness mental derangement threatens loss relief 
+threatened expulsion organization 
+duty country stands way fortune 
+innocent person accused cheated 
+kidnapping result mistaken identity 
+position threatened revolt authority 
+threatened expulsion institution 
+abduction threatened ransom seekers 
+threatened revolt oppression 
+duty religion stands way position 
+innocent person accused spy 
+health threatened revolt authority 
+threatened banishment tyrant ruler 
+duty loved one stands way liberty 
+innocent person accused deceiver 
+life endangered revolt authority 
+achievement threatened blackmailer 
+duty country stands way achievement 
+threatened revolt authority 
+liberty threatened revolt authority 
+duty religion stands way happiness 
+sacrifice passion habit mania threatens loss position 
+madness mental derangement threatens loss power 
+duty loved one stands way achievement 
+sacrifice passion habit mania threatens loss riches 
+madness mental derangement threatens loss reward 
+duty honor principle stands way fortune 
+sacrifice passion habit mania threatens loss fame 
+madness mental derangement threatens loss health 
+duty honor principle stands way power 
+reward threatened revolt authority 
+sacrifice passion habit mania endangers life 
+duty honor principle stands way health 
+power threatened revolt authority 
+madness mental derangement threatens loss name 
+innocent person accused liar 
+duty loved one stands way fortune 
+name threatened revolt authority 
+madness mental derangement threatens loss love 
+innocent person accused immoral 
+duty honor principle stands way fame 
+madness mental derangement threatens loss mind 
+duty loved one stands way advantage 
+madness mental derangement threatens loss fame 
+sacrifice passion habit mania threatens loss name 
+life endangered strike 
+threatened mutiny 
+name threatened boycott 
+mind threatened blackmailer 
+race riot threatened 
+abduction threatened rivals 
+name threatened strike 
+kidnapping threatened rivals 
+fame threatened blackmailer 
+health threatened race riot 
+liberty threatened strike 
+threatened boycott 
+abduction threatened enemies 
+power threatened strike 
+life endangered boycott 
+name threatened blackmailer 
+threatened class war 
+kidnapping threatened enemies 
+fortune threatened strike 
+name threatened race riot 
+relief threatened blackmailer 
+position threatened strike 
+power threatened boycott 
+life endangered race riot 
+threatened strike 
+power threatened race riot 
+health threatened boycott 
+love threatened blackmailer 
+reward threatened strike 
+health threatened blackmailer 
+threatened religious upheaval 
+reward threatened boycott 
+life endangered religious revolt 
+life threatened blackmailer 
+advantage threatened strike 
+loved one threatened boycott 
+position threatened race riot 
+power threatened blackmailer 
+duty country stands way name 
+position threatened blackmailer 
+liberty threatened boycott 
+advantage threatened race riot 
+duty country stands way power 
+injury threatened blackmailer 
+power threatened religious revolt 
+duty country stands way health 
+duty religion stands way name 
+duty loved one stands way fame 
+reward threatened blackmailer 
+advantage threatened boycott 
+duty country stands way love 
+health threatened strike 
+duty religion stands way reward 
+duty country stands way happiness 
+fortune threatened religious revolt 
+happiness threatened blackmailer 
+duty religion stands way fame 
+loved one threatened race riot 
+duty loved one stands way power 
+duty country stands way liberty 
+duty honor principle stands way love 
+duty religion stands way power 
+fortune threatened blackmailer 
+sacrifice passion habit mania threatens loss happiness 
+duty loved one stands way love 
+duty country stands way position 
+duty religion stands way advantage 
+duty honor principle stands way name 
+loved one threatened blackmailer 
+position threatened boycott 
+duty country stands way fame 
+duty religion stands way love 
+duty loved one stands way name 
+duty honor principle stands way reward 
+sacrifice passion habit mania threatens loss achievement 
+advantage threatened blackmailer 
+duty country stands way reward 
+duty loved one stands way position 
+duty religion stands way health 
+liberty threatened blackmailer 
+duty country stands way advantage 
+duty religion stands way fortune 
+duty loved one stands way health 
+fortune threatened boycott 
+duty religion stands way liberty 
+sacrifice passion habit mania threatens loss liberty 
+fortune threatened race riot 
+duty loved one stands way happiness 
+reward threatened race riot 
+loved one threatened strike 
+liberty threatened race riot 
+loss home threatened 
+serious injury threatened 
+disaster threatened fire 
+loss power threatened 
+learn loved one immoral 
+disaster threatened epidemic 
+life threatened strike 
+loss liberty threatened 
+mental derangement threatened 
+banishment threatened 
+disaster threatened storm 
+loss fame threatened 
+learn loved one spy 
+loss health threatened 
+disaster threatened revolt 
+loss victory threatened 
+learn loved one liar 
+loss position threatened 
+disaster threatened strike 
+loss reward threatened 
+loss love threatened 
+disaster threatened mutiny 
+learn loved one robber 
+loss use limbs threatened 
+disaster threatened boycott 
+learn loved one coward 
+loss fortune threatened 
+serious injury threatened loved one 
+immediate loss life threatened 
+loss happiness threatened 
+disaster us threatened flood 
+loss honor threatened 
+learn loved one deceiver 
+loss achievement threatened 
+disaster threatened race riot 
+loss honor loved one threatened 
+banishment loved one threatened 
+disaster threatened religious war 
+loss reward loved one threatened 
+learn loved one dishonorable 
+loss liberty loved one threatened 
+slay son unrecognized 
+loss home loved one threatened 
+learn loved one disloyal 
+loss sight hearing senses threatened 
+loss health loved one threatened 
+slay father unrecognized 
+loss power loved one threatened 
+disaster threatened mysterious forces 
+slay mother unrecognized 
+fortune threatened religious revolt 
+loss victory loved one threatened 
+learn loved one fugitive justice 
+disaster threatened enemy creatures 
+slay brother unrecognized 
+threatened banishment tyrant ruler 
+power threatened religious revolt 
+slay sister unrecognized 
+learn loved one swindler 
+disaster threatened heat cold 
+insanity threatens loss happiness 
+liberty threatened strike 
+threatened boycott 
+learn loved one thief 
+disaster threatened explosion 
+insanity threatens loss life 
+power threatened blackmailer 
+threatened class war 
+reward threatened strike 
+disaster threatened class war 
+life endangered religious revolt 
+learn loved one enemy 
+insanity threatens loss loved one 
+position threatened strike 
+mind threatened blackmailer 
+disaster threatened earthquake 
+learn loved one murderer 
+threatened race riot 
+insanity threatens loss fortune 
+life threatened blackmailer 
+fortune threatened strike 
+disaster threatened drought 
+threatened religious upheaval 
+liberty threatened blackmailer 
+slay relative unrecognized 
+loss fortune loved one threatened 
+loved one threatened blackmailer 
+threatened expulsion institution 
+learn loved one mentally deranged 
+threatened banishment legal proceedings 
+mental derangement loved one threatened 
+slay daughter unrecognized 
+happiness threatened blackmailer 
+insanity threatens loss power 
+threatened strike 
+power threatened strike 
+disaster threatened epidemic 
+love threatened blackmailer 
+threatened mutiny 
+disaster threatened vengeance kinsman 
+immediate loss life loved one threatened 
+permit unrecognized brother commit suicide 
+obliged sacrifice parent god principle 
+permit unrecognized loved one executed 
+loss sight hearing senses loved one threatened 
+permit unrecognized relative undertake fatal mission 
+permit unrecognized sister murdered 
+permit unrecognized daughter perish fire 
+obliged sacrifice brother god principle 
+slay loved one unrecognized 
+loss position loved one threatened 
+fortune threatened blackmailer 
+permit unrecognized son drown 
+loss fame loved one threatened 
+permit unrecognized daughter commit suicide 
+obliged sacrifice lover country 
+permit unrecognized mother murdered 
+obliged sacrifice sister god principle 
+permit unrecognized brother undertake fatal mission 
+obliged sacrifice sister country 
+permit unrecognized father drown 
+loss use limbs loved one threatened 
+permit unrecognized son starve 
+permit unrecognized loved one commit suicide 
+obliged sacrifice child god principle 
+permit unrecognized son murdered 
+learn loved one slave passion habit 
+permit unrecognized relative executed 
+permit unrecognized loved perish fire 
+permit unrecognized daughter undertake fatal mission 
+loss achievement loved one threatened 
+permit unrecognized sister drown 
+permit unrecognized mother executed 
+name threatened blackmailer 
+permit unrecognized father executed 
+permit unrecognized relative starve 
+obliged sacrifice kinsman god principle 
+permit unrecognized son perish fire 
+permit unrecognized daughter drown 
+obliged sacrifice child country 
+permit unrecognized son executed 
+permit unrecognized mother commit suicide 
+permit unrecognized son undertake fatal mission 
+obliged sacrifice loved god principle 
+permit unrecognized father murdered 
+permit unrecognized sister starve 
+obliged sacrifice kinsman country 
+permit unrecognized brother perish fire 
+permit unrecognized loved one undertake fatal mission 
+permit unrecognized sister commit suicide 
+permit unrecognized father murdered 
+permit unrecognized loved one drawn 
+permit unrecognized mother starve 
+permit unrecognized daughter executed 
+obliged blackmail unrecognized loved one 
+obliged sacrifice brother country 
+permit unrecognized sister undertake fatal mission 
+permit unrecognized relative commit suicide 
+permit unrecognized sister perish fire 
+permit unrecognized loved one murdered 
+permit unrecognized relative drown 
+permit unrecognized sister executed 
+permit unrecognized father starve 
+obliged sacrifice parent country 
+permit unrecognized mother drown 
+permit unrecognized father undertake fatal mission 
+permit unrecognized son commit suicide 
+permit unrecognized relative perish fire 
+permit unrecognized daughter murdered 
+permit unrecognized brother drown 
+permit unrecognized loved one starve 
+permit unrecognized brother executed 
+permit unrecognized mother perish fire 
+permit unrecognized father commit suicide 
+permit unrecognized brother murdered 
+permit unrecognized mother undertake fatal mission 
+permit unrecognized brother starve 
+permit unrecognized father perish fire 
+permit unrecognized daughter starve 
+loss happiness loved one threatened 
+wherein hero makes sacrifice religion 
+wherein long-lost one appears discovered unexpectedly 
+wherein dog animal unexpectedly comes rescue 
+wherein pursuing enemy proves loved one disguise 
+wherein discovered supposedly absent person present 
+wherein enemy forces attached rivals affording relief principals 
+wherein officer pursuit hero knowing innocent allows escape 
+wherein one saved unrecognized person befriended past 
+wherein witness proved mad deranged 
+enemy betrayed accomplice 
+wherein enemy discovers person persecuting friend loved one 
+wherein character feigns dead hurt vanquished surprises enemy 
+wherein object plays part story develops thought 
+discovered mistake made parentage character 
+enemy frightened appears spiritual manifestation surrenders 
+wherein child tender age heretoforce unnoticed proves important witness 
+wherein supposedly insane person given important evidence proven sane 
+wherein tragic events develop nothing dream creation disordered mind 
+wherein enemy discovers unjustly persecuting hero acts accordingly 
+wherein enemy discovers unjustly persecuting hero acts accordingly 
+appears misfortune blessing disguise 
+wherein chain tragic events develops story someone telling 
+wherein timid girl unexpectedly wades fight comes victorious 
+wherein appeared tragic situation story reality ridiculous mistake 
+wherein enemy discovers persecuting wrong person releases hero 
+wherein revenge perpetrated horrible enmeshes enemy 
+wherein enemy disguise meets man impersonating 
+wherein enemy betrayed woman scorned abused 
+wherein slain wounded loved one proves reality enemy disguise 
+wherein person made sacrifice suddenly unexpectedly delivered 
+wherein enemy demoralized unexpected show authority 
+proven appeared commission crime mistake 
+wherein develops confusion caused presence twins triplets 
+belated evidence comes seems everything lost 
+wherein positions hero enemy suddenly reversed 
+wherein law swoops enemy 
+wherein disaster prevented strike 
+wherein hero makes sacrifice religion 
+wherein rivals attach enemy 
+wherein enemy proves mad deranged 
+wherein disaster prevented storm 
+wherein old enemies swoop enemy 
+wherein hero makes sacrifice loved one 
+wherein disaster prevented riot 
+enemy led trap 
+wherein captor proves friend disguise 
+wherein disaster prevented flood fire 
+wherein witness proves mad deranged 
+enemy betrayed accomplice 
+wherein enemy makes sacrifice loved one 
+wherein hero makes sacrifice unfortunate 
+wherein disaster prevented earthquake 
+wherein captor proves mad deranged 
+wherein person party unwittingly unexpected interrupts matters long enough hero place position win enemy 
+appears plot ruin character characters simply well-thought-plan action put supreme test – make good 
+enemy forgiven hero permitted go unpunished surrendered evidence clears problem 
+wherein chain mysterious tragic events proves action staged instigation clever detective investigator order discover solution crime problem 
+wherein person disclose facts bring ruin suddenly killed dies natural causes 
+wherein discovered unsuspected character story committed act another charged 
+enemy made gross miscalculation causes plans miscarry hero heroine victorious 
+unexpected unnoticed thing disclosed real situation evidence clears everything 
+enemy attempts escape apprehended evidence found person clears everything 
+wherein miscalculation time dates discovered last minute saves day 
+wherein new powerful weapon brought play unexpectedly enemy accomplices 
+wherein novel method used signal help 
+wherein one appeared cripple hunchback otherwise malformed proves normal person make-up 
+wherein new invention scientific discovery brought play clear mystery solve problem 
+wherein snake spider poisonous small thing suddenly attacks enemy brings 
+wherein man supposedly physically incapable cripple enters fight side right comes victorious 
+wherein judge court official trial develops witness implicated case 
+wherein actions character along misunderstood truth comes logical sequence 
+wherein enemies caused turn one another result hero heroine absolved 
+wherein enemy induced bargain causing delay makes possible vanquished 
+wherein disaster prevented results entirely different conflict persons 
+wherein hero makes sacrifice one better right 
+wherein old hag turns pretty young girl 
+wherein novel unexpected method hit upon effect escape 
+wherein one saved unloved one loves secretly 
+wherein discovered supposedly dead person alive 
+wherein develops enemy reality non-existent 
+wherein enemy betrayed defeated inconsequential evidence 
+wherein tragic situation shown merely huge joke 
+wherein develops person impersonating 
+wherein imprisoned loved one proves reality enemy disguise 
+wherein persecutor thought loved one reality enemy disguised 
+wherein victorious opponent proves friend disguise 
+wherein vanquished loved one proves reality enemy disguise 
+wherein captor proves friend disguise 
+wherein person presumed victim proves victimizer 
+wherein enemy makes sacrifice one better right 
+wherein persecutor proves loved one disguise 
+enemy compelled force confess capitulate 
+identity character mistaken 
+wherein enemy makes sacrifice memory sentiment 
+wherein disaster prevented vigilante movement 
+wherein avenger develops partner crime 
+wherein character story appears disguise 
+wherein hero makes sacrifice memory sentiment 
+wherein enemy attacked mistake friends 
+wherein hypnotism used disclose important facts 
+wherein character unwittingly proves hero 
+wherein miscalculation time dates 
+wherein enemy makes sacrifice honor principle 
+wherein unexpected assistance arrives outside 
+wherein disaster prevented rebellion revolt 
+wherein hero makes sacrifice honor principle 
+wherein victory hero though mistake part enemy 
+wherein hero saved unfortunate befriended past 
+wherein supposed slain loved one proves enemy disguise 
+wherein hero permitted escape means mechanical invention 
+wherein enemy encounters ambush 
+wherein enemy frightened appears supernatural manifestation surrenders 
+wherein act god brings downfall enemy 
+wherein enemy falls trap set hero 
+wherein hero saved unknown benefactor 
+wherein belated evidence saves hero appears lost 
+wherein enemy betrayed person wronged past 
+wherein enemy defeated miscalculation part 
+wherein hero suddenly unexpectedly delivered one guise god 
+chain events proves staged clever detective order solve crime 
+develops ally enemy friend hero 
+wherein near-tragedy proves blessing disguise 
+wherein actions supposed enemy prove misunderstood truth comes logical sequence 
+outside interference interrupts matters long enough hero place position conquer enemy 
+wherein one point disclosing facts bring ruin hero killed dies natural causes 
+enemy places position incur enmity forces aside hero allies therefore overwhelmed 
+wherein brought enemy acting false instructions righted superiors 
+discovered minor character plot committed act hero charged 
+wherein character appearing cripple idiot proves ally hero assists victory 
+wherein hero cleverly bargains enemy order cause delay brings defeat enemy 
+wherein magistrate justice proves accomplice enemy 
+wherein new discovery science clears mystery solves problem 
+wherein opponent almost vanquished hero proves friend disguise 
+wherein soft spot enemy heart touched makes sacrifice sentiment 
+wherein hero wins favor persecutor making partial sacrifice 
+wherein startling revelations show supposed enemy victim circumstances 
+ally hero proves much clever first disclosed 
+wherein principals plot saved conflict minor characters 
+evidence supposedly lost recovered 
+enemy terrorized falls existing natural trap 
+wherein chain events disclosed figment imagination dream 
+wherein captor proves employ hero parent testing fortitude 
+wherein enemy attached wild animal poisonous snake 
+another character introduced bringing unexpected evidence 
+wherein disclosed miscalculation time alters circumstances 
+element time introduced allowing matters adjust naturally 
+wherein violence avenger enemy brings cataclysm destroys 
+wherein principal character hero suddenly completely changes tactics successful 
+wherein hero magnanimously forgives enemy lets go unpunished 
+revenge plot enemy proves blessing hero 
+wherein physical weakling becomes stress battle unnaturally strong comes victorious 
+drugs poison bring downfall enemy 
+wherein develops enemy merely figment hero imagination 
+wherein compromise worked hero enemy minor sacrifice made 
+wherein enemy suddenly stricken fatal illness 
+wherein disclosed enemy relative hero reconciliation brought 
+wherein hero sacrifices revenge love one enemy 
+wherein enemy makes sacrifice unfortunate 
+wherein one injured battle proves enemy disguise 
+wherein supposed enemy proves loved one disguise 
+enemy becomes conscious-stricken confesses 
+wherein unexpected occurrence reverses position enemy hero 
+wherein officer enemy knows hero innocent allows escape 
+immortal comes rescue hero 
+wherein inconsequential act hero brings downfall enemy 
+wherein allies enemy set upon mistake 
+wherein enemy unwittingly plays hands hero 
+wherein minor character secures aid hero 
+mistaken identity disclosed thereby solving problem 
+loved one feigns illness death order secure information necessary victory 
+ally enemy discovered masquerading friend hero 
+chief witness hero principals found insane 
+wherein hero sacrifices one deems worthy 
+disclosed appeared crime mistake 
+wherein develops character story dual personality 
+captor proves friend rescuing hero greater catastrophe 
+wherein proven mistake made parentage character 
+supposedly old man turns young virile 
+enemy masquerading friend hero meets person impersonates 
+wherein victimizer becomes victim scheme 
