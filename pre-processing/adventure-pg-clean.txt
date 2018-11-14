@@ -1,0 +1,3792 @@
+assayer 
+attorney 
+athlete 
+buccaneer 
+capitalist 
+caretaker 
+cavalier 
+coast guard 
+colonist 
+commandant 
+courtier 
+evangelist 
+executive 
+gypsy 
+hermit 
+instructor 
+interpreter 
+king-prince 
+lumberman 
+millwright 
+missionary 
+nobleman 
+nomad 
+prosecutor 
+pugilist 
+racer 
+rancher 
+trader 
+warden 
+lighthouse tender 
+scholar 
+beach comber 
+singer 
+cowboy 
+miner 
+trapper 
+reporter 
+driller 
+sportsman 
+harpooner 
+journalist 
+navigator 
+lifeguard 
+police officer 
+mounted police 
+botanist 
+vigilante 
+manufacturer 
+professor 
+railroader 
+guide 
+forester 
+student 
+editor 
+diver 
+doctor 
+broker 
+engineer 
+fisherman 
+inventor 
+balloonist 
+immigrant 
+photographer 
+radio operator 
+animal trainer 
+pilot 
+seaman 
+aviator 
+explorer 
+scout 
+ranger 
+statesman 
+lumberjack 
+sheep herder 
+government agent 
+geologist 
+bondsman 
+homesteader 
+hypnotist 
+financier 
+fisherman 
+backwoodsman 
+coast guard 
+exporter 
+gangster 
+scientist 
+magician 
+chemist 
+gambler 
+sheriff 
+promoter 
+merchant 
+smuggler 
+naval officer 
+builder 
+archaeologist 
+meteorologist 
+showman 
+guard 
+dredger 
+driller oil worker 
+swimmer 
+physician 
+cowboy 
+sharpshooter 
+prospector 
+hunter 
+detective 
+riverman 
+banker 
+artist 
+ship master 
+submarine officer 
+revolutionary leader 
+foreign diplomat 
+coffee buyer 
+trapper 
+post factor 
+sheepman 
+circus performer 
+exile 
+motion picture director 
+crusader 
+legionnaire 
+secret service 
+border patrol 
+timber buyer 
+gunner gun runner 
+psychologist 
+ambassador 
+astronomer 
+bacteriologist 
+candidate 
+electrical engineer 
+excavator 
+indian chief 
+mystic 
+monarch 
+pirate 
+spy 
+heir 
+school teacher 
+officer 
+pugilist 
+surveyor 
+appraiser 
+governor 
+squatter 
+mechanic 
+guard royal court 
+teamster 
+messenger 
+express agent 
+sheik 
+telephone telephone engineer 
+trainer 
+feudalist 
+woodsman 
+author 
+photographer 
+coast guard 
+timberman 
+missionary 
+trader 
+trapper 
+sportsman 
+navigator 
+mounted police 
+guide 
+engineer 
+radio operator 
+aviator 
+explorer 
+scientist 
+gambler 
+hunter 
+sheriff 
+excavator 
+author 
+forest ranger 
+seek sunken treasure 
+gain political power 
+gain military power 
+gain personal power 
+gain financial power 
+attain position 
+obtain valuable information 
+establish home refuge 
+recover home refuge 
+attain accomplishment 
+win fame 
+seek approbation 
+regain one 's health 
+regain health friend kinsman 
+protect one 's liberty 
+protect liberty kinsman friend 
+regain one 's liberty 
+aid kinsman friend regain liberty 
+overthrow oppressor tyrant 
+conceal menacing evidence 
+assist friend escape pursuit 
+wipe stigma one 's name 
+wipe stigma name friend kinsman 
+refute unjust accusation oneself 
+refute unjust accusation friend 
+conceal embarrassing object 
+prevent great physical injury one 's friend 
+escape mental injury oneself 
+prevent mental injury one 's friend 
+thwart persecution oneself 
+thwart persecution one 's friend 
+overcome habit one 's 
+assist friend overcoming habit 
+avert prosecution oneself 
+avert prosecution friend 
+pursue vengeance race nation clan 
+pursue vengeance opposite sex 
+pursue vengeance tyrant oppressor 
+pursue vengeance insult oneself 
+pursue vengeance one caused injury friend 
+pursue vengeance robber 
+pursue vengeance robber friend 
+pursue vengeance one damaged one 's good name 
+pursue vengeance one damaged good name 
+friend 
+pursue vengeance law breaker 
+pursue vengeance violater oath 
+pursue vengeance one guilty deception 
+pursue vengeance blackmailer 
+pursue vengeance kinsman 
+pursue vengeance one destroyed 
+pursue vengeance supernatural power 
+pursue vengeance public enemy 
+pursue vengeance caused distress 
+pursue vengeance one mentally deranged 
+pursue vengeance one caused misunderstanding 
+pursue vengeance one slain kinsman 
+pursue vengeance kidnapper 
+seek recovery lost person 
+seek recovery lost valuable valuables 
+seek recovery lost information clue 
+seek solution mysterious crime 
+attempt identify unknown person 
+attempt identify unknown object thing 
+establish identity mysterious element 
+establish identity mysterious influence 
+prevent crime injury oneself 
+prevent crime injury one 's friend kinsman 
+prevent catastrophe 
+solve mystery phenomenon 
+prevent terrible injustice 
+prevent strike rebellion revolt 
+quell strike rebellion revolt 
+prevent religious uprising 
+quell religious uprising 
+prevent mutiny 
+quell mutiny 
+prevent boycott 
+end boycott 
+halt revolution 
+prevent race war 
+halt race war 
+take sides feud 
+avert feud 
+abate nuisance 
+suppress fraud 
+allay fears hysterical mob 
+impede progress enemy 
+combat ignorant belief 
+combat epidemic 
+wipe epidemic 
+combat forces nature 
+fight conflagration 
+control flood 
+combat popular superstition 
+curb vital ambition 
+compel recognition 
+enforce legal mandate 
+enforce orders superior 
+combat animal enemy 
+combat insect menace 
+overthrow monarch 
+rescue unfortunate 
+suppress vicious ring 
+brave deep waters 
+brave air 
+conceal person 
+prove one 's endurance 
+prove protect one 's honor 
+prove one 's feeling loyalty 
+combat denizens sea 
+blaze way civilization 
+carry religion savage country 
+protect throne overthrown 
+win athletic event 
+win sporting event 
+seek relief monotony 
+seek relief mental strain 
+seek new surroundings relief 
+engage dangerous sport 
+explore uncharted seas 
+explore unknown lands 
+undertake scientific expedition 
+experiment dangerous new invention 
+deliver message perilous journey 
+achieve political victory 
+brave class hatred 
+brace race hatred 
+obtain valuable franchise concession 
+smuggle object enemy lines 
+smuggle person enemy lines 
+explore ancient ruins 
+combat inclement weather 
+avert conflict two friends 
+avert warfare countries 
+prospect hidden treasure 
+hunt wild animals game 
+prevent financial catastrophe 
+recover financial catastrophe 
+obtain rare specimen 
+achieve triumph art 
+outwit business rival 
+become stowaway 
+inaugurate crusade 
+engage secret service 
+attach problem psychology 
+oppose pirate gang 
+spy enemy camp 
+obtain appraisal 
+eject marauders 
+brave desert country 
+brave frozen north 
+brave tropic jungle 
+brave savage country 
+establish communication 
+obtain valuable data 
+spread propaganda 
+reform wicked city 
+see buried treasure 
+acquire valuable territory 
+acquire strategic point 
+discover valuable mineral deposits 
+acquire valuable waters 
+acquire valuable timber 
+discover new possessions 
+discover restore valuable ancient relics 
+discover information great legal value 
+uncover information historical value 
+undertake dangerous underground exploration 
+undertake dangerous undersea exploration 
+undertake hazardous transportation 
+pursue marauders 
+cause mystery phenomenon 
+reorganize business venture 
+dominate group tribe 
+finance enterprise 
+block destructive enterprise 
+obtain valuable maps photographs 
+follow map route 
+remove pernicious influence 
+seek valuable inspiration idea 
+opposition enemies 
+danger precipitating rebellion 
+necessity determine loyalty employee 
+handicap lack transportation 
+confronted danger life father 
+indebtedness stands way 
+tempted fatal ambition 
+threatened opposition brother 
+danger suspected espionage 
+material welfare loved one stands way 
+rival powerful professionally 
+danger losing one senses 
+interference rival rivals 
+revolt contemplated 
+loss mother involved 
+rival whose equipment effective 
+question honor stands way 
+kinsman 's journey likely aroused 
+probability one 's identity questioned 
+physical welfare sister endangered 
+possibility suspected mental incompetence 
+threatened disloyalty friend limits one 
+false orders create handicap 
+fatal ambition brother holds one back 
+one confronted danger life sister 
+possibility losing brother must risked 
+contemplation vengeance part enemies 
+possibility precipitating strike 
+necessity determine good intentions person 
+opposition due false accusation 
+possibility losing valuable animal 
+rival exceeds one physical power 
+question principle interferes plans 
+mental welfare loved one stands way 
+jealousy sister may aroused 
+reluctance acknowledge authority trainor 
+handicap suspected disloyalty 
+duty mother creates limitation 
+loss father becomes possibility 
+uprising plotted 
+blocked lack money 
+one 's standing group community questioned 
+rival better equipped transportation facilities 
+loyalty tradition blocks one 's activities 
+loss friend involved 
+possibility losing one 's good name 
+physical welfare loved one endangered 
+jealousy wife becomes probable 
+mother 's material welfare stands way 
+limited lack influence 
+leaving treasure unprotected 
+necessity becoming associated fugitive justice 
+employer 's fatal ambition intrudes 
+confronted danger life wife 
+suspicion insanity directed one 
+father 's opposition may interfere 
+pleadings loved one plan 
+limited duty brother 
+threatened disloyalty employee 
+need verify method operation mechanical device 
+patriotism blocks one 's actions 
+father 's physical welfare stands way 
+necessity discover identity mysterious character 
+handicapped threatened wrong intentions person 
+necessity keeping plan secret 
+held back lack information 
+key strange code must discovered 
+handicapped duty one 's country 
+hindered lack facilities 
+necessity identify mysterious character 
+reluctance becoming associated crook 
+necessity translate foreign language explain symbol 
+precipitation mutiny possible 
+possibility causing schism 
+chance arousing vengeance part rivals 
+safety valuable object endangered 
+loss kinsman must faced 
+possibility incurring malady 
+rival greater financial power 
+necessity certain training blocks one 's plans 
+leaving task unperformed 
+reluctance becoming associated fugitive justice 
+jealousy brother possible 
+desire vengeance 
+danger suspected physical disability 
+fatal ambition friend stands way 
+necessity determine loyalty employer 
+possible opposition sister 
+reluctance become associated crook 
+kinsman may become rival 
+leaving duty unfinished 
+possible pursuit law 
+threatened opposition wife interferes plans 
+possibility suspected crookedness 
+one imperilled suspicion physical cowardice 
+necessity discover hiding place map clue 
+reluctance acknowledge authority crook 
+possibility arousing vengeance part 
+government 
+duty father involves limitation 
+supposed disloyalty employer blocks one 
+friend 's physical welfare stands way 
+necessity delivering message 
+need verify formula 
+legal complications involve one 's plans 
+blocked inclement weather 
+material welfare friend stands way 
+necessity discover identity mysterious man 
+question identity mysterious woman 
+necessity determine motive behind act 
+need verify information 
+possibility precipitating misunderstanding 
+desire vengeance part friend may possibly 
+aroused 
+safety child involved 
+possibility losing sister must faced 
+one risks loss necessary clue 
+rival whose political power greater 
+religion stands way 
+leaving loved one unprotected 
+possible pursuit rival 
+pleading friend plan 
+necessity scouting way 
+leaving valuable unprotected 
+suspected dishonesty endangers one 
+fatal ambition father stands way 
+possibility becoming associated undesirables 
+lack facilities creates handicap 
+reluctance acknowledge authority rival 
+need identify messenger 
+possible imprisonment 
+threatened loss possessions 
+opposition friend friends 
+handicap physical incapacity 
+opposition due suspicion 
+duty loved one hampers one 's plans 
+opposed legal procedure 
+confronted possible risking life 
+identity mysterious object must discovered 
+necessity identify map clue 
+riot plotted 
+risk arousing vengeance part kinsman 
+possibility deprived valuable property 
+possibility losing valuable information 
+rival better equipped tools 
+unwritten law stands way 
+possible pursuit organization 
+one involved suspected trickery 
+suspicion financially unsound 
+sister 's fatal ambition interferes plans 
+lack weapons produce handicap 
+duty wife 
+need verify truth important message 
+possible loss fortune 
+handicap mental problem 
+necessity discover identity mysterious character 
+one must discover nature strange object 
+possibility causing confusion 
+possibility arousing vengeance organization 
+possible loss one 's liberty 
+handicapped distance 
+necessity identify strange animal 
+possible arousal vengeance part society 
+possibility losing one 's health 
+rival whose mental faculties greater 
+reluctance becoming associated traitor 
+danger losing one 's honor 
+suspected deception involves one 
+limited threatened disloyalty kinsman 
+unwillingness face issue 
+handicapped religion 
+necessity finding clue 
+loyalty friend must tested 
+possible arousal vengeance part church 
+bodily injury involved 
+one faces possibility losing position 
+diabolical methods rival hamper one 
+suspicion criminal intention directed one 
+incorrect information produces handicap 
+necessity discover method operation mechanical 
+device 
+danger suspected perversion 
+one imperilled suspicion moral coward 
+fight takes place air service 
+search progress tropics 
+fire discovered plains 
+meeting takes place arena 
+discovery made back settlement 
+invasion bandit 's camp 
+entrance effected barroom 
+collision canyon 
+wealthy estate scene carousal 
+fight engaged circus 
+epidemic discovered colony 
+alarm given received dive 
+breakdown happens construction camp 
+siege desert 
+storm occurs moonshine camp 
+chase mining town 
+riot occurs docks 
+alarm sent received railroad yard 
+opposition encountered orient 
+invasion progress mythical kingdom 
+demonstration penal camp 
+search made encampment 
+meeting held farm 
+fire occurs field hospital 
+chase international border 
+masquerade discovered fisherman 's camp 
+obstruction encountered forest 
+camp attached 
+ascent descent made fort 
+meeting held frigid zone 
+opposition encountered tribal village 
+frontier scene fight 
+gypsy camp site meeting 
+riot takes place small town 
+search made grain fields 
+carousal takes place hacienda 
+chase slums 
+storm occurs savage country 
+state siege ranger 's camp 
+fire breaks logging camp 
+breakdown occurs aboard ship 
+search carried jungle 
+seaport attached 
+invasion takes place lake 
+fight engaged mission 
+interruption occurs mine 
+warning received movie location 
+demonstration resort 
+oil field place meeting 
+epidemic breaks north woods 
+campaign carried pan-america 
+siege prison 
+chase occurs plantation 
+quarantine camp fire 
+riot occurs race track 
+collision occurs caravan 
+fight staged pirate 's hangout 
+back settlement invaded 
+opposition encountered ranch 
+pine woods carousal staged 
+alarm received sent river 
+storm colony 
+masquerade takes place resort 
+epidemic breaks aboard ship 
+attack progress construction camp 
+opposition encountered ranger 's camp 
+slums scene carousal 
+sheep ranch searched 
+interruption small town 
+fort invaded 
+submarine attacked 
+chase swamps 
+storm strikes smuggler 's hangout 
+search hacienda made 
+alarm given received savage country 
+obstruction encountered trenches 
+masquerade discovered tribal village 
+siege lake 
+carousal occurs underworld 
+fire camp 
+meeting dude ranch 
+epidemic breaks mission 
+obstruction encountered island 
+fight takes place refugee 's camp 
+haunted house searched 
+chase game preserve 
+deserted village attacked 
+invasion sea shore 
+storm rages great lakes 
+demonstration takes place mine 
+search made african gold coast 
+obstruction rapids 
+whaling grounds attacked 
+fire occurs shipyard 
+quarry searched 
+meeting occurs trading post 
+carousal progress carnival 
+alarm received sent boom town 
+ascent descent takes place oil field 
+fight engaged north woods 
+riot international border 
+opposition encountered fishing village 
+search carried industrial district 
+attack pan-america 
+opposition arises lost treasure site 
+interruption excavation 
+fight occurs underseas 
+obstruction encountered pyramids 
+masquerade aboard river boat 
+alarm sent received foreign legion 
+chase penal camp 
+collision occurs race track 
+fire occurs mining town 
+attack shanty boat 
+search progress railroad yard 
+interruption occurs dive 
+siege progress air service 
+storm plains 
+attack occurs back settlement 
+barroom scene fire 
+meeting called colony 
+invasion construction camp 
+moonshine camp center riot 
+storm occurs mythical kingdom 
+carousal held encampment 
+search made fisherman 's camp 
+meeting arranged forest 
+demonstration fort 
+frontier invaded 
+opposition encountered gypsy camp 
+hacienda scene masquerade 
+fire savage country 
+logging camp scene meeting 
+chase occurs jungle 
+warning given received lake 
+mission gives alarm 
+mine scene fight 
+movie location attached 
+oil field state siege 
+north woods site demonstration 
+collision occurs pan-america 
+ascent descent takes place prison 
+plantation searched 
+fight takes place quarantine camp 
+interruption occurs caravan 
+ranch receives sends alarm 
+meeting occurs pine woods 
+storm strikes resort 
+invasion aboard ship 
+warning received sent ranger 's camp 
+slums scene fight 
+obstruction encountered lake 
+mine receives sends alarm 
+interruption north woods 
+opposition arises pan-america 
+fight engaged sheep ranch 
+chase small town 
+riot smuggler 's hangout 
+fire breaks trial village 
+underworld searched 
+camp searched 
+storm occurs dude ranch 
+epidemic breaks island 
+fight deserted village 
+international border invaded 
+meeting fishing village 
+state siege exists excavation 
+chase occurs involving river boat 
+riot breaks foreign legion 
+attack penal camp 
+masquerade mining town 
+opposition arises aboard shanty boat 
+fight waged railroad yard 
+dive invaded 
+moonshine camp used meeting place 
+breakdown occurs logging camp 
+riot plantation 
+opposition encountered pirate 's hangout 
+fight staged submarine 
+alarm given received race track 
+riot north woods 
+fight engaged oil field 
+meeting camp 
+tribal village attacked 
+obstruction encountered swamps 
+fire ranger 's camp 
+collision occurs air service 
+interruption arena 
+attack made tropics 
+chase plains 
+attack made desert 
+epidemic discovered back settlement 
+siege bandit 's camp 
+ascent descent effected dive 
+riot barroom 
+search takes place cane break 
+fight occurs canyon 
+opposition mine 
+masquerade takes place wealth estate 
+storm strikes ship 
+interruption happens circus 
+epidemic occurs prison 
+demonstration made colony 
+ascent descent occurs slums 
+carousal indulged moonshine camp 
+meeting occurs docks 
+alarm given received small town 
+orient scene riot 
+storm rages mining town 
+attack made mythical kingdom 
+pirate 's hangout searched 
+siege laid encampment 
+alarm given field hospital 
+chase underseas 
+meeting takes place fisherman 's camp 
+shipyard invaded 
+storm encountered forest 
+chase progress river 
+epidemic breaks fort 
+warning comes quarantine camp 
+attack made frigid zone 
+opposition arises railroad yard 
+ascent descent occurs frontier 
+invasion pan-america 
+fight occurs gypsy camp 
+riot occurs excavation 
+meeting takes place grain fields 
+north woods scene breakdown 
+savage country scene carousal 
+hacienda attacked 
+search progress seaport 
+masquerade discovered deserted village 
+riot takes place logging camp 
+attack jungle 
+fight engaged lake 
+storm mission 
+fire occurs shanty boat 
+breakdown occurs mine 
+interruption occurs due movie location 
+demonstration race track 
+state siege plantation 
+collision occurs race track 
+riot caravan 
+fight engaged ranch 
+masquerade discovered pine woods 
+warning received sent resort 
+ship scene carousal 
+chase occurs sheep ranch 
+fight small town 
+submarine receives sends alarm 
+smuggler 's hangout invaded 
+opposition encountered trench 
+riot underworld 
+dude ranch searched 
+riot occurs island 
+refugee 's camp attacked 
+chase includes haunted house 
+obstruction encountered game preserve 
+chase takes place sea shore 
+alarm sounded great lakes 
+storm african gold coast 
+ascent descent takes place rapids 
+fight waged whaling grounds 
+riot quarry 
+trading post searched 
+fight waged carnival 
+carousal takes place boom town 
+opposition arises international border 
+attack fishing village 
+chase includes industrial district 
+search progress lost treasure site 
+fight occurs pyramids 
+fire board river boat 
+invasion involves foreign legion 
+interruption occurs penal camp 
+carousal mining town 
+collision railroad yard 
+mine invaded 
+riot occurs dive 
+fight progress plains 
+storm occurs back settlement 
+delivery made bandit 's camp 
+alarm received barroom 
+mission state siege 
+fire discovered canyon 
+masquerade occurs colony 
+storm takes place construction camp 
+meeting held orient 
+mythical kingdom scene riot 
+riot progress encampment 
+carousal fishermen 's camp 
+fort scene fire 
+demonstration gypsy camp 
+invasion hacienda 
+fight engaged savage country 
+epidemic logging camp 
+opposition encountered jungle 
+collision occurs lake 
+obstruction encountered mine 
+search carried movie location 
+carousal oil field 
+attack north woods 
+pan-america scene chase 
+masquerade discovered prison 
+fight staged plantation 
+epidemic evidence quarantine camp 
+meeting takes place race track 
+interruption occurs pan-america 
+construction camp throes epidemic 
+chase takes place caravan 
+pirate 's hangout invaded 
+ranch attacked 
+resort scene carousal 
+ascent descent occurs aboard ship 
+ranger 's camp scene riot 
+slums searched 
+demonstration sheep ranch 
+meeting small town 
+riot occurs tribal village 
+camp invaded 
+masquerade progress dude ranch 
+fire deserted village 
+trading post scene riot 
+fight waged boom town 
+ascent descent international border 
+fight waged fishing village 
+meeting excavation 
+search made river boat 
+ascent descent effects foreign legion 
+opposition encountered penal camp 
+obstruction encountered race track 
+interruption occurs mining town 
+masquerade takes place back settlement 
+invasion colony 
+siege laid construction camp 
+fire occurs encampment 
+savage country scene riot 
+masquerade discovered logging camp 
+chase occurs lake lakes 
+opposition encountered mission 
+alarm sent received north woods 
+riot occurs prison 
+plantation struck storm 
+fight staged pine woods 
+river searched 
+attack aboard ship 
+masquerade discovered slums 
+demonstration tribal village 
+warning sent received underworld 
+attack island 
+fight waged african gold coast 
+riot industrial district 
+attack involving river boat 
+invasion penal camp 
+demonstration arena 
+invasion moonshine camp occurs 
+siege fort 
+attack mad eon frontier 
+demonstration pan-america 
+riot occurs resort 
+breakdown railroad yard 
+chase includes dive 
+search aboard shanty boat 
+fight takes place mining town 
+riot race track 
+alarm received sent penal camp 
+ascent descent mine 
+opposition encountered north woods 
+meeting takes place pan-america 
+fight occurs foreign legion 
+carousal takes place aboard river boat 
+pyramids scene attack 
+attack underseas 
+excavation invaded 
+chase lost treasure site 
+demonstration industrial district 
+storm breaks fishing village 
+obstruction encountered international border 
+boom town attacked 
+fire carnival 
+carousal held trading post 
+quarry attacked 
+riot shipyard 
+chase takes place whaling grounds 
+alarm given received rapids 
+african gold coast scene ascent descent 
+siege great lakes 
+storm breaks sea shore 
+fight takes place dude ranch 
+epidemic breaks camp 
+meeting underworld 
+fight tribal village 
+smuggler 's hangout attacked 
+breakdown swamps 
+submarine storm area 
+demonstration staged small town 
+sheep ranch attacked 
+meeting slums 
+ranger 's camp acts alarm 
+riot aboard ship 
+sight staged resort 
+river flooded 
+storm ranch 
+fight underseas 
+warning sent received pirate 's hangout 
+caravan scene search 
+interruption occurs race track 
+masquerade discovered quarantine camp 
+plantation site carousal 
+storm strikes prison 
+epidemic discovered pan-america 
+invasion north woods 
+alarm given oil field 
+fight engaged movie location 
+mine center search 
+meeting takes place mission 
+opposition encountered lake 
+riot takes place jungle 
+demonstration logging camp 
+collision occurs seaport 
+chase occurs savage country 
+interruption occurs hacienda 
+fight occurs grain fields 
+invasion gypsy camp 
+obstruction encountered frontier 
+siege frigid zone 
+fort center attack 
+chase takes place forest 
+riot fisherman 's camp 
+field hospital site search 
+attack farm 
+epidemic encountered encampment 
+fight occurs mythical kingdom 
+siege laid orient 
+docks scene search 
+fight engaged desert 
+demonstration construction camp 
+alar given received colony 
+riot circus 
+search made wealthy estate 
+chase takes place canyon 
+meeting barroom 
+carousal takes place bandit 's camp 
+fight back settlement 
+masquerade takes place arena 
+warning given air service 
+storm breaks pan-america 
+warning received sent dude ranch 
+fire starts north woods 
+interruption occurs oil field 
+opposition encountered plains 
+alarm sounded excavation 
+fight dive 
+chase takes place railroad yard 
+masquerade discovered aboard shanty boat 
+boom town invaded 
+warning received sent camp 
+obstruction encountered river 
+riot ranch 
+ascent descent occurs pine woods 
+fire aboard ship 
+meeting mining town 
+breakdown race track 
+fight waged penal camp 
+chase involving foreign legion 
+collision river boat 
+storm raging international border 
+meeting resort 
+carousal going fishing village 
+chase great lakes 
+search made deserted village 
+fight takes place game preserve 
+alarm sent received haunted house 
+epidemic breaks refugee 's camp 
+island invaded 
+tribal village invaded 
+smuggler 's hangout scene carousal 
+sheep ranch hit storm 
+ascent descent made small town 
+slums invaded 
+fight ranger 's camp 
+fire caravan 
+quarantine camp attacked 
+meeting occurs plantation 
+alarm sent received prison 
+breakdown movie location 
+mine attacked 
+carousal takes place lake 
+search carried mission 
+fight occurs logging camp 
+jungle scene demonstration 
+invasion savage country 
+epidemic breaks hacienda 
+search made gypsy camp 
+siege frontier 
+riot fort 
+demonstration takes place fisherman 's camp 
+alarm received encampment 
+carousal progress mythical kingdom 
+campaign started orient 
+fight takes place moonshine camp 
+fire deserted village 
+search takes place colony 
+meeting occurs bandit 's camp 
+chase progress back settlement 
+storm occurs tropics 
+attack plains 
+campaign carried north woods 
+opposition encountered oil field 
+pan-america scene search 
+opposition encountered excavation 
+attack progress lost treasure site 
+fight waged international border 
+masquerade carnival 
+chase occurs deserted village 
+alarm sounded dude ranch 
+camp scene fight 
+trenches invaded 
+meeting swamps 
+slums cause interruption 
+search aboard ship 
+demonstration takes place race track 
+quarantine camp searched 
+riot happens mine 
+fire breaks mission 
+storm lake 
+ascent descent made logging camp 
+epidemic breaks savage country 
+fight engaged hacienda 
+chase frigid zone 
+fort receives gives alarm 
+encampment scene meeting 
+search made construction camp 
+desert scene meeting 
+siege colony 
+fight wealthy estate 
+obstruction encountered canyon 
+alarm given back settlement 
+invasion tropics 
+fire forest 
+storm oil field 
+collision movie location 
+meeting occurs mine 
+mission scene riot 
+fire takes place lake 
+epidemic breaks jungle 
+logging camp center attack 
+riot takes place seaport 
+state siege savage country 
+meeting occurs hacienda 
+grain fields center storm 
+alarm given received gypsy camp 
+campaign laid frontier 
+fight takes place frigid zone 
+carousal takes place fort 
+forest scene search 
+storm breaks fisherman 's camp 
+epidemic breaks field hospital 
+farm searched 
+attack made encampment 
+meeting held mythical kingdom 
+fight occurs orient 
+chase docks 
+ascent descent moonshine camp 
+storm desert 
+fight takes place construction camp 
+riot occurs colony 
+masquerade takes place circus 
+fire discovered wealthy estate 
+storm breaks canyon 
+search cane brake 
+carousal takes place barroom 
+search made bandit 's camp 
+riot takes place back settlement 
+fight occurs arena 
+breakdown occurs air service 
+campaign progress tropics 
+fire dive 
+meeting railroad yard 
+collision involving shanty boat 
+search progress mining town 
+fight waged race track 
+riot breaks penal camp 
+opposition encountered foreign legion 
+storm strikes river boat 
+breakdown underseas 
+ascent descent excavation 
+riot occurs lost treasure site 
+fire oil field 
+collision occurs north woods 
+carousal takes place pan-america 
+demonstration prison 
+plantation invaded 
+storm quarantine camp 
+race track scene breakdown 
+caravan invaded 
+chase involves pirate 's hangout 
+ranch searched 
+pine woods fire 
+collision occurs river 
+resort scene fire 
+collision ships 
+riot takes place slums 
+storm strikes ranger 's camp 
+meeting sheep ranch 
+masquerade discovered small 
+submarine collision 
+epidemic swamps 
+alarm received smuggler 's hangout 
+ascent descent made trenches 
+epidemic breaks tribal village 
+underworld invaded 
+stork strikes camp 
+riot dude ranch 
+fight takes place island 
+refugee 's camp searched 
+masquerade occurs haunted house 
+game preserve attacked 
+deserted village scene carousal 
+fight sea shore 
+obstruction encountered great lakes 
+chase progress african gold coast 
+collision rapids 
+whaling grounds invaded 
+fight waged shipyard 
+attack made fishermen 's camp 
+warning given received fort 
+epidemic breaks gypsy camp 
+fire occurs hacienda 
+search carried lake 
+attack made mission 
+collision occurs mine 
+movie location receives warning 
+search progress north woods 
+fight takes place pan-america 
+collision occurs plains 
+ascent descent takes place quarry 
+obstruction discovered trading post 
+riot takes place carnival 
+fire boom town 
+masquerade discovered international border 
+fishing village scene search 
+alarm sent received industrial district 
+search made pyramids 
+mine stage siege 
+fire movie location 
+air service aids search 
+meeting plains 
+carousal started arena 
+back settlement scene search 
+fight occurs bandit 's camp 
+search made barroom 
+attack made colony 
+alarm received construction camp 
+epidemic occurs desert 
+moonshine camp searched 
+invasion orient 
+ascent descent takes place mythical kingdom 
+storm encampment 
+fight takes place forest 
+search held frigid zone 
+demonstration hacienda 
+attack occurs savage country 
+alarm given received logging camp 
+storm encountered jungle 
+attack made lake 
+search carried oil field 
+prison scene fight 
+alarm sent received plantation 
+quarantine camp invaded 
+fight staged race track 
+storm hits caravan 
+pirate 's hangout scene carousal 
+ranch state siege 
+collision occurs pine woods 
+carousal river 
+resort receives alarm 
+interruption occurs shipboard 
+ranger 's camp searched 
+epidemic breaks slums 
+fire sheep ranch 
+fire occurs small town 
+warning received sent submarine 
+attack occurs swamps 
+siege smuggler 's hangout 
+attack made trenches 
+carousal occurs tribal village 
+masquerade discovered underworld 
+alarm sent received camp 
+dude ranch invaded 
+ascent descent made island 
+storm breaks deserted village 
+fight takes place great lakes 
+attack african gold coast 
+obstruction met whaling grounds 
+ship yard searched 
+trading post attacked 
+boom town place meeting 
+riot takes place fishing village 
+ascent descent effected lost treasure site 
+fight waged excavation 
+opposition arises aboard river boat 
+storm effects foreign legion 
+masquerade discovered penal camp 
+riot progress mining town 
+fight occurs aboard shanty boat 
+carousal progress dive 
+descent ascent canyon 
+masquerade discovered construction camp 
+carousal takes place gypsy camp 
+fire mine 
+carousal movie location 
+ascent descent made north woods 
+alarm sent received pan-america 
+meeting occurs quarantine camp 
+fight takes place caravan 
+fight aboard ship 
+chase incudes ranger 's camp 
+tribal village searched 
+chase progress north woods 
+chase occurs rapids 
+riot whaling grounds 
+ascent descent takes place ship yard 
+fight waged quarry 
+trading post invaded 
+collision occurs carnival 
+oil field scene breakdown 
+storm takes place mine 
+north woods scene carousal 
+fire occurs pan-america 
+riot progress boom town 
+search international border 
+fire fishing village 
+meeting held industrial district 
+fight waged lost treasure site 
+search progress excavation 
+alarm given received aboard river boat 
+attack involving foreign legion 
+fire occurs penal camp 
+alarm sent received mining town 
+storm effects shanty boat 
+riot railroad yard 
+attack dive 
+chase air service 
+epidemic starts tropics 
+invasion plains 
+arena scene riot 
+fire back settlement 
+alarm given bandit 's camp 
+fight started barroom 
+search carried canyon 
+riot occurs wealthy estate 
+fight engaged colony 
+meeting occurs construction camp 
+fire occurs circus 
+chase occurs desert 
+breakdown happens moonshine camp 
+fight takes place docks 
+epidemic breaks orient 
+chase mythical kingdom 
+invasion takes place encampment 
+fight farm 
+fight engaged fishermen 's camp 
+pirate 's hangout attacked 
+breakdown occurs caravan 
+fire race track 
+invasion african gold coast 
+storm strikes pine woods 
+fire river 
+fight engaged fort 
+storm occurs frigid zone 
+collision happens frontier 
+alarm given received gypsy camp 
+opposition encountered grain fields 
+storm hacienda 
+ascent descent made savage country 
+fight engaged seaport 
+carousal progress logging camp 
+invasion jungle 
+lake scene riot 
+mission sends receives warning 
+campaign progress mine 
+breakdown occurs pan-america 
+search carried prison 
+epidemic breaks plantation 
+riot quarantine camp 
+caravan receives sends alarm 
+fire occurs ranch 
+attack resort 
+masquerade takes place aboard ship 
+ranger 's camp invaded 
+attack made slums 
+storm strikes small town 
+submarine involved chase 
+fight occurs swamps 
+smuggler 's hangout searched 
+search trenches made 
+alarm received sent tribal village 
+fight staged underworld 
+riot occurs camp 
+carousal dude ranch 
+island searched 
+fight haunted house 
+demonstration mission 
+epidemic breaks mine 
+storm occurs movie location 
+fire excavation 
+ascent descent occurs sea shore 
+collision occurs great lakes 
+storm occurs whaling grounds 
+meeting shipyard 
+fight trading post 
+ascent descent made pyramids 
+search carried penal camp 
+invasion mining town 
+breakdown takes place plains 
+submarine collision 
+bandit 's camp scene riot 
+demonstration takes pace barroom 
+attack orient 
+stampede cattle occurs storm 
+masquerade takes place mythical kingdom 
+demonstration encampment 
+invasion field hospital 
+fisherman 's camp scene fire 
+attack forest 
+search fort 
+ascent descent frigid zone 
+chase takes place frontier 
+masquerade discovered gypsy camp 
+riot occurs oil field 
+storm breaks north woods 
+ascent descent made pan-america 
+alarm sent received quarantine camp 
+meeting ranch 
+interruption occurs resort 
+ranger 's camp attacked 
+sheep ranch invaded 
+submarine searched 
+fight takes place smuggler 's hangout 
+carousal camp 
+attack dude ranch 
+riot refugee 's camp 
+game preserve invaded 
+fire construction camp 
+invasion air service 
+us storm island 
+ascent descent made deserted village 
+riot takes place african gold coast 
+ascent descent made carnival 
+obstruction boom town 
+alarm given received international border 
+fishing village invaded 
+breakdown occurs river boat 
+search carried foreign legion 
+attack mining town 
+riot shanty boat 
+attack railroad yard 
+search carried dive 
+attack made gypsy camp 
+riot occurs hacienda 
+opposition encountered savage country 
+storm seaport 
+alarm given received jungle 
+demonstration lake 
+masquerade occurs mission 
+mine scene carousal 
+fire occurs slums 
+storm logging camp 
+riot occurs movie location 
+meeting north woods 
+riot pan-america 
+attack made plantation 
+alarm received pirate 's hangout 
+riot pine woods 
+resort searched 
+alarm received sent ship board 
+epidemic breaks sheep ranch 
+small town invaded 
+swamps searched 
+fight occurs trenches 
+great lakes scene attack 
+fight occurs industrial district 
+fire breaks prison 
+small town attacked 
+riot takes place sheep ranch 
+search takes place great lakes 
+fire breaks industrial district 
+invasion lost treasure site 
+fight waged aboard river boat 
+riot pyramids 
+ascent descent effected penal camp 
+chase involving shanty boat 
+meeting dive 
+railroad yard scene fire 
+trouble arises colony 
+chase progress north woods 
+fire occurs plantation 
+meeting deserted village 
+masquerade discovered dive 
+threatened revolt friends 
+threatened sacrifice loved one gain advantage 
+one given false clue information rival 
+fatal indiscretion threatens loss weapons 
+conflict kinsman threatens loss treasure 
+learn friend loved one guilty deception 
+falsely accused theft 
+threatened sacrifice stronghold loved one 
+threatened blackmail woman 
+opposing side gains possessions valuable information 
+vengeance sought oneself 
+becomes necessary pursue animal 
+loss money threatened 
+one 's honor involved 
+becomes necessary identify strange man 
+one 's passion approbation stands way 
+friend becomes involved prostitute 
+remorse caused injury deters one 
+friend involved bacchanalian carousal 
+plot cause one 's mental derangement drink 
+discovery one pursuing friend 
+threatened sacrifice loved one gain treasure 
+one given false clue information opponent 
+fatal indiscretion threatens loss advantage 
+conflict kinsman threatens loss facilities 
+learn friend loved one guilty blackmail 
+falsely accused deception 
+escape prisoner 
+threatened blackmail former partner crime 
+vengeance sought kinsman 
+one given false clue information messenger 
+learn friend loved one guilty desertion 
+becomes necessary pursue friend 
+loss facilities threatened 
+becomes necessary identify strange woman 
+one 's religion involved 
+passion friend money stands way 
+anger supernatural power aroused 
+one accused contributing delinquency minor 
+remorse aided fugitive justice deters one 
+kinsman involved bacchanalian carousal 
+plot cause one 's mental derangement use 
+drugs 
+discovery one imprisoned friend 
+threatened revolt employees 
+one given false clue information friend 
+conflict kinsman threatens loss weapons 
+learn friend loved one guilty theft 
+falsely accused espionage 
+threatened sacrifice advantage loved one 
+vengeance sought friend 
+threatened blackmail rival 
+becomes necessary pursue enemy 
+threatened sacrifice loved one gain stronghold 
+one give false clue information misinterpretation 
+message 
+fatal indiscretion threatens loss supporters 
+conflict kinsman threatens loss loved one 
+becomes necessary identify apparition 
+loss weapons threatened 
+one 's integrity involved 
+passion friend power stands way 
+refusal friend comply religious requirement 
+one accused association prostitute 
+remorse caused injury deters friend 
+one involved bacchanalian carousal 
+plot cause one 's mental derangement hypnotic 
+influence 
+discovery one done injustice friend 
+threatened revolt crew 
+threatened sacrifice loved one gain weapons 
+one given false clue information employee 
+fatal indiscretion threatens loss treasure 
+conflict kinsman threatens loss advantage 
+learn friend loved one guilty espionage 
+falsely accused blackmail 
+threatened sacrifice group loved one 
+threatened blackmail false friend 
+opposing side gains possession valuable facilities 
+vengeance sought stranger 
+becomes necessary pursue rival 
+one give false clue information one whose identity 
+unknown 
+fatal indiscretion threatens loss safety 
+conflict kinsman threatens loss stronghold 
+learn friend loved one consorting enemy 
+false accused criminal activities 
+threatened blackmail employer 
+becomes necessary identify child 
+loss ground threatened 
+one 's patriotism involved 
+one 's passion money stands way 
+friend becomes incensed almighty 
+one accused illicit relations wife another 
+remorse forsaken friend deters one 
+woman involved bacchanalian carousal 
+plot cause one 's mental derangement shock 
+discovery one pursuing kinsman 
+threatened revolt populace 
+threatened sacrifice loved one gain facilities 
+one given false clue information employer 
+fatal indiscretion threatens loss stronghold 
+conflict kinsman threatens loss supporters 
+learn friend loved one guilty criminal 
+activities 
+falsely accused desertion 
+threatened sacrifice treasure loved one 
+threatened blackmail gang 
+vengeance sought rival 
+become necessary pursue employee 
+one given false clue information phenomenon 
+fatal indiscretion threatens loss facilities 
+falsely accused cowardice 
+threatened blackmail outlaw 
+become necessary identify creature 
+loss supplies threatened 
+threatened revolt subjects 
+threatened sacrifice loved one save many 
+one given false clue information influence 
+superstition 
+fatal indiscretion threatens loss valuable information 
+conflict kinsman threatens loss friend 
+learn friend loved one fugitive justice 
+false accused physical weakness 
+threatened sacrifice weapons loved one 
+threatened blackmail child 
+vengeance sought enemy 
+becomes necessary pursue stranger 
+one given false clue information coincidental 
+circumstances 
+learn friend loved one guilty betrayal 
+falsely accused consorting enemy 
+threatened blackmail officer 
+becomes necessary pursue kinsman 
+loss supporters threatened 
+becomes necessary identify object 
+one 's passion power stands way 
+anger pagan worshipers aroused 
+friend accused illicit relations wife another 
+remorse forsaken kinsman deters one 
+surrender violent temper 
+plot cause one 's mental derangement torture 
+discovery one done injustice kinsman 
+threatened revolt colony 
+threatened sacrifice loved one satisfy false 
+accusations 
+one given false clue information mistaken signal 
+fatal indiscretion threatens loss friend 
+conflict kinsman threatens loss valuable 
+information 
+learn friend loved one guilty secret 
+opposition 
+falsely accused fugitive justice 
+falsely accused betrayal 
+threatened sacrifice friend loved one 
+threatened blackmail employee 
+opposing side obtains valuable property 
+vengeance sought employee 
+become necessary identify motive 
+loss animal threatened 
+one 's reputation involved 
+one 's passion treasure relics stands way 
+one becomes incensed almighty 
+friend accused contributing delinquency minor 
+remorse punished friend deters one 
+surrender friend violent temper 
+plot cause mental derangement friend 
+discovery one imprisoned kinsman 
+threatened revolt clan 
+threatened sacrifice loved one law 
+one given false clue information substituting 
+message 
+fatal indiscretion threatens loss loved one 
+conflict kinsman threatens loss safety 
+learn friend loved one guilty cowardice 
+falsely accused secret opposition 
+threatened sacrifice facilities loved one 
+threatened blackmail kinsman 
+escape hostage 
+opposing side gains possession advantage 
+repudiation friend 
+reputation friend involved 
+passion friend approbation stands way 
+one 's refusal comply religious requirement 
+one accused illegally transporting woman 
+remorse punished kinsman deters one 
+infatuation friend questionable woman 
+discovery one injure friend 
+threatened blackmail mysterious person 
+honor friend involved 
+becomes necessary rescue living sacrifice god 
+deceive position 
+make strategic attack night 
+mislead connection message clue 
+separate forces one another 
+confuse direction 
+embroil men fight among 
+direct criminal suspicion 
+delay delivery supplies 
+torture animals 
+dishearten forces 
+attack right liberty 
+intercept delivery message 
+bluff show authority 
+rob backing 
+imprison men 
+disarm protectors 
+terrify spectacular demonstration 
+destroy position 
+defraud transaction 
+scatter dissension among friends 
+spy movements 
+bribe turn cause 
+starve men water 
+disguise friend 
+exasperate point indiscretion 
+decoy jeopardy 
+discredit eyes law 
+undermine forces 
+deceive strength 
+separate means communication 
+beguile blandishments 
+monopolize attention 
+outdistance race 
+make raid men 
+threaten false accusation 
+cajole passive submission 
+bribe men 
+overbid offer 
+execute strategic movement 
+confuse needed facilities 
+contaminate food supply 
+disintegrate munitions 
+embroil fight men 
+delay movements 
+torture friends 
+bomb defenses 
+rob authority 
+demoralize men false propaganda 
+destroy plans 
+harass solution problem 
+deceive time attack 
+mislead connection condition 
+spy friends 
+captivate beautiful woman 
+lure men trap 
+intercept meeting friends 
+force situation embarrass 
+steal supplies 
+enslave men 
+trap animals 
+humiliate 
+deceive making false pretenses compromise 
+destroy weapons 
+obstruct passage 
+kidnap loved one 
+gain strategic position 
+bluff show friendship 
+separate source money supply 
+ambush forces 
+deceive hoax 
+disguise weapon 
+monopolize facilities 
+decoy representative jeopardy 
+embroil men fight 
+cheat gambling 
+dissuade discouraging argument 
+deceive intentions 
+mislead connection signal 
+confuse location 
+starve luxury 
+rob license 
+terrify weird demonstration 
+spy source information 
+separate means transportation 
+spread disease midst 
+beguile gifts 
+exasperate point retaliation 
+discredit eyes men 
+make raid supplies 
+crush spirit persecution 
+murder 
+flatter indiscretion 
+ambush messenger 
+contaminate water supply 
+outdistance pursuit 
+capture men unawares 
+delay delivery message 
+intimidate show false strength 
+steal plans 
+separate source munition supply 
+deceive direction travel 
+mislead connection position 
+bluff argument protagonist 
+monopolize program 
+embroil fight officers law 
+direct criminal suspicion men 
+undermine standing 
+torture submission 
+send threat attack 
+make unexpected attack men 
+intercept launching adventure 
+force entrance stronghold 
+rob opportunity 
+imprison friends 
+harass progress annoying tactics 
+disarm men 
+offer gamble decision 
+commit murder lay blame 
+deceive false pleading 
+enlist strategic cooperation 
+confuse weather conditions 
+separate friends 
+deceive friends hoax 
+captivate child 
+starve air supply 
+disintegrate implements weapons 
+deceive value object 
+scatter obstacles path 
+disguise mode attack 
+decoy forces jeopardy 
+dishearten backers 
+bomb men 
+attack authority 
+rob men 
+demoralize false accusation 
+terrify men weird demonstration 
+enslave friends 
+inveigle men flattering offers 
+destroy facilities 
+mislead connection movement 
+bluff show strength 
+separate source food supply 
+ambush scout guide 
+beguile friends blandishments 
+monopolize position 
+contaminate animals disease germs 
+exasperate point discouragement 
+spy source supply 
+deceive identity another 
+discredit eyes backers 
+make raid stronghold 
+capture animals transportation 
+torture men turn 
+delay messenger 
+outdistance coming aid 
+undermine plan attack 
+hold friend loved one ransom 
+separate source water supply 
+embroil men fight officers law 
+intimidate men show authority 
+attack supplies conveyance 
+trap men 
+crush spirit men persecution 
+steal weapons implements 
+separate source men supply 
+deceive method attack 
+starve food 
+disguise position 
+rob supplies 
+attack reputation credentials 
+intimidate use falsified orders 
+intercept delivery materials 
+threaten men criminal accusation 
+force unwelcome authority 
+obstruct passage men 
+separate source animals 
+destroy prestige 
+kidnap one friends 
+murder friend 
+trade worthless thing something value 
+revolt threatens loss life 
+loss life impends result vengeance 
+erroneous judgment threatens loss health 
+fatal ambition promises cause loss liberty 
+loss fortune impends result fatal indiscretion 
+deception threatens loss reputation 
+sacrifice passion promises cause loss position 
+vengeance enemies promises result sacrifice 
+ideal 
+loss victory impends result blackmail 
+madness impending result gross deception 
+loss reward promised result daring effort 
+sacrifice loved one promised result sacrifice passion 
+fatal indiscretion threatens cause abduction 
+obligation sacrifice loved one threatened blackmailer 
+slaying kinsman recognition impends result conflict supernatural 
+disaster threatened vengeance law 
+revolt threatens loss health 
+loss liberty impends result vengeance 
+obligation sacrifice loved one threatened unfortunate 
+erroneous judgment threatens loss life 
+vengeance law promises result sacrifice ideal 
+fatal ambition promises cause loss fortune 
+madness impending result vengeance enemies 
+loss reputation impends result fatal indiscretion 
+sacrifice loved one promised result gross deception 
+deception threatens loss citizenship 
+blackmail threatens cause abduction 
+slaying kinsman recognition impends result vengeance law 
+sacrifice passion promises cause loss health 
+disaster threatened vengeance friend 
+loss liberty impends result blackmail 
+loss health promised result daring effort 
+revolt threatens loss fortune 
+loss loved one impends result vengeance 
+disaster threatened gross deception 
+erroneous judgment threatens loss reward 
+fatal ambition promises cause loss victory 
+obligation sacrifice loved one threatened vengeance enemies 
+loss citizenship impends result fatal indiscretion 
+gross deception promises result sacrifice ideal 
+loss life impends result fatal indiscretion 
+madness impending result unfortunate 
+deception threatens loss position business 
+sacrifice loved one promised result revolt 
+sacrifice passion promises cause loss liberty 
+vengeance enemies threatens cause abduction 
+loss health impends result blackmail 
+slaying kinsman recognition impends result vengeance friend 
+loss reputation promised result daring effort 
+revolt threatens loss loved one 
+loss health impends result vengeance 
+obligation sacrifice loved one threatened erroneous judgment 
+fatal ambition promises cause loss life 
+conflict supernatural promises result sacrifice ideal 
+erroneous judgment threatens loss liberty 
+madness impending result fatal indiscretion 
+loss victory impends result fatal indiscretion 
+sacrifice loved one promised result vengeance friend 
+loss sanity impends result fatal indiscretion 
+vengeance law threatens cause abduction 
+sacrifice passion promises cause loss protection law 
+loss life promised result daring effort 
+slaying kinsman recognition impends result gross deception 
+disaster threatened vengeance enemies 
+loss fortune impends result blackmail 
+revolt threatens loss reputation 
+loss position business impends result vengeance 
+obligation sacrifice loved one threatened fatal indiscretion 
+erroneous judgment threatens loss fortune 
+fatal ambition promises cause loss position 
+vengeance unfortunate promises result sacrifice ideal 
+loss health impends result fatal indiscretion 
+blackmail promises result sacrifice ideal 
+deception threatens loss life 
+madness impending result vengeance law 
+sacrifice passion promises cause loss victory 
+sacrifice loved one promised result blackmail 
+vengeance unfortunate threatens cause abduction 
+loss position business impends result blackmail 
+slaying kinsman recognition impends result revolt 
+loss liberty promised result daring effort 
+disaster threatened fatal indiscretion 
+revolt threatens loss position business 
+loss fortune impends result vengeance 
+obligation sacrifice loved one threatened revolt 
+erroneous judgment threatens loss reputation 
+fatal indiscretion promises result sacrifice ideal 
+deception threatens loss health 
+conflict supernatural threatens cause abduction 
+sacrifice passion promises cause loss fortune 
+madness impending result sacrifice passion 
+fatal ambition promises cause loss citizenship 
+slaying kinsman recognition impends result gross deception 
+loss liberty impends result fatal indiscretion 
+disaster threatened erroneous judgment 
+loss loved one impends result blackmail 
+sacrifice loved one promised result unfortunate 
+loss citizenship promised result daring effort 
+revolt threatens loss victory 
+loss reputation impends result vengeance 
+erroneous judgment threatens cause abduction 
+fatal ambition promises cause loss loved one 
+disaster threatened revolt 
+fatal ambition promises cause loss reward 
+slaying kinsman recognition impends result blackmail 
+erroneous judgment threatens loss position business 
+sacrifice loved one promised result fatal indiscretion 
+loss protection law impends result fatal indiscretion 
+madness impending result conflict supernatural 
+vengeance friend promises result sacrifice ideal 
+deception threatens loss liberty 
+sacrifice passion promises cause loss life 
+obligation sacrifice loved one threatened vengeance law 
+loss sanity promised result daring effort 
+loss citizenship impends result blackmail 
+revolt threatens loss reward 
+loss victory impends result vengeance 
+erroneous judgment threatens loss loved one 
+loss sanity impends result blackmail 
+sacrifice passion promises cause loss loved one 
+revolt promises result sacrifice ideal 
+loss position business impends result fatal indiscretion 
+deception threatens loss protection law 
+loss position business promised result daring effort 
+sacrifice loved one promised result erroneous judgment 
+madness impending result blackmail 
+revolt threatens loss protection law 
+loss loved one impends result fatal indiscretion 
+obligation sacrifice loved one threated vengeance friend 
+erroneous judgment threatens loss sanity 
+fatal ambition promises cause loss reputation 
+loss fortune promised result daring effort 
+revolt threatens cause abduction 
+slaying kinsman recognition impends result sacrifice passion 
+loss citizenship impends result vengeance 
+deception threatens loss fortune 
+loss life impends result blackmail 
+erroneous judgment promises result sacrifice ideal 
+sacrifice loved one promised result vengeance enemies 
+revolt threatens loss liberty 
+loss victory impends result fatal indiscretion 
+deception threatens loss loved one 
+loss protection law promised result daring effort 
+obligation sacrifice loved one threatened gross deception 
+erroneous judgment threatens loss victory 
+sacrifice passion promises cause loss reputation 
+gross deception threatens cause abduction 
+disaster threatened conflict supernatural 
+loss reputation impends result blackmail 
+fatal ambition promises cause loss health 
+deception threatens loss sanity 
+loss reward impends result fatal indiscretion 
+sacrifice passion promises cause loss citizenship 
+loss loved one promised result daring effort 
+obligation sacrifice loved one threatened conflict supernatural 
+madness impending result erroneous judgment 
+sacrifice loved one promised result conflict supernatural 
+loss protection law impends result vengeance 
+revolt threatens loss citizenship 
+fatal ambition promises cause loss sanity 
+sacrifice passion promises cause loss reward 
+loss reward impends result blackmail 
+madness impending result revolt 
+sacrifice loved one promised result vengeance law 
+vengeance friend threatens cause abduction 
+slaying kinsman recognition impends result vengeance enemies 
+disaster threatened blackmailer 
+loss victory impends result vengeance 
+deception threatens loss reward 
+loss protection law impends result blackmail 
+obligation sacrifice loved one threatened sacrifice passion 
+sacrifice passion promises cause loss sanity 
+loss victory promised result daring effort 
+sacrifice passion threatens cause abduction 
+revolt threatens loss sanity 
+disaster threatened sacrifice passion 
+loss sanity impends result vengeance 
+slaying kinsman recognition impends result erroneous judgment 
+madness impending result vengeance friend 
+disaster threatened unfortunate 
+flight land 
+attack night made 
+enemy 's path obstructed force men 
+prevent torture messenger 
+armed opposition air 
+enemy confused disguise 
+discredit enemy leader 
+vigilante movement 
+armistice requested 
+reinforcements brought 
+personal combat guns 
+speed erection defense 
+pursuit enemies 
+means transportation delayed 
+disarm traitor 
+enemy eluded flight 
+clever disguise effected person 
+message intercepted 
+exhaust enemy 's strength 
+marshalling forces loyal followers 
+position fortified 
+enemy band ambushed 
+capture messenger 
+starve enemy camp food 
+flight sea 
+attack made storm 
+enemy 's path obstructed water 
+prevent torture prisoner 
+armed opposition place concealment 
+enemy confused camouflage 
+discredit damning legal evidence 
+exchange prisoners proposed 
+reinforcements provided munitions 
+speed completion passage way 
+pursuit fugitive 
+disarm enemy 
+clever disguise signal 
+enemy eluded concealment 
+spy intercepted 
+marshalling clansmen 
+village fortified 
+protagonist encounters ambush 
+enemy demoralized unexpected show strength 
+capture enemy 's weapons 
+enemy 's path obstructed building 
+torture prisoner confession 
+armed opposition posse 
+enemy confused decoy 
+discredit false accusation 
+posse employed 
+surrender men agreed upon 
+reinforcements cut enemy 
+raid air 
+speed transportation munitions 
+personal conflict mounted men 
+messenger delayed 
+pursuit mysterious person 
+disarm friend 
+messenger intercepted 
+exhaust enemy 's supply munitions 
+marshalling employees 
+capture enemy scout 
+starve enemy camp water 
+flight underground 
+attack made enemy surrounded 
+prevent torture kinsman 
+enemy 's path obstructed fire 
+armed opposition stronghold 
+enemy confused trick movement 
+discredit damaging impression 
+surrender munitions agreed upon 
+reinforcements diverted strategy 
+raid stronghold 
+speed recapture prisoner 
+water supply intercepted 
+pursuit animal 
+disarm military force 
+enemy eluded strategy 
+clever disguise fighting machine 
+marshalling law 
+road barricaded 
+capture enemy stronghold 
+flight forests 
+prevent torture friend 
+enemy 's path obstructed excavation 
+armed opposition directed body water 
+military employed 
+surrender woman agreed upon 
+personal combat knives swords 
+reinforcements delayed 
+pursuit friend 
+clever disguise outlined attack 
+signal intercepted 
+enemy demoralized unexpected show numbers 
+building fortified 
+messenger ambushed 
+capture enemy machine 
+starve enemy camp water 
+attack made enemy decoyed 
+free oneself torture 
+enemy 's path obstructed slide 
+armed opposition clubs 
+enemy confused introduction scientific 
+development 
+joining forces enemy proposed 
+military reinforcements sought 
+raid dead night 
+speed demolishing structure 
+pursuit messenger 
+disarm outlaw bad 
+clever disguise stronghold 
+guard intercepted 
+exhaust enemy 's food supply 
+marshalling native crew 
+enemy demoralized unexpected show authority 
+entrance barricaded 
+capture enemy leader 
+pursuit vehicle 
+ignorant person bribed 
+enemy 's path obstructed debris 
+armed opposition explosives 
+secret service operators employed 
+reinforcements diverted obstruction 
+raid parley 
+attack made enemy led exhaust munitions 
+prevent torture accident 
+enemy 's path obstructed embankment 
+armed opposition aid military 
+enemy confused pyrotechnic display 
+discredit confession 
+raid clan 
+speed delivery message 
+personal combat bare fists 
+remedy delated 
+pursuit boat 
+disarm bomber 
+enemy eluded use decoy 
+scout intercepted 
+enemy demoralized loosing cataclysm 
+camp fortified 
+messenger bribed 
+capture enemy hostage 
+cut enemy 's supply air 
+raid officers law 
+pursuit train conveyance 
+flight across desert 
+exit barricaded 
+scout encounters ambush 
+munitions intercepted 
+enemy demoralized scientific phenomenon 
+armed opposition aid police 
+attack made attempted turn enemy 's force 
+marines employed 
+marshalling animals 
+personal combat clubs implements 
+enemy confused false signal 
+pass passage fortified 
+enemy 's path obstructed explosives 
+food supplies intercepted 
+signal delayed 
+speed reinforcements 
+discredit false messenger 
+reinforcements divided demolishing passage way 
+enemy eluded taking advantage natural phenomenon 
+clever disguise spy 
+raid mounted men 
+landing barricaded 
+disarm fighting machine 
+exhaust enemy 's water supply 
+cut enemy 's medical supply 
+pursuit plane 
+enemy demoralized utilization natural phenomenon 
+enemy 's path obstructed person 
+means transportation intercepted 
+capture enemy information 
+pass passage way barricaded 
+raid camp 
+ambush erected 
+member enemy camp bribed 
+prevent torture poisonous insects reptiles 
+flight mountains 
+vehicle hurtled 
+abyss 
+canyon 
+bridge 
+bluff 
+trestle 
+collapse structure due 
+earthquake 
+explosive 
+flood 
+tornado 
+faulty construction 
+collision vehicles 
+canyon 
+bridge 
+air 
+water 
+racetrack 
+crossing 
+chase 
+avalanche 
+rocks 
+timber 
+dirt 
+snow 
+freight 
+water 
+excavation 
+tunnel 
+construction 
+explosion due 
+bomb 
+gas 
+dust 
+water mains 
+electricity 
+heat 
+light 
+spontaneous combustion 
+conflagration 
+building 
+bridge 
+train 
+automobile 
+home 
+caravan 
+stable 
+forest 
+ship 
+airplane 
+dirigible 
+camp 
+settlement 
+city 
+storm 
+rain 
+wind 
+sand 
+snow 
+hail 
+sleet 
+electric storm 
+fog 
+deluge caused 
+flood 
+storm 
+tidal wave 
+cloudburst 
+hurricane 
+broken mains 
+broken docks 
+broken levee 
+break aqueduct 
+break dam 
+riot caused 
+revolution 
+rebellion 
+mutiny 
+sudden uprising 
+class war 
+torture inflicted 
+fire 
+branding 
+whipping 
+stretching 
+imprisonment 
+ducking 
+exposure weather 
+exposure insects 
+exposure animals 
+exposure water 
+dripping water 
+siege 
+jail 
+stronghold 
+fort 
+military position 
+site 
+factory 
+mill 
+shipyard 
+camp 
+meeting place 
+estate 
+castle 
+home 
+ship 
+power plant 
+munition plant 
+mine 
+docks 
+trading post 
+spectacular stunt 
+air 
+water 
+automobile 
+bicycle 
+horses 
+guns 
+dogs 
+balloon ascension 
+legal seizure 
+home 
+estate 
+personal possession 
+art work 
+domestic animals 
+treasures 
+person 
+bombardment 
+military post 
+enemy stronghold 
+outlaw camp 
+official headquarters 
+dam 
+railroad tracks 
+airport 
+city 
+harbor 
+fleet 
+revolutionary headquarters 
+panic 
+financial market 
+mob 
+religious gathering 
+theatre crowd 
+among herd animals 
+bank failure 
+among superstitious natives 
+freak explosion 
+supposedly unloaded weapon 
+old relic firearm 
+automatic repeating 
+hand grenade bomb 
+spectacular revelation 
+dictaphone 
+dictagraph 
+phonograph 
+radio 
+natural upheaval 
+mysterious origin 
+accident 
+spectacular descent 
+building 
+ship 
+dock 
+cliff 
+tree 
+airplane 
+dirigible 
+spectacular exodus 
+building 
+plane 
+village 
+tent 
+town 
+camp 
+train 
+home 
+island 
+country 
+spectacular ejection 
+home 
+building 
+plane 
+village 
+tent 
+ship 
+town 
+camp 
+island 
+country 
+train 
+natural upheaval 
+volcano 
+earthquake 
+water spout 
+cave-in 
+cloudburst 
+drifting sands 
+breaking ice 
+avalanche 
+spectacular communication signal provided 
+flare 
+rocket 
+light bomb 
+carrier pigeon 
+radio 
+smoke screen 
+lights 
+enemy trapped labyrinth 
+ancient ruins 
+forest 
+jungle 
+desert 
+spectacular flight 
+roaring waters 
+approaching fire 
+poisonous gas 
+military invasion 
+escaped maniacs 
+approaching storm 
+terrific heat 
+scourge insects 
+attack wild animals 
+band savages 
+band outlaws 
+night riders 
+spectacular escape affected use 
+rope 
+boat 
+horse 
+camel 
+elephant 
+plane 
+dive 
+automobile 
+dog sled 
+underground passage 
+sewer 
+ladder 
+spectacular entrance affected aid 
+rope 
+boat 
+horse 
+camel 
+elephant 
+plane 
+dive 
+automobile 
+dog sled 
+underground passage 
+sewer 
+ladder 
+structure 
+thrilling effect produced music 
+inspires 
+incites 
+pacifies 
+raid made 
+rum runners 
+cattle thieves 
+smugglers 
+dope traffickers 
+bandit 's den 
+stronghold 
+underworld hangout 
+night club 
+speakeasy 
+gambling den 
+communist headquarters 
+dance hall 
+moonshiners 
+invasion 
+claim jumpers 
+enemies 
+opposing clan 
+military forces 
+intruders 
+bandits 
+thieves 
+animals 
+insects 
+interruption 
+celebration 
+religious ceremony 
+tribal rite 
+exhibition 
+performance 
+race 
+scientific experiment 
+operation law 
+exciting chase 
+horsemen 
+automobiles 
+planes 
+hydroplanes 
+trains 
+foot 
+boats 
+camels 
+spectacular fight 
+boxing 
+fencing 
+knives 
+pistols 
+clubs 
+missiles 
+working implements 
+wrestling 
+jiu jitsu 
+exciting encounter abnormal person 
+maniac 
+drug friend 
+drunkard 
+hypnotic subject 
+deranged person 
+temporarily crazed person 
+runway 
+automobile 
+horse 
+boat 
+vehicle 
+plane 
+train 
+street car 
+bus 
+animal 
+spectacular alarm 
+warn danger 
+warn approach enemy 
+warn avalanche 
+warn flood 
+warn storm 
+warn fire 
+warn wreck 
+fanatical demonstration 
+religious 
+patriotic 
+labor 
+class 
+political 
+factional 
+racial 
+ambush 
+woods 
+desert 
+settlement 
+island 
+city 
+underground 
+water 
+appearance apparition 
+séance 
+religious meeting 
+cemetery 
+deserted house 
+deserted village 
+old mine 
+sunken ship 
+old castle 
+mysterious apparition produced 
+shadow 
+light effects 
+sound effects 
+trickery 
+atmospheric condition 
+smoke 
+fog 
+reflection 
+flogging 
+slave 
+employee 
+intruder 
+animal 
+spy 
+suspect 
+thief 
+officer law 
+prisoner 
+spectacular masquerade 
+clans 
+secret societies 
+vigilantes 
+revellers 
+fanatics 
+pagans 
+conflagration caused 
+fire drugs 
+spontaneous combustion 
+camp fires 
+smokers 
+electric wiring 
+lightning 
+engine exhaust 
+sun 's rays 
+epidemic caused 
+invasion insects 
+invasion rodents 
+invasion animals 
+invasion people 
+smuggling patient 
+deliberate spread germs 
+deliberate use poisonous gas 
+accidental escape poisonous gas 
+mysterious poisoning food 
+use poisoned water 
+use poisoned plants 
+unexpected conversion 
+villain 
+bandit 
+unbeliever 
+gambler 
+killer 
+hypocrite 
+deceiver 
+spy 
+spectacular initiation 
+ruler 
+monarch 
+tribal leader 
+political leader 
+labor leader 
+religious leader 
+agitator 
+revolutionist 
+weird ceremony interrupted among 
+pagans 
+members secret society 
+vigilantes 
+night riders 
+fanatics 
+spiritualist 
+members religious organization 
+spectacular gamble arrive decision 
+jumping beans 
+turn card 
+roll dice 
+antics insect 
+toss coin 
+target shooting 
+race animals 
+race people 
+gambling device 
+shower meteors 
+novel haphazard effect 
+flash lightning 
+attack animals reptiles 
+maddened animal 
+poisonous snake 
+lizard 
+escaped wild animal 
+sea monster 
+antideluvian monster 
+inundation 
+bog 
+quick sand 
+oil field 
+shifting sands 
+river bar 
+river cave 
+mud geyser 
+lava flow 
+baleful omen 
+eclipse 
+mysterious sounds 
+mysterious objects 
+strange natural phenomenon 
+apparition sky 
+mysterious warning 
+appearance strange mechanical object 
+unexpected action animals 
+unexpected action birds 
+weird natural phenomenon 
+magnetic disturbance 
+electrical disturbance 
+mysterious eclipse sun moon 
+terrestrial disturbance 
+disturbance air 
+disturbance sea 
+disappearance disturbance lake 
+disappearance disturbance island 
+eruption volcano 
+tidal wave 
+falling meteor 
+appearance strange heavenly body 
+atmospheric disturbance 
+disturbance natural law 
+precipitation fish insects 
+spectacular voyage 
+upper spaces 
+depths sea 
+uncharted places 
+forest jungles 
+underworld dens 
+forbidden temples 
+forbidden grounds 
+frozen world 
+across burning desert 
+unknown 
+spectacular pursuit capture 
+criminal 
+escaped convict 
+enemy 
+friend 
+kinsman 
+animal 
+runaway vehicle 
+appearance 
+strange heavenly body 
+comet 
+strange planet 
+space ship 
+wholesale slaughter 
+invaders 
+massacre 
+bombing 
+burning building 
+attack military 
+premature explosion 
+poisonous gas 
+poisonous food 
+insects 
+attack ferocious animals 
+spectacular obstruction due 
+uprooted trees 
+accumulating debris 
+overturned vehicle 
+surging waters 
+cyclonic air currents 
+burning forest 
+burning oil well 
+lake fire 
+swollen stream 
+overturned boat 
+barricade enemies 
+barricade squatters 
+rapids 
+traffic blockade 
+horses 
+automobile 
+train 
+herd cattle 
+caravan 
+cavalcade 
+plunged sudden darkness 
+failure lighting system 
+wrecking train 
+wrecking vehicle 
+sinking ship 
+cutting wires 
+shutting lights 
+diabolic scientific methods 
+natural phenomenon 
+spectacular rescue effected 
+use numbers 
+use force 
+use arms 
+use fire 
+aid boat 
+aid horse 
+aid train 
+aid airplane 
+aid new invention 
+aid submarine 
+use strategy 
+supernatural manifestation 
+precipitation panic 
+hazardous ascent descent 
+hazardous entrance 
+spectacular recovery 
+lost person 
+lost vehicle 
+lost weapon 
+lost clue 
+lost person 
+lost implement 
+lost remedy 
+great engineering feat 
+diverting channel 
+bridging stream 
+moving building 
+opening channel 
+preventing inundation 
+opening road 
+building dam 
+exciting event 
+rodeo 
+carnival 
+boat race 
+horse race 
+boxing match 
+automobile race 
+airplane race 
+acrobatic contest 
+endurance contest 
+blocked display primitive passion 
+marooned men 
+savages 
+deranged men 
+prisoners 
+man apes 
+outburst emotion 
+prisoners 
+religious fanatics 
+patriots 
+revolutionists 
+anarchists 
+savages 
+perverts 
+converts 
+pagans 
+particular conflict sexes 
+possession property 
+political situation 
+advantageous position 
+matter principle 
+matter opinion 
+led man hater 
+led woman hater 
+public scientific demonstration 
+new invention 
+newly discovered ray 
+newly discovered chemical 
+new source power 
+new method warfare 
+spectacular political campaign 
+election governor 
+election district attorney 
+election judge 
+election ruler 
+election tribal leader 
+election gang leader 
+winning issue 
+spectacular duel 
+insult 
+leadership 
+military officials 
+aviators 
+skippers 
+seamen 
+gangsters 
+gentleman roughneck 
+bullies 
+primitive men 
+carousal 
+camp 
+dance hall 
+army post 
+aboard ship 
+underworld hangout 
+dirigible 
+bandit 's lair 
+plantation 
+mob formed 
+execute thief 
+avenge insult 
+avenge death 
+protest tyranny 
+protest usurpation 
+rescue prisoner 
+oppose greater power 
+engage race war 
+make demonstration 
+clean 
+fight wild animals 
+fight reptiles 
+fight fire 
+save breaking dam 
+welcome hero 
+strike 
+mill hands 
+timber men 
+cattlemen 
+miners 
+dock workers 
+seamen mutiny 
+soldiers mutiny 
+prisoners revolt 
+spectacular search 
+building 
+town 
+island 
+woods 
+water 
+cave 
+subterranean passage 
+mysterious stronghold 
+spectacular display 
+power 
+wealth 
+authority 
+influence 
+military power 
+brutality 
+leadership 
+mysterious disguise creates 
+suspicion 
+surprise 
+panic 
+apprehension 
+amusement 
+spectacular beacon signal 
+land 
+sea 
+air 
+forest 
+fire 
+light 
+sound 
+code 
+brilliant illumination 
+electrical display 
+burning oil well 
+burning forest 
+burning structure 
+artificial lights 
+natural phenomena 
+spectacular fall 
+building 
+ship 
+train 
+automobile 
+tower 
+plane 
+spectacular delivery message 
+carrier pigeon 
+radio 
+plane 
+dog sled 
+runner 
+boat 
+spectacular intrusion 
+savages 
+natives 
+animals 
+enemies 
+rivals 
+officers law 
+insects 
+friends 
+faddists 
+colonists 
+pleasure seekers 
+treasure seekers 
+treasure unexpectedly discovered 
+buried money 
+precious stones 
+valuable ore 
+medieval relics 
+remains fossils 
+ivory 
+valuable waters 
+oil 
+hidden records 
+spectacular weird discovery 
+human remains 
+traces diabolical crime 
+evidence foul play 
+person buried alive 
+creation synthetic man 
+creation animal monstrosity 
+public denunciation 
+good man 
+bad man 
+good woman 
+bad woman 
+unfortunate 
+tyrant 
+supposed witch 
+one misunderstood 
+spectacular exit aperture 
+building 
+mountain pass 
+canyon 
+ship 
+cave 
+underground passage 
+spectacular entrance aperture 
+building 
+mountain pass 
+canyon 
+ship 
+cave 
+underground passage 
+spectacular trail bloodhounds find 
+fugitive 
+lost person 
+suffering person 
+animal 
+criminal 
+spectacular use animals locate 
+lost person 
+injured person 
+fugitive 
+lost object 
+lost injured animal 
+marooned person 
+bomb explosion group 
+land 
+sea 
+plane 
+building 
+trench 
+excavation 
+engineering job 
+spectacular action concealment 
+friend 
+enemy 
+valuable possession 
+clue 
+device 
+message 
+signal 
+spectacular opening 
+bank 
+safe 
+cache 
+treasure box 
+stronghold 
+wrecked ship 
+wrecked submarine 
+wrecked train 
+underground passage 
+discovery salvage 
+ship 
+building 
+desert cache 
+timber cache 
+ruins 
+shelter offered 
+criminal 
+escaped convict 
+suspect 
+friend 
+spectacular accident chase 
+foot 
+automobile 
+airplane 
+horseback 
+camels 
+boats 
+spectacular entrapment due 
+cave 
+explosion 
+slide 
+assault 
+conflagration 
+deluge 
+storm 
+simoon 
+stampede 
+wild animals 
+spectacular abandonment 
+project 
+mine 
+expedition 
+race 
+boom town 
+spectacular sighting 
+enemies 
+friends 
+invaders 
+rescuers 
+embarrassing discovery 
+rivals 
+opponents 
+friends 
+strangers 
+spectacular sound creates disturbance 
+tomtom 
+explosion 
+sound warning 
+sound distress 
+sounds elements 
+storm 
+earthquake 
+tidal wave 
+ice break 
+spectacular fight 
+wild animal 
+monsters 
+madman 
+freed mechanical device 
+unexpected appearance 
+necessary character 
+enemy 
+great danger 
+change weather 
+strange animal 
+lost person 
+lost pet 
+omen 
+signal 
+messenger 
+spectacular rush 
+boom town 
+mining boom 
+oil wells 
+diamond mine 
+gem mine 
+place treasure supposed hidden 
+natural phenomenon 
+unexpected opposition 
+enemies 
+rivals 
+friends 
+government 
+strangers 
+natural causes 
+spectacular blockade supplies 
+food stuffs 
+implements 
+vehicles 
+ammunition 
+medicines 
+clothing 
+feed stuffs 
+building materials 
+chemicals 
+fuel 
+spectacular exhibition 
+conjurer 
+hypnotist 
+acrobat 
+medicine man 
+voodoo man 
+trickster 
+collapse defense 
+fort 
+barricade 
+ambush 
+sea 
+land 
+spectacular discovery cul-de-sac 
+unfinished road 
+blind alley 
+tunnel 
+blind trail 
+misleading evidence 
+lost trail 
+blocked roadway 
+spectacular dance 
+fascinates 
+causes furore 
+interrupts 
+arouses primitive passions 
+symbolic 
+spectacular demonstration official holiday 
+armistice day 
+fall bastille 
+memorial day 
+election day 
+local holiday 
+spectacular destruction 
+statue 
+art treasure 
+vehicle 
+boat 
+banner 
+spectacular changing course due 
+air currents 
+tide 
+wind 
+storm 
+
+spectacular departure 
+ship 
+train 
+expedition 
+cavalcade 
+caravan 
+group people 
+horsemen 
+spectacular rescue 
+fire 
+water 
+heat 
+collision 
+precarious position 
+cold 
+natural forces 
+volcano 
+earthquake 
+spectacular overtaking 
+horsemen 
+automobile 
+ship 
+plane 
+foot 
+vehicle 
+animal 
+spectacular warning given 
+airplane 
+ship 
+train 
+desert party 
+timbermen 
+lumbermen 
+officials 
+gangsters 
+rescuers 
+intruders 
+spectacular break machinery implements 
+train 
+automobile 
+vehicle 
+bridge work 
+building construction 
+ship 
+dam 
+caravan 
+plane 
+engineering job 
+spectacular discovery illicit traffic 
+dope 
+liquor 
+men 
+women 
+valuables 
+spectacular break machinery implements 
+enemies 
+rivals 
+friends 
+accident 
+faulty design 
+natural phenomenon 
+spectacular impersonation 
+enemy 
+friend 
+rival 
+double 
+clown 
+trickster 
+spectacular display insubordination 
+navy 
+army 
+shipboard 
+gang 
+expedition 
+among workmen 
+among servants 
+spectacular relief 
+wind bound 
+snow bound 
+ice bound 
+storm bound 
+caught simoon 
+spectacular use key 
+code 
+door 
+jail 
+house mystery 
+castle 
+structure 
+secret activities 
+spectacular breaking lock 
+building 
+treasure box 
+ship 
+train 
+tent 
+spectacular use camouflage 
+battle 
+forest 
+sea 
+land 
+building 
+evidence furnished spectacular taking photograph 
+air 
+sea 
+land 
+precarious place 
+spectacular discovery unknown 
+person 
+element 
+ray 
+chemical 
+spectacular definition 
+clue 
+possession 
+disfigurement 
+likeness 
+spectacular fight 
+boxing 
+fencing 
+knives 
+pistols 
+clubs 
+missiles 
+working implements 
+wrestling 
+jiu jitsu 
+spectacular exodus 
+building 
+plane 
+village 
+tent 
+ship 
+town 
+camp 
+train 
+home 
+island 
+country 
+spectacular observation event 
+air 
+land 
+sea 
+building 
+vantage point 
+natural high point 
+tower 
+spectacular deluge caused 
+flood 
+storm 
+tidal wave 
+cloudburst 
+hurricane 
+broken mains 
+broken docks 
+broken levee 
+break aqueduct 
+break dam 
+spectacular storm 
+sea 
+land 
+forest 
+desert 
+island 
+mountains 
+frozen north 
+spectacular riot caused 
+revolution 
+rebellion 
+mutiny 
+sudden uprising 
+class war 
+spectacular siege 
+jail 
+stronghold 
+fort 
+military position 
+capital 
+site 
+factory 
+mill 
+shipyard 
+camp 
+meeting place 
+estate 
+castle 
+home 
+ship 
+power plants 
+munition plant 
+mine 
+docks 
+trading post 
+spectacular panic 
+financial market 
+mob 
+religious gathering 
+theatre crowd 
+among herd animals 
+bank failure 
+among superstitious natives 
+spectacular revelation 
+dictaphone 
+dictagraph 
+phonograph 
+radio 
+due natural upheaval 
+due mysterious origin 
+accident 
+spectacular escape effected use 
+boat 
+horse 
+camel 
+elephant 
+plane 
+dive 
+automobile 
+dog sled 
+underground passage 
+sewer 
+ladder 
+natural upheaval 
+volcano 
+earthquake 
+water spout 
+cave 
+cloudburst 
+drifting sands 
+breaking ice 
+avalanche 
+carousal 
+friends 
+enemies 
+rivals 
+savages 
+pagans 
+gangsters 
+aviators air 
+sea-going men 
+appearance apparition 
+séance 
+religious meeting 
+cemetery 
+deserted house 
+deserted village 
+old mine 
+sunken ship 
+old castle 
+spectacular flight 
+roaring waters 
+approaching fire 
+poisonous gas 
+military invasion 
+escaped maniacs 
+approaching storm 
+terrific heat 
+scourge insects 
+attack wild animals 
+band savages 
+band outlaws 
+night riders 
+thrilling effect produced music 
+inspires 
+incites 
+pacifies 
+weird natural phenomenon 
+magnetic disturbance 
+electrical disturbance 
+mysterious eclipse sun moon 
+terrestrial disturbance 
+disturbance air 
+disturbance sea 
+disappearance disturbance lake 
+disappearance disturbance island 
+eruption volcano 
+tidal wave 
+falling meteor 
+appearance strange heavenly body 
+atmospheric disturbance 
+disturbance natural laws 
+precipitation fish insects 
+spectacular use key 
+code 
+secret activities 
+door 
+jail 
+house mystery 
+castle 
+structure 
+spectacular voyage 
+upper spaces 
+depths sea 
+uncharted places 
+forest jungles 
+underworld dens 
+forbidden temples 
+forbidden grounds 
+frozen world 
+across burning desert 
+unknown 
+treasure unexpectedly discovered 
+buried money 
+precious stones 
+valuable ore 
+medieval relics 
+remains fossils 
+ivory 
+valuable waters 
+oil 
+hidden records 
+spectacular punishment administered 
+fire 
+branding 
+whipping 
+stretching 
+imprisonment 
+ducking 
+exposure 
+weather 
+insects 
+animals 
+water 
+dripping water 
+spectacular bombardment 
+ships 
+airplanes 
+tower 
+fortress 
+defense 
+mountains 
+spectacular device used safety 
+parachute 
+life belt 
+life boat 
+rope cloth ladder 
+fetish 
+animals 
+mechanical device 
+conveyance 
+strange passageway 
+attack animals reptiles 
+maddened animal 
+poisonous snake 
+lizard 
+escaped wild animal 
+sea monster 
+antideluvian monster 
+conflagration 
+building 
+bridge 
+train 
+automobile 
+home 
+caravan 
+stable 
+forest 
+ship 
+airplane 
+dirigible 
+camp 
+settlement 
+city 
+spectacular delivery message 
+aviator 
+radio operator 
+carrier pigeon 
+dog sled driver 
+boat 
+runner 
+human telegraph system 
+traffic blockade 
+horsemen 
+automobiles 
+train 
+herd cattle 
+caravan 
+cavalcade 
+spectacular arrival one important characters 
+airplane 
+boat 
+horseback 
+camels 
+elephants 
+hiding conveyance 
+wreck 
+conflagration 
+spectacular relief brought 
+airplane 
+boat 
+ship 
+dog sled 
+caravan 
+horsemen 
+mechanical device 
+spectacular rescue 
+fire 
+water 
+heat 
+air 
+collision 
+precarious position 
+cold 
+natural forces 
+volcano 
+earthquake 
+collapse structure due 
+earthquake 
+explosive 
+flood 
+tornado 
+faulty construction 
+spectacular accident conveyance 
+automobile slide 
+horse slide 
+train crash slide 
+airplane dive fall 
+dirigible fall 
+ship floundering 
+desert animals minus water 
+spectacular collapse 
+building 
+bridge 
+tent 
+fort 
+barricade 
+engineering job 
+spectacular obstruction due 
+uprooted trees 
+accumulating debris 
+overturned vehicle 
+surging waters 
+cyclonic air currents 
+burning forest 
+burning oil well 
+lake fire 
+swollen stream 
+overturned boat 
+barricade enemies 
+barricade squatters 
+rapids 
+great engineering feat 
+diverting channel 
+bridging stream 
+moving building 
+opening channel 
+preventing inundation 
+opening road 
+building dam 
+spectacular illumination points way 
+land 
+sea 
+air 
+causes panic 
+suggests relief 
+causes warning 
+spectacular exhibition 
+conjurer 
+hypnotist 
+acrobat 
+medicine man 
+voodoo man 
+trickster 
+spectacular flight 
+roaring waters 
+approaching fire 
+poisonous gas 
+military invasion 
+escaped maniacs 
+approaching storm 
+terrific heat 
+scourge insects 
+attack wild animals 
+band outlaws 
+night riders 
+spectacular flight natural phenomenon 
+enemies 
+friends 
+attackers 
+savages 
+ignorant people 
+settlers 
+servants 
+spectacular meeting 
+ruler 
+monarch 
+tribal leader 
+political leader 
+labor leader 
+agitator 
+revolutionist 
+lost person 
+fugitive 
+spectacular natural phenomenon 
+appearance comet 
+appearance strange planet 
+appearance space ship 
+appearance monster 
+disturbance sea 
+disturbance land 
+disturbance atmosphere 
+disturbance light conditions 
+avalanche 
+rocks 
+timber 
+dirt 
+snow 
+freight 
+water 
+excavation 
+tunnel 
+construction job 
+spectacular reaction cause epidemic 
+sea 
+settlement 
+island 
+town 
+wilds 
+oasis 
+capture aided spectacular taking photograph 
+conflagration 
+collision 
+wreck 
+land 
+sea 
+air 
+volcano 
+frozen country 
+desert 
+forests 
+mountains 
+uncharted places 
+spectacular flight use 
+horses 
+automobiles 
+planes 
+train 
+underground passage 
+passage across roofs 
+secret passages 
+desert animals 
+ship 
+submarine 
+spectacular intrusion 
+savages 
+natives 
+animals 
+enemies 
+rivals 
+officers law 
+insects 
+friends 
+faddists 
+colonists 
+pleasure seekers 
+treasure seekers 
+exciting chase 
+horsemen 
+automobiles 
+planes 
+hydroplanes 
+trains 
+foot 
+boats 
+camels 
+conveyance 
+spectacular sound creates disturbance 
+tomtoms 
+explosion 
+sound warning 
+sound distress 
+sounds elements 
+storm 
+earthquake 
+tidal wave 
+ice break 
+unexpected appearance 
+necessary character 
+enemy 
+great danger 
+change weather 
+strange animal 
+lost person 
+lost pet 
+omen 
+signal 
+messenger 
+plunged sudden darkness 
+failure lighting system 
+wrecking train 
+wrecking vehicle 
+sinking ship 
+cutting wires 
+shutting lights 
+diabolic scientific method 
+natural phenomenon 
+collision vehicles 
+canyon 
+bridge 
+air 
+water 
+racetrack 
+crossing 
+chase 
+attempted escape 
+spectacular raid made 
+rum runners 
+cattle thieves 
+smugglers 
+dope traffickers 
+bandit 's den 
+stronghold 
+underworld hangout 
+night club 
+speakeasy 
+gambling den 
+communist headquarters 
+dance hall 
+moonshiners 
+spectacular use camouflage deceive 
+enemies 
+friends 
+rivals 
+assistants 
+spectacular descent 
+building 
+ship 
+dock 
+tree 
+airplane 
+dirigible 
+mountain 
+spectacular alarm 
+warn danger 
+warn approach enemy 
+warn avalanche 
+warn flood 
+war storm 
+warn fire 
+warn wreck 
+exciting chase 
+horsemen 
+automobiles 
+planes 
+hydroplanes 
+trains 
+foot 
+boats 
+camels 
+conveyance 
