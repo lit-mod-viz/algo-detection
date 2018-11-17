@@ -335,7 +335,7 @@
 152. Princess
 153. Actress
 154. Model
-155. Co- ed
+155. Co-ed
 156. Singer
 157. Student
 158. Usherette
@@ -362,371 +362,313 @@
 179. Financier
 180. Racketeer
 
-* Beloveds (female- with background)
-1. Diva- Opera
-2. Waif- Slums
-3. Slave- Orient
-4. Judge- Courtroom
-5. Diver- Seashore
-6. Poet- Bohemian District
-7. Co- ed- College
-8. Nurse- Hospital
-9. Model- - Artist's Studio
-10. Dancer- Night club
-11. Guide- Mountains
-12. Clerk- Department Store
-13. Artist- Artist's Studio
-14. Actress- Theatre
-15. Heiress- Pleasure resort
-16. Cashier- Café
-17. Singer- Night club
-18. Servant- Wealthy home
-19. Peasant- Rural district
-20. Invalid- Hospital
-21. Athlete- Coliseum
-22. Manikin- Modiste shop
-23. Weaver- Mill
-24. Cowgirl- Range
-25. Abbess- Abbey
-26. Writer- Anywhere
-27. Modiste- Shop
-28. Waitress- Café
-29. Musician- Conservatory
-30. Secretary- Office
-31. Art critic- Salon
-32. Governess- Wealthy home
-33. Acrobat- Circus
-34. Editor- Publishing house
-35. Aviatrix- Airport
-36. Attorney- Court
-37. Shepherdess- Sheep ranch
-38. Senorita- Latin America
-39. Detective- Detective bureau
-40. Composer- Bohemian district
-41. Immigrant- Port of entry
-42. Forewoman- Factory
-43. Registrar- College
-44. Translator- Customs office
-45. Physician- Hospital
-46. Designer- Modiste shop
-47. Lecturer- Auditorium
-48. Courtesan- Royal Court
-49. Missionary- Orient
-50. Scientist- Laboratory
-51. Adventuress- Anywhere
-52. Noblewoman- Royal Court
-53. E vangelist- Tabernacle
-54. Sportswoman- Race track
-55. Chambermaid- Hotel
-56. Stenographer- Office
-57. Journalist- Newspaper office
-58. Playwright- Theatre
-59. Manicurist- Barber shop
-60. Saleswoman- Store
-61. Chorus girl- Theatre
-62. Society belle- Ballroom
-63. School teacher- School
-64. Film Director- Movie Studio
-65. Taxi dancer- Dance Hall
-66. Film “Extra”- Movie Studio
-67. Fortune teller- Amusement Zone
-68. Business woman- Business District
-69. Lion tamer- Circus
-70. Cotton picker- Plantation
-71. Huckstress- Market
-72. Telegrapher- Telegraph office
-73. Horsewoman- Race track
-74. Farmerette- Farm
-75. Policewoman- Police station
-76. Press agent- Anywhere
-77. Inn keeper- Inn
-78. Performer- Circus
-79. Telephone operator- Office
-80. Interior decorator- Salon
-81. Consul- Consulate
-82. Rancher- Ranch
-83. Actor- Theatre
-84. Guide- Jungle
-85. Miner- Mining town
-86. Aviator- Airport
-87. Judge- Anywhere
-88. Clown- Circus
-89. Trader- Frontier
-90. Farmer- Farm
-91. Singer- Conservatory
-92. Miller- Mill
-93. Diver- Seaside
-94. Artist- Bohemian district
-95. Doctor- Hospital
-96. Editor- Newspaper office
-97. Banker- Anywhere
-98. Merchant- Store
-99. Soldier- Army post
-100. Beggar- Slums
-101. Fireman- Large City
-102. Captain- Boat
-103. Chemist- Laboratory
-104. Athlete- College
-105. Reformer- Anywhere
-106. Driller- Oil fields
-107. Assayer- Mining town
-108. Sheriff- Court house
-109. Shepherd- Sheep ranch
-110. Director- Movie studio
-111. Gambler- Casino
-112. Ranger- Plains
-113. Teamster- Construction camp
-114. Policeman- Tenement district
-115. Trapper- North woods
-116. Sportsman- Anywhere
-117. Capitalist- Anywhere
-118. Bartender- Frontier
-119. Professor- College
-120. Politician- City
-121. Governor- Mansion
-122. Publisher- Publishing house
-123. Promoter- Anywhere
-124. Canoeist- River
-125. Exporter- Industrial district
-126. Clergyman- Rectory
-127. Explorer- Frontier
-128. Smuggler- International border
-129. Squatter- Farm
-130. Scientist- Laboratory
-131. Publicist- Movie studio
-132. Pugilist- Arena
-133. Statesman- Capitol
-134. Telegrapher- “Tank town”
-135. Evangelist- Tabernacle
-136. Prosecutor- Court room
-137. Philosopher- Anywhere
-138. Fisherman- Fishing village
-139. Prospector- Desert
-140. Ferryman- River
-141. Army officer- Army post
-142. Ringmaster- Circus
-143. Impresario- Booking office
-144. Photographer- Anywhere
-145. Navy officer- Seaport
-146. Backwoodsman- Backwoods
-147. Taxi driver- City
-148. Harbor master- Harbor
-149. Laborer- Slums
-150. Vagabond- Anywhere
-151. Planter- Plantatiom
-152. Sailor- Seaport
-153. Servant- Anywhere
-154. Cowboy- West
-155. Matador- Arena
-156. Sawyer- Sawmill
-157. Railroader- Junction
-158. Builder- Boom town
-159. Hustler- Race track
-160. Mechanic- Garage
-161. Spieler- Carnival
-162. Turnkey- Jail
-163. Jester- Royal court
-164. Barber- Small town
-165. Tender- Lighthouse
-166. Mystic- Studio
-167. Gaucho- The Argentine
-168. Nurse- Sanitorium
-169. Guard- Royal court
-170. Forester- Forest
-171. Animal tamer- Menagerie
-172. Archaeologist- Ancient ruins
-173. Chimney sweep- Slums
-174. Missionary- Pagan country
-175. Balloonist- Circus
-176. Inventor- Anywhere
-177. Engineer- Anywhere
-178. Botanist- Gardens
-179. Accoustician- Radio station
-180. Riding master- Riding academy
+* Beloveds (female - with background)
+1. Diva - Opera
+2. Waif - Slums
+3. Slave - Orient
+4. Judge - Courtroom
+5. Diver - Seashore
+6. Poet - Bohemian District
+7. Co-ed - College
+8. Nurse - Hospital
+9. Model - Artist's Studio
+10. Dancer - Night club
+11. Guide - Mountains
+12. Clerk - Department Store
+13. Artist - Artist's Studio
+14. Actress - Theatre
+15. Heiress - Pleasure resort
+16. Cashier - Café
+17. Singer - Night club
+18. Servant - Wealthy home
+19. Peasant - Rural district
+20. Invalid - Hospital
+21. Athlete - Coliseum
+22. Manikin - Modiste shop
+23. Weaver - Mill
+24. Cowgirl - Range
+25. Abbess - Abbey
+26. Writer - Anywhere
+27. Modiste - Shop
+28. Waitress - Café
+29. Musician - Conservatory
+30. Secretary - Office
+31. Art critic - Salon32. Governess - Wealthy home33. Acrobat - Circus34. Editor - Publishing house35. Aviatrix - Airport36. Attorney - Court37. Shepherdess - Sheep ranch38. Senorita - Latin America39. Detective - Detective bureau40. Composer - Bohemian district41. Immigrant - Port of entry42. Forewoman - Factory43. Registrar - College44. Translator - Customs office45. Physician - Hospital46. Designer - Modiste shop47. Lecturer - Auditorium48. Courtesan - Royal Court49. Missionary - Orient50. Scientist - Laboratory51. Adventuress - Anywhere52. Noblewoman - Royal Court53. E vangelist - Tabernacle54. Sportswoman - Race track55. Chambermaid - Hotel56. Stenographer - Office57. Journalist - Newspaper office58. Playwright - Theatre59. Manicurist - Barber shop60. Saleswoman - Store
+61. Chorus girl - Theatre
+62. Society belle - Ballroom
+63. School teacher - School
+64. Film Director - Movie Studio
+65. Taxi dancer - Dance Hall
+66. Film “Extra” - Movie Studio
+67. Fortune teller - Amusement Zone
+68. Business woman - Business District
+69. Lion tamer - Circus
+70. Cotton picker - Plantation
+71. Huckstress - Market
+72. Telegrapher - Telegraph office
+73. Horsewoman - Race track
+74. Farmerette - Farm
+75. Policewoman - Police station
+76. Press agent - Anywhere
+77. Inn keeper - Inn
+78. Performer - Circus
+79. Telephone operator - Office
+80. Interior decorator - Salon
+81. Consul - Consulate
+82. Rancher - Ranch
+83. Actor - Theatre
+84. Guide - Jungle
+85. Miner - Mining town
+86. Aviator - Airport
+87. Judge - Anywhere
+88. Clown - Circus
+89. Trader - Frontier
+90. Farmer - Farm
+91. Singer - Conservatory
+92. Miller - Mill
+93. Diver - Seaside
+94. Artist - Bohemian district
+95. Doctor - Hospital
+96. Editor - Newspaper office
+97. Banker - Anywhere
+98. Merchant - Store
+99. Soldier - Army post
+100. Beggar - Slums
+101. Fireman - Large City
+102. Captain - Boat
+103. Chemist - Laboratory
+104. Athlete - College
+105. Reformer - Anywhere
+106. Driller - Oil fields
+107. Assayer - Mining town
+108. Sheriff - Court house
+109. Shepherd - Sheep ranch
+110. Director - Movie studio
+111. Gambler - Casino
+112. Ranger - Plains
+113. Teamster - Construction camp
+114. Policeman - Tenement district
+115. Trapper - North woods
+116. Sportsman - Anywhere
+117. Capitalist - Anywhere
+118. Bartender - Frontier
+119. Professor - College
+120. Politician - City
+121. Governor - Mansion122. Publisher - Publishing house123. Promoter - Anywhere124. Canoeist - River125. Exporter - Industrial district126. Clergyman - Rectory127. Explorer - Frontier128. Smuggler - International border129. Squatter - Farm130. Scientist - Laboratory131. Publicist - Movie studio132. Pugilist - Arena133. Statesman - Capitol134. Telegrapher - “Tank town”135. Evangelist - Tabernacle136. Prosecutor - Court room137. Philosopher - Anywhere138. Fisherman - Fishing village139. Prospector - Desert140. Ferryman - River141. Army officer - Army post142. Ringmaster - Circus143. Impresario - Booking office144. Photographer - Anywhere145. Navy officer - Seaport146. Backwoodsman - Backwoods147. Taxi driver - City148. Harbor master - Harbor149. Laborer - Slums150. Vagabond - Anywhere
+151. Planter - Plantatiom
+152. Sailor - Seaport
+153. Servant - Anywhere
+154. Cowboy - West
+155. Matador - Arena
+156. Sawyer - Sawmill
+157. Railroader - Junction
+158. Builder - Boom town
+159. Hustler - Race track
+160. Mechanic - Garage
+161. Spieler - Carnival
+162. Turnkey - Jail
+163. Jester - Royal court
+164. Barber - Small town
+165. Tender - Lighthouse
+166. Mystic - Studio
+167. Gaucho - The Argentine
+168. Nurse - Sanitorium
+169. Guard - Royal court
+170. Forester - Forest
+171. Animal tamer - Menagerie
+172. Archaeologist - Ancient ruins
+173. Chimney sweep - Slums
+174. Missionary - Pagan country
+175. Balloonist - Circus
+176. Inventor - Anywhere
+177. Engineer - Anywhere
+178. Botanist - Gardens
+179. Accoustician - Radio station
+180. Riding master - Riding academy
 
-* Beloveds (male- with background)
-1. Diver- Harbor
-2. Guide- Forest
-3. Gypsy- Gypsy Camp
-4. Miner- Mining camp
-5. Aviator- Airport
-6. Clerk- Oﬂice
-7. Scout- Jungle
-8. Hermit- Mountains
-9. Ranger- Plains or mountains
-10. Banker- Bank
-11. Consul- Consulate
-12. Artist- Bohemian district
-13. Cowboy- Range
-14. Farmer- Farm
-15. Actor- Theatre
-16. Gunner- Fort
-17. Sailor- Seaport
-18. Dancer- Night Club
-19. Editor- Newspaper office
-20. Warden- Prison
-21. Trader- Frontier
-22. Singer- Night Club
-23. Hunter- Jungle
-24. Broker- Stock exchange
-25. Soldier- Army post
-26. Athlete- Gymnasium
-27. Gambler- Casino
-28. Paddler- Market
-29. Rancher- Ranch
-30. Acrobat- Circus
-31. Chemist- Laboratory
-32. Fireman- Fire department
-33. Assayer- Laboratory
-34. Doctor- Hospital
-35. Athlete- College
-36. Servant- Mansion
-37. Importer- Commercial district
-38. Shepherd- Sheep ranch
-39. Merchant- Department store
-40. Vagabond- Anywhere
-41. Violinist- Conservatory
-42. Captain- Boat
-43. Composer- Bohemian district
-44. Bell boy- Hotel
-45. Pioneer- Frontier
-46. Reporter- Anywhere
-47. Matador- Arena
-48. Mystic- Studio
-49. Wrestler- Arena
-50. Promoter- Anywhere
-51. Scientist- Laboratory
-52. Forester- Forest
-53. Attorney- Court
-54. Sawyer- Sawmill
-55. Jockey- Race track
-56. Chauffeur- Wealthy home
-57. Detective- Detective bureau
-58. Architect- Business district
-59. Peasant- Rural district
-60. Pugilist- Arena
-61. Engineer- Construction camp
-62. Trapper- Forest
-63. Waiter- Night Club
-64. Clown- Circus
-65. Poet- Bohemian district
-66. Spy- Enemy country
-67. Usher- Theatre
-68. Jester- Royal Court
-69. Fencer- Fencing school
-70. Pilot- Boat
-71. Planter- Plantation
-72. Gaucho- The Argentine
-73. Gigolo- Dance hall
-74. Writer- Anywhere
-75. Oarsman- College
-76. Nurse- Field hospital
-77. Barber- Barber shop
-78. Guard- Royal Court
-79. Tender- Lighthouse
-80. Driller- Oil fields
-81. Turnkey- Jail
-82. Bailiff- Courthouse
-83. Florist- Flower shop
-84. Indian- Frontier
-85. Wrangler- Range
-86. Mechanic- Garage
-87. Messenger- Bank
-88. Canoeist- River
-89. Spieler- Carnival
-90. Printer- Print shop
-91. Cadet- Academy
-92. Swimmer- Seashore
-93. Cook- Cow camp
-94. Sculptor- Bohemian district
-95. Juggler- Theatre
-96. Foreman- Factory
-97. Nobleman- Royal Court
-98. Inventor- Laboratory
-99. Fisherman- Fishing village
-100. Blacksmith- Small town
-101. Clergyman- Rectory
-102. Cartoonist- Newspaper office
-103. Capitalist- Anywhere
-104. Playwright- Bohemian district
-105. Evangelist- Tabernacle
-106. Millwright- Mill
-107. Missionary- Pagan country
-108. Interpreter- Court
-109. Telegrapher- Railroad station
-110. Prospector- Desert
-111. Astronomer- Observatory
-112. Accountant- Bank
-113. Sportsman- Yacht club
-114. Geologist- Mine
-115. Policeman - Police station
-116. Salesman- Department store
-117. Librarian- Library
-118. Announcer- Radio station
-119. Politician- Anywhere
-120. Lumberjack- Forest
-121. Publisher- Publishing house
-122. Stowaway- Ship
-123. Chauffeur- Anywhere
-124. Botanist- Nursery
-125. Paymaster- Construction camp
-126. Gondolier- Canals
-127. Conductor- Train
-128. Chaplain- Army camp
-129. Trumpeter- Army post
-130. Harpooner- Whaling village
-131. Ringmaster- Circus
-132. Impresario- Booking office
-133. Coachman- Mansion
-134. Surveyor- Construction camp
-135. Adventurer- Mining town
-136. Navigator- Seaport
-137. Quartermaster- Ship
-138. Hostler- Country estate
-139. Musician- Theatre
-140. Balloonist- Circus
-141. Explorer- Far north
-142. Alienist- Asylum
-143. Proselytist- Near east
-144. Teamster- Construction Camp
-145. Collegian- College
-146. Ferryman- Boat
-147. Outrider- Caravan
-148. Dairyman- Rural district
-149. Bookmaker- Race track
-150. Funambulist- Circus
-151. Veterinarian- Zoo
-152. Meteorologist- Weather Bureau
-153. Truck driver- Anywhere
-154. Longshoreman- Seaport
-155. Half- breed- North woods
-156. Bus driver- Highway
-157. Stage hand a- Theatre
-158. Photographer- Anywhere
-159. Taxi driver- Anywhere
-160. Press agent- Anywhere
-161. Caretaker- Country estate
-162. Life Guard- Sea shore
-163. Homesteader- Frontier
-164. Sharpshooter- Wild West show
-165. Film director- Movie studio
-166. Army officer- Army post
-167. School teacher- School house
-168. Manufacturer- Industrial district
-169. Navy Officer- Battleship
-170. Floor walker- Department store
-171. Traffic Officer- Highway City
-172. Casting director- Movie studio
-173. Riding master- Riding- academy
-174. Dramatic critic- Newspaper office
-175. Calliope player- Circus
-176. Radio operator- Ship
-177. Coffee buyer- Latin America
-178. Customs officer- Port of entry
-179. Timber buyer- Lumber camp
-180. Railroad engineer- Railroad yards
+* Beloveds (male - with background)
+1. Diver - Harbor
+2. Guide - Forest
+3. Gypsy - Gypsy Camp
+4. Miner - Mining camp
+5. Aviator - Airport
+6. Clerk - Oﬂice
+7. Scout - Jungle
+8. Hermit - Mountains
+9. Ranger - Plains or mountains
+10. Banker - Bank
+11. Consul - Consulate
+12. Artist - Bohemian district
+13. Cowboy - Range
+14. Farmer - Farm
+15. Actor - Theatre
+16. Gunner - Fort
+17. Sailor - Seaport
+18. Dancer - Night Club
+19. Editor - Newspaper office
+20. Warden - Prison
+21. Trader - Frontier
+22. Singer - Night Club
+23. Hunter - Jungle
+24. Broker - Stock exchange
+25. Soldier - Army post
+26. Athlete - Gymnasium
+27. Gambler - Casino
+28. Paddler - Market
+29. Rancher - Ranch
+30. Acrobat - Circus
+31. Chemist - Laboratory
+32. Fireman - Fire department
+33. Assayer - Laboratory
+34. Doctor - Hospital
+35. Athlete - College
+36. Servant - Mansion
+37. Importer - Commercial district
+38. Shepherd - Sheep ranch
+39. Merchant - Department store
+40. Vagabond - Anywhere
+41. Violinist - Conservatory
+42. Captain - Boat
+43. Composer - Bohemian district
+44. Bell boy - Hotel
+45. Pioneer - Frontier
+46. Reporter - Anywhere
+47. Matador - Arena
+48. Mystic - Studio
+49. Wrestler - Arena
+50. Promoter - Anywhere
+51. Scientist - Laboratory
+52. Forester - Forest
+53. Attorney - Court
+54. Sawyer - Sawmill
+55. Jockey - Race track
+56. Chauffeur - Wealthy home
+57. Detective - Detective bureau
+58. Architect - Business district
+59. Peasant - Rural district
+60. Pugilist - Arena
+61. Engineer - Construction camp
+62. Trapper - Forest
+63. Waiter - Night Club
+64. Clown - Circus
+65. Poet - Bohemian district
+66. Spy - Enemy country
+67. Usher - Theatre
+68. Jester - Royal Court
+69. Fencer - Fencing school
+70. Pilot - Boat
+71. Planter - Plantation
+72. Gaucho - The Argentine
+73. Gigolo - Dance hall
+74. Writer - Anywhere
+75. Oarsman - College
+76. Nurse - Field hospital
+77. Barber - Barber shop
+78. Guard - Royal Court
+79. Tender - Lighthouse
+80. Driller - Oil fields
+81. Turnkey - Jail
+82. Bailiff - Courthouse
+83. Florist - Flower shop
+84. Indian - Frontier
+85. Wrangler - Range
+86. Mechanic - Garage
+87. Messenger - Bank
+88. Canoeist - River
+89. Spieler - Carnival
+90. Printer - Print shop
+91. Cadet - Academy
+92. Swimmer - Seashore
+93. Cook - Cow camp
+94. Sculptor - Bohemian district
+95. Juggler - Theatre
+96. Foreman - Factory
+97. Nobleman - Royal Court
+98. Inventor - Laboratory
+99. Fisherman - Fishing village
+100. Blacksmith - Small town
+101. Clergyman - Rectory
+102. Cartoonist - Newspaper office
+103. Capitalist - Anywhere
+104. Playwright - Bohemian district
+105. Evangelist - Tabernacle
+106. Millwright - Mill
+107. Missionary - Pagan country
+108. Interpreter - Court
+109. Telegrapher - Railroad station
+110. Prospector - Desert
+111. Astronomer - Observatory
+112. Accountant - Bank
+113. Sportsman - Yacht club
+114. Geologist - Mine
+115. Policeman -Police station
+116. Salesman - Department store
+117. Librarian - Library
+118. Announcer - Radio station
+119. Politician - Anywhere
+120. Lumberjack - Forest
+121. Publisher - Publishing house
+122. Stowaway - Ship
+123. Chauffeur - Anywhere
+124. Botanist - Nursery
+125. Paymaster - Construction camp
+126. Gondolier - Canals
+127. Conductor - Train
+128. Chaplain - Army camp
+129. Trumpeter - Army post
+130. Harpooner - Whaling village
+131. Ringmaster - Circus
+132. Impresario - Booking office
+133. Coachman - Mansion
+134. Surveyor - Construction camp
+135. Adventurer - Mining town
+136. Navigator - Seaport
+137. Quartermaster - Ship
+138. Hostler - Country estate
+139. Musician - Theatre
+140. Balloonist - Circus
+141. Explorer - Far north
+142. Alienist - Asylum
+143. Proselytist - Near east
+144. Teamster - Construction Camp
+145. Collegian - College
+146. Ferryman - Boat
+147. Outrider - Caravan
+148. Dairyman - Rural district
+149. Bookmaker - Race track
+150. Funambulist - Circus
+151. Veterinarian - Zoo
+152. Meteorologist - Weather Bureau
+153. Truck driver - Anywhere
+154. Longshoreman - Seaport
+155. Half-breed - North woods
+156. Bus driver - Highway
+157. Stage hand a - Theatre
+158. Photographer - Anywhere
+159. Taxi driver - Anywhere
+160. Press agent - Anywhere
+161. Caretaker - Country estate
+162. Life Guard - Sea shore
+163. Homesteader - Frontier
+164. Sharpshooter - Wild West show
+165. Film director - Movie studio
+166. Army officer - Army post
+167. School teacher - School house
+168. Manufacturer - Industrial district
+169. Navy Officer - Battleship
+170. Floor walker - Department store
+171. Traffic Officer - Highway City
+172. Casting director - Movie studio
+173. Riding master - Riding-academy
+174. Dramatic critic - Newspaper office
+175. Calliope player - Circus
+176. Radio operator - Ship
+177. Coffee buyer - Latin America
+178. Customs officer - Port of entry
+179. Timber buyer - Lumber camp
+180. Railroad engineer - Railroad yards
 
-* Rivals- Male
+*Rivals - Male
 1. Spy
 2. Guide
 3. Heir
@@ -794,7 +736,7 @@
 65. Shepherd
 66. Gangster
 67. Servant
-68. Athlete- 
+68. Athlete-
 69. Invalid
 70. Convict
 71. Aviator
@@ -908,7 +850,7 @@
 179. Nobleman
 180. Impresario
 
-* Rivals- Female 
+* Rivals - Female 
 1. Aunt
 2. Sister
 3. Cousin
@@ -957,7 +899,7 @@
 46. Registrar
 47. Friend
 48. Mother
-49. Co- worker
+49. Co-worker
 50. Employer
 51. Senorita
 52. Married Woman
@@ -970,125 +912,125 @@
 59. Noblewoman 
 60. Manicurist
 61. Governess
-62. Artist
-63. Nurse
-64. Musician
-65. Manikin
-66. Aviator:
-67. Seamstress
-68. Snake charmer
-69. Geisha
-70. Laundress
-71. Reformer
-72. Bohemian
-73. Editor
-74. Acrobat
-75. Diplomat
-76. Communist
-77. Physician
-78. Scenarist
-79. Desperado
-80. Costumer
-81. Appraiser
-82. Farmerette
-83. Mountaineer
-84. Circus performer
-85. Chauffeuse
-86. Linguist
-87. Charlatan
-88. Violinist
-89. Blind girl
-90. Stage director
-91. “Extra" girl
-92. Psychoanalyst
-93. Room mate
-94. Class mate
-95. Colleague
-96. Employee
-97. Courtesan
-98. Business rival
-99. Girlhood chum
-100. Sorority sister
-101. Adventuress
-102. Journalist
-103. Chorus girl
-104. Housemaid
-105. Playwright
-106. Saleswoman
-107. Heiress
-108. Dancer
-109. Co'ed
-110. Athlete
-111. Invalid
-112. Gang mall
-113. Attorney
-114. Hypnotist
-115. Milk maid
-116. Composer
-117. Forewoman
-118. Scientist
-119. Immigrant
-120. Dietitian
-121. Promoter
-122. Translator
-123. Huckstress
-124. Magistrate
-125. Politician
-126. Telegrapher
-127. Horsewoman
-128. Policewoman
-129. Press agent
-130. Circus freak
-131. Racketeer
-132. Comique
+62.  Artist
+63.  Nurse
+64.  Musician
+65.  Manikin
+66.  Aviator:
+67.  Seamstress
+68.  Snake charmer
+69.  Geisha
+70.  Laundress
+71.  Reformer
+72.  Bohemian
+73.  Editor
+74.  Acrobat
+75.  Diplomat
+76.  Communist
+77.  Physician
+78.  Scenarist
+79.  Desperado
+80.  Costumer
+81.  Appraiser
+82.  Farmerette
+83.  Mountaineer
+84.  Circus performer
+85.  Chauffeuse
+86.  Linguist
+87.  Charlatan
+88.  Violinist
+89.  Blind girl
+90.  Stage director
+91.  “Extra" girl
+92.  Psychoanalyst
+93.  Room mate
+94.  Class mate
+95.  Colleague
+96.  Employee
+97.  Courtesan
+98.  Business rival
+99.  Girlhood chum
+100.  Sorority sister
+101.  Adventuress
+102.  Journalist
+103.  Chorus girl
+104.  Housemaid
+105.  Playwright
+106.  Saleswoman
+107.  Heiress
+108.  Dancer
+109.  Co'ed
+110.  Athlete
+111.  Invalid
+112.  Gang mall
+113.  Attorney
+114.  Hypnotist
+115.  Milk maid
+116.  Composer
+117.  Forewoman
+118.  Scientist
+119.  Immigrant
+120.  Dietitian
+121.  Promoter
+122.  Translator
+123.  Huckstress
+124.  Magistrate
+125.  Politician
+126.  Telegrapher
+127.  Horsewoman
+128.  Policewoman
+129.  Press agent
+130.  Circus freak
+131.  Racketeer
+132.  Comique
 133. Inn keeper
 134. Indian maid
 135. Club woman
-136. Director
-137. Champion
-138. Factory worker
-139. Employer
-140. Guardian
-141. Friend
-142. Coworker
-143. Instructor
-144. Bartender
-145. Promoter
-146. Fisherman
-147. Sportsman
-148. Smuggler
-149. Warden
-150. Pugilist
-151. Merchant
-152. Sheriff
-153. Landlord
-154. Advisor
-155. Social rival
-156. Colleague
-157. Manager
-158. Bootlegger
-159. Undertaker
-160. Clergyman
-161. Aviator
-162. Statesman
-163. Convict
-164. Athlete
-165. Financier
-166. Magician
-167. Employee
-168. Partner
-169. Business rival
+136.  Director
+137.  Champion
+138.  Factory worker
+139.  Employer
+140.  Guardian
+141.  Friend
+142.  Coworker
+143.  Instructor
+144.  Bartender
+145.  Promoter
+146.  Fisherman
+147.  Sportsman
+148.  Smuggler
+149.  Warden
+150.  Pugilist
+151.  Merchant
+152.  Sheriff
+153.  Landlord
+154.  Advisor
+155.  Social rival
+156.  Colleague
+157.  Manager
+158.  Bootlegger
+159.  Undertaker
+160.  Clergyman
+161.  Aviator
+162.  Statesman
+163.  Convict
+164.  Athlete
+165.  Financier
+166.  Magician
+167.  Employee
+168.  Partner
+169.  Business rival
 170. Legal Opponent
-171. Professor
-172. Gangster
-173. Prosecutor
-174. Press agent
-175. Policeman
-176. Magistrate
-177. Bouncer
-178. Acrobat
-179. Reformer
-180. Fireman
+171.  Professor
+172.  Gangster
+173.  Prosecutor
+174.  Press agent
+175.  Policeman
+176.  Magistrate
+177.  Bouncer
+178.  Acrobat
+179.  Reformer
+180.  Fireman
 
 * Obstacles to love
 1. The match is opposed by a father
@@ -1112,8 +1054,8 @@
 19. Lover believes love to be futile.
 20. Beloved has forgotten the lover.
 21. lover doubts endurance of beloved.
-22. Beloved is in love With another.
-23. Beloved is. imprisoned.
+22. Beloved 1's in love With another.
+23. Beloved 1's. imprisoned.
 24. Beloved doubts the love of lover.
 25. Lover is on opposite legal side.
 26. The match is opposed by a. mother.
@@ -1139,7 +1081,7 @@
 46. Beloved is not sure of identity of lover.
 47. Lover is ashamed of his or her family.
 48. Beloved conceals affection for lover.
-49. Lover is ashamed of family of beloved.
+49. Lover 1's ashamed of family of beloved.
 50. Habit of kin of lover stands in the way.
 51. Beloved suspects that lover is fickle.
 52. Kin of beloved has disgraced lover.
@@ -1151,9 +1093,9 @@
 58. Beloved is physically incapacitated.
 59. Lover is not sure of identity of beloved.
 60. Marriage of one stands in the way.
-61. Beloved is honor bound to pursue lover.
+61. Beloved 1's honor bound to pursue lover.
 62. Lover imagines that love is not returned.
-63. Beloved is ashamed of his or her family.
+63. Beloved 1's ashamed of his or her family.
 64. Lover and beloved are rival leaders.
 65. Duty t0 profession stands in- the Way.
 66. Lover is possessed with ambition for fame.
@@ -1164,7 +1106,7 @@
 71. Lover is possessed of ambition for wealth.
 72. Difference in religion stands in the way.
 73. Lover's pride stands in the way.
-74. Beloved is ashamed of famﬂy of lover.
+74. Beloved 1's ashamed of famﬂy of lover.
 75. Habit of kin of beloved stands in the way.
 76. Traditional custom stands in the way.
 77. Distance threatens pursuit of love.
@@ -1252,7 +1194,7 @@
 159. Beloved imagines another has a better right to lave of lover.
 160. Lover has promised a former loved one he Wﬂl not love again.
 161. Beloved imagines himself in love with another.
-162. Beloved is distraught over threatened loss of loved one.
+162. Beloved 1's distraught over threatened loss of loved one.
 163. The social relationship of lovers will not permit a union.
 164. Fear of responsibility on the part of lover stands in the way.
 165. Fear of habit on the part of lover stands in the way.
@@ -1331,8 +1273,8 @@
 44. Progressive, arrogant, but indiscreet.
 45. Deliberate, efficient, but vengeful.
 46. Active, enterprising, but boisterous.
-47. Punctilious, religious, weak- willed.
-48. Meticulous- , observant, but cynical.
+47. Punctilious, religious, weak-willed.
+48. Meticulous-, observant, but cynical.
 49. Submissive, sentimental, but hysterical.
 50. Reliable, affable, but mischievous.
 51. Sincere, inventive, but mercenary.
@@ -1399,9 +1341,9 @@
 112. Musical, intellectual, but restless.
 113. Meditative, kind, but pessimistic.
 114. Noble, lenient, but indiscreet.
-115. Open- minded, moral, but thoughtless.
+115. Open-minded, moral, but thoughtless.
 116. Practical, clean minded, bur pragmatic.
-117. Persevering, merciful, but restive. - ’
+117. Persevering, merciful, but restive. -’
 118. Philanthropic, nonchalant, but mundane.
 119. Precise, genteel, but faint hearted. ‘
 120. Poised, just, but recalcitrant. ‘
@@ -1416,7 +1358,7 @@
 129. Saintly, responsible, but mirthless.
 130. Sensible, peaceful, but listless.
 131. Self possessed, robust, but tactless
-132. Strong- willed, religious, but meddlesome.
+132. Strong-willed, religious, but meddlesome.
 133. Sprightly, romantic, but roguish.
 134. Scrupulous, respectful, but servile.
 135. Sensitive, scholarly, but querulous‘.
@@ -1480,7 +1422,7 @@
 11. Brutal, gloomy, but emotional,
 12. Bashful, absurd, but devoted.
 13. Boastful, coarse, but amiable.
-14. Boisterous, carnal, but fair- minded.
+14. Boisterous, carnal, but fair-minded.
 15. Bold, aristocratic, but passionate.
 16. Bigoted, clumsy, but conﬁding.
 17. Belligerent, captions, but gregarious.
@@ -1497,7 +1439,7 @@
 28. Crafty, harsh, and mysterious.
 29. Cowardly, fickle, but nonchalant.
 30. Coarse, gossipy, but gregarious.
-31- . Cranky, distant, but intellectual.
+31-. Cranky, distant, but intellectual.
 32. Childish, frivolous, but indulgent.
 53. Callous, abrupt, but frank.
 34. Critical, mundane, but righteous.
@@ -1679,7 +1621,7 @@
 28. Loving, decorous, and consistent.
 29. Meticulous, inventive5 and economical.
 30. Modest, idealistic, contemplative.
-31. Masterful, poised, and- righteous.
+31. Masterful, poised, and-righteous.
 32. Meditative, retiring, but shrewd.
 33. Neat, genteel, and ingenious.
 34. Noble, peaceable, and sagacious.
@@ -1687,7 +1629,7 @@
 36. Optimistic, farseeing, and democratic.
 37. Orderly, unemotional, and sophisticated.
 38. Obliging, meditative, and trustworthy.
-39. Prudent, cheerful, and affectionate- 
+39. Prudent, cheerful, and affectionate-
 40. Progressive, thrifty, and sedulous.
 41. Patient, faithful, and devoted.
 42. Practical, humane, and witty.
@@ -1703,7 +1645,7 @@
 52. Spirituelle, devoted, and calm.
 53. Submissive, reﬁned, and compassionate.
 54. Sympathetic, liberal, and yielding.
-55. Scientific, reasonable, and artful- 
+55. Scientific, reasonable, and artful-
 56. Selfconﬁdent, tranquil, and wholesome.
 57. Scrupulous, progressive, and energetic.
 58. Steadfast, sane, and open minded.
@@ -1715,7 +1657,7 @@
 64. Truthful, loving, and alert.
 65. Trustworthy, compassionate, and convincing.
 66. Temperate, tractable, and cheerful.
-67. Unaffected, conscientious, and amiable- 
+67. Unaffected, conscientious, and amiable-
 68. Visionary, Vigorous, and brave.
 69. Versatile, artful, and musical.
 70. Vivacious, capable and convincing.
@@ -1727,14 +1669,14 @@
 76. Argumentative, quackish, and recalcitrant.
 77. Audacious, irreligious, and immoral.
 78. Apathetic, childish, and illiterate.
-79. Artless, obscene, and quarrelsome- 
+79. Artless, obscene, and quarrelsome-
 80. Brutal, bloodthirsty, and treacherous.
 81. Boastful, asinine, and unimaginative.
 82. Boisterous, asinine, and insincere
 83. Bigoted, designing, and heartless.
 84. Belligerent, irrepressible, merciless.
 85. Cruel, carnal, and niggardly.
-86. Careless, deflatory, and deceitful- 
+86. Careless, deflatory, and deceitful-
 87. Crafty, envious, and hypercritical.
 88. Cowardly, elusive, and fickle.
 89. Capricious, critical, and prying.
@@ -1746,11 +1688,11 @@
 95. Extravagant, lawless, and moody.
 96. Egotistical, imperious, and indolent.
 97. Frivolous, impractical, and meddlesome.
-98. Envious, frugal, and surly- 
+98. Envious, frugal, and surly-
 99. Factious, high»strung, and argumentative,
 100. Fault finding, suspicious, and gossipy.
 101. Grasping, deranged, and irresponsible.
-102. Guileful, vulpine, and unrelenting- 
+102. Guileful, vulpine, and unrelenting-
 103. Hysterical, selfish, and woebegone.
 104. Heartless, irrational, and bombastic.
 105. Impulsive, indiscreet, and famous.
@@ -1762,13 +1704,13 @@
 111. Jealous, morose, and suspicions.
 112. Lustful, brazen, and irrepressible.
 113. Lazy, inquisitive, and fiddled.
-114. Lascivious, diabolical, and covetous- 
+114. Lascivious, diabolical, and covetous-
 115. Lawless, haughty, and impetuous.
 116. Listless, Whining, and unforgiving.
 117. Miserly, recalcitrant, guileful.
-118. Mercenary, aggressive, and canny- 
+118. Mercenary, aggressive, and canny-
 119. Meddlesome, suspicious, and envious.
-120. Misanthropic, self- centered, and impatient.
+120. Misanthropic, self-centered, and impatient.
 121. Niggardly, narrowaminded, and cynical.
 122. Overbearing, penurious, and sensual
 123. Obsequious, prying, and deceitful.
@@ -1798,7 +1740,7 @@
 147. Loyal, unselfish, but vengeful.
 148. Equitable, versatile, but undiplomatic.
 149. Thrifty, cautious, but incompetent.
-150. Enterprising, upright, but quackish- 
+150. Enterprising, upright, but quackish-
 151. Visionary, artistic, but deranged.
 152. Spirited, youthful, but wanton,
 153. Shrewd, egotistical, but good hearted.
@@ -1812,17 +1754,17 @@
 161. Vivacious, youthful, but sensual.
 162. Trusting, staunch, but mirthless
 163. Optimistic, thoughtful, but argumentative.
-164. Religious, patriotic, but narrow- minded.
+164. Religious, patriotic, but narrow-minded.
 165. Sanguine, faithful, but slothful.
 166. Apathetic, bitter, but compassionate.
 167. Beastial, obtuse, but loyaL
 168. Bloodthirsty, guileful, but industrious.
 169. Cruel, covetous, but courteous.
-170. Degenerate, capricious, but accomplished- 
+170. Degenerate, capricious, but accomplished-
 171. Deranged, artless, but honorable.
 172. Dissipated, gluttonous, but idealistic.
 173. Hard, salacious, but intellectual.
-174. Immoral, extravagant, but loving- 
+174. Immoral, extravagant, but loving-
 175. Lecherous, rash, but sympathetic.
 176. Misanthropic, obdurate, but musical.
 177. Superstitions, gullible, and saintly.
@@ -1832,7 +1774,7 @@
 
 * In an effort to remove the obstacle the lover resorts to
 1. Bargaining to obtain a decision.
-2. Argument or entreaty to obtain evidence- 
+2. Argument or entreaty to obtain evidence-
 3. Ruse or strategy to overcome convention.
 4. The use of force to make an impression.
 5. Ruse or strategy to attract attention.
@@ -1873,7 +1815,7 @@
 40. Argument 0r entreaty to coerce.
 41. Bargaining to temporize.
 42. The use of force to dominate.
-43. Ruse or strategy to- suppress.
+43. Ruse or strategy to-suppress.
 44. Argument or entreaty to annoy.
 45. Bargaining to outwit.
 46. The use Of force to obtain a decision.
@@ -1898,7 +1840,7 @@
 65. Bargaining to conceal.
 66. Ruse or strategy to confuse.
 67. The use of force to uphold.
-68. Argument or entreaty to outwit- 
+68. Argument or entreaty to outwit-
 69. Bargaining to exclude.
 70. The use of force to surprise.
 71. Ruse or strategy to frighten.
@@ -1908,22 +1850,22 @@
 75. Ruse or strategy to mystify.
 76. Argument or entreaty to excel.
 77. Bargaining to eclipse.
-78. The use of force to thwart.- 
+78. The use of force to thwart.-
 79. Ruse 0r strategy to‘ delay.
-80. Argument or entreaty to refute- 
+80. Argument or entreaty to refute-
 81. Bargaining to silence.
 82. The use of force to repel.
 83. Ruse or strategy to proselyte.
 84. Argument or entreaty to humble,
 85. Bargaining to frustrate.
 86. The use of force to coerce.
-87. Ruse or- strategy to temporize.
+87. Ruse or-strategy to temporize.
 88. Argument or entreaty- to dominate.
 89. Bargaining to suppress.
 90. The use of force to annoy.
 91. Ruse or strategy to obtain a decision.
 92. Argument or entreaty to make an" impression.
-93. Bargaining to attract attention- 
+93. Bargaining to attract attention-
 94. The use of force to prove identity: ‘
 95. Ruse or strategy 'to obtain evidence.
 96. Argument or entreaty to overcome convention.
@@ -1963,7 +1905,7 @@
 130. The use of force to temporize.
 131. Ruse or strategy to dominate.
 132. Argument or entreaty to suppress.
-133. Bargaining to annoy- 
+133. Bargaining to annoy-
 134. The use of form to conceal.
 135. Argument or entreaty to expose.
 136. Bargaining to make an impression..
@@ -1973,7 +1915,7 @@
 140. Bargaining to win sympathy.
 141. The use of force t0 attract attention.
 142. Ruse or strategy to prove identity.
-143. Argument or entreaty w distract- 
+143. Argument or entreaty w distract-
 144. Bargaining to gain entry.
 145. The use of force to hold interest.
 146. Ruse or strategy to prove strength.
@@ -1981,7 +1923,7 @@
 148. Bargaining to subsidize.
 149. The use of fore: to identify.
 150. Ruse or strategy to conceal.
-151. Argument or entreaty to uphold- 
+151. Argument or entreaty to uphold-
 152. Bargaining to mystify.
 153. The use of force to exclude.
 154. Ruse or strategy ta allure.
@@ -1990,8 +1932,8 @@
 157. The use of force to obtain evidence
 158. Ruse or strategy to surprise.
 159. Argument or entreaty to frighten.
-160. Bargaining to expose. - 
-161. The use of force. to ridicule- 
+160. Bargaining to expose. -
+161. The use of force. to ridicule-
 162. Ruse or strategy to outwit.
 163. Argument or entreaty to thwart.
 164. Bargaining to confuse.
@@ -2037,7 +1979,7 @@
 22. Distant duty calls beloved.
 23. Misunderstanding as to identity of beloved.
 24. The imminence 0r occurrence of a strike.
-25. The likelihood of lover becoming ill.
+25. The likelihood of lover becoming 1'11.
 26. Lover being crippled by disease or accident.
 27. Beloved being injured by accident.
 28. Likelihood of lover‘s losing fortune.
@@ -2067,11 +2009,11 @@
 52. The likelihood of lover‘s losing home.
 53. The discovery of Illegitimate birth of beloved.
 54. Conflict between lover and kin of beloved.
-55. Discovery of blood kinship between lovers- 
+55. Discovery of blood kinship between lovers-
 56. The likelihood of beloved’s losing home.
 57. The danger of beloved losing position.
 58. The discovery that lover has lost position.
-59. Consuming ambition on the part of lever for wealth- 
+59. Consuming ambition on the part of lever for wealth-
 60. Beloved‘s being threatened With imprisonment.
 61. Lover being threatened with abduction.
 62. The imminence or occurrence of an earthquake.
@@ -2079,7 +2021,7 @@
 64. The discovery of a difference of race between lovers.
 65. The likelihood of beloved losing business.
 66. Consuming ambition on the part of lever for fame.
-67. Discovery that lover is disfranchised or impeached- 
+67. Discovery that lover is disfranchised or impeached-
 68. Conflict between kinsman of beloved and beloved.
 69. Discovery of an alleged blood kinship between lavers.
 70. Beloved is threatened with abduction.
@@ -2127,7 +2069,7 @@
 112. The imminence or existence of a revolt.
 113. The likelihood of beloved becoming crippled.
 114. Beloved becoming disfigured by accident or disease.
-115. Suspected habit or mania 0n the part of lover- 
+115. Suspected habit or mania 0n the part of lover-
 116. The danger of beloved contracting a. mental malady.
 117. The likelihood of lover sustaining injuries.
 118. Beloved becomes crippled by disease or accident.
@@ -2172,7 +2114,7 @@
 157. The suspicion of a difference in culture between lovers
 158. Lover being injured by accident.
 159. Beloved suffering. from lack of necessities of life.
-160. The suspicion of a difference in age of lovers- 
+160. The suspicion of a difference in age of lovers-
 161. The discovery of a stigma attained to beloved‘s name due to past behavior.
 162. Consuming ambition for wealth on the part of a kinsman of beloved.
 163. The imminence or occurrence of a religious uprising.
@@ -2341,7 +2283,7 @@
 144. Freeing one whom he fancies has wronged a loved one.
 145. Risking loss of home to rescue kinsman of loved one.
 146. Braving disease in order to fulfill Wish of loved one.
-147. Risking opportunity for wealth by performing a daring deed- 
+147. Risking opportunity for wealth by performing a daring deed-
 148. Rescuing kinsman of loved one from physical peril.
 149. Offering to surrender relief from political oppression.
 150. Risking name to engage in conflict with a superior power.
@@ -2350,7 +2292,7 @@
 153. Rescuing a, kinsman of loved (me from financial peril
 154. Sacrificing opportunity for revenge against one who has wronged
 155. Jeopardizing citizenship rights to fulfill the wish of kinsman of
-156. Acting contrary to belief in order to fulfill the wish of loved one- 
+156. Acting contrary to belief in order to fulfill the wish of loved one-
 157. Disregarding a command of church to rescue loved one from
 158. Making a concession to political views in order to please loved one.
 159. Disregarding tradition in order to rescue loved one from social peril.
@@ -2363,7 +2305,7 @@
 166. Running the risk of losing eyesight, hearing, or other senses to make a daring effort.
 167. Giving up love for material possession.
 168. Sacrificing opportunity for revenge against one Who has wronged country
-169. Risking fortune to fulfill a wish of kinsman of loved- one.
+169. Risking fortune to fulfill a wish of kinsman of loved-one.
 170. Sacrificing love for habit or mania.
 171. Offering to sacrifice social position to fuﬁll desire of kinsman of loved one
 172. Disregarding tradition in order to rescue kinsman of beloved from social pen
@@ -2528,7 +2470,7 @@
 149. Orange grove
 150. Steel mﬂls
 151. Delicatessen
-152. Pan- America
+152. Pan-America
 153. Lumber mill
 154. Royal court
 155. Sponge beds
@@ -2609,3 +2551,5 @@
 230. Field hospital
 231. Fishing village
 232. Veterinary hospital
+
+

@@ -1,4 +1,4 @@
-﻿
+
 
 Backgrounds or Locale
 
@@ -1513,12 +1513,12 @@ LIST THREE
     112. Obliged to risk honor in an effort to expose a vicious ring.
     113. Relief from unjust accusation opposed by false accusation.
     114. Desired home or refuge opposed by duty to loved ones.
-    115. Obliged to recover lost valuables opposed by inclement 
+    115. Obliged to recover lost valuables opposed by inclement weather.
 
 PROBLEMS
 LIST THREE
 (CONTINUED)
-weather.
+
     116. A religious uprising is threatened by duty to loved ones.
     117. Obliged to risk honor in an effort to brave an air voyage.
     118. Desired accomplishment opposed by physical weakness.
@@ -1640,11 +1640,11 @@ LIST FOUR
     39. Obliged to identify an unknown person opposed by danger to life.
     40. Obliged to recover lost information or clue opposed by mental weakness.
     41. Desired vengeance against a law breaker opposed by inclement weather.
-42.      Obliged to prevent a terrible injustice opposed by duty to 
+    42. Obliged to prevent a terrible injustice opposed by duty to country.
 PROBLEMS
 LIST FOUR
 (CONTINUED)
-country.
+
     43. Obliged to identify an unknown person opposed by lack of facilities.
     44. Obliged to recover lost information or clue opposed by distance.
     45. Relief from unjust accusation opposed by duty to religion.
@@ -1666,11 +1666,11 @@ country.
     61. Desired vengeance against a cheater opposed by legal procedure.
     62. Desired vengeance against a tyrant or oppressor opposed by lack of information.
     63. Obliged to risk friendship in an effort to brave a maniac or insane person,
-    64. Obliged to prevent a terrible injustice opposed by lack of 
+    64. Obliged to prevent a terrible injustice opposed by lack of facilities.
 PROBLEMS
 LIST FOUR
 (CONTINUED)
-facilities.
+
     65. Desired vengeance against a law breaker opposed by duty to religion.
     66. Obliged to recover lost information or clue opposed by danger to life.
     67. Desired vengeance against a cheater opposed by lack of facilities.
@@ -1738,11 +1738,11 @@ LIST FOUR
     123. Obliged to risk love in an effort to expose a vicious ring.
     124. Desired vengeance against a rival in love opposed by distance.
     125. Obliged to restore health or happiness to a loved one opposed by friends.
-    126. Desired vengeance against one who has damaged good name 
+    126. Desired vengeance against one who has damaged good name opposed by rivals.
 PROBLEMS
 LIST FOUR
 (CONTINUED)
-opposed by rivals.
+
     127. Obliged to risk friendship in an effort to undertake a dangerous mission.
     128. Desired vengeance against a tyrant or oppressor opposed by rivals.
     129. Obliged to risk fortune in an effort to rescue a loved one.
@@ -1791,11 +1791,11 @@ LIST FOUR
     167. Desired vengeance against the opposite sex opposed by poverty.
     168. Obliged to recover lost information or clue opposed by duty to country.
     169. Desired vengeance against one who has caused injury opposed by physical weakness.
-    170. Obliged to risk health in an effort to undertake a dangerous 
+    170. Obliged to risk health in an effort to undertake a dangerous mission.
 PROBLEMS
 LIST FOUR
 (CONTINUED)
-mission.
+
     171. Desired vengeance against one who has caused injury opposed by legal procedure.
     172. Desired vengeance against one who has caused loss of valuables opposed by false accusation.
     173. Desired vengeance against one who has caused loss of valuables opposed by duty to religion.
@@ -1839,11 +1839,11 @@ LIST FIVE
     25. Desired vengeance against race, nation or clan opposed by duty to religion.
     26. Obliged to restore health or happiness to a loved one opposed by rivals.
     27. Desired vengeance against a tyrant or oppressor opposed by enemies.
-    28. Obliged to risk liberty in an effort to brave a maniac or insane 
+    28. Obliged to risk liberty in an effort to brave a maniac or insane person.
 PROBLEMS
 LIST FIVE
 (CONTINUED)
-person.
+
     29. Desired vengeance against the opposite sex opposed by inclement weather.
     30. Obliged to risk love in an effort to brave a storm or cataclysm.
     31. Desired vengeance against a rival in love opposed by false accusation.
@@ -1884,11 +1884,11 @@ LIST FIVE
     62. Obliged to risk love in an effort to undertake a dangerous mission.
     63. Desired vengeance against race, nation or clan opposed by duty loved ones.
     64. Obliged to risk friendship in an effort to expose vicious ring.
-    65. Desired vengeance against one who has caused injury opposed 
+    65. Desired vengeance against one who has caused injury opposed by rivals
 PROBLEMS
 LIST FIVE
 (CONTINUED)
-by rivals
+
     66. Desired vengeance against one who has caused loss of valuables opposed by danger to life.
     67. Obliged to restore health or happiness to a loved one opposed by inclement weather.
     68. Desired vengeance against a rival in love opposed by duty to loved ones.

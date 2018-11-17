@@ -1,0 +1,3427 @@
+murder 
+taken list second list b third list c 
+scientific modern detective mystery story 
+politician 
+countess 
+statesman 
+college student 
+dictator 
+modiste 
+clown 
+ringmaster 
+impresario 
+motion picture director 
+translator 
+manikin 
+philanthropist 
+bon vivant 
+archaeologist 
+noblewoman 
+spiritualist 
+trophy hunter 
+society belle 
+merchant 
+captain 
+broker 
+probation officer 
+doctor 
+manufacturer 
+paramour 
+healer 
+woman nurse 
+juror 
+palmist 
+foreign emissary 
+engineer 
+deacon 
+governor 
+popular co-ed 
+professor 
+dramatic critic 
+actress 
+artist 
+gambler 
+curio collector 
+woman librarian 
+princess 
+debutante 
+ship owner 
+reformer 
+egyptologist 
+model 
+psychologist 
+female spy 
+prince 
+caretaker 
+dancer 
+inventor 
+plastic surgeon 
+missionary 
+male evangelist 
+playwright 
+female mystic 
+capitalist 
+clergyman 
+prosecutor 
+architect 
+hypnotist 
+sportsman 
+promoter 
+public official 
+candidate 
+scientist 
+accountant 
+publisher 
+underworld queen 
+football hero 
+female sport star 
+nobleman 
+demi-mondaine 
+college professor 
+botanist 
+exporter 
+lobbyist 
+auctioneer 
+courier 
+famous auto-racer 
+judge 
+male nurse 
+clerk 
+hermit 
+mystic 
+banker 
+consul 
+radio announcer 
+wealthy cattleman 
+bishop 
+actor 
+psychologist 
+statesman 
+editor 
+auctioneer 
+attorney 
+monarch 
+chemist 
+female entertainer 
+merchant prince 
+governess 
+female settlement worker 
+bondsman 
+autocrat 
+woman school teacher 
+explorer 
+executive 
+motion picture actor 
+scholar 
+antique collector 
+reformer 
+professor 
+bootlegger 
+gem collector 
+bibliophile 
+chorus girl 
+night club dancer 
+merchant 
+motion picture producer 
+popular clubman 
+famous polo player 
+tennis champion 
+woman philanthropist 
+novelist 
+woman spiritualist 
+musician 
+woman juror 
+judge 
+religious worker 
+contractor 
+prospector 
+secret service operative 
+mining engineer 
+florist 
+political exile 
+navigator 
+assayer 
+research chemist 
+wealthy recluse 
+international spy 
+woman artist 
+young heiress 
+mine owner 
+golf champion 
+woman probation officer 
+animal fancier 
+financier 
+woman evangelist 
+gigolo 
+oriental 
+pawnbroker 
+tea merchant 
+woman attorney 
+hotel keeper 
+philanthropist 
+woman sculptor 
+society leader 
+woman judge 
+spy 
+young millionaire 
+photographer 
+woman editor 
+racketeer 
+government official 
+chinese importer 
+fur buyer 
+english lord 
+inventor 
+aviation executive 
+bohemian artist 
+trader 
+administrator 
+sculptor 
+bacteriologist 
+beauty specialist 
+interpreter 
+cartoonist 
+aboard ship 
+bank 
+beach club 
+slum 
+ranch house 
+pleasure resort 
+school room 
+mountain side 
+circus 
+office 
+airport 
+casino 
+aboard submarine 
+farmhouse 
+castle 
+dock 
+factory 
+mission 
+mine 
+tavern 
+court room 
+railroad station 
+college 
+caravan 
+theatre 
+shop store 
+roadhouse 
+boathouse 
+mansion 
+museum 
+hacienda 
+egypt 
+dope den 
+mill 
+dance hall 
+gypsy camp 
+legislative hall 
+dark hallway 
+gymnasium 
+auditorium 
+golf link 
+masque ball 
+tabernacle 
+lighthouse 
+orient 
+church 
+garden 
+employment office 
+banquet hall 
+hospital 
+oil field 
+observatory 
+haunted house 
+bus 
+hotel 
+motion picture studio 
+subway 
+cabin 
+train 
+newspaper office 
+houseboat 
+radio station 
+vehicle 
+night club 
+dirigible 
+artist 's studio 
+financial district 
+café 
+deserted village 
+diamond mine 
+salon 
+race track 
+royal court 
+logging camp 
+rectory 
+yacht club 
+taxi 
+speakeasy 
+musical conservatory 
+auto camp 
+indian reservation 
+near east 
+spiritualistic hall 
+ranger camp 
+sanitarium 
+carnival 
+laboratory 
+country club 
+deserted house 
+gambling hall 
+india 
+dock 
+tropical island 
+airplane 
+ranch house 
+country estate 
+warehouse 
+newspaper office 
+cabaret 
+basement 
+seaside resort 
+back stage 
+library 
+office building 
+park 
+forest 
+country club 
+hunting lodge 
+notorious night club 
+patio 
+theatre dressing room 
+penthouse studio 
+ocean liner 
+bunk house 
+radio studio 
+bachelor 's apartment 
+wharf 
+music hall 
+underworld dope den 
+smelter 
+haunted inn 
+manor house 
+conservatory 
+aboard submarine 
+vicinity old ruin 
+coliseum office 
+houseboat 
+secret room 
+race course 
+wine vault 
+factory office 
+wing stage 
+beauty parlor 
+trading schooner 
+senate chamber 
+sorority fraternity house 
+house party 
+banquet 
+museum 
+regatta 
+underground passage 
+doctor 's office 
+lady 's boudoir 
+depot waiting room 
+ferry boat 
+river steamer 
+old fort 
+billiard room 
+cabin yacht 
+subway 
+veranda 
+summer home 
+waterfront speakeasy 
+parsonage 
+temple 
+underground dungeon 
+walled garden 
+border café 
+bedroom 
+secret private office 
+hermit 's cabin 
+roof garden 
+private car 
+foreign embassy 
+foyer theatre 
+garage 
+racing stable 
+industrial plant 
+college campus 
+opera 
+chateau 
+trading post 
+bohemian quarter 
+séance 
+old mission 
+power house 
+chinese opium den 
+rostrum 
+judge 's chamber 
+circus sideshow 
+machine gun fire 
+pistol shot head 
+stabbing blunt instrument 
+cutting throat 
+drugging drowning 
+mutilation sharp instrument 
+unknown poison 
+use poisoned liquor 
+suffocation contaminated air 
+drowning bod water 
+body crushed fall 
+pushing height 
+pistol shot body 
+stabbing arrow 
+shot gun wound ear 
+strangling cord wire twisted fibre 
+mysterious small abrasion ear 
+mysterious administering poison 
+suffocation smothering 
+body crushed falling object 
+burning acid 
+use mechanical device 
+pistol short fired back 
+knife plunged heart 
+poisoned strange drug 
+stabbing sword cane 
+poison bite venomous insect 
+suffocation strangulation 
+burned fire 
+shot gun wound head 
+stabbed back knife 
+head battered blunt instrument 
+victim tortured death thirst 
+cutting wrist 
+blow resulting physical fight 
+use poison drug medicine 
+suffocation choking 
+blow head heavy object 
+shot poisoned arrow 
+two small red mark found throat 
+use poisoned food 
+pistol shot fired mouth 
+electrocuted live wire 
+choking 
+shot gun wound body 
+small puncture base brain 
+throat cut 
+killed x-ray 
+use poisonous gas 
+suffocation caused gagging victim 
+anaesthetic administered 
+sword fight 
+shot poisoned dart 
+shock electricity 
+starvation 
+use poisonous needle 
+impaling victim sharp spear 
+mutilation bite animal 
+bruising crushing body blunt instrument 
+smothering cushion pillow drapery clothing 
+poisonous bite venomous reptile 
+drowning receptacle 
+use mysterious poison 
+burning use electricity 
+explosion bomb 
+pistol shot ear 
+deep gash head 
+stab heart needle sharp instrument 
+blow hammer similar instrument 
+use blunt instrument crush head 
+shot gun wound back 
+use poisoned dart arrow 
+suffocation hanging 
+victim given poisoned water 
+killed discharge slug 
+shot gun wound mouth 
+victim stabbed back needle 
+infection poisoned disease germ 
+suffocation imprisonment whole small enclosure 
+skull crushed blow 
+stabbing bayonet 
+small puncture throat 
+knife plunged back 
+poisoned bath 
+suffocation garroting 
+dagger driven heart 
+decapitation 
+opening artery 
+injection air bubble blood vessel 
+hand grenade 
+neck broken 
+body crushed explosion 
+anaesthetic administered 
+shock electricity 
+killed x-ray 
+small puncture base brain 
+blow ax hatchet 
+throat cut tightly-drawn wire 
+skull crushed blow 
+poisoning drug medicine 
+cutting wrist 
+head battered blunt instrument 
+burning victim fire 
+poisoning use venomous insect 
+knife plunged heart 
+use mechanical device 
+body crushed falling object 
+shot gun wound ear 
+throat mysteriously lacerated 
+drowning victim body water 
+suffocation contaminated air 
+use poisoned liquor 
+pistol shot fired mouth 
+mutilation sharp instrument 
+use poisonous gas 
+stabbing blunt instrument 
+shot gun wound back 
+machine gun fire 
+cutting throat 
+bound tossed lake river sea 
+dagger driven heart 
+pistol shot head 
+injection blood vessel 
+body crushed explosion 
+pistol shot ear 
+victim given poisoned water 
+pistol shot wound body 
+suffocation hanging 
+scratch poisoned thorn 
+burning use electricity 
+use mysterious poison 
+ground glass 
+bruising crushing body blunt instrument 
+mutilation bite animal 
+poison venomous reptile 
+shot gun wound head 
+mark hypodermic needle throat 
+suffocation choking 
+sword fight 
+slender knife plunged throat 
+stabbing bayonet 
+mysterious administering poison 
+blow head sharp object 
+misuse hypnotism 
+thrust spear 
+starvation 
+victim stabbed back needle 
+poisoned cosmetic toilet article 
+opening artery 
+brass knuckle 
+stabbing arrow 
+auto-suggestion fear 
+drowning receptacle 
+mark hypodermic needle throat 
+suffocation smothering 
+use poisonous needle 
+poisoned cosmetic toilet article 
+shot gun wound mouth 
+injection air bubble blood vessel 
+stab heart needle sharp instrument 
+burning acid 
+use blunt instrument crush head 
+pistol shot fired back 
+unknown poison 
+rifle shot distance 
+stabbed back knife 
+suffocation strangulation 
+infection poisoned disease germ 
+suffocation garroting 
+body crushed fall 
+poisoned bath 
+victim tortured death thirst 
+suffocation imprisonment whole small enclosure 
+blow physical fight 
+slashing throat 
+use poisoned food 
+injection eye ear 
+decapitation 
+suffocation caused gagging victim 
+prick poisoned needle 
+bond security 
+jewel 
+valuable evidence clue 
+valuable formula secret instruction 
+valuable document 
+object possessing traditional value 
+object mystic occult value 
+famous masterpiece 
+valuable invention scientific discovery 
+money 
+letter credit 
+document bestowing authority 
+deed 
+document evidence 
+identification paper 
+passport release paper 
+bond security 
+letter introduction 
+valuable legal paper 
+check 
+dynamiting property 
+setting fire property 
+destruction property explosive 
+undermining 
+flood inundation 
+chemical mean acid etc 
+use lethal gas 
+gun fire 
+use electricity 
+avalanche 
+kidnapping child 
+kidnapping woman 
+kidnapping old man 
+kidnapping old woman 
+kidnapping dead body 
+kidnapping servant 
+kidnapping imbecile 
+kidnapping guardian 
+kidnapping leader 
+kidnapping messenger 
+crime 
+arbitrarily selected list 
+object one may found scene 
+crime also prove clue whether false 
+want complicate matter introducing multiplicity clue 
+newspaper clipping paper evidence argument 
+evidence victim robbed someone 
+evidence victim opposed religious freedom 
+abrasion hole wall furniture earth 
+evidence old enmity 
+evidence victim alienated someone 's affection 
+evidence robbery victim 's person 
+person seen leaving scene crime 
+evidence pointing height weight criminal 
+evidence victim practiced deception 
+evidence theft mean transportation 
+assault servant victim appears accidental 
+discovered detective premeditated 
+presence flower 
+existence appointment 
+happens accidental bombing structure proved 
+detective result premeditated plan 
+incompleted telephone call 
+secreted weapon discovered mysterious way 
+presence book 
+evidence reveals theft animal pet 
+mysterious badge emblem victim 's body 
+scene crime 
+removal gem 
+evidence victim pursued reform movement 
+erasure secreting evidence attempted 
+victim reputed recently come fortune 
+evidence victim secret ad trusted agent 
+presence photograph 
+friend associate victim assaulted 
+discovered deliberate accidental 
+telegram cablegram radiogram 
+mechanism wrecked apparently accidentally detective 
+discovers premeditated action 
+presence evidence occultism 
+person secreted found reveal important evidence 
+intoxicating liquor 
+evidence victim persecuting someone 
+hat garment piece personal apparel left behind 
+evidence victim involved international 
+conspiracy 
+wherein victim travelling incognito 
+presumably accidental assault guard discovered 
+premeditated 
+method binding gagging victim 
+evidence victim stood way someone 's financial 
+success 
+anonymous letter message 
+evidence theft tool implement 
+presence memorandum 
+mean escape secreted discovery reveals 
+valuable evidence 
+person seen returning hovering scene crime 
+evidence victim involved illicit enterprise 
+evidence theft key 
+strange brooding character 
+evidence victim rejected proposal 
+fact victim obligation pledge 
+revealed 
+evidence victim anticipated trouble 
+presence peculiar insect deposit bacteria 
+evidence criminal wounded 
+incompleted letter 
+evidence victim spying someone 
+presence game kind 
+discovery suspicious bill receipt 
+discovery exposed negative 
+motive character hidden subterfuge 
+uncovered reveals important evidence 
+evidence victim engaged fierce rivalry 
+hearsay rumor 
+presence statement account 
+evidence victim balked someone 's plan 
+destruction evidence appears accidental proved 
+detective outcome premeditated action 
+evidence victim trying avoid person 
+evidence blood stain 
+evidence victim violated promise 
+presence stain blood 
+evidence victim involved faction 
+evidence victim premonition 
+peculiar odor left behind 
+evidence victim obstacle someone 's freedom 
+key pocket piece left behind 
+hiding identity creates trouble reveals important 
+clue discovered 
+evidence victim feared expose 
+evidence victim prosecuting someone 
+presence mysterious device 
+evidence pointing black hand secret organization 
+map plan evidence premeditated murder crime 
+destruction mean illumination appears 
+premeditated action 
+evidence theft book 
+victim individual disguised 
+evidence victim criminal relation 
+shred supposed criminal 's apparel 
+evidence victim prevented reconciliation 
+peculiar pose position object body 
+evidence pointing revenge 
+evidence victim 's fugitive 
+bit handwriting 
+evidence victim superstitious 
+evidence criminal drunk drugged 
+odd manner victim individual 
+clothed 
+evidence victim trapped 
+wherein victim impersonating another person 
+secret implement tool discovered offer valuable 
+evidence 
+transportation ticket 
+one resembles victim assaulted presumably accident 
+detective discovers premeditated 
+removal object 
+evidence victim search proof 
+presence mysterious letter card 
+evidence victim involved controversy 
+facial expression 
+evidence victim involved political intrigue 
+evidence struggle 
+evidence victim engaged private investigation 
+foot print 
+evidence victim spied upon 
+calling card criminal discovered 
+evidence victim tortured 
+discovery secret passage 
+evidence victim engaged propaganda campaign 
+appearance strange colored light witness 
+evidence criminal 's lover victim 
+relative victim 
+automobile license number 
+evidence criminal 's fugitive 
+remainder repast food scrap 
+property stolen victim hidden 
+discovered revealing important evidence 
+content waste basket grate receptacle 
+evidence robbery victim 's safe cabinet 
+place security 
+sound heard nearby person 
+evidence pointing peculiarity criminal 
+strand lock hair wig toupee 
+evidence pointing malformity criminal 
+relative victim assaulted presumably accident 
+detective discovers premeditated 
+evidence found dust 
+wrecking mean transportation discovered 
+accident 
+discovery stealing identification paper 
+evidence victim defrauded someone 
+recorded sound 
+theft security discovered 
+hidden internal machine found offer valuable evidence 
+incompleted inscription 
+one custodian evidence assaulted presumably 
+accident detective discovers premeditated 
+evidence victim one side wager 
+attempt criminal destroy evidence crime 
+connection 
+stopping time piece 
+evidence bargain made 
+presence chemical drug 
+destruction mean communication discovered 
+deliberately motivated 
+presence imprint finger print foot print 
+evidence victim received threat 
+presence object dropped 
+cigar cigarette pipe snuff 
+voice heard nearby person 
+evidence fight 
+presumably accidental assault messenger discovered 
+premeditated 
+shadow observed witness 
+evidence forcible entry 
+mean escape destroyed apparently accident 
+detective prof premeditated 
+evidence theft weapon 
+finger print 
+broken object evidence argument 
+hidden valuable found offer illuminating evidence 
+evidence presence one ill afflicted 
+discovery theft document 
+evidence criminal disguised 
+discovery moving picture scene 
+presence incompleted sketch 
+evidence hidden mean transportation 
+religious aspect presented 
+destruction defense appears accident 
+proved result deliberate move 
+footprint lower animal bird 
+evidence superstition part criminal 
+evidence peculiar mean escape 
+structure burned apparently accidentally detective 
+discovers done deliberately 
+evidence scientific knowledge part criminal 
+hiding necessary document discovery prof 
+valuable clue 
+assault loved one victim proved 
+deliberate accidental 
+evidence idiosyncrasy part criminal 
+presence weapon implement 
+evidence plot victim criminal 
+imprint face window pane 
+evidence use match candle cigar lighter flash light 
+artificial lighter 
+custodian victim 's valuable assaulted event 
+prove action premeditated 
+evidence derangement criminal 
+peculiar mark body victim scene 
+crime 
+evidence symbol authority stolen 
+mean transportation burned investigation reveals 
+planned accidental 
+discovery undecipherable message warning 
+evidence victim involved scandal 
+evidence prophecy trouble victim 
+bag wallet 
+book 
+eye glass 
+code 
+rocket 
+photograph 
+badge medal decoration 
+debris 
+electric device 
+chain 
+bowl 
+death mask 
+sling 
+musical instrument 
+scissors 
+jewel 
+powder 
+report 
+candle candlestick 
+cartridge shot 
+wire 
+button 
+amulet 
+instrument game dice card golf club 
+door knob 
+wire 
+calendar 
+arrowhead natural souvenir 
+bottle liquor wine 
+kind bomb part one 
+emblem insignia coat arm 
+horoscope 
+mark 
+part human body 
+court summons 
+nail tack brad 
+jewel case 
+plan 
+time detector 
+club 
+flag pennant banner 
+gem 
+old weapon 
+box case 
+binoculars 
+spoil plunder 
+lariat rope faked rope 
+forceps plier 
+statement bill 
+object disguise 
+compass 
+scrawl paper anything else 
+statue idol 
+lost key 
+marked jewelry ornament 
+walking stick 
+driver 's license 
+bottle perfume 
+weighing scale 
+animal 
+kind shoe 
+seal indication authority 
+stethoscope 
+plant flower 
+trinket 
+household object 
+explosive 
+plaything 
+sketch 
+time table 
+object family tradition 
+tobacco 
+stake wager 
+hour glass 
+lash 
+kodak 
+record 
+ornament house 
+surgical instrument 
+trademark 
+souvenir 
+purse bill folder 
+envelope paper 
+holster 
+band bond 
+booty loot 
+kind pin 
+robe blanket 
+preservative 
+merchandise 
+bit earth grass soil 
+hammer axe handle one 
+utensil 
+buckle clasp 
+bulletin 
+broken object 
+branding iron 
+bottle box tablet 
+binding bandage 
+bone bone 
+bauble 
+small safety box cabinet 
+pen pencil 
+leather thong blackjack 
+wearing apparel 
+talisman 
+brick clay 
+gavel mallet 
+catch clamp 
+fetter manacle 
+grip valise 
+placard 
+picture 
+object illumination 
+ornament 
+waste litter 
+chart 
+caricature 
+barometer instrument measuring 
+time piece 
+cutting shaving wood metal 
+trace poison 
+weapon 
+bloodstained cloth 
+brush 
+disinfectant 
+brief case 
+printed matter 
+looking glass 
+basket crate 
+bottle medicine 
+poem 
+hypodermic needle 
+half emptied glass dish 
+toilet article 
+code 
+whistle 
+weather glass vane 
+ink writing mark 
+magnet 
+makeup stuff 
+relic antique 
+loot 
+imprint paraffin material 
+idol image 
+sculpture 
+poisonous animal insect 
+dagger dart arrow 
+certificate 
+hat cap glove 
+book mark 
+prescription 
+rare flower 
+indication victim 's rank 
+sensitized object 
+time clock 
+bird 
+thermometer 
+drug 
+flash light 
+fire brand 
+ticket 
+painting sketch 
+flask 
+glass dish 
+magnifying glass 
+pry lever 
+copy resignation 
+object used worship 
+sliver certain wood metal 
+whip crop 
+paint daub 
+pinch bar 
+gold metal 
+food candy 
+library card 
+marked money 
+ruler tape measure 
+search warrant 
+paint brush palette 
+order keep reader guessing make story interesting 
+suspect number depending upon desire method 
+included among suspect 
+job seeker 
+accomplice 
+religious maniac 
+victim conspiracy 
+colleague 
+imitator 
+owner property crime committed 
+witness 
+employee 
+invalid 
+tyrant 
+attempted suicide 
+former partner crime 
+experimentor 
+one seek endowment 
+one confessed crime 
+immoral woman 
+mysterious man 
+political agitator 
+demented person 
+relative 
+blackmailer 
+prodigy 
+feudist 
+one doomed disease 
+fatalist 
+cripple 
+bootlegger 
+supposed coward 
+one displaced 
+friend 
+apparition 
+business associate 
+medium 
+craver excitement 
+garrulous person 
+doctor 
+defendant suit involving victim 
+practical joker 
+agitator 
+victim shell-shock 
+alarmist 
+reformist 
+disguised person 
+refugee 
+one accused victim 
+partner 
+loser wager 
+defeated antagonist 
+rival business 
+aspirant hand female relative 
+competitor 
+`` czar `` group 
+loser game 
+one fanatically claim criminal 
+fortune teller 
+one deceived 
+society girl 
+member official family 
+nurse 
+newspaper man 
+one whose authority disputed 
+one proved envious victim 
+critic 
+extravagant person 
+ex-employer 
+caretaker 
+sale person 
+ex-mate 
+discoverer crime 
+trustee 
+customer 
+secretary 
+body guard 
+organizer 
+rival achievement 
+hunchback 
+wealthy delinquent 
+member diplomatic family 
+favorite 
+go-between 
+guest 
+investigator 
+extremist 
+hypnotic subject 
+ex-partner 
+one whose right dispute 
+churchman 
+political henchman 
+dope drug peddler 
+pagan priest 
+accuser 
+rival love 
+messenger 
+exile 
+stickler tradition 
+chinese 
+sportsman 
+tramp 
+dive keeper 
+another person 's husband wife 
+curio hunter 
+gangster 
+one claim criminal 
+spy 
+foreigner 
+gypsy 
+mysterious woman 
+one suspected conspiracy 
+ex-convict 
+loser loved one 
+half-wit 
+one rebuked 
+idealist 
+sub-contractor 
+japanese servant 
+passerby 
+victim conspiracy 
+rival business 
+circus barker 
+beach comber 
+river rat 
+pseudo-nobleman 
+mystic 
+fiend 
+fugitive 
+animal 
+ex-servant 
+aspirant hand male relative 
+heir heiress 
+oriental 
+hindu 
+racketeer 
+adventurer 
+one confessed crime 
+apache 
+peon 
+communist 
+voyageur 
+promoter 
+counterfeiter 
+forger 
+neurotic 
+protégé 
+delivery man 
+ex-employee 
+entertainer 
+bookmaker 
+dancing partner 
+ward bos 
+voodoo doctor 
+east indian 
+octoroon servant 
+night club owner 
+gem collector 
+fisherman 
+step-brother sister 
+loser loved one 
+one suspected conspiracy 
+step-father mother 
+ape-man 
+lover wife beloved husband 
+half-breed 
+man wooden leg 
+one-eyed man 
+millionaire clubman 
+family lawyer 
+cousin 
+business driver 
+escaped convict 
+electrician 
+itinerant peddler 
+heir-presumptive 
+district attorney 
+explorer 
+housekeeper 
+disappointed suitor sweetheart lover 
+antique collector 
+anarchist 
+ward 
+motion resulting novel idea 
+
+investigation relative 
+reference made blue book 
+old affiliation traced 
+warrant issued 
+bold adventure undertaken 
+curio shop investigated 
+woman case sought 
+blunder purposely made 
+confederate sought 
+stimulant administered 
+tracing dental work employed 
+plan suddenly abandoned 
+intoxicating drug liquor used 
+ostensibly accession 
+use dummy decoy detective made 
+shadowing 
+tracing animal 
+resort long wait order cow suspect 
+possession suddenly acquired 
+flame fire used 
+past character investigated 
+bombardment 
+minute inspection personal property 
+child used decoy 
+adulteration material matter liquid 
+comedy staged 
+dictaphone utilized 
+employment given 
+fanatic placed observation 
+mysterious infection investigated 
+strange weapon employed sought investigated 
+clever action employed 
+incessant noise action utilized effect 
+payment money stopped 
+character kidnapped 
+strange peculiar creed investigated 
+melodrama staged 
+temporary paralysis caused 
+strange prayer made 
+whereabouts person investigated 
+sudden unexpected accusation made 
+announcement investigation dropped made throw 
+criminal guard 
+tracing laundry mark made 
+reconstruction shattered disintegrated object body 
+attempted 
+old adage employed 
+position wiped 
+inanimate object vivified 
+mysterious breakdown planned 
+cache sought 
+character blindfolded 
+daredevil stunt planned 
+prisoner apparently given freedom movement 
+watched 
+suspect lead believe another suspect confessed 
+absorbent employed 
+theory fatalism investigated 
+planned produce illusion 
+character presumably killed 
+research made library 
+morbid tendency investigated 
+strange vehicle employed 
+ventriloquism used 
+attempt made trace origin tattoo mark 
+investigation made threat 
+signal expected suspect counterfeited 
+abduction 
+gangster put observation questioned 
+hereditary tendency studied 
+gross exaggeration employed 
+concealed kodak used 
+machine gun terrible weapon set 
+clever illustration produced effect 
+apparent miracle staged investigated 
+appeal made prejudice 
+old adversary introduced 
+ghastly impression made 
+brothel searched 
+camouflage arranged penetrated 
+unknown lover sweetheart sought 
+attempt made break morale 
+reflection mirror otherwise employed 
+concealed vault sought 
+license number traced 
+use made mental torture 
+suspect provided alibi 
+loved one suspect placed great jeopardy 
+venomous reptile vicious animal employed 
+bacillus used traced 
+newspaper article published 
+brutality employed 
+apparent concession made 
+process deduction employed 
+planned cause exhaust strength 
+suspect surrounded number disguised people 
+abnormal person thing employed 
+action involving graveyard planned 
+harlot placed observation 
+presence insect investigated 
+connection hindu investigated 
+fake lynching staged 
+apparent mystery introduced effect 
+rapid advance made 
+use fright employed 
+starting announcement made 
+illicit love investigated 
+use kindness employed effect 
+loathsome object introduced 
+publicity threatened employed 
+suspect threatened proof greater crime 
+committed 
+suspect placed position obliged sacrifice 
+innocent 
+addict employed 
+extradition proposed 
+beacon erected 
+motion picture camera employed 
+body exhumed 
+department departure abolished 
+flushing receptacle conduit search 
+evidence 
+bribe premium offered 
+burglary committed planned 
+fake accident staged 
+strange instrument brought play 
+suspect permitted carry criminal plan 
+order catch act 
+advantage taken affection 
+hideous sight planned effect 
+incision made search evidence 
+unexpected aggressor made play part 
+dummy postmark mark identification prepared 
+mislead criminal 
+facsimile object evidence utilized 
+clever disguise used 
+affinity traced 
+novel method utilized giving signal 
+frivolous behavior investigated 
+unexpected affront employed 
+large body liquid drained 
+fake fight staged 
+worship pagan god investigated 
+lookout effect 
+interpreter employed 
+martial law threatened declared 
+puzzle enigma propounded 
+affliction investigated 
+relationship annulled 
+doctor called 
+old grievance probed 
+laboratory used 
+aggravation employed 
+deformity simulated 
+ancestor investigated 
+blackmail threatened 
+dice instrument gambling employed 
+professional impersonator sought 
+service alienist employed 
+anonymous communication sent 
+explosion shot imitated effect 
+gamble wager investigated 
+amnesia simulated 
+connection lawyer probed 
+use magnet magnetism employed science fiction 
+talisman produced searched investigated 
+modern science employed 
+unexplained altercation caused take place 
+insinuating annoyance employed 
+use crucifix made 
+old album sought 
+article apparently lost mislaid way suspect 
+brotherhood investigated 
+incense burned effect 
+significant event history scrutinized 
+exciting agitation begun 
+clever hoax staged 
+insolvency proved 
+advantage taken illness 
+chemical reaction employed 
+person feigns asleep 
+use boasting employed 
+clandestine meeting spied upon 
+underworld connection investigated 
+rapid transformation employed 
+strange alteration made 
+bloodhound used 
+apparently crazy person employed 
+use amateur investigator employed 
+character apparently run amuck 
+sudden unexpected attack launched 
+barricade erected 
+clever delusion used 
+object duplicated 
+obstacle erected 
+powerful man woman forced abdicate 
+old feud investigated 
+appeal made appetite 
+bucolic announcement made 
+autopsy performed 
+betrayal planned 
+conduit connection sought 
+sought terrible anxiety simulated 
+family history traced 
+illicit traffic probed 
+imperfection scrutinized 
+lethal gas sought employed 
+marriage investigated 
+affection person purposely alienated 
+ambush 
+cripple employed 
+mournful dirge contrived 
+sensational expose planned 
+secret analysis made 
+significant anecdote related 
+corpse used 
+deaf mute simulated employed 
+heritage investigated 
+injection sought 
+supposed interstellar visitor sought investigated science 
+fiction 
+labyrinth employed effect 
+crime arson simulated 
+eerie scene staged 
+flirtation contrived investigated 
+agonizing pain caused 
+strange ritual sought employed 
+strange unusual penalty threatened inflicted 
+fake sacrifice made 
+attempt made trace track imprint 
+planned catch suspect unawares defense 
+greatly weakened 
+arrest made effect 
+capture attempted 
+fake confession made 
+apparition employed 
+blind person employed simulated 
+science mathematics employed confuse 
+impressive array displayed 
+effort made bewilder 
+heated fake argument staged 
+armistice declared 
+dispute precipitated 
+imbecile either real supposed placed observation 
+apparatus employed 
+deformity counterfeited 
+apparent paradox produced effect 
+anxiety suspense employed 
+appeal made conscience 
+pathetic scene staged described effect 
+sacred object sought produced withheld 
+somnambulism investigated 
+venomous reptile insect sought employed 
+strange sacrifice probed 
+torture employed 
+fainting spell spell feigned 
+aroma employed investigated 
+advantage taken tryst 
+attempt made trace label serial number manufacturer 's 
+mark 
+microscopic analysis made hair nail thread ash 
+minute clue 
+artificial limb employed 
+use bluff employed 
+situation chaos perpetrated 
+artificial object used 
+confiscation property 
+scene situation dramatized 
+asylum investigated 
+use bible employed 
+pagan performance staged effect 
+cataclysm threatened 
+derelict introduced 
+fiendish motive sought 
+prophesy studied evidence 
+peculiar ideal investigated 
+caricature made 
+electricity employed 
+colony invaded 
+liberty restrained 
+strange intoxicant investigated 
+challenge offered 
+habit studied 
+trial faked 
+persuasive argument used 
+sudden change indicated 
+drunkard simulated 
+facial character altered investigated 
+clairvoyance used 
+excavation made 
+use invisibility plotted science fiction 
+international complication probed 
+operation peculiar law studied 
+important comparison studied 
+flattery adopted effect 
+planned make invasion 
+lavish expenditure investigated 
+clan investigated 
+collision staged 
+subtle demonstration employed 
+dwarf employed 
+forcible entry made 
+exciting escape simulated 
+homicidal tendency investigated 
+iron clad armor used 
+evidence presence maniac traced 
+use effect hypnosis investigated 
+itinerant person sought 
+mimicry employed 
+operation threatened performed 
+fake panic staged 
+hobby investigated 
+imperial association sought 
+mental reaction studied 
+mistress sought 
+person 's hysterical behavior probed 
+strange manifesto investigated 
+patience purposely exhausted 
+old opponent introduced investigated 
+spiritualistic medium employed 
+embarrassing questionnaire used 
+character reduced pauperism 
+mob utilized effect 
+significant measurement made 
+strange phenomenon produced effect 
+masquerade employed 
+posthumous creation investigated 
+proxy employed 
+suspect placed position obliged sacrifice 
+friend loved one 
+manikin employed 
+surprising prank employed 
+exotic perfume investigated 
+monotonous sound movement employed effect 
+mystic magician employed 
+strange penance investigated 
+old proverb scrutinized connection 
+chimera encouraged 
+appeal made conceit 
+midget employed investigated 
+counterfeit copy sought 
+monstrosity produced 
+convict sought 
+entertainment staged 
+eviction made 
+cause persecution probed 
+bold dash made 
+enigma offered 
+examination made hotel register 
+apparent presence dead person contrived 
+play made upon cupidity suspect 's confederate 
+use made radio 
+cross-examination family friend 
+victim 
+psycho-analysis employed 
+person investigator know innocent arrested 
+effect 
+intimidation loved one suspect 
+third degree used 
+service handwriting expert employed 
+brain tissue subjected chemical analysis 
+investigator resort bargaining suspect 
+use made lip reading 
+family friend suspect subjected 
+cross-examination 
+reconstruction crime effect 
+psychological method word-association used 
+play upon superstition suspect 
+investigator impersonates criminal secure information 
+intimidation suspect resorted 
+cross-examination suspect employed 
+television used 
+investigator resort bargaining suspect 's confederate 
+recourse process elimination 
+service blood analyst employed 
+play made upon fear suspect 
+direction front book 
+list 
+campaign action plan abandoned time crime 
+committed 
+peculiar entrance room compartment 
+mysterious message discovered dictaphone phonograph 
+record 
+attempt conceal information concerning business affair 
+person found guilty minor offense seems 
+bearing case 
+scientific discovery prof disproves theory evidence 
+time crime committed mysterious fire 
+blaze observed 
+person seen boarding ship train plane bus hurriedly 
+surreptitiously 
+sculpture art work discovered bearing 
+case 
+consternation result display search warrant 
+abrupt termination interview mention crime 
+made 
+unexplained absence person 
+concealment cablegram telegram radiogram uncovered 
+person body animal found caged kind 
+compartment box enclosure 
+person received mysterious call 
+discovered person slandered cast aspersion upon 
+another 
+person demand writ habeas corpus 
+important object piece furniture mutilated 
+incoherent talk half-wit 
+suspicious separation person dissolution partnership 
+association involved 
+attempt shanghai person 
+person shocked certain insinuation information 
+use delicate apparatus found near scene crime 
+discovery clever camouflage 
+secret settlement division property 
+person fake hallucination 
+call help answered denied 
+unexplained cash transaction concealed revealed 
+discovery part body 
+clock time piece tampered 
+collection valuable broken separated 
+sudden departure conference 
+disappearance person 
+admittance place denied 
+person remarked victim deserved hanging 
+discovery person broken hearted love trouble 
+someone found wearing steel vest 
+old legend described bearing case 
+card letter form communication 
+concealed discovered 
+deportment character acting absent-minded pretending 
+unexpected abuse person would arouse suspicion 
+discovery entrance made difficult presence 
+gas 
+effort smuggle something state country 
+discovery stigma one 's name 
+check-up time storm effect 
+attempt suicide prevented 
+discovery person hate another victim made 
+suck statement 
+conflict discovered taken place game race 
+event 
+peculiar accident person 
+giving wrong address 
+mysterious advertisement 
+person 's authority questioned 
+mechanical device used alibi 
+registering certain instrument disproves important 
+evidence 
+person discovered henchman victim 
+important character 
+discovery cache money weapon part body 
+clothes 
+strange mysterious action person 
+publication wrong information discovery false 
+person change place inanimate object vice versa 
+overhearing speech formula 
+manner discoverer crime gave alarm 
+unusually haggard worried appearance person 
+agreement secretly cancelled 
+supposed amateur discovered profession line 
+person claimed alone discovered 
+companion 
+concealment receipt allotment allowance 
+unexpected abuse animal arousing suspicion 
+concealing effort clean debris 
+knowledge alarm withheld 
+defamation character suit threatened 
+unexpected discovery unusual character 
+discrepancy discovered person 's recital event 
+connection crime 
+suspicion thrown upon one employed investigator 
+plating significant tune melody 
+attempt carry object one place another rous 
+suspicion 
+concealed plan celebration uncovered 
+use unusual mean transportation person 
+sudden mysterious illness person 
+unexplained concealment important certificate 
+person loses composure interview accosted 
+discovery supposedly dead person alive 
+attempt humiliate person 
+supposed imbecile reveals concealed object secreted evidence 
+presence poisonous reptile insect 
+unexpected political affiliation discovered legitimate 
+otherwise 
+refusal admit identity 
+discovery suicide attempted fact 
+concealed 
+mysterious apparently unnecessary concealing article 
+clothing 
+discovery person imposter 
+person attempt retract accusation 
+person discovered tied bound gagged 
+time detector regulator discovered 
+attempt conceal apparel 
+revealed person influence horoscope 
+person denies humane act victim person trouble 
+person discovered effort conceal fact 
+unusual person discovered admirer victim 
+coffee tea drink contaminated poisoned 
+discovery unexplained power fascinate cause person 
+become suspected 
+co-worker refuse carry project 
+suspect brag detective 's inability discover 
+connection crime 
+door panel box mysteriously closed 
+person discovered comatose state 
+attempt make offer compromise 
+supposedly valuable jewel thing discovered faked 
+provision heretofore generally concealed 
+saving life interfered 
+discovered use form magic made 
+double meaning anecdote rous suspicion 
+chemical analysis produce unexpected result 
+person given give wrong direction location 
+revealed evidence struggle concealed 
+discovery person frequented questionable place 
+check-up matter time discloses discrepancy 
+person discovered hereditary peculiarity 
+humorous accusation statement prof serious 
+report received clandestine meeting 
+unexpected claimant valuable appears 
+place ha unexpectedly cleaned 
+use drug concealed 
+suspicious effort compensate suspect person 
+person discovered compromising position 
+discovery treasure valuable thing 
+hoarded 
+suspected person attempt conceal hurt wound destroy 
+evidence done 
+concealing illicit selling trading 
+attempt implicate one hitherto unsuspected 
+person suddenly change mind 
+discovery strange alliance person 
+unexpected agony person revealing hitherto unsuspected 
+wound 
+secret invention concealed effort made find 
+intimacy unusual type people 
+action point insanity 
+discovery regarding person 's insurance 
+drink discovered contain liquor poison 
+person attempt conceal dash freedom caught 
+discovery person concealing fact 
+discovery supposedly absent person present 
+concealing destroying thing involved inheritance 
+discovery suspicious track 
+manner action person incongruous keeping 
+known character 
+noise sound counterfeited imitated 
+discovery character key possession 
+person change first story crime anything even 
+remotely involving 
+discovery person using alibi 
+destruction mean alarm discovered 
+attempt conceal evidence altercation 
+discovered person secretly put curse anathema 
+victim 
+letter published statement double meaning 
+discovery concealed animal 
+concealing attempt punish person 
+discovery strange mechanism 
+person attempt conceal sorrow 
+unexpected discover human remains 
+discovery anaesthetic used 
+lawful right denied one secretly 
+flickering turning light certain time 
+peculiar device attached lock discovered 
+discovery track obliterated 
+effort conceal purchase 
+discovery postmark mark identification 
+forged 
+bed slept 
+discovered imaginary character created 
+mysteriously disappears 
+discovery feature character altered 
+person thought superior prof otherwise 
+person 's superstitious fear discovered 
+failure delivery message 
+revelation one person terrorized another 
+attempt made throw away object supposedly 
+bearing case 
+time crime variously reported concealed 
+discovered 
+discovery one taken unusual precautionary measure 
+discovery door gate opened 
+person take blame prevent another 's involved 
+case 
+person appears faking insanity 
+mechanical device conceals absence person 
+evidence threat kill concealed uncovered 
+person becomes confused story telling 
+connoisseur pretend ignorance subject 
+credential important character stolen 
+discovery imitation substitute set-up kind 
+made 
+patronage wealthy authoritative person suddenly 
+secretly withdrawn 
+operation 
+list b 
+attempt destroy evidence antagonism victim 
+person 
+apparently insignificant action -such telephoning sending 
+occurred new time crime 
+mechanical device creates appearance sound shadow 
+etc human 
+attempt made conceal label indication 
+purchase object sought used evidence 
+person pretend friendship one never seen 
+person trance make surprising announcement 
+effort spread contagion 
+overhearing conversation suspect refutes 
+story 
+unexplained attempt communication 
+person 's credential proved false 
+plot crime discovered 
+person attempt conceal fact crippled 
+discovery concealed evidence crime 
+person deprived rank degree 
+magnet discovered used unusual purpose 
+concealment person whose liberty stir trouble 
+person feigns friendship discovered jealous 
+another 
+concealed marked calendar reference date hour 
+person becomes confused confronted suspected 
+evidence 
+evasion term contract 
+discovery character brooding 
+strange request information 
+intimate knowledge victim 's habit peculiarity apparently 
+known suspect 
+unusual animosity displayed pet victim suspect 
+similar cabalistic tattoo mark identification 
+victim suspect 
+discovery existence strange relationship 
+person pretended lack knowledge discovered 
+suspiciously familiar detail 
+repeated use cryptic remark 
+discovery abandoned vehicle 
+defalcation fund concealed 
+person found mentally deficient delinquent 
+curiosity cause person forget caution 
+cruelty character arouses suspicion 
+money dedicated certain purpose arouses antagonism 
+person supposedly returned tour discovered 
+back length time 
+attempt destroy conceal animal 
+discovery concealment evidence antagonism 
+person deliberately jeopardizes position condition safety 
+attempt conceal jewel money valuable 
+discovery person claim acquaintance one 
+know 
+supposed decoration discovered used concealing 
+something importance 
+underworld character discovered interested case 
+effort correspond another secretly 
+person caught embarrassing situation give contradictory 
+explanation 
+reservation secret rapid transportation found 
+secret meeting person arouses suspicion 
+something discovered appears saturated 
+poison anesthetic 
+discovery death mask concealed 
+erratic declaration part person 
+apparently accidental discharge weapon 
+good spender cease spend freely 
+presence maniac 
+secret marriage discovered 
+person unexpectedly show undue anxiety 
+discovery person faking aphasia 
+person discovered evading law 
+effort made mislead investigator false clue 
+legatee unexpectedly produced discovered 
+effort conceal correspondence victim 
+important character 
+discovery someone shadowed trailed 
+discovery disaster foretold fortune teller 
+garrulity drug addict 
+sudden change plan victim known suspect 
+critical utterance overheard 
+discovery someone unexpectedly paid bill 
+preparatory move 
+secret attempt placate appease person 
+unexpected appearance missing person 
+attempt conceal argument fact 
+one 
+presence baffling odor aroma perfume 
+discovery correspondence personal writing 
+diary 
+guide deliberately misleads party 
+attempt part person use decoy 
+discovery person used vehicle concealed fact 
+unusual person believed innocent offer custody 
+decrease victim 's another important person 's income 
+defacement distortion object thing 
+discovery effort delete word sign phase 
+communication 
+victim another person guard safety otherwise 
+discovery secret love affair 
+location looking glass could reflect 
+discovery person faking amnesia 
+discovery person made strange appeal 
+concealment fact person received help threat 
+discovery apparently valueless trinket seems 
+peculiar machine concealed discovered 
+unexpected unexplained malicious action person 
+discovery artificial covering verdigris sod 
+covering 
+person attempt conceal effort default 
+secret attempt defend person suspicion 
+hidden writing brought light chemical erasure etc 
+visa official document identification discovered 
+revealed character attacked name an-other 
+unmercifully 
+concealed threat person 's life-victim otherwise 
+love person victim another-warranted 
+otherwise 
+person discovered leave absence 
+victim another threatened lawsuit 
+attempt defraud victim another important person 
+discovery self-possession self-assurance self-confidence 
+forced unreal 
+destruction evidence appointment 
+person discovered involved one questionable 
+character 
+discovery safety device precautionary measure 
+removed altered 
+babbling weak-minded person 
+discovery object matter thing place 
+unexpected discovery appropriation money 
+paint deliberately unexpected used concealing something 
+importance 
+mysterious person sought transportation facility 
+secreted manuscript come light 
+person suddenly loses arrogance 
+new atrocity discovered concealed 
+discovery unaccountable apology 
+person discovered keeping appointment attempting 
+conceal plan 
+discovery person blackmailed 
+presence secret mysterious cabinet receptacle 
+revealed 
+effort made conceal use wine liquor 
+missing bullet weapon object discovered 
+discovery surreptitious assignment made 
+person attempt hide audience 
+authenticity report statement clue questionable 
+investigator hears revel kept secret 
+disappearance important object scene 
+crime 
+delirious person unwittingly make illuminating statement 
+official person demoted deposed 
+person deserted trouble 
+unexplainable discharge person 
+discovery stage set action staged 
+unexpected attack made 
+false report proved authentic 
+person 's desire avenge wrong uncovered 
+issuance strange mandate 
+person surround unusual defense 
+person fawning obsequious another 
+report unusual noise revealed 
+person discovered making attempt secrete weapon 
+object 
+secret association person victim another 
+person 
+peculiar assortment object concealed 
+discovered 
+discovery attachment someone victim 
+important character 
+disposal evidence attack attempted 
+auspicious event attended person suspicion 
+discovery autograph article 
+secreted 
+person usually retires early discovered prowling late 
+hour 
+person deliberately misleads give misdirecting 
+information 
+person supposedly poor discovered posse large amount 
+money 
+attempt part person meddle 
+person purposely misinterpreted message statement 
+attempt commit murder discovered 
+discovery person lost victim game 
+proof person 's authority come light unexpectedly 
+person tried jump bail bond 
+secret concealed stairway discovered 
+person unexpectedly discovered criminal 
+discovery giving taking bribe concealed 
+unexplained breach friendly relation 
+person awakes sleep stupor speaks 
+subconscious mind 
+audience given unusual person 
+attempt made oust expel person building 
+group 
+discovered person strangely decided remain 
+neutral 
+fact peculiar offer made uncovered 
+person 's secret aversion victim revealed 
+attempt conceal weapon 
+comparison handwriting directs suspicion character 
+peculiar marred photograph discovered 
+secret return one scene crime 
+character feigns illness 
+discovered suspect involved plot commit 
+second crime murder 
+person certain authority issued decree 
+aroused antagonism 
+revealed character ostracized black 
+mailed 
+person turn panicky question suggestion 
+use mechanical device concealed 
+attempt made conceal giving narcotic person 
+discovered picture motion picture still 
+taken 
+mysterious disappearance necessary object evidence 
+person discovered obsession victim 
+someone something importance 
+effort conceal bargain uncovered 
+person thought plenty found bare 
+necessity 
+disappearance evidence bargaining 
+condition circumstance force one betray unawares 
+threat secret society sec indicate outside influence 
+discovery picture hidden message 
+suspicion directed character unexplained outburst 
+passion 
+attempt made prevent release imprisoned 
+person 
+list c 
+discovery instrument indicates evidence 
+crime 
+appears cheap bauble discovered contain 
+thing value 
+suspicious imitation one character another 
+revelation man made love woman hate 
+supposedly pious person turn vicious 
+person conceals fact linguist 
+mysterious disappearance guard 
+insistent declaration alibi suspect 
+innocent person strangely decoyed 
+attempt remove bloodstain incriminating evidence 
+use instrument tool discovered made 
+victim important character discovered involved 
+legal action 
+attempt conceal person 's disgraceful action 
+unexplained disheveled condition character arouses 
+suspicion 
+distinguished person found usual background 
+elopement interfered prevented 
+effort conceal new type energy 
+doctor prof fake 
+barricade conceals protects entrance 
+unexpected discovery illegitimacy child 
+secret attempt receive blessing benediction 
+discovery password 
+revealed guard patrol placed 
+attempt person put pest-house sanitarium 
+place confinement 
+misuse medicine 
+discovery secret pledge promise 
+illusion apparition discovered purposely 
+created 
+revelation bribe promised one consideration 
+revealed immunity promised one 
+consideration 
+strange unusual weapon discovered 
+attempt disrupt meeting 
+surprising action animal particularly dog 
+unusual electric contrivance discovered 
+person 's discovered taste weird unusual poetry 
+fiction 
+attempted prevention endowment 
+discovery one authority imposter 
+person disconcerted confronted material evidence 
+concealed electric bell buzzer sound instrument 
+discovered 
+character id discovered questionable reputation 
+use radio telephone telegraph cable concealed 
+discovered 
+attempt conceal plunder loot property claimed one 's 
+
+repeated recurrence apparently insignificant action 
+revealed person secretly financing person 
+enterprise 
+attempted plagiarism discovered 
+secret rendezvous discovered 
+person conceals evidence rivalry person issue 
+facility rendered useless 
+suspicion thrown member investigator 's family 
+mysterious signal appear various place 
+discovery peculiar leakage- discovered pretense 
+action attitude person discovered pretense 
+striking resemblance one another 
+unexpected surveillance discovered 
+suspect one access premise 
+person 's prescribe diet interfered 
+person unexpectedly discovered officer official 
+attempt produce spirit manifestation 
+banished person suddenly perhaps secretly-appears 
+secret visit bank discovered 
+heart balm demanded indicating trouble love affair 
+system espionage discovered 
+person falsified record possible evidence 
+discrepancy story told character 
+object supposedly genuine discovered fake 
+unusual gesture made repeatedly 
+effort belittle another show praising 
+unexpected recipiency bequest 
+demand payment bill discovered 
+discovery character envious another 
+familiarity another suddenly cease 
+attempted destruction conveyance 
+one hide crooked work behind honorable employment 
+attempt follow another unawares 
+unexpectedly discovered victim blamed 
+supposedly innocent person wrongdoing 
+suspected person make serious blunder 
+discovery conflict awarding 
+prize 
+person bolted apprehended 
+playing game repeatedly 
+secret opening compartment discovered furniture 
+person resents examination 
+destruction exhibit discovered prevented 
+effort start fire 
+hidden brand unexplainable 
+discovery concealed unexplained budget 
+financial statement 
+discovery effort burn something 
+attempt interfere expose 
+secret bolt discovered hidden mean operated-on 
+door gate panel box etc 
+attempt remove conceal blood stain discovered 
+person going fictitious name 
+effort bully brow-beat come light 
+mysterious exchange present 
+discovery essential missing part object 
+someone given overdose medicine poisonous drug 
+discovery valuable jewel concealed 
+mysterious rescue escape effected 
+message conveyed riddle 
+suspicion thrown investigator 
+message written strange language discovered 
+mysterious warning received 
+discrepancy important date 
+denial marriage 
+giving peculiar pledge discovered 
+freak alibi stablished 
+toll rendered useless 
+unexplained bestowal favor 
+supposedly conventional person found leaving bohemian 
+life 
+disappearance reappearance body guard 
+investigator confronted living double murdered victim 
+secret room compartment discovered 
+discovered witness influenced testify 
+falsely 
+person fake blindness discovered 
+message found ruse decoy 
+revelation woman accepted attention man 
+hate 
+person unexpectedly denounced 
+attempt cause person deported 
+discovery part body removed 
+discovered discord family among 
+associate victim 
+discovery person secretly kept prisoner 
+attempt bring reconciliation 
+baggage discovered contain mysterious suspicious object 
+deliberate attempt blame another 
+discovery favor withdrawn 
+hiding destroying food 
+discovery gift given withheld 
+destruction evidence party 
+person discovered one sect clan 
+foreboding given credence 
+person discovered dual nature 
+attempt take deposition 
+disappearance person detailed seek specific evidence 
+discovered person taken necessary detour 
+person prevented fulfilling contract agreement 
+legal personal 
+supposed friend discovered enemy victim 
+important person 
+hint contained cryptic publication 
+unnecessary precaution concealed discovered 
+person discovered convicted crime 
+revealed controversy religious 
+question 
+attempt conceal condition person 's finance 
+ballot cast discovery reveals plot 
+sort 
+discovery person banished place 
+something discovered used blind 
+person bound gagged discovered 
+discovery unexpected bravery heroism 
+object concealed bread food stuff 
+similarity crime occurring widely separated place 
+mysterious failure someone keep bargain 
+body victim mysteriously disappears 
+discovery split rank 
+suspect 
+important evidence stolen investigator 
+discovery secret code used 
+false signal used mislead investigator 
+mean communication mysteriously interrupted 
+mysterious failure someone keep tryst 
+suspicion thrown person known dead 
+disarming person unexpectedly discovered concealing 
+weapon 
+person try conceal fraudulent transaction made 
+another 
+person asked forgiveness 
+discovery person threatened prosecution 
+concealed kinship one person another discovered 
+discovery person bankrupt attempting avoid 
+bankruptcy 
+second crime similar nature occurring locality 
+attempt made stranger gain entrance scene 
+crime 
+presence mysterious stranger gain entrance scene 
+crime 
+suspicion thrown person known far away 
+discovery quarrel participant attempt conceal 
+discovery suspicious issue bank draft certified check 
+person concealed fact received rake-off 
+bribe evidence 
+attempt refute statement 
+broken instrument object discovered 
+weapon rendered useless 
+use mysticism either confuses thrown light subject 
+sudden discovery drug addiction 
+unexplained injury person 
+sudden breaking person 's health 
+unexpected recipient bequest 
+person turn berserk question accusation incident 
+investigator mystified weird sound appearance 
+vicinity scene crime 
+obstacle created mechanical device retard operation 
+investigator 
+item `` personal `` column newspaper conveys veiled 
+investigator decoyed woman 's cry help 
+plot perhaps sidetrack main story thread 
+murder friend victim 
+explosion 
+investigator trapped 
+plunging darkness 
+spectacular rescue 
+display primitive passion 
+outburst emotion 
+conflict sex 
+scientific demonstration 
+spectacular duel 
+murder business associate victim 
+conflagration 
+storm 
+spectacular interruption 
+discovered supposed corpse living person 
+kidnapping friend victim 
+weird gruesome discovery 
+embarrassing discovery 
+threatened murder business associate victim 
+spectacular gamble 
+breakdown 
+use hypnosis discovered 
+discovery suspect strange mania 
+mysteriously decoy located 
+investigator marooned 
+murder relative victim 
+kidnapping relative victim 
+spectacular collapse structure 
+deluge caused 
+spectacular stunt 
+fight 
+mysterious weird sound 
+sensational identification 
+threatened murder relative victim 
+carousal 
+mystic influence discovered 
+corpse brought life 
+kidnapping employee victim 
+loved one investigator trapped 
+trail bloodhound 
+murder investigator 
+spectacular collision 
+riot caused 
+formation mob 
+sensational mysterious disguise purpose 
+public denunciation 
+baffling alibi established 
+investigator drugged incapacitated 
+evidence destroyed natural phenomenon 
+spectacular even staged 
+threatened murder servant victim 
+unexpected appearance 
+mysterious weird phenomenon 
+substitution person effected 
+mysterious place concealment discovered 
+mysterious suicide discovered 
+suspect commits suicide 
+ghastly scene staged effect 
+kidnapping servant victim 
+threatened explosion 
+infliction torture 
+siege 
+murder employee victim 
+encounter maniac 
+runaway 
+raid 
+weird natural phenomenon 
+unexpected opposition 
+discovery illicit traffic 
+spiritualistic psychic manifestation 
+threatened murder employee victim 
+plot device frighten discovered 
+law interferes work investigator 
+reinforcement delayed 
+loved one investigator kidnapped 
+evidence spirit manifestation encountered 
+attempt made mob rescue suspect 
+murder investigator 
+kidnapping lover sweetheart victim 
+threatened infliction torture 
+suspect trapped 
+exciting communication signal 
+three threatened murder investigator 
+seizure 
+becomes necessary invade sanctuary 
+captive witness rescued 
+fake concession made 
+bombardment 
+spectacular flight 
+forced entrance 
+murder enemy victim 
+suspect develops another investigator 
+thrilling dash made prevent destruction evidence fire 
+attempted lynching made 
+threatened murder enemy victim 
+panic 
+spectacular descent ascent 
+kidnapping investigator 
+excitement alarm 
+ambush 
+accident conveyance 
+concealed device murder discovered 
+investigator captured 
+appearance apparition 
+murder rival victim 
+sensational forgery 
+spectacular illumination 
+attempted murder decoy 
+kidnapping enemy victim 
+secret trick entrance exit discovered 
+demonstration 
+masquerade 
+weird ceremony 
+attack vicious animal reptile 
+threatened murder rival victim 
+forgery evidence discovered 
+living person exchange place dead 
+discovered victim one 
+supposed 
+investigator discovers suspect friend loved 
+one 
+inundation 
+murder employer victim 
+kidnapping business associate victim 
+sensational jail break 
+discovery strange instrument sale 
+destruction 
+sensational escape 
+threatened murder employer victim 
+mysterious method disposing corpse discovered 
+forgery identification mark discovered 
+innocent suspect subjected torture 
+spectacular voyage 
+obstruction blockade 
+thrilling robbery 
+exciting spectacular warning 
+display insubordination 
+discovery unknown mysterious person 
+kidnapping rival victim 
+discovered supposedly dead person alive 
+discovered supposed investigator criminal 
+discovered woman employed trap suspect 
+barricade erected suspect 
+disastrous use chemical prevented 
+murder lover sweetheart victim 
+kidnapping employer victim 
+suspect suddenly becomes mentally deranged 
+witness disclose information killed accident 
+evidence discovered organized criminal gang involved 
+attack made ferocious trained animal 
+threatened murder lover sweetheart 
+victim 
+heathen ceremony take place 
+use electricity brought play 
+threatened murder friend victim 
+spectacular pursuit 
+sensational forgery 
+wholesale slaughter 
+attempted murder 
+witness subjected torture 
+murder important witness 
+discovered mock ceremony performed 
+disassociated mystery crime solved accidentally 
+investigator 's operation handicapped rival 
+blackmailer threatens handicap investigation 
+discovered huge hoax perpetrated 
+wrath cult aroused 
+murder stool pigeon 
+sensational attempt made discredit investigator 
+spectacular attempt made gain possession body 
+abduction important witness 
+discovered mechanical method employed 
+simulate presence person 
+becomes necessary encounter great danger pursuit 
+suspect 
+spectacular attempt made murder man already 
+killed 
+discovered child employed trap suspect 
+threatened involve investigator suspension 
+presence virulent disease germ discovered 
+attempt made precipitate catastrophe 
+new terrible scientific weapon used 
+pursuit old crime offense interferes 
+spectacular pursuit silence witness 
+discovered suspect escaped convict 
+investigator 's disguise penetrated 
+discovery picture conceals secret hiding 
+place valuable 
+used 
+thrilling pursuit capture 
+criminal led trap 
+presence twin triplet occasion confusion 
+forced confession 
+criminal led believe accomplice betrayed 
+vengeance wrought criminal old enemy 
+criminal permitted escape develops 
+loved one 
+guilty party make sacrifice ideal confesses 
+startling revelation show criminal victim 
+circumstance 
+develops guilty party kinsman sacrificed 
+guilty party identified indiscretion 
+confession forced remorse guilty party 
+guilty party identified indiscretion 
+innocent person confesses crime protect another 
+guilty person identified discovered leader 
+revolt 
+develops crime either one self-defense 
+justifiable 
+criminal pursued slain discovered kinsman 
+guilty party surrender obedience religious belief 
+dog animal lead way guilty person 
+criminal apprehended effort loved one 
+protect 
+person believed absent found present 
+unrecognized person befriended suspect 
+past come rescue identifies guilty person 
+vital object play important part story develops 
+thought 
+guilty person frightened surrender appears 
+occult spiritual manifestation 
+develops young child prof important witness 
+supposedly insane imbecile person prof normal 
+supply solution 
+police surround hiding place suspect effect capture 
+discovery made mistake identity 
+character 
+horrible revenge planned guilty person recoil 
+enmeshes 
+criminal disguise brought face face person 
+impersonating 
+guilty person betrayed one opposite sex whose love 
+scorned 
+rival come face face accuses crime 
+criminal fall trap set 
+position innocent suspect guilty person 
+unexpectedly reserved 
+criminal identified brand tobacco liquor 
+criminal identified practiced deception 
+supreme match endurance investigator 
+guilty person 
+guilty person discovered captured occurrence 
+unexpected accident 
+trivial unnoticed thing discloses evidence solves 
+problem 
+evidence found person escaping suspect prof 
+guilt 
+new powerful weapon brought play guilty 
+person 
+novel method used signal help 
+cripple unexpectedly come aid investigator 
+criminal suddenly stricken fatal illness 
+confession made 
+guilty person brought attack venomous 
+insect reptile 
+criminal identified certain habit 
+discovered person believed dead really alive 
+officer intercept escape criminal 
+criminal identified track 
+friend disguise save day innocent suspect 
+identifies criminal 
+discovered character story dual personality 
+officer turn table criminal trap force 
+confession 
+important discovery connection time element made 
+aid materially capture criminal 
+fourth degree used mental anxiety 
+secret mechanical automatic apparatus discovered 
+discovered stage cleverly set 
+discovered guilty person employed victim 
+commit crime 
+discovered supposed victim reality 
+criminal 
+innocent suspect saved criminal apprehended 
+timely arrival reinforcement 
+criminal exposed last minute testimony introduced 
+court 
+hypnotism used disclose important evidence bring 
+confession 
+person influence liquor discloses 
+criminal 
+criminal identified result hunch part 
+investigator 
+discovered suspect somnambulist 
+guilty party make sacrifice loved one surrender 
+criminal identified mad man 
+use made new invention scientific discovery 
+discovered chief witness innocent suspect 
+mentally deranged 
+character dire need drug brought confess 
+criminal 
+criminal believed loved one prof 
+enemy disguise 
+chain mysterious tragic event staged clever 
+crime problem 
+attempt made suspect decoy investigator 
+away 
+criminal besieged surrender 
+torture used force confession guilty person 
+presence cleverly arranged secret hiding place 
+discovered provided suspect 
+third degree used 
+apparently impregnable alibi destroyed 
+investigator trick criminal pursuing 
+confession made accomplice criminal 
+bloodhound used trailing criminal leading 
+capture 
+guilty suspect subconsciously reacts crime 
+mysterious apparatus discovered possession suspect 
+guilty person tricked making admission reveals 
+perpetrator crime 
+suspect endeavoring clear suspicion one crime 
+unknowingly confesses another 
+poison gas used dislodge guilty suspect bring 
+capture confession 
+too-talkative boastful person brings apprehension 
+commission crime 
+mental telepathy used solution crime 
+person great mental stress reveals 
+criminal 
+discovered chief witness innocent suspect 
+another 
+criminal exposed participation orgy 
+criminal concerned commits suicide 
+attempt escape criminal killed accident 
+suspect discovered prowling night 
+criminal revealed peculiarly voice laugh 
+suspect confronted indisputable evidence crime 
+thereby exposing guilt 
+criminal apprehended deserted friend 
+criminal identified captured account effort 
+remove cache 
+criminal identified article disguise discovered 
+possession 
+criminal identified note written victim come 
+light 
+identity criminal identified located b trailing 
+sweetheart lover 
+identity criminal established dictaphone record 
+discovered door gate lid protection 
+forced 
+criminal led believe accomplice loved one 
+captured 
+guilty suspect return scene crime 
+criminal identified captured effort remove 
+incriminating evidence eye witness 
+develops suspect guilty production weird 
+effect frighten others 
+criminal effort plant suspicion innocent one 
+unconsciously incriminates 
+bound witness left burn rescued officer identifies 
+criminal 
+superstitious fear cause person reveal 
+criminal 
+identity criminal disclosed tracing 
+mysterious threat received investigator 
+criminal believing everything lost make voluntary 
+confession 
+unusual activity part suspect discloses 
+criminal 
+fear element destruction catastrophe cause 
+criminal disclose identity 
+novelty concealment evidence crime 
+criminal 
+nervous action character lead discovery 
+criminal 
+identity criminal revealed someone talking 
+sleep 
+discovery made strange alliance relationship 
+person 
+criminal identified effort change appearance 
+plastic surgery mutilation otherwise 
+discovered suspect made plan quick getaway 
+apparently respectable honored person discovered 
+questionable place 
+attempt escape criminal killed investigator 
+peculiar speech formula stereotype word signal overheard 
+suspect 
+identity criminal established dictograph record 
+witness tortured force disclose identity 
+criminal 
+criminal identified captured effort produce 
+evidence favorable 
+discovery bound gagged missing witness secret 
+room lead disclosure capture criminal 
+discovery secret panel 's concealed place entrance 
+criminal 
+weapon drug paraphernalia discovered 
+possession suspect 
+attempt part suspect commit another 
+crime 
+investigator overhears babbling weak-minded person 
+award given another criminal induce disclose 
+identity location guilty person 
+part body portion spoil found 
+possession suspect 
+investigation activity one higher criminal 
+world lead identity disclosure criminal 
+mysterious illness person investigated 
+suspect suddenly confronted person believed 
+absent dead 
+identity criminal revealed effort commit 
+suicide 
+discovered suspect allied obligation 
+secret order cult 
+discovery made unexplained injury person 
+discovery made attempt conceal acquaintanceship 
+friendship people 
+discovered suspect taken unusual precaution 
+protect 
+discovery made strange novel weapon possession 
+person 
+criminal revealed use peculiar method 
+known exclusively 
+attempt person create impression 
+killed done away 
+develops suspect connected previous 
+crime 
+suspect caught attempting dispose evidence 
+suspect discovered purposely injured 
+discovered character making wanton 
+expenditure money 
+discovered victim object vengeance 
+part barbarian savage 
+learned suspect devotee voodooism black 
+magic weird belief 
+suspect suddenly turn berserk question accusation 
+incident 
+discovery made suspect faking blindness 
+criminal discovered apprehended use 
+modern scientific method 
+discovery made supposedly helpless person 
+strange mean locomotion 
+discovery made character know day 
+numbered strange grudge 
+apprehension criminal secured lure 
+beautiful woman 
+revealed suspect made previous attempt 
+life victim 
+identity criminal revealed evidence 
+place 
+identity criminal revealed discovery 
+symbol left 
+discovered suspect masquerading one 
+opposite sex 
+criminal identified peculiar eccentricity 
+
+discovered suspect destroyed mean defense 
+protection 
+capture guilty person facilitated force 
+phenomenon 
+aid obtained effort old woman 
+intended murder investigator frustrated interference 
+one suspected 
+discovered suspect characteristic 
+sadist 
+discovered character concealing scar 
+physical deformity provides mark identification 
+learned suspect hypnotic subject 
+slight mistake plan criminal revel truth 
+result capture death 
+attempt made suspect kill investigator 
+fortified hiding place criminal attached 
+destroyed 
+discovery made suspect supposed 
+cripple faking 
+discovery made character decided end day 
+time near future 
+discovered suspect lying action 
+whereabouts 
+identity criminal revealed threat 
+made 
+criminal identified peculiar walk revealing 
+characteristic 
+discovered suspect attempted cause serious 
+accident 
+investigator expose suspect look like 
+imminent death order secure confession 
+develops high official connected prosecution 
+case criminal 
+captured suspect voluntarily confesses erroneous belief 
+investigator held conclusive evidence guilt 
+discovered victim brought death 
+guilty 
+operation 
+would ordinarily suspected 
+story 
+dramatic critic 
+kinswoman 
+reformer 
+consul 
+underworld queen 
+public official 
+female mystic 
+capitalist 
+executive 
+plastic surgeon 
+dancer 
+courier 
+manikin 
+playwright 
+showman 
+exporter 
+architect 
+trusted employee 
+ringmaster 
+philanthropist 
+ship owner 
+banker 
+female sport star 
+radical 
+engineer 
+woman editor 
+spy 
+beauty specialist 
+hypnotist 
+oriental 
+scholar 
+society belle 
+explorer 
+jealous lover sweetheart 
+professor 
+bondsman 
+chorus girl 
+interpreter 
+bon vivant 
+woman librarian 
+apostle new sect 
+gambler 
+artist 
+sportsman 
+author 
+candidate 
+old servant 
+clerk 
+psychologist 
+woman attorney 
+probation officer 
+dictator 
+pseudo-noblewoman 
+motion picture director 
+clown 
+doctor 
+model 
+spiritualist 
+impresario 
+curio collector 
+captain 
+scientist 
+editor 
+hermit 
+caretaker 
+florist 
+promotor 
+woman philanthropist 
+former friend 
+government official 
+bacteriologist 
+pawnbroker 
+woman judge 
+gigolo 
+manufacturer 
+reformer 
+modiste 
+woman artist 
+paramour 
+broker 
+artist 
+banker 
+sculptor 
+woman school teacher 
+prosecutor 
+contractor 
+housekeeper 
+publisher 
+financier 
+aviation executive 
+trader 
+woman sculptor 
+politician 
+hotel keeper 
+radio announcer 
+merchant 
+kinsman 
+judge 
+administrator 
+racketeer 
+inventor 
+chorus girl 
+autocrat 
+bigot 
+gambler 
+private secretary 
+bon vivant 
+chemist 
+model 
+family lawyer 
+attorney 
+professor 
+gambler 
+egyptologist 
+manikin 
+trophy hunter 
+captain 
+countess 
+auctioneer 
+animal fancier 
+scientist 
+clown 
+doctor 
+curio collector 
+photographer 
+architect 
+woman artist 
+motion picture director 
+dramatic critic 
+female settlement worker 
+bootlegger 
+politician 
+junk dealer 
+translator 
+society belle 
+foreign doctor 
+governess 
+engineer 
+dictator 
+merchant 
+actress 
+neighbor 
+rancher 
+archaeologist 
+broker 
+statesman 
+publisher 
+accountant 
+manufacturer 
+woman librarian 
+capitalist 
+dancer 
+juror 
+motion picture actor 
+paramour 
+radio artist 
+pseudo-nobleman 
+woman nurse 
+palmist 
+hypnotist 
+student 
+antique collector 
+rival 
+mystic 
+actor 
+female spy 
+caretaker 
+woman probation officer 
+sportsman 
+chorus girl 
+woman spiritualist 
+motion picture producer 
+musician 
+female entertainer 
+psychologist 
+inventor 
+rejected lover discarded sweetheart 
+botanist 
+lobbyist 
+auctioneer 
+solution guilty person motive 
+unless able dial select another fit properly 
+general direction front book 
+enforcement abandonment project 
+escape abdication banishment 
+unrequited love 
+vengeance deserter 
+discovery whereabouts den 
+silence accuser 
+gain possession arm 
+vengeance one debased one 
+desire produce phenomenon 
+escape payment lost wager 
+secure life insurance 
+escape repression 
+destroy infatuation 
+disrupting organization 
+vengeance deceiver 
+rid hypnotic influence 
+avoid jurisdiction 
+facilitate escape 
+prevention imitation 
+satisfy horoscope 
+vengeance one humbled one 's pride 
+avoidance accusation 
+settle dispute 
+posse abode 
+escape master 
+prevent adultery 
+vengeance representative law 
+avoid shame 
+get relief monstrosity abomination 
+facilitating financial transaction 
+prevention conspiracy 
+withdraw bargain 
+vengeance one guilty hounding 
+prevent expose 
+prevent granting concession 
+prevent enemy 's obtaining aid 
+vengeance one brought injustice 
+escaping bondage 
+prevention injustice 
+fear previous crime 's discovered 
+satisfaction impulse 
+vengeance one aroused hatred friend 
+loved one 
+prevent sabotage 
+escape vicious motive 
+enforcement allegiance 
+penetration camouflage disguise 
+punishment bigamist 
+escape expatriation exile 
+protect one 's family 
+desire obtain pay service possession 
+escape carousal 
+vengeance one given insult clan 
+prevention bribery 
+escaping repudiation dishonor 
+seeking obtain solution scientific experiment 
+predetermine destiny 
+vengeance one brought dishonor 
+satisfaction anger 
+prevent destruction one 's property fortune 
+excessive grief 
+obtain exoneration 
+prevention `` frame `` 
+escape intimidation 
+vengeance one guilty abuse loved one 
+avoid confession 
+enforcement authority 
+ambition obtain gold 
+removed degradation 
+serve rebuke intimidation 
+escape infection 
+punishment one guilty arrogance tyranny 
+prevention bigamy 
+anxiety obtain immunity 
+secure legacy inheritance 
+enforcement adjustment reimbursement 
+jealous revenge 
+relieved annoyance 
+escape result accident 
+avenge wrong insult either real fancied 
+avoiding discovery 
+vengeance one caused mental agony loved one 
+justify fatalism 
+avoidance conflict 
+one refused forgiveness 
+prevention revolt 
+vengeance one threatened expose 
+avoid paying penalty 
+avenge suicide 
+establish precedent hero 
+prevention alienation 
+satisfy abnormal appetite 
+posse affection 
+vengeance insulter 
+satisfaction antipathy 
+escape death warrant 
+ambition obtain possession inheritance 
+prevent sacrifice good name 
+avoid fate outcast 
+vengeance one brought calamity loved one 
+friend 
+escape commission 
+prevent contagion 
+necessity defend one 's honor honor one 's family 
+remove ill-omen 
+effort obtain drug restorative 
+rescue loved one 
+undermining system 
+vengeance one caused physical agony 
+escape abhorrent situation 
+prevention alarm 
+emphasize protest serve example 
+avoid physical injury 
+bring arbitration 
+yield hereditary influence 
+desire bring miracle 
+vengeance robber friend 
+remove tabu 
+prevention disaster 
+punishment perjury 
+hope winning love 
+settle quarrel 
+prevention murder 
+vengeance scandal-monger 
+prevention mobilization 
+escape result folly 
+hatred superiority 
+escape entanglement 
+avoid disfiguration 
+fear discovery rifling estate 
+vengeance seditionist 
+defeating plot 
+escape financial obligation 
+promotion interest caste 
+prevent waste one 's fortune 
+punishment fiend 
+remove obstacle happens 
+victim obsession 
+yield inferiority complex 
+obtaining custody another person 
+vengeance absconder 
+achievement place command 
+avoid enforced association 
+prevent sacrifice loved one 
+discover cache treasure 
+avoid disgrace humiliation 
+punishment one avaricious 
+bring betrothal 
+punishment deception 
+activity behalf brotherhood 
+serve obstacle encroachment 
+punishment one guilty brutality 
+unwritten law 
+obtain valuable concession 
+avoid disqualification 
+prevent favor 's granted 
+desire intercept message 
+enforcing confession 
+substitute oneself rightful heir estate 
+vengeance seducer 
+secure reprieve 
+upholding tradition 
+one refused promotion 
+prevent nomination election 
+escape moral obligation 
+desire obtain possession key 
+avoid boycott 
+vengeance one threatens disclose identity 
+prevent progress project 
+gain possession map 
+vengeance one brought disfiguration loved one 
+escape evil influence 
+desire win notoriety 
+aspiration posse emblem 
+escape monster 
+anxiety secure necessary evidence 
+vengeance one threatened loved one 
+escape servitude 
+obtain acquittal 
+prevent answer 's given 
+long standing jealousy envy 
+obtaining money 
+bring adjustment money matter estate 
+get rid accomplice 
+prevent rescue 
+possession alcohol 
+vengeance one caused mental agony 
+eliminate rival love 
+prevention revolution 
+protect good name loved one 
+escape reproach revilement 
+desire posse arm 
+one refused allowance 
+possession apparatus 
+vengeance one brought dishonor loved one 
+prevent abduction 
+escape responsibility 
+prevent affiliation 
+prevention sacrifice material wealth 
+obtain antidote 
+vengeance one brought disgrace ruin 
+escape ostracism 
+provide obtain bail 
+remedy mal-administration 
+stop adventurer 
+avoid destruction 
+prove strength power 
+vengeance abductor loved one 
+identify unknown 
+prevention perjury 
+infatuation 
+removal scourge 
+obey pagan rite 
+enforcement resignation 
+temporary insanity 
+vengeance one brought death loved one 
+satisfy radicalism 
+divert investigation 
+escape vicious influence 
+desire posse castle 
+satisfaction pride 
+avoidance physical pain 
+establish legitimacy 
+punishment one guilty brutality 
+envy another 's good fortune happiness 
+prevention hoax 
+desire conceal one 's identity 
+pursuit one apparition 
+prevent broken heart 
+ambition obtain formula 
+avoid disorganization 
+vengeance tyrant 
+get relief abuse 
+escape indictment 
+desire satisfy habit 
+prevention burglary 
+relieved danger 
+obtain password 
+satisfaction desire 
+prevent giving away secret 
+escape criticism 
+foul play suspected 
+guarantee privilege 
+satisfy fascination 
+insatiable desire gain fame 
+escape annihilation 
+punishment one cause heartbreak friend 
+rid contraband 
+prevention assembly 
+avoid delay 
+enforcement division spoil 
+win fame 
+escape trial 
+vengeance one given insult loved one 
+escape abandonment 
+avoid disgrace 
+satisfaction free love 
+prevent sacrifice position 
+rid obtain revenge accuser 
+avoid capitulation 
+vengeance one brought injustice loved one 
+conceal protect idolatry 
+satisfaction jealousy 
+ambition posse precious metal 
+avoid hostility 
+desire obtain prize 
+vengeance mental monster 
+escape enticement 
+satisfy foreboding 
+obtaining one 's liberty 
+avoid confession 
+vengeance murderer loved one 
+avoid disfiguration 
+remove aggravation persecution 
+enforcing obedience 
+prevention unhappy marriage 
+satisfy medium 
+reprisal vicious act committed another 
+escape avenge memory 
+escape abandoned 
+prevent celebration 
+enforcement allotment 
+escape family obligation 
+demand enforce prohibition 
+escape insanity 
+vengeance winner wager 
+satisfaction superstition 
+avoidance trickery 
+desire obtain costly raiment 
+prevention holdup 
+obtain carry strange ritual 
+vengeance one demanded suicide 
+escape pawn 
+get rid aggressor 
+hope obtaining proof one 's statement decision 
+cause apprehension 
+attainment luxury 
+avoid sure defeat 
+punishment carnalist 
+avoid bankruptcy 
+prevention infringement 
+obtain probation 
+diver bequest 
+gain refuge 
+vengeance deserter loved one 
+desire throw suspicion enemy rival 
+shielding another 
+escape birthright 
+acquisition large following 
+avoid prevent betrayal 
+vengeance one threatens expose weakness 
+loved one friend 
+escape discipline 
+avoid deadlock 
+enforcement decision one 's advantage 
+desire provide incentive accomplishment 
+prevent desertion 
+ambition gain wealth fame 
+vengeance one given insult religion 
+prevention graft 
+satisfy unwritten law 
+obtain possession domain 
+rid hateful person 
+obtain strange weapon 
+one set upon vicious animal 
+vengeance one guilty abuse 
+avoid condemnation 
+escape ejection 
+satisfy aestheticism 
+avoid dispossession 
+desire obtain possession valuable gem 
+vengeance destroyer 
+one brought anxiety 
+gaining possession business 
+enforcement discipline 
+avoid examination 
+accomplishment disguise 
+vengeance betrayer one 's confidence 
+obtain immunity 
+necessity make test 
+avoid dishonor 
+vengeance one brought banishment loved one 
+friend 
+settling feud 
+escape guilt 
+necessity protect one 's hoe 
+prevention immorality 
+bring intercession 
+solving mystery 
+cover illegal criminal transaction 
+avoid humiliation 
+satisfy fanaticism 
+prevention agitation 
+enforcement justice 
+vengeance one caused hunger 
+prove one 's devotion 
+need obtain judgment 
+punish infidel defiler 
+vengeance one brought disfiguration 
+remove subterfuge 
+freedom coercion 
+vengeance one deprived one luxury 
+escape acquiescence 
+escape asphyxiation 
+protection one 's good name 
+posse antique 
+avoid victim rule decree custom 
+securing approval 
+vengeance one debased loved one 
+imitate another 
+one brought ill health 
+force abandonment campaign 
+aim posse certain equipment 
+remove seems invincible 
+vengeance one attempted bring death loved 
+one 
+ambition swing election 
+obtain advancement 
+punishment stool-pigeon 
+enforcement marriage 
+possession animal 
+vengeance one brought calamity 
+facilitate bribery 
+desire prove one 's courage 
+satisfy bestial instinct 
+avenge death comrade 
+escape demon 
+vengeance one threatens perform miracle 
+phenomenon 
+inauguration probe serious complication 
+provide motivate romance 
+escape disability 
+obtain possession chemical chemical formula 
+avoid dishonor 
+vengeance one caused physical agony loved one 
+possession rare valuable thing 
+make example 
+head expedition 
+obtain license 
+prevention injury 
+punishment one caused heartbreak 
+rescue loved one vicious attention 
+stop adventuress 
+rid imposition 
+prove one 's birthright 
+victim insanity 
+vengeance one aroused hatred 
+indulge criminal impulse 
+escape black magic 
+obtain reconciliation 
+avoid corruption 
+prevention homicide 
+vengeance one threatens expose weakness 
+relieved encumbrance 
+avoid dangerous experiment 
+unearth secret 
+escape espionage 
+relieve fear 
+vengeance one brought terror 
+professional jealousy 
+avoid assessment 
+rid fortune-hunter 
+one made farce tragedy another 
+apology refused 
+vengeance one given insult country 
+settlement dispute 
+aiding fugitive 
+achieve accomplishment purpose 
+escape abnormality 
+escape barbarian 
+effect produce alibi 
+escape toil capitalism 
+vengeance adulterer 
+escape mental agony 
+prevention affiliation 
+craving obtain possession fortune 
+attempt rid pernicious habit 
+escape association brute 
+vengeance abductor 
+avoidance agitation 
+escape physical malady 
+determination decipher code 
+prevent arousing animosity 
+satisfy curiosity 
+prevent indolence passion 
+escape necessity giving answer 
+humiliation aristocracy 
+settle argument 
+prevention calamity 
+investigate supernaturalism 
+vengeance one brought disgrace loved one 
+escape brutality 
+posse accoutrement 
+avoid attachment 
+get relief boredom 
+posse beauty 
+vengeance one caused banishment 
+mistaken identity 
+escape surveillance another 
+obtain possession talisman 
+escape command 
+avoid capture 
+victim somnambulism 
+punishment betrayer loved one 
+enforce surrender 
+avoid banishment 
+avenged upon one stolen affection loved 
+one 
+escape death 
+prevent agreement 's consummated 
+vengeance one guilty espionage 
+escape custody 
+one cover another 's possession 
+make atonement 
+desire escape curse 
+avoid disqualification 
+vengeance blackmailer 
+escape debauch 
+escaping device 
+remove political obstacle 
+escape domination 
+prevention massacre 
+vengeance one holding loved one hostage 
+escape humiliation 
+avoid judgment 
+protect loved one falsely accused 
+cause demonstration 
+carry term legend myth 
+vengeance physical monster 
+avoid obedience 
+prevention panic 
+facilitate discovery 
+escape sentence 
+prevent sacrifice honor 
+vengeance one caused insanity 
+conceal embarrassing fact loved one 
+obtain relief remorse 
+ambition prove one 's honesty 
+one `` framed `` 
+obtaining ransom 
+desire gain possession hostage 
+ambition gain prominence 
+vengeance hypocrite 
+prevent exposure 
+escape prey 
+necessity obtain food clothing 
+prevent sacrifice health 
+escape blackmail 
+jealous revenge rival love 
+escape tyranny 
+rid carping 
+desire bring reformation 
+overthrow authority 
+escape foreboding tragedy 
+vengeance one caused miscarriage justice 
+escape ridicule 
+demand desire save life 
+escape asylum 
+desire obtain project 
+one entered conspiracy 
+vengeance one caused suicide loved one 
+escape disgrace 
+necessity take offensive conflict 
+vengeance one aroused jealousy 
+prevention malpractice 
+desire gain possession valuable 
+one brought suspicion 
+one refused mercy 
+vengeance slanderer loved one 
+escape incrimination 
+one victim auto-suggestion 
+one refused leniency 
+rid repulsive thing 
+vengeance robber 
+retrieve lost hope 
+self defense 
+escape severe punishment 
+vengeance one insulted race 
+revenged one broken home 
+punish deserter 
+satisfy depravity 
+vengeance slanderer 
+avoidance criminal entanglement 
+satisfy ungovernable temper 
+one made false statement 
+obtain release loved one 
+insanely jealous love 
