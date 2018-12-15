@@ -1,0 +1,1839 @@
+Press agent
+Bus driver
+Army officer
+Shop keeper
+School teacher
+Radio operator
+Customs officer
+Animal trainer
+Sheep harder
+Government agent
+Taxi driver
+Casting director
+Mounted police
+Lighthouse tender
+Navy ofﬁcer
+Ranch rider
+Globe trotter
+Government agent
+Riding master
+Radio announcer
+Harbor master
+Milk maid
+Lion tamer
+Cave woman
+Press agent
+Chorus girl
+Society belle
+School teacher
+Telephone operator
+Gang moll
+Indian maid
+Inn keeper
+Movie Star
+Army officer
+Animal trainer
+Coast guard
+Medicine man
+Chimney Sweep
+Taxi driver
+Globe trotter
+Harbor master
+Diva - Opera
+Waif - Slums
+Slave - Orient
+Judge - Courtroom
+Diver - Seashore
+Poet - Bohemian District
+Co-ed - College
+Nurse - Hospital
+Model - Artist's Studio
+Dancer - Night club
+Guide - Mountains
+Clerk - Department Store
+Artist - Artist's Studio
+Actress - Theatre
+Heiress - Pleasure resort
+Cashier - Café
+Singer - Night club
+Servant - Wealthy home
+Peasant - Rural district
+Invalid - Hospital
+Athlete - Coliseum
+Manikin - Modiste shop
+Weaver - Mill
+Cowgirl - Range
+Abbess - Abbey
+Writer - Anywhere
+Modiste - Shop
+Waitress - Café
+Musician - Conservatory
+Secretary - Office
+Art critic - Salon
+Governess - Wealthy home
+Acrobat - Circus
+Editor - Publishing house
+Aviatrix - Airport
+Attorney - Court
+Shepherdess - Sheep ranch
+Senorita - Latin America
+Detective - Detective bureau
+Composer - Bohemian district
+Immigrant - Port of entry
+Forewoman - Factory
+Registrar - College
+Translator - Customs office
+Physician - Hospital
+Designer - Modiste shop
+Lecturer - Auditorium
+Courtesan - Royal Court
+Missionary - Orient
+Scientist - Laboratory
+Adventuress - Anywhere
+Noblewoman - Royal Court
+E vangelist - Tabernacle
+Sportswoman - Race track
+Chambermaid - Hotel
+Stenographer - Office
+Journalist - Newspaper office
+Playwright - Theatre
+Manicurist - Barber shop
+Saleswoman - Store
+Chorus girl - Theatre
+Society belle - Ballroom
+School teacher - School
+Film Director - Movie Studio
+Taxi dancer - Dance Hall
+Film “Extra” - Movie Studio
+Fortune teller - Amusement Zone
+Business woman - Business District
+Lion tamer - Circus
+Cotton picker - Plantation
+Huckstress - Market
+Telegrapher - Telegraph office
+Horsewoman - Race track
+Farmerette - Farm
+Policewoman - Police station
+Press agent - Anywhere
+Inn keeper - Inn
+Performer - Circus
+Telephone operator - Office
+Interior decorator - Salon
+Consul - Consulate
+Rancher - Ranch
+Actor - Theatre
+Guide - Jungle
+Miner - Mining town
+Aviator - Airport
+Judge - Anywhere
+Clown - Circus
+Trader - Frontier
+Farmer - Farm
+Singer - Conservatory
+Miller - Mill
+Diver - Seaside
+Artist - Bohemian district
+Doctor - Hospital
+Editor - Newspaper office
+Banker - Anywhere
+Merchant - Store
+Soldier - Army post
+Beggar - Slums
+Fireman - Large City
+Captain - Boat
+Chemist - Laboratory
+Athlete - College
+Reformer - Anywhere
+Driller - Oil fields
+Assayer - Mining town
+Sheriff - Court house
+Shepherd - Sheep ranch
+Director - Movie studio
+Gambler - Casino
+Ranger - Plains
+Teamster - Construction camp
+Policeman - Tenement district
+Trapper - North woods
+Sportsman - Anywhere
+Capitalist - Anywhere
+Bartender - Frontier
+Professor - College
+Politician - City
+Governor - Mansion
+Publisher - Publishing house
+Promoter - Anywhere
+Canoeist - River
+Exporter - Industrial district
+Clergyman - Rectory
+Explorer - Frontier
+Smuggler - International border
+Squatter - Farm
+Scientist - Laboratory
+Publicist - Movie studio
+Pugilist - Arena
+Statesman - Capitol
+Telegrapher - “Tank town”
+Evangelist - Tabernacle
+Prosecutor - Court room
+Philosopher - Anywhere
+Fisherman - Fishing village
+Prospector - Desert
+Ferryman - River
+Army officer - Army post
+Ringmaster - Circus
+Impresario - Booking office
+Photographer - Anywhere
+Navy officer - Seaport
+Backwoodsman - Backwoods
+Taxi driver - City
+Harbor master - Harbor
+Laborer - Slums
+Vagabond - Anywhere
+Planter - Plantatiom
+Sailor - Seaport
+Servant - Anywhere
+Cowboy - West
+Matador - Arena
+Sawyer - Sawmill
+Railroader - Junction
+Builder - Boom town
+Hustler - Race track
+Mechanic - Garage
+Spieler - Carnival
+Turnkey - Jail
+Jester - Royal court
+Barber - Small town
+Tender - Lighthouse
+Mystic - Studio
+Gaucho - The Argentine
+Nurse - Sanitorium
+Guard - Royal court
+Forester - Forest
+Animal tamer - Menagerie
+Archaeologist - Ancient ruins
+Chimney sweep - Slums
+Missionary - Pagan country
+Balloonist - Circus
+Inventor - Anywhere
+Engineer - Anywhere
+Botanist - Gardens
+Accoustician - Radio station
+Riding master - Riding academy
+Diver - Harbor
+Guide - Forest
+Gypsy - Gypsy Camp
+Miner - Mining camp
+Aviator - Airport
+Clerk - Oﬂice
+Scout - Jungle
+Hermit - Mountains
+Ranger - Plains or mountains
+Banker - Bank
+Consul - Consulate
+Artist - Bohemian district
+Cowboy - Range
+Farmer - Farm
+Actor - Theatre
+Gunner - Fort
+Sailor - Seaport
+Dancer - Night Club
+Editor - Newspaper office
+Warden - Prison
+Trader - Frontier
+Singer - Night Club
+Hunter - Jungle
+Broker - Stock exchange
+Soldier - Army post
+Athlete - Gymnasium
+Gambler - Casino
+Paddler - Market
+Rancher - Ranch
+Acrobat - Circus
+Chemist - Laboratory
+Fireman - Fire department
+Assayer - Laboratory
+Doctor - Hospital
+Athlete - College
+Servant - Mansion
+Importer - Commercial district
+Shepherd - Sheep ranch
+Merchant - Department store
+Vagabond - Anywhere
+Violinist - Conservatory
+Captain - Boat
+Composer - Bohemian district
+Bell boy - Hotel
+Pioneer - Frontier
+Reporter - Anywhere
+Matador - Arena
+Mystic - Studio
+Wrestler - Arena
+Promoter - Anywhere
+Scientist - Laboratory
+Forester - Forest
+Attorney - Court
+Sawyer - Sawmill
+Jockey - Race track
+Chauffeur - Wealthy home
+Detective - Detective bureau
+Architect - Business district
+Peasant - Rural district
+Pugilist - Arena
+Engineer - Construction camp
+Trapper - Forest
+Waiter - Night Club
+Clown - Circus
+Poet - Bohemian district
+Spy - Enemy country
+Usher - Theatre
+Jester - Royal Court
+Fencer - Fencing school
+Pilot - Boat
+Planter - Plantation
+Gaucho - The Argentine
+Gigolo - Dance hall
+Writer - Anywhere
+Oarsman - College
+Nurse - Field hospital
+Barber - Barber shop
+Guard - Royal Court
+Tender - Lighthouse
+Driller - Oil fields
+Turnkey - Jail
+Bailiff - Courthouse
+Florist - Flower shop
+Indian - Frontier
+Wrangler - Range
+Mechanic - Garage
+Messenger - Bank
+Canoeist - River
+Spieler - Carnival
+Printer - Print shop
+Cadet - Academy
+Swimmer - Seashore
+Cook - Cow camp
+Sculptor - Bohemian district
+Juggler - Theatre
+Foreman - Factory
+Nobleman - Royal Court
+Inventor - Laboratory
+Fisherman - Fishing village
+Blacksmith - Small town
+Clergyman - Rectory
+Cartoonist - Newspaper office
+Capitalist - Anywhere
+Playwright - Bohemian district
+Evangelist - Tabernacle
+Millwright - Mill
+Missionary - Pagan country
+Interpreter - Court
+Telegrapher - Railroad station
+Prospector - Desert
+Astronomer - Observatory
+Accountant - Bank
+Sportsman - Yacht club
+Geologist - Mine
+Policeman -Police station
+Salesman - Department store
+Librarian - Library
+Announcer - Radio station
+Politician - Anywhere
+Lumberjack - Forest
+Publisher - Publishing house
+Stowaway - Ship
+Chauffeur - Anywhere
+Botanist - Nursery
+Paymaster - Construction camp
+Gondolier - Canals
+Conductor - Train
+Chaplain - Army camp
+Trumpeter - Army post
+Harpooner - Whaling village
+Ringmaster - Circus
+Impresario - Booking office
+Coachman - Mansion
+Surveyor - Construction camp
+Adventurer - Mining town
+Navigator - Seaport
+Quartermaster - Ship
+Hostler - Country estate
+Musician - Theatre
+Balloonist - Circus
+Explorer - Far north
+Alienist - Asylum
+Proselytist - Near east
+Teamster - Construction Camp
+Collegian - College
+Ferryman - Boat
+Outrider - Caravan
+Dairyman - Rural district
+Bookmaker - Race track
+Funambulist - Circus
+Veterinarian - Zoo
+Meteorologist - Weather Bureau
+Truck driver - Anywhere
+Longshoreman - Seaport
+Half-breed - North woods
+Bus driver - Highway
+Stage hand a - Theatre
+Photographer - Anywhere
+Taxi driver - Anywhere
+Press agent - Anywhere
+Caretaker - Country estate
+Life Guard - Sea shore
+Homesteader - Frontier
+Sharpshooter - Wild West show
+Film director - Movie studio
+Army officer - Army post
+School teacher - School house
+Manufacturer - Industrial district
+Navy Officer - Battleship
+Floor walker - Department store
+Traffic Officer - Highway City
+Casting director - Movie studio
+Riding master - Riding-academy
+Dramatic critic - Newspaper office
+Calliope player - Circus
+Radio operator - Ship
+Coffee buyer - Latin America
+Customs officer - Port of entry
+Timber buyer - Lumber camp
+Railroad engineer - Railroad yards
+Bell boy
+Business partner
+Business rival
+Legal opponent
+Navy ofﬁcer
+Singing master
+Army officer
+Room mate
+Boyhood chum
+Fraternity brother
+Customs ofﬁcer
+School teacher
+Press agent
+Time keeper
+Business manager
+Dramatic critic
+CuriD collector
+Airport manager
+Probation ofﬁcer
+Radio operator
+Strike breaker
+Stump speaker
+Beach bomber
+Stage director
+Pipe organist
+Barge master
+Harbor master
+Taxi driver
+Social rival
+Business partner
+School teacher
+Movie star
+Lion tamer
+Cigarette girl
+Married Woman
+Legal opponent
+Telephone operator
+Society Belle
+Snake charmer
+Circus performer
+Blind girl
+Stage director
+“Extra" girl
+Room mate
+Class mate
+Business rival
+Girlhood chum
+Sorority sister
+Chorus girl
+Gang mall
+Milk maid
+Press agent
+Circus freak
+Inn keeper
+Indian maid
+Club woman
+Factory worker
+Social rival
+Business rival
+Legal Opponent
+Press agent
+The match is opposed by a father
+Beloved fears a jealous rival
+Lovers are political enemies
+Lover is accused of being untrue
+Kin of loved one has injured lover
+Lover is not recognized by beloved
+There is a race barrier
+Lover is physically incapacitated
+Love is not returned by beloved
+The match is opposed by a sister
+Lover is member of enemy clan
+Lovers are business rivals
+Beloved is accused of being untrue
+Duty to country stands in the way
+Beloved is not recognized by lover
+Lover has an imaginary past to hideA
+Beloved is accused of being deranged
+There is an imaginary race barrier
+Lover believes love to be futile
+Beloved has forgotten the lover
+lover doubts endurance of beloved
+Beloved 's in love With another
+Beloved 's imprisoned
+Beloved doubts the love of lover
+Lover is on opposite legal side
+The match is opposed by a mother
+Lover is accused of being deranged
+Beloved believes love to be futile
+Lover is in fear of a jealous rival
+Beloved doubts endurance of Lover
+Beloved spurns the love of lover
+Duty to religion stands in the way
+The match is opposed by children
+Lover is accused of being dishonest
+The match is opposed by a guardian
+Beloved is accused of being a pauper
+Lovers are professional rivals
+Duty to principle stands in the way
+The match is opposed by a grandparent
+Beloved is accused of being dishonest
+Kin of loved One has robbed lover
+The match is opposed by a brother
+Beloved has an imaginary past to hide
+Beloved has made a solemn vow not to love
+Lover is honor bound to pursue beloved
+Beloved is not sure of identity of lover
+Lover is ashamed of his or her family
+Beloved conceals affection for lover
+Lover 's ashamed of family of beloved
+Habit of kin of lover stands in the way
+Beloved suspects that lover is fickle
+Kin of beloved has disgraced lover
+Duty to loved one stands in the way
+The match is opposed by an uncle or aunt
+Lover is accused of being socially unﬁt
+A difference in rank stands in the way
+Lover has made a solemn vow not to love
+Beloved is physically incapacitated
+Lover is not sure of identity of beloved
+Marriage of one stands in the way
+Beloved 's honor bound to pursue lover
+Lover imagines that love is not returned
+Beloved 's ashamed of his or her family
+Lover and beloved are rival leaders
+Duty t profession stands in- the Way
+Lover is possessed with ambition for fame
+A betrothal of one stands in the way
+A difference in belief stands in the way
+Duty to an unfortunate stands in the way
+Lover is required to prevent a catastrophe
+Lover is possessed of ambition for wealth
+Difference in religion stands in the way
+Lover's pride stands in the way
+Beloved 's ashamed of famﬂy of lover
+Habit of kin of beloved stands in the way
+Traditional custom stands in the way
+Distance threatens pursuit of love
+The match is opposed by parents of both
+Lover is accused of committing an offence
+There is an imaginary kinship between lovers
+An ancestral decree forbids the match
+Financial difficulties stand in the way
+Beloved is accused of being socially unﬁt
+Lover is required to recover a lost person
+There is a great difference in ages of lovers
+An inequality in education stands in the way
+Convention stands in the way of lovers matting
+Beloved is possessed With ambition for fame
+Lover feels that: he or she is not deserving
+Lover suspects that beloved is fickle
+A mythical decree stands in the way
+Habit of lover stands in the way
+Lover is required to recover a lost valuable
+Beloved is accused of committing an offense
+Lovers are social rivals and one is inferior
+Kin or loved one has persecuted lover or kin
+Lover  required to recover lost information
+Lower is accused of being a pauper
+Lover is possessed with ambition for power
+Lover is required to prevent a terrible injustice
+There: is an imaginary difference in ages of lovers
+Kinsman of lover is accused of being deranged
+Beloved is possessed with ambition for power
+An imaginary marriage stands in the way
+Lover is accused of deception as to his wealth
+Pride on the part of beloved stands in the way
+An imaginary betrothal of one stands in the way
+Beloved is accused of deception as to her wealth
+Beloved feels that he or she is not deserving
+Timidity n the part of the lover stands in the way
+Lover has promised beloved he will not love
+Lovers are separated by great distance
+A will stands in the way of a union
+Lover’s country is at: war With that of beloved
+Beloved has promised parents he will not love
+Superstition on the part of lover stands in way
+Timidity n the part of beloved stands in the way
+Habit on the part of beloved stands in the way
+Lover‘s professional career stands in the way
+Lover is required to restore: health or happiness
+There is too much mental difference between lovers
+Lover is sworn to bring kin of loved one to justice
+Lovers are professional rivals and one is inferior
+Lover is required to solve a mystery or phenomenon
+An imaginary inequality of rank stands in the way
+Kinsman of beloved is accused of being deranged
+Beloved is possessed with ambition for wealth
+Lover is accused of deception as to his identity
+An imaginary inequality in education stands in the way
+Beloved is distraught over threatened loss of health
+Beloved is accused of deception as to his social standing
+Lover has promised parents he will not love
+Superstition on the part of beloved stands in the way
+Beloved‘s professional career stands in the way
+There is too much social difference between lovers
+Lovers are intellectual rivals and one is inferior
+Lover is accused of deception as to his authority
+Lovers are business rivals and one is inferior
+There is too much physical difference between lovers
+Beloved is accused of deception as to his identity
+There is ton much financial difference between them,
+Kinsman of lover is possessed with ambition for wealth
+There is a misunderstanding between lovers caused by enemies
+Beloved has promised former lover he will not love again
+Lover is accused of being a fanatic
+Kinsman of beloved is possessed with ambition for fame
+Lover is accused of deception as to his intentions
+Beloved is distraught over threatened loss of fortune
+The moral relationship of lovers will not permit a union
+There is a misunderstanding between lovers caused by accident
+Superstition on the part of another stands between lovers
+Fear of habit on the part of beloved stands in the way
+Ignorance of love on the part of lover stands in the way
+Beloved is accused of deception as to his accomplishments
+Kinsman of lover is possessed With ambition for power
+Lover is accused of deception as to his social standing
+The business relationship of lovers will not permit a union
+Fear or responsibility on the part of beloved stands in the way
+Beloved imagines another has a better right to lave of lover
+Lover has promised a former loved one he Wﬂl not love again
+Beloved imagines himself in love with another
+Beloved 's distraught over threatened loss of loved one
+The social relationship of lovers will not permit a union
+Fear of responsibility on the part of lover stands in the way
+Fear of habit on the part of lover stands in the way
+Kinsman of lover is possessed with ambition for fame
+Beloved is accused of deception as to his intention
+Lover imagines another has a better right to the love of beloved
+The professional relationship of lovers will not permit a union
+Beloved is accused of deception as to his authority
+Kinsman of beloved is possessed with ambition for wealth
+Lover is accused of deception as to his accomplishments
+There is a contract or agreement Which stands in the way of a union
+Beloved‘s attention is distracted by a daring effort to win distinction
+Memory of former loved one on the part of beloved stands in the way
+A religious or moral complex on the part of beloved stands in the way
+Fear of habit on the part of kin f lover stands in the way
+Fear of habit on the part of kin of either lover or beloved stands in the way
+Ignorance of love on the part of beloved stands in the way
+Kinsman of beloved is possessed With ambition for power
+A close male relative (Father, brother, son)
+A dose female relative (Mother, sister, daughter)
+A distant male relative (Uncle, cousin, grandparent, etc)
+A distant female relative (Aunt, cousin, grandparent, etc)
+A friend
+A guardian
+An employer
+An employee
+An acquaintance
+An advisor
+Benevolent, loyal but dilatory
+Compassionate, affable, but extravagant
+Composed, candid: but unforgiving
+Generous, energetic, but domineering
+Honorable, ﬁrm, but dogmatic
+Loyal, magnanimous, but irrational
+Aggressive, gay, but selfish
+Optimistic, vigorous, but lustful
+Cautious, meticulous, and designing
+Equitable, cordial, but impatient
+Amenable, idealistic, but prudish
+Thrifty, discreet, but crafty
+Enterprising, affectionate, but fickle
+Steadfast, dignified, but unforgiving
+Visionary, optimistic, but timid
+Aristocratic, composed, but inconsiderate
+Reticent, just, but obstinate
+Credulous, genial, but meddlesome
+Spirited, loyal, but immoral
+Humane, firm, but extravagant
+Tactful, efficient, but unsympathetic
+Intense, deliberate, but vain
+Discreet, reserved, but sentimental
+Proud, patient, but gullible
+Inventive, visionary, but irritable
+Diplomatic, hospitable, but deceptive
+Precise, shrewd, and critical
+Scholarly, thrifty, but absent minded
+Clairvoyant, compassionate, but reticent
+Intrepid, optimistic, but vulgar
+Spiritual, shy, but inquisitive
+Affectionate, gay, but hysterical
+Shrewd, benevolent, but boastful
+Cheerful, frank, but excitable,
+Reserved, ﬁrm, and gloomy
+Witty, tolerant, but intemperate
+Just, proud, but narrow minded
+Idealistic, meticulous, but meddlesome
+Hospitable, religious, but irrational
+Candid, tactful, and clairvoyant
+Genial, indulgent, and superstitious
+Domineering, vain, but loyal
+Conservative, patient, but careless
+Progressive, arrogant, but indiscreet
+Deliberate, efficient, but vengeful
+Active, enterprising, but boisterous
+Punctilious, religious, weak-willed
+Meticulous-, observant, but cynical
+Submissive, sentimental, but hysterical
+Reliable, affable, but mischievous
+Sincere, inventive, but mercenary
+Trusting, meditative, but timid
+Vivacious, emphatic, but conceited,
+Dignified, truthful, but: cowardly
+Sagacious, cheerful, but obdurate
+Valiant, intrepid, but jealous
+Poised, equitable, but indolent
+Cultured, prudent, but imperious
+Modest, loyal, but inefficient
+Affable, optimistic, but lazy
+Conscientious, shrewd, but pessimistic
+Efficient, sympathetic, but lustful,
+Resourceful, humane, but ignorant
+Virtuous, thrifty, but quarrelsome
+Intellectual, magnetic, but mendacious
+Trustworthy, conﬁding, but phlegmatic
+Industrious, astute, but superstitious
+Faithful, unselfish, but hypersensitive
+Studious, practical, but severe
+Careful, polite, but maudlin
+Dexterous, artistic, but intemperate
+Reflective, unprejudiced, but deflatory
+Dutiful, economical, but vulgar
+Peaceful, inventive, but miserly
+Religious, visionary, but vacillating
+Versatile, vivacious, but whimsical
+Demure, Efficient, but imprudent
+Alert, orderly, but violent
+Considerate, progressive, but cynical,
+Sanguine, analytical, but unruly
+Patient, genteel, but prudish
+Artistic, energetic, but erratic
+Altruistic, studious, but moody
+Brilliant, candid, but pugnacious
+Calm, noble, but morose
+Brave, affectionate, but show sighted
+Careful, sensible, but- merciless
+Chaste, agreeable, but narrow minded
+Congenial, liberal, but incompetent
+Courteous, capable, but mercenary
+Complacent, loving, but pusillanimous
+Capable, fair minded, but presumptuous
+Discreet, sedate, but self centered
+Discriminating, quiet, but bitter
+Dauntless, enterprising, but frolicsome
+Devoted, emotional, but outspoken
+Dominant, gregarious, but irresponsible
+Decorous,_ exacting, but vapid
+Docile, imaginative, but jealous
+Economical, dextrous, but garrulous
+Exacting, mﬂd‘mannered, but niggardly
+Frank, ingenious, but primitive
+Forceful, astute, but intolerant
+Fastidious, cautious, but- whining
+GentIe, learned, but eccentric
+Happy go lucky, convincing, but boisterous
+Humble, hopeful, but impractical
+Imaginative, constructive, but deranged
+Jolly, democratic, but coarse
+Literary, idealistic, but: nomadic
+Masterful, industrious, but opinionated
+Musical, intellectual, but restless
+Meditative, kind, but pessimistic
+Noble, lenient, but indiscreet
+Open-minded, moral, but thoughtless
+Practical, clean minded, bur pragmatic
+Persevering, merciful, but restive -’
+Philanthropic, nonchalant, but mundane
+Precise, genteel, but faint hearted ‘
+Poised, just, but recalcitrant ‘
+Quiet, positive, but suspicious \
+Reticent, inquisitive, but treacherous
+Reﬁned, neighborly, but patronizing
+Reliable, persistent, but quarrelsome
+Reasonable, introspective, but slovenly
+Resolute, proud, but officious
+Retiring, studious, but neglectful
+Righteous patriotic, but relentless
+Saintly, responsible, but mirthless
+Sensible, peaceful, but listless
+Self possessed, robust, but tactless
+Strong-willed, religious, but meddlesome
+Sprightly, romantic, but roguish
+Scrupulous, respectful, but servile
+Sensitive, scholarly, but querulous‘
+Sophisticated, playful, but intemperate
+Stoical, reliable, but revengeﬁﬁ
+Sedulous, economical, but dictatorial
+Thoughtful, spiritual, but imperious
+Tranquil, resolute, but sensual
+Unaffected, staunch, but scornful 
+Upright, spirited, but abusive
+Versatile, creative, but cruel
+Virile, brilliant, but avaricious
+Well bred, conscientious, but blundering
+Whimsical, discreet, but diffident
+Wholesome, discerning, bu: belligerent
+Zealous, voluble, but suspicious
+Assertive, candid, but austere
+Active, yOuthful, but shallow
+Broad minded, droll, but dissipated
+Creative, earnest, but childish
+Determined, far seeing, but deceptive
+Domestic, generous, but: excitable
+Diligent, learned, but discontented
+Deferent, faithful, but timid
+Dynamic, gracious, but flamboyant
+Farseeing, economical, but envious
+Gracious, introspective, but languid
+Indulgent, emotional, but lazy
+Lenient, gay, but flighty
+Magnetic, humane, but prodigal
+Mild mannered, fastidious, but misanthropic
+Majestic, ingenious, but impulsive
+Neighborly, diplomatic, but flirtatious
+Orderly, liberal, but foppish
+Obliging, modest, but fidgety
+Polite, humble, but: effusive
+Profound, noble, but militant
+Proud, poised, but merciless
+Reverent, hopeful, but stupid
+Robust, progressive, but mundane
+Scholarly, consistent, but slow
+Sprightly, romantic, but superstitious
+Sedate, precise, but suave
+Sapient, retiring, but self centered
+Truthful, peaceful, but petty
+Temperate, scrupulous, but suspicious
+Tracmble, neat, but silly
+Unemotional, resourceful, but secretive
+Arrogant, bigoted, but generous
+Avaricious, cranky, but energetic
+Absent minded, dilatory, but demure
+Affected, capricious, but droll
+Arbitrary, excitable, but gay
+Argumentative, Childish, but artful
+Audacious, admit, and fickle
+Awkward, hypersensitive, but loving
+Abisive, fretful, but religious
+Automatic, reckless, but patriotic
+Brutal, gloomy, but emotional,
+Bashful, absurd, but devoted
+Boastful, coarse, but amiable
+Boisterous, carnal, but fair-minded
+Bold, aristocratic, but passionate
+Bigoted, clumsy, but conﬁding
+Belligerent, captions, but gregarious
+Bitter, impolite, but Sagacious
+Blasphemous, abrupt, but charitable,
+Blundering, discourteous, but dutiful
+Boorish, famous, but honorable
+Bombastic, egotistical, but obliging
+Brazen, dictatorial, but gallant,
+Conceited, condescending, but decorous
+Cynical, inactive, but far seeing
+Cruel, suspicious, but romantic
+Careless quackish, but tender hearted
+Crafty, harsh, and mysterious
+Cowardly, fickle, but nonchalant
+Coarse, gossipy, but gregarious
+- Cranky, distant, but intellectual
+Childish, frivolous, but indulgent
+Callous, abrupt, but frank
+Critical, mundane, but righteous
+Capricious, haughty, but ingenious
+Calculating, envious, but efficient
+Canny, illiterate, but moral
+Captious, addled, but intrepid
+Carnal, indiscreet, but merciful
+Condescending, gushing, but playful
+Cold, miserly, but clairvoyant
+Domineering, argumentative, but jolly
+Dictatorial, dogmatic, but careful
+Dilatory, fretful, but humble
+Despotic, grasping, but industrious
+Designing, clumsy, but resolute
+Discontented, pusillanimous, but imaginative
+Despondent, discourteous, but contemplative
+Disdainful, officious, bu: persuasive
+Distant, eccentric, but observant
+Destructive, arbitrary, but moral
+Diffident, suspicious, but sentimental
+Dissipated, arrogant, but sensitive
+Dating, jealous, but indulgent
+Diabolical, guileful, but dynamic
+Deceitful, rakish, but self/possessed
+Extravagant, temperamental, but fastidious
+Excitable, Sportive, but democratic
+Egotistical, weak/willed, but shrewd
+Envious, fault finding, but careful
+Eccentric, impractical, but literary
+Elusive, gullible, but hypersensitive
+Flirtatious, dissipated, but loyal
+Fanatical, unpatriotic, but forceful
+Frivolous, disdainful, but chaste
+Frugal, gloomy, but persevering
+Fickle, brazen, but musical
+Flamboyant, irreverent, but brave
+Flippant, loud, but spirited
+Faint hearted, dull, but obliging
+Flighty, querulous, but unselfish
+Fretful, gossipy, but righteous
+Feeble, doting, but placid
+Factions, impatient, but powerful
+Famous, deceitful, but artful
+Garrulous, irrepressible, but benevolent
+Gloomy, superstitious, but virtuous
+Gluttonous, slothful, but resourceful
+Grasping, mendacious, but sophisticated
+Grouchy, lazy, but Whimsical
+Grafting, bold, but agreeable
+Greedy, whining, but obedient
+Guileful, licentious, but thrifty
+Gullible, dogmatic, but spiritual
+Gossipy, jealous, but neighborly
+Hysterical, suspicious, but idealistic
+Haughty, despotic, but learned
+Hypercritical, foolish, but veracious
+Hypersensitive, suspicious, but faithful
+Harsh, flippant, but punctilious
+Heartless, fickle, but gullible
+High strung, imaginative, but artistic
+Hard, obscene, but aggressive
+impractical, primitive, but submissive
+Ignorant, crafty, but self possessed
+Imprudent, grasping, but gregarious
+Intolerant, excitable, but dynamic
+Irritable, restless, but studious
+Impulsive, profligate, but devoted
+Inconsiderate, abrupt, but accurate,
+Implacable, blasphemous, but: profound
+Intolerant, garrulous, but precise
+Indifferent, introspective, but optimistic
+Illiterate, argumentative, but hospitable
+Indolent, fault finding, but witty
+Impetuous, hard, but profligate
+Impassive, sensual, but staunch
+Insincere, gushing, but discerning
+Indiscreet, factions, but dominant
+Imperious, heartless, but ambitious
+Irresponsible, egotistical, but debonair
+Impatient, artless, but assertive
+Irrepressible, roguish, but witty
+Incompetent, pretentious, but alert
+Irrational, cynical, but voluble
+Immoral, capricious, but fair minded
+Inquisitive, guileful, but gallant
+Jealous, arbitrary, but aristocratic
+Lustful, impetuous, but magnetic
+Lazy, thoughtless, but jolly
+Languid, affected, but loving
+Listless, dissipated, but migratory
+Miserly, moody, but learned
+Malicious, illogical, but deliberate
+Mercenary, egotistical, but constructive
+Mischievous, ellusive, but tenderhearted
+Meddlesome, suspicious, but sentimental
+Mendacious, irreverent, Witty
+Merciless, irritable, but emphatic
+Mirthless, jealous, but moral
+Misanthropic, lethargic, but inventive
+Mundane, inquisitive, but mild/mannered
+Nervous, despotic, but accomplished
+Narrow minded, inconsiderate, but ambitious
+‘ Neglectful, mendacious, but passionate
+Niggardly, petulant, but musical
+Nomadic, militant, but masterful
+Obstinate, envious, but earnest
+Opinionated, lawless but profound
+Obdurate, indiscreet, but idealistic
+Overbearing, licentious, but persistent
+Obstreperous, hysterical, but chaste
+Obsequious, malicious, but passive
+Outspoken, irresponsible, but jolly
+Obtuse, morose, but reverent
+Officious, effusive, but droll
+Penurious, sanctimonious, but retiring
+Pessimistic, scornful, but scholarly
+Prudish, obstinate, but persuasive
+Phlegmatic, obtuse, but ya
+Petulant, nervous, but tractable
+Presumptuous, masterful, but wise
+Pugnacious, narrow minded, but ardent
+Perfidious, cliﬂident, but artful
+Petty, pragmatic, but respectful
+Pusillanimous, mirthless, but kind
+Primitive, licentious, but intrepid
+Quarrelsome, prying, but religious
+Reckless, promiscuous, and playful
+Rash, prodigal, but romantic
+Revengeful‘, vicious, but versatile
+Rakish, opinionated, but genial
+Restive, dull, but determined
+Selfish, querulous, and voluble
+Superstitions, quackish, but sincere
+Suave, perfidious, but scientific
+Stubborn, sulky, but selfconﬁdent
+Salacious, moody, but: magnetic
+Sensual, restless, but proud
+Speculative, nomadic, but astute
+Supercilious, waggish, but vivacious
+Sanctimonious, severe, but steadfast
+Taciturn, thoughtless, but sensitive
+Tempestuous, obstreperous, but loving
+Timid‘ tense, but religious
+Tactless, short sighted, but reliable
+Unimaginative, secretive, but truthful
+Vulgar, stupid, but positive
+Wanton, unstable, but vigorous
+Waggish, vulgar, but unselfish
+Artful, broadminded, but cheerful
+Affable, brilliant, but dynamic
+Amiable, benevolent, and faithful
+Affectionate, obliging, and punctilious
+Ambitious, efficient, and economical
+Artistic, congenial, and industrious
+Astute, composed, and just
+Brilliant, tactful, and versatile
+Clairvoyant, merciful, and reverent
+Candid, scrupulous, and wise
+Charitable, zealous, but discreet
+Capable, conscientious, and genteel
+Conservative, loyal, but optimistic
+Dignified, magnanimous, and proud
+Devoted, fastidious, and religious
+Debonair, unaffected, and vivacious
+Equitable, ﬁrm, but sensitive
+Economical, forceful, and gracious
+Firm, quiet, but kind
+Far seeiug, majestic, and positive
+Generous, capable, and humble
+Gallant, imaginative, and spirited
+Honorable, upright, but modem
+Humane, spiritual, and staunch
+Indulgent, loving, but fair
+Kind, agreeable, and cultured
+Loyal, industrious, but mild»mannered
+Loving, decorous, and consistent
+Meticulous, inventive and economical
+Modest, idealistic, contemplative
+Masterful, poised, and-righteous
+Meditative, retiring, but shrewd
+Neat, genteel, and ingenious
+Noble, peaceable, and sagacious
+Nonchalant, intellectual, and forceful
+Optimistic, farseeing, and democratic
+Orderly, unemotional, and sophisticated
+Obliging, meditative, and trustworthy
+Prudent, cheerful, and affectionate-
+Progressive, thrifty, and sedulous
+Patient, faithful, and devoted
+Practical, humane, and witty
+Philanthropic, retiring, and visionary
+Precise, just, and diplomatic
+Patriotic, exacting, and just
+Proud, reflective, and industrious
+Peaceable, analytical, and farseeing
+Quiet, reserved, and deductive
+Reticent, orderly, and energetic
+Righteous, resourceful, and ﬁrm
+Shrewd, artful, but altruistic
+Spirituelle, devoted, and calm
+Submissive, reﬁned, and compassionate
+Sympathetic, liberal, and yielding
+Scientific, reasonable, and artful-
+Selfconﬁdent, tranquil, and wholesome
+Scrupulous, progressive, and energetic
+Steadfast, sane, and open minded
+Sedulous, shrewd, and wise
+Tactful, thoughtful, and orderly
+Thoughtful, peaceable, and reserved
+Thrifty, persevering, and magnetic
+Tolerant, learned, and just
+Truthful, loving, and alert
+Trustworthy, compassionate, and convincing
+Temperate, tractable, and cheerful
+Unaffected, conscientious, and amiable-
+Visionary, Vigorous, and brave
+Versatile, artful, and musical
+Vivacious, capable and convincing
+Wholesome, benevolent, and artistic
+Youthful, zealous, and assertive
+Avaricious, brazen, and domineering
+Affected, bearish, and high strung
+Animalistic, absurd, and ignorant
+Argumentative, quackish, and recalcitrant
+Audacious, irreligious, and immoral
+Apathetic, childish, and illiterate
+Artless, obscene, and quarrelsome-
+Brutal, bloodthirsty, and treacherous
+Boastful, asinine, and unimaginative
+Boisterous, asinine, and insincere
+Bigoted, designing, and heartless
+Belligerent, irrepressible, merciless
+Cruel, carnal, and niggardly
+Careless, deflatory, and deceitful-
+Crafty, envious, and hypercritical
+Cowardly, elusive, and fickle
+Capricious, critical, and prying
+Condescending, disdainful, and jealous
+Despotic, arduos, and destructive
+Dissipated, deceitful, and dishonest
+Diabolical, grasping, and lecherous
+Dishonest; crafty, and abusive
+Extravagant, lawless, and moody
+Egotistical, imperious, and indolent
+Frivolous, impractical, and meddlesome
+Envious, frugal, and surly-
+Factious, high»strung, and argumentative,
+Fault finding, suspicious, and gossipy
+Grasping, deranged, and irresponsible
+Guileful, vulpine, and unrelenting-
+Hysterical, selfish, and woebegone
+Heartless, irrational, and bombastic
+Impulsive, indiscreet, and famous
+Ignorant, crafty, and heartless
+Inconsiderate, lustful, and Obdurate
+Intolerant, feeble, and hysterical
+Illiterate, rebellious, and belligerent
+Intemperate, fierce, and proprietary
+Jealous, morose, and suspicions
+Lustful, brazen, and irrepressible
+Lazy, inquisitive, and fiddled
+Lascivious, diabolical, and covetous-
+Lawless, haughty, and impetuous
+Listless, Whining, and unforgiving
+Miserly, recalcitrant, guileful
+Mercenary, aggressive, and canny-
+Meddlesome, suspicious, and envious
+Misanthropic, self-centered, and impatient
+Niggardly, narrowaminded, and cynical
+Overbearing, penurious, and sensual
+Obsequious, prying, and deceitful
+Obscene, vulpine, and dissipated
+Phlegmatic, irreverent, and blasphemous
+Presumptuous, shallow, and untruthful
+Pugnacious, narrowrminded, and rash
+Pusillanimous, nervous, and superstitious
+Primitive, bumptious, and officious
+Quarrelsome, restive, and sluggish
+Rakish, haughty, and guileful
+Salacious, taciturn, and unrelenting
+Shiftless, selﬁsh, and ignorant
+Sanctimonious, deceitful, and morose
+Tactless, opinionated, and talkative
+Unscrupulous, hypercritical, and vehement
+Unpatriotic, cruel, and cunning
+Vengeful, militant, and indiscreet
+Vapid, garrulous, and Sensual
+Malevolent, violent, and treacherous
+Weak, effusive, and untruthful
+Wanton, uncharitable, and superstitious
+Woebegone, suspicious, and carping
+Benevolent, genial, but lustful
+Composed, discreet, but unpatriotic
+Honorable, unprejudiced, but neglectful‘
+Loyal, unselfish, but vengeful
+Equitable, versatile, but undiplomatic
+Thrifty, cautious, but incompetent
+Enterprising, upright, but quackish-
+Visionary, artistic, but deranged
+Spirited, youthful, but wanton,
+Shrewd, egotistical, but good hearted
+Idealistic, spiritual, but weal willed
+Intrepid, sedate, but unruly
+Aristocratic, humming but intemperate
+Proud, hospitable, but fickle
+Shrewd, patient, but miserly
+Peaceable, philanthropic, but soulless
+Sincere, sentimental, but primitive
+Vivacious, youthful, but sensual
+Trusting, staunch, but mirthless
+Optimistic, thoughtful, but argumentative
+Religious, patriotic, but narrow-minded
+Sanguine, faithful, but slothful
+Apathetic, bitter, but compassionate
+Beastial, obtuse, but loyaL
+Bloodthirsty, guileful, but industrious
+Cruel, covetous, but courteous
+Degenerate, capricious, but accomplished-
+Deranged, artless, but honorable
+Dissipated, gluttonous, but idealistic
+Hard, salacious, but intellectual
+Immoral, extravagant, but loving-
+Lecherous, rash, but sympathetic
+Misanthropic, obdurate, but musical
+Superstitions, gullible, and saintly
+Servile, pusillanimous, but visionary
+Stingy, unimaginative, but conscientious
+Vicious, ignorant, but ambitious
+Bargaining to obtain a decision
+Argument or entreaty to obtain evidence-
+Ruse or strategy to overcome convention
+The use of force to make an impression
+Ruse or strategy to attract attention
+Argument or entreaty to establish rights
+Bargaining to prove identity
+The use of force: to prove strength
+Argument or entreaty to hold interest
+Ruse r strategy to prove merit;
+The usa of force to win sympathy
+Argument or treaty to gain entry
+Bargaining to communicate
+The use of force to proselyte‘
+Ruse or strategy to subsidize
+Argument or entreaty to identify
+Bargaining to distract
+The use of force to convert
+Ruse or strategy to expose
+Argument or entreaty to conceal
+Bargaining to allure
+The use of force to confuse
+Ruse or strategy to uphold
+Argument or entreaty to exclude
+Bargaining to surprise
+The use of force to frighten
+Ruse or strategy to ridicule
+Argument or controversy to hasten
+Bargaining to reveal
+The use of force to mystify
+Ruse or strategy to excel
+Argument or entreaty to eclipse
+Bargaining to thwart,
+The use: of force to delay
+Argument : entreaty to silence
+Ruse r strategy t‘o refute
+Bargaining to repel
+The use of force to humble
+Ruse or strategy to frustrate
+Argument r entreaty to coerce
+Bargaining to temporize
+The use of force to dominate
+Ruse or strategy to-suppress
+Argument or entreaty to annoy
+Bargaining to outwit
+The use Of force to obtain a decision
+Ruse or strategy to make an impression
+Argument or entreaty to attract attention
+Bargaining to overcome convention
+The use of force to establish rights
+Ruse or strategy to hold interest
+Argument or entreaty to prove identity
+Bargaining to obtain evidence
+Ruse or strategy to gain entry
+The use of force to prove merit
+Argument or entreaty to prove identity
+Bargaining to prove strength
+The use of force to communicate
+Ruse or strategy to distract
+Argument or entreaty to subsidize
+Bargaining t identify
+The use of force to expose,
+Ruse or strategy to convert
+Argument or entreaty t allure
+Bargaining to conceal
+Ruse or strategy to confuse
+The use of force to uphold
+Argument or entreaty to outwit-
+Bargaining to exclude
+The use of force to surprise
+Ruse or strategy to frighten
+Argument r entreaty to ridicule
+Bargaining to hasten
+The use of force to reveal
+Ruse or strategy to mystify
+Argument or entreaty to excel
+Bargaining to eclipse
+The use of force to thwart-
+Ruse r strategy to‘ delay
+Argument or entreaty to refute-
+Bargaining to silence
+The use of force to repel
+Ruse or strategy to proselyte
+Argument or entreaty to humble,
+Bargaining to frustrate
+The use of force to coerce
+Ruse or-strategy to temporize
+Argument or entreaty- to dominate
+Bargaining to suppress
+The use of force to annoy
+Ruse or strategy to obtain a decision
+Argument or entreaty to make an" impression
+Bargaining to attract attention-
+The use of force to prove identity: ‘
+Ruse or strategy 'to obtain evidence
+Argument or entreaty to overcome convention
+Bargaining to establish rights
+The use of force to gain entry
+Ruse or strategy to Win sympathy:
+Argument or entreaty to prove strength
+Bargaining to hold interest
+The use of force to subsidize
+Ruse or strategy to communicate; “
+Argument or entreaty to prove merit
+Bargaining to convert
+The use of force to distract
+Ruse or strategy to identify
+Argument or entreaty to confuse
+Bargaining to uphold ‘
+The use of force to allure
+Ruse or strategy to exclude
+Argument or entreaty to surprise
+Bargaining to frighten
+The use of force to outwit
+Ruse Dr strategy to hasten
+Argument or entreaty to reveal
+Bargaining to ridicule
+The use of force to excel
+Ruse or strategy to eclipse
+Argument or entreaty to mystify
+Bargaining to delay
+The use of force to silence
+Ruse r strategy to thwart
+Argument or entreaty to repel
+Bargaining co refute
+T he use of force to frustrate
+Ruse or strategy to humble
+Argument or entreaty to proselyte
+Bargaining to coerce
+The use of force to temporize
+Ruse or strategy to dominate
+Argument or entreaty to suppress
+Bargaining to annoy-
+The use of form to conceal
+Argument or entreaty to expose
+Bargaining to make an impression
+The use of force to overcome convention
+Ruse or strategy to establish rights
+Argument or entreaty to obtain a decision
+Bargaining to win sympathy
+The use of force t attract attention
+Ruse or strategy to prove identity
+Argument or entreaty w distract-
+Bargaining to gain entry
+The use of force to hold interest
+Ruse or strategy to prove strength
+Argument or entreaty to communicate
+Bargaining to subsidize
+The use of fore: to identify
+Ruse or strategy to conceal
+Argument or entreaty to uphold-
+Bargaining to mystify
+The use of force to exclude
+Ruse or strategy ta allure
+Argument or entreaty to convert
+Bargaining to prove merit
+The use of force to obtain evidence
+Ruse or strategy to surprise
+Argument or entreaty to frighten
+Bargaining to expose -
+The use of force to ridicule-
+Ruse or strategy to outwit
+Argument or entreaty to thwart
+Bargaining to confuse
+The use of force to hasten
+Ruse or strategy to reveal
+Argument or entreaty to delay
+Bargaining to proselyte
+The use of force to eclipse
+Ruse or strategy to silence
+Argument or entreaty to frustrate
+Bargaining to excel
+The use of force to refute
+Ruse x strategy to repel
+Argument or entreaty t temporize
+Bargaining to dominate
+The use of force to suppress
+Ruse or strategy to annoy
+Bargaining to humble
+Ruse or strategy to coerce
+Lover becoming ill
+Beloved losing home
+Lover losing business
+Lover being imprisoned
+Beloved becoming ill
+Lover losing home
+Lover losing fortune
+Beloved being abducted
+Lover being banished
+Beloved being imprisoned
+Beloved losing fortune
+Beloved losing business
+Lover being abducted
+Beloved being banished
+Misunderstanding as to identity of lover
+The likelihood of lover becoming crippled
+Indiscretion on the part of the lover
+Lover is threatened with banishment
+The imminence or occurrence of a storm
+A real difference of age between lovers
+The discovery of the betrothal of lover
+Distant duty calls beloved
+Misunderstanding as to identity of beloved
+The imminence r occurrence of a strike
+The likelihood of lover becoming '
+Lover being crippled by disease or accident
+Beloved being injured by accident
+Likelihood of lover‘s losing fortune
+An indiscretion on the part of beloved
+Lover being threatened with imprisonment
+The imminence or occurrence of a flood
+A difference of power between lovers
+Discovery of the betrothal of the beloved
+An illicit love affair on the part of lover
+Likelihood of lover’s losing business
+The danger of lover losing honor
+The imminence or occurrence of a ﬁre
+Discovery of a will forbidding the match
+Lover being about to make a sacrifice for country
+A difference of race between lovers
+Discovery of a suspected marriage of lover
+An illicit love affair n the part of beloved
+Likelihood of beloved‘s losing fortune
+Discovery of ﬂlegitimate birth of lover
+The danger f lover being disfranchised or impeached
+Conflict between kinsman of lover and lover
+Consuming ambition of lover for power
+The imminence or occurrence of a shipwreck
+A difference of culture between levers
+Discovery of a suspected marriage of beloved
+Distant duty calls lover
+The likelihood of lover‘s losing home
+The discovery of Illegitimate birth of beloved
+Conflict between lover and kin of beloved
+Discovery of blood kinship between lovers-
+The likelihood of beloved’s losing home
+The danger of beloved losing position
+The discovery that lover has lost position
+Consuming ambition on the part of lever for wealth-
+Beloved‘s being threatened With imprisonment
+Lover being threatened with abduction
+The imminence or occurrence of an earthquake
+Lover being about to make a sacrifice for principle
+The discovery of a difference of race between lovers
+The likelihood of beloved losing business
+Consuming ambition on the part of lever for fame
+Discovery that lover is disfranchised or impeached-
+Conflict between kinsman of beloved and beloved
+Discovery of an alleged blood kinship between lavers
+Beloved is threatened with abduction
+Lover being about to make a sacrifice for religion
+Discovery of a difference in belief between lovers
+Development of legal proceedings against lover
+Discovery of a suspected betrothal of beloved
+The danger of beloved losing honor
+The consuming ambition of beloved for POWer
+Beloved being about to make a sacrifice for country
+Discovery of a difference of religion between lovers
+Lover recollecting vow not to love ‘
+Beloved’s consuming ambition for Wealth
+Lover being about to make a sacrifice for a loved one
+The discovery of a difference in wealth between lovers
+An imagined illicit love affair on the part of lover
+Temptation on the part of lover to commit a crime or offense
+Beloved being suspected of having been born out of Wedlock
+The discovery of a stigma attached to beloved's name due to family
+The discovery that beloved is disfranchised or impeached
+The discovery that beloved has lost position
+Beloved’s consuming ambition for fame
+Erroneous judgment on the part of lover caused by rivals
+The imminence or occurrence of an automobile, airplane, or train wreck
+Beloved being about to make a sacrifice for religion
+The discovery of a suspected difference in religion between lovers
+Beloved must cross land or sea
+An imagined illicit love affair on the part of beloved
+A misunderstanding caused by pride on the part of lover
+The suspicion of a betrothed of beloved
+Temptation on the part of beloved to commit a crime or offense
+The discovery of a stigma attached to lover's name due to family
+The discovery that beloved has been disfranchised or impeached
+Erroneous judgment on the part of beloved caused by rivals
+Consuming ambition of kinsman f lever for power
+Beloved being threatened with banishment
+Beloved being about to make a sacrifice for a loved one
+A discovery of a difference, in position between lovers
+A misunderstanding caused by pride cm the part of beloved
+Discovery of a difference in nationality between lovers
+Discovery of a stigma attached to lover's name due to friends
+Erroneous judgment on the part of lover caused by enemies
+Consuming ambition on the part of kinsman of lover for wealth
+Beloved is about to make a sacrifice for principle
+The imminence or existence of a revolt
+The likelihood of beloved becoming crippled
+Beloved becoming disfigured by accident or disease
+Suspected habit or mania n the part of lover-
+The danger of beloved contracting a mental malady
+The likelihood of lover sustaining injuries
+Beloved becomes crippled by disease or accident
+The discovery of a difference in education b&tween lovers
+Beloved recollecting a vow not to love
+Suspicion f lover having been born out of wedlock
+Discovery of a stigma attached to beloved‘s name due to friends
+Erroneous judgment on the part of beloved caused by enemies
+The imminence r occurrence of a war
+Lover being obliged ‘to solve a problem
+The likelihood of beloved becoming '
+An existing habit or mania on the part of lover
+The danger of lover contracting a mental malady
+The discovery of a difference in profession between lovers
+Enforced change of lover‘s locale imminent
+The discovery of a stigma attached to lover‘s name due to business associates
+Erroneous judgment on the part of lover caused by kinsman
+The discovery of a stigma attached to beloved‘s name due to business associates
+Consuming ambition for fame on the pan of kinsman of lover
+Erroneous judgment on the part of beloved caused by kinsman
+The imminence or occurrence of an epidemic
+The likelihood of blindness or loss of other sense on the part of the lover
+The likelihood of lover becoming disfigured
+Suspected habit or mania on the part of beloved
+The imminence or occurrence of a panic‘
+Lover suffering from lack of necessities of life
+The discovery of the difference in social rank between lovers,
+Enforced change of beloved’s locale imminent
+The discovery of a difference in mentality between lovers
+The development of legal proceedings against lover
+An existing habit r mania on the part of beloved
+Lover becoming disfigured by accident or disease
+Suspicion of a difference in belief between lovers
+Immediate change of locale on the part of lover necessary for the sake of health, safety, or liberty
+The discovery of a stigma attached to lover’s name due to past behavior
+Kinsman- of beloved possessing consuming ambition for power
+The imminence or occurrence of a revolution
+The likelihood of beloved becoming disfigured
+The discovery of a difference in personal habits or tastes between lovers
+Beloved being forced, for the sake of health, safety, or liberty, to make an immediate change of locale
+Development of legal proceedings against beloved
+The suspicion of a difference in culture between lovers
+Lover being injured by accident
+Beloved suffering from lack of necessities of life
+The suspicion of a difference in age of lovers-
+The discovery of a stigma attained to beloved‘s name due to past behavior
+Consuming ambition for wealth on the part of a kinsman of beloved
+The imminence or occurrence of a religious uprising
+The likelihood of beloved becoming blind or losing other senses
+Suspicion of a difference of power between lovers
+Consuming ambition for fame on the part of kinsman of beloved
+The likelihood of beloved becoming injured
+Suspicion of a difference between nationality of lovers
+The imminence or occurrence of a feud
+Suspicion of a difference of position between lovers
+Development of legal proceedings against kinsman f beloved
+Suspicion of a difference of wealth between lovers
+The likelihood of lover lacking the necessities of life
+Suspicion of a difference in social rank between lovers
+The likelihood of beloved lacking necessities of life
+The fact that there is a difference in their habits
+Suspicion of a difference in education between lovers
+The discovery of a doubt there being a difference in mentality between lovers
+Suspicion of a difference of profession between lovers
+Development of legal proceedings against kinsman of lover
+Sacrificing home
+Risking honor
+Brewing starvation
+Sacrificing beauty
+Risking abduction
+The sacrifice of pride
+Sacrifice of fortune
+Giving up a luxury
+Losing health
+Giving up legal rights
+Offering to sacrifice home
+Losing power
+Giving up social opportunity
+Sacrificing name
+Forsaking cause
+Sacrificing belief
+Risking good name
+Sacrificing country
+Invading an enemy domain
+Sacrificing tradition
+Risking disfranchisement
+Sacrificing an ideal
+Risking loss of limbs
+Surrendering to abduction
+Risking imprisonment
+Surificing a friendship
+Losing mind
+Risking life for a noble cause
+Rescuing a loved one from social peril
+Offering to sacrifice tradition
+Losing fortune
+Sacrificing liberty
+Refusal to accept protection
+Resigning executive position
+Curbing ambition for wealth
+Sacrificing life
+Risking disfigurement
+Rescuing loved one from fancied peril
+Sacrificing belief
+Running the risk of losing liberty
+Sacrificing custom
+Accepting false legal accusation
+Sacrificing religion
+Sacrificing sentiment
+Submitting to physical torture
+Passively accepting imprisonment
+Giving up position of power
+Sacrificing ambition
+Accepting false social accusation
+Risking fortune to rescue loved one
+Risking name to bafﬂe an enemy
+Risking hunger to rescue loved one
+Risking honor to make a daring effort
+Choosing another loved one
+Facing physical ﬂanger as a penance
+Offering to sacrifice luxury
+Sacrificing opportunity for fame
+Offering to give up social position
+Rescuing loved one from physical peril
+Imperiling social position
+Running the risk of being injured
+Refraining from the use: of authority
+Economizing n the necessities of life
+Volunteering to sacrifice honor
+Rescuing loved one from financial peril
+Volunteering to invade enemy domain
+Disobeying traditional rule
+Offering to sacrifice fortune
+Making an offer to sacrifice liberty
+Offering to curb ambition far wealth
+Volunteering to resign executive position
+Making an offer £ sacrifice beauty
+Freeing enemy on request of loved one
+Risking abduction to bafﬂle enemy
+Offering to give up position of power
+Risking name to make a daring effort
+Sacrificing a prized possession
+Running the risk of contracting disease
+Offering to Surrender to imprisonment
+Risking loss of home to rescue loved one
+Risking fortune to make a daring effort,
+Agreeing to perform a task for penance
+Renouncing family
+Abducting loved one,
+Sacrificing love for home,
+Offering to give up citizenship rights
+Engaging in conflict with a superior power
+Undertaking a hazardous expedition by air
+Risking loss of eyesight or other senses
+Choosing ambition instead of love
+Running the risk of losing mind
+Violence against rival,
+Facing hunger to baiﬂe an enemy
+Risking fortune to fulfill a wish of loved one
+Freeing one whom he fancies has wronged him
+Risking imprisonment to baffle an enemy
+Risking health for a noble cause
+Renouncing some form of pleasure as a penance
+Facing privation in order to assist loved one
+Offering to sacrifice a prized possession
+Undertaking a hazardous expedition by land
+Rescuing a kinsman of loved one from social peril
+Offering to engage in conflict with a superior power
+Renouncing authority over kinsmen
+Offering to endanger health for a noble cause
+Sacrificing opportunity for power
+Facing hunger to effect a rescue
+Risking fortune to bafﬂe an enemy
+Choosing duty instead of love
+Offering to sacrifice a prized possession
+Sacrificing eyesight or other senses
+Offering to give up opportunity for fortune
+Cleaning his or her name of stigma
+Volunteering to undertake a hazardous expedition
+Offering to give up social position
+Offering to accept tyrarnnical oppression
+Risking good name to fulfill a wish of loved one
+Jeopardizing legal rights to baffle an enemy
+Freeing one whom he fancies has wronged a kinsman
+Risking loss of home to invade an enemy domain
+Giving up habit in Order to baffle: an enemy
+Renouncing friends to fulfill a desire of loved one
+Offering to sacrifice opportunity for power
+Rescuing kinsman of loved one from social peril
+Offering to run risk of contracting disease
+Surrendering chance of relief against oppression
+Choosing religion instead of love
+Refusing to take advantage of social opportunity
+Offering to disregard commands of‘ church
+Offering to disregard commands of country
+Surrendering relief from political oppression
+Risking social opportunity to baffle an enemy
+Offering to sacrifice opportunity for fame
+Renouncing relief from tyrannical oppression
+Sacrificing love to one who has a better right
+Freeing one he fancies has wronged his country
+Running the risk of becoming disfigured
+Risking opportunity for power by performing a daring deed
+Refusing to take advantage of opportunity for fortune
+Sacrificing love for memory or sentiment
+Making an offer to risk loss of eyesight or other senses
+Offering to surrender chance of relief against oppression
+Failing to prosecute one Who has legally wronged him
+Freeing one whom he fancies has wronged a loved one
+Risking loss of home to rescue kinsman of loved one
+Braving disease in order to fulfill Wish of loved one
+Risking opportunity for wealth by performing a daring deed-
+Rescuing kinsman of loved one from physical peril
+Offering to surrender relief from political oppression
+Risking name to engage in conflict with a superior power
+Disregarding tradition in order to fulfill desire of loved one
+Risking opportunity for fame by performing a daring deed
+Rescuing a, kinsman of loved (me from financial peril
+Sacrificing opportunity for revenge against one who has wronged
+Jeopardizing citizenship rights to fulfill the wish of kinsman of
+Acting contrary to belief in order to fulfill the wish of loved one-
+Disregarding a command of church to rescue loved one from
+Making a concession to political views in order to please loved one
+Disregarding tradition in order to rescue loved one from social peril
+Making an offer to sacrifice social position to fulfill desire of loved one
+Jeopardizing safety of country in order to rescue loved one from physical peril
+Disregarding tradition in order to rescue loved one from financial peril
+Acting contrary to belief in order to fulfill wish of loved one
+Disregarding religion in order to undertake a hazardous acceptation
+Giving up love for sake of country
+Running the risk of losing eyesight, hearing, or other senses to make a daring effort
+Giving up love for material possession
+Sacrificing opportunity for revenge against one Who has wronged country
+Risking fortune to fulfill a wish of kinsman of loved-one
+Sacrificing love for habit or mania
+Offering to sacrifice social position to fuﬁll desire of kinsman of loved one
+Disregarding tradition in order to rescue kinsman of beloved from social pen
+Risking fortune to engage in conflict with a superior power
+Sacrificing opportunity for revenge against one who has wronged kinsman
+Disregarding tradition in order to fulfill the desire of kinsman of loved one
+Risking good name in order to fulfill the wish of a kinsman of loved one
+Heading pleas of kinsman for separation
+Risking citizenship rights to engage in conflict With a superior power
+Undertaking a hazardous expedition by water
+Learning of the dishonor pf a loved one
+Dam site
+Saw mill
+Race track
+Bar room
+High seas
+Cane brake
+Dance hall
+Auto camp
+Court room
+Army post
+Golf links
+Drug store
+Rest home
+Post office
+Dope den
+Tea house
+Dental parlor
+Customs house
+Packing house
+Wagon train
+Movie studio
+Print Shop
+Press room
+Night club
+Small town
+Mining town
+Cotton gin
+Orange grove
+Steel mﬂls
+Lumber mill
+Royal court
+Sponge beds
+Salvage ship
+Rice fields
+Coral beds
+Oyster beds
+Alms house
+Small shop
+Water front
+Frigid zone
+Cotton mills
+Camp meeting
+Tennis court
+Junk yards
+Car barns
+North woods
+Goat ranch
+“Tank" town
+Prison camp
+Cofee house
+Masque ball
+Enemy country
+Rubbish dumps
+Raﬂroad yards
+Gambling hall
+Booking oﬂice
+Port of entry
+Logging camp
+Ancient ruins
+Divorce colony
+Latin America
+Wagon train
+Haunted house
+Wireless station
+Wﬂd west show
+Turpentine camp
+Employment office
+Police station
+Medical school
+Telegraph Ofﬁce
+Weather Bureau
+Restricted district
+Athletic ﬁeld
+Railway station
+South America
+Bohemian colony
+Health resort
+Rural district
+Sugar plantation
+Sheep much
+Financial district
+Refugee camp
+Deserted village
+Tenement district
+Cotton plantation
+Gypsy camp
+Construction camp
+Convalescent camp
+Telephone oﬂice
+Broadcasting studio
+Boarding house
+International border
+Amusement park
+Apartment house
+Middleclass home
+Desert island
+Wealthy home
+Newspaper oﬂice
+Pleasure resort
+Indian Reservation
+South Sea Islands
+Winter resort
+Artist‘s studio
+Country estate
+Field hospital
+Fishing village
+Veterinary hospital
