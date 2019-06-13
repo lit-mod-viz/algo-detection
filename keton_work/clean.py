@@ -1,12 +1,13 @@
 import re
+import argparse
 
-def read_and_strip(filename):
+def read_and_strip(filepath):
     """ 
     input: path to a file
     output: a string with the contents of the file stripped of newlines
     """
     text = ""
-    with open(filename, "r", newline=None) as fd:
+    with open(filepath, "r", newline=None) as fd:
         for line in fd:
             line = line.rstrip('\n')
             text += line
@@ -51,19 +52,19 @@ def write_to_string(text):
     """
     return " ".join(text)
 
-def do_process(directory, filename):
-    out = read_and_strip(directory + filename)
+def do_process(filepath):
+    out = read_and_strip(filepath)
     out = tokenize(out)
     out = remove_non_alphanumeric(out)
     out = remove_numbers(out)
     out = remove_uppers(out)
     out = remove_mixed(out)
     out = write_to_string(out)
-    with open(filename + ".clean", 'w') as f:
+    with open("output/" + ".clean", 'w') as f:
         f.write(out)
 
 def main():
-    do_process("target-corpus-sample/", "argosy-1917.txt")
+    do_process("../target-corpus/target-corpus-sample/argosy-1917.txt")
     
 
 if __name__== "__main__":

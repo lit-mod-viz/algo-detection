@@ -1,15 +1,17 @@
-def remove_solos(filename):
+def remove_solos(filepath):
     ret = []
-    for line in open(filename, 'r'):
+    for line in open(filepath, 'r'):
         if len(line.split()) > 1:
             ret.append(line)
-    return " ".join(ret)
+    obj = " ".join(ret)
+    with open (filepath + ".nosolos", 'w') as f:
+        f.write(obj)
+    return obj
 
 def main():
     filename = "argosy-1917.txt.clean.segmented"
-    obj = remove_solos(filename)
-    with open (filename + ".nosolos", 'w') as f:
-        f.write(obj)
+    obj = remove_solos("output/" + filename)
+   
 
 if __name__== "__main__":
   main()
