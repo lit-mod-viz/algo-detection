@@ -18,6 +18,11 @@ def tokenize(text):
     lst = re.split(r'(\s)', text)
     return ' '.join(lst).split()
 
+def remove_single_character_tokens(text):
+    good_list = ["A", "a", "I"]
+    ret = [token for token in text if len(token) > 1 or token in good_list]
+    return ret
+
 def remove_non_alphanumeric(text):
     """ 
     Given: a list of tokens
@@ -52,19 +57,21 @@ def write_to_string(text):
     """
     return " ".join(text)
 
-def do_process(filepath):
+def do_process(directory, filename):
+    filepath = directory + filename
     out = read_and_strip(filepath)
     out = tokenize(out)
+    out = remove_single_character_tokens(out)
     out = remove_non_alphanumeric(out)
     out = remove_numbers(out)
     out = remove_uppers(out)
     out = remove_mixed(out)
     out = write_to_string(out)
-    with open("output/" + ".clean", 'w') as f:
+    with open("output/" + filename + ".clean", 'w') as f:
         f.write(out)
 
 def main():
-    do_process("../target-corpus/target-corpus-sample/argosy-1917.txt")
+    do_process("../target-corpus/target-corpus-sample/", "argosy-1917.txt")
     
 
 if __name__== "__main__":

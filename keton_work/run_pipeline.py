@@ -1,11 +1,13 @@
 import os
 import argparse
 from clean import do_process
-from no_solos import remove_solos
+from no_solos import post_seg
+from lemmatizer import lemmatize_all_files
+
 def clean_all_files(directory):
     for filename in os.listdir(directory):
         print(filename)
-        do_process(directory + filename)
+        do_process(directory, filename)
 
 def segment_all_files(directory, extension):
     bad_chars = [" ", "(", ")"]
@@ -17,11 +19,10 @@ def segment_all_files(directory, extension):
             filepath = directory + filename
             os.system("python3 -m syntok.segmenter " + filepath + " > " + "output/" + filename + ".segmented")
 
-def weed_solos_all_files(directory, extension):
-    bad_chars = [" ", "(", ")"]
+def post_seg_all_files(directory, extension):
     for filename in os.listdir(directory):
         if filename.endswith(extension):
-            remove_solos(directory + filename)
+            post_seg(directory, filename)
 
 def main():
     parser = argparse.ArgumentParser(description='Process some integers.')
@@ -30,7 +31,8 @@ def main():
     args = parser.parse_args()
     clean_all_files(args.directory[0])
     segment_all_files("output/", ".clean")
-    weed_solos_all_files("output/", ".segmented")
+    post_seg_all_files("output/", ".segmented")
+    lemmatize_all_files("output/", ".stripped")
 
 if __name__== "__main__":
   main()
