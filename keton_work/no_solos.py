@@ -1,5 +1,4 @@
 import string
-import spacy
 import re
 
 def read_file_to_list(filepath):
@@ -40,14 +39,6 @@ def remove_punctuation(text):
     # ret = [sentence.translate(str.maketrans('', '', string.punctuation)) for sentence in text]
     return ret
 
-def lemmatize(text):
-    nlp = spacy.load('en', disable=['parser','ner'])
-    ret = []
-    for sentence in text:
-        doc = nlp(sentence)
-        ret.append(" ".join([token.lemma_ for token in doc]))
-    return ret
-
 def write_file(text, filepath, extension):
     with open (filepath + extension, 'w') as f:
         f.writelines(text)
@@ -58,7 +49,6 @@ def post_seg(directory, filename):
     obj = remove_hyphens(obj)
     obj = make_lower(obj)
     obj = remove_punctuation(obj)
-    obj = lemmatize(obj)
     write_file(obj, "output/" + filename, ".stripped")
     # write_file(discard, "output/" + filename, ".discardedsolos")
 
