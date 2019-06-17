@@ -6,7 +6,6 @@ from lemmatizer import lemmatize_all_files
 
 def clean_all_files(directory):
     for filename in os.listdir(directory):
-        print(filename)
         do_process(directory, filename)
 
 def segment_all_files(directory, extension):
