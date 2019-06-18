@@ -26,8 +26,7 @@ def remove_hyphens(text):
     removes words that are hyphenated as a result of having been split accross a line-break in OG text
     returns new text as a list
     """
-    ret = [sentence.replace("- ", "") for sentence in text]
-    ret = [sentence.replace("¬ ", "") for sentence in text]
+    ret = [re.sub(r'[-–—¬]\s+', '', sentence) for sentence in text]
     return ret
 
 def make_lower(text):
@@ -36,6 +35,7 @@ def make_lower(text):
 
 def remove_punctuation(text):
     ret = [re.sub(r'[^a-zA-Z\d\s]', '', sentence) for sentence in text]
+    # ret = [' '.join(sentence.split()) for sentence in text]
     # ret = [sentence.translate(str.maketrans('', '', string.punctuation)) for sentence in text]
     return ret
 
@@ -46,7 +46,7 @@ def write_file(text, filepath, extension):
 def post_seg(directory, filename):
     obj = read_file_to_list(directory + filename)
     # obj, discard = remove_solos(obj)
-    obj = remove_hyphens(obj)
+    # obj = remove_hyphens(obj)
     obj = make_lower(obj)
     obj = remove_punctuation(obj)
     write_file(obj, "output/" + filename, ".stripped")

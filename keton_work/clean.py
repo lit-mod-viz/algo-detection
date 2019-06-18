@@ -1,18 +1,18 @@
 import re
 import argparse
 
-def read_and_strip(filepath):
+def read(filepath):
     """ 
     input: path to a file
     output: a string with the contents of the file stripped of newlines
     """
-    text = ""
-    with open(filepath, "r", newline=None) as fd:
-        for line in fd:
-            line = line.rstrip('\n')
-            text += line
-
+    with open(filepath, "r") as f:
+        text = f.read()
     return(text)
+
+def dehyphenate(text):
+    ret = re.sub(r'(?<!\s)[-–—¬][\s]*[\n]+(?=\S)', '', text)
+    return ret
 
 def tokenize(text):
     lst = re.split(r'(\s)', text)
@@ -43,7 +43,8 @@ def remove_numbers(text):
     return ret
 
 def remove_uppers(text):
-    ret = [token for token in text if not token.isupper()]
+    good_list = ["A", "I"]
+    ret = [token for token in text if token in good_list or not token.isupper()]
     return ret
 
 def remove_mixed(text):
@@ -57,9 +58,11 @@ def write_to_string(text):
     """
     return " ".join(text)
 
-def do_process(directory, filename):
+def do_process(directory, filename, i):
     filepath = directory + filename
-    out = read_and_strip(filepath)
+    out = read(filepath)
+    out = dehyphenate(out)
+
     out = tokenize(out)
     out = remove_single_character_tokens(out)
     out = remove_non_alphanumeric(out)
@@ -71,7 +74,7 @@ def do_process(directory, filename):
         f.write(out)
 
 def main():
-    do_process("../target-corpus/target-corpus-sample/", "argosy-1917.txt")
+    do_process("../target-corpus/target-corpus-sample/", "argosy-1917.txt", "a")
     
 
 if __name__== "__main__":
