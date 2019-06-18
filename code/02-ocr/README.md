@@ -15,3 +15,4 @@ Some useful resources include:
 
 - https://emop.tamu.edu/software-pre-processing
 - http://www.fmwconcepts.com/imagemagick/index.php
+- https://guides.library.illinois.edu/OCR/intro
