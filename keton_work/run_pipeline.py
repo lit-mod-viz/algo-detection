@@ -5,16 +5,12 @@ from no_solos import post_seg
 from lemmatizer import lemmatize_all_files
 
 def clean_all_files(directory):
-    for filename in os.listdir(directory):
-        do_process(directory, filename)
+    for i, filename in enumerate(os.listdir(directory)):
+        do_process(directory, filename, i)
 
 def segment_all_files(directory, extension):
-    bad_chars = [" ", "(", ")"]
     for filename in os.listdir(directory):
         if filename.endswith(extension):
-            for bad_char in bad_chars:
-                if bad_char in filename:
-                    filename = filename.replace(bad_char, "\{0}".format(bad_char))
             filepath = directory + filename
             os.system("python3 -m syntok.segmenter " + filepath + " > " + "output/" + filename + ".segmented")
 
