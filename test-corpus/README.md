@@ -9,13 +9,17 @@ determine the threshold in text reuse metrics.
 
 The Suspected Algo corpus includes:
 
-- Cook, William Wallace. *Adrift in the Unknown, or, Queer Adventures in a Queer Realm*. New
-  York, NY: Street & Smith, 1904.
-- DeMorgan, John and William Wallace Cook under the pseudonym Captain Luther Barr.  “Paul
-  Jones’ Defiance.” *Paul Jones Weekly: Stories of American Revolution*, December 2, 1905.
+- Cook, William Wallace. *His Friend the Enemy*. New York, NY: G.W. Dillingham Company, 1903.
+- Cook. *Adrift in the Unknown, or, Queer Adventures in a Queer Realm*. New York, NY: Street &
+  Smith, 1904.
+- Cook. *Cast Away At The Pole*. The Adventure Library 144. New York, NY: Street & Smith, 1904.
 - DeMorgan, John and William Wallace Cook under the pseudonym Captain Luther Barr.  “Paul
   Jones’ Pledge.” *Paul Jones Weekly: Stories of American Revolution*, October 14, 1905.
-- Cook. *Cast Away At The Pole*. The Adventure Library 144. New York, NY: Street & Smith, 1904.
+
+- DeMorgan, John and William Wallace Cook under the pseudonym Captain Luther Barr.  “Paul
+  Jones’ Defiance.” *Paul Jones Weekly: Stories of American Revolution*, December 2, 1905.
+- Cook. *A Quarter to Four, Or, The Secret of Fortune Island*. New York, NY: G.W. Dillingham
+  Company, 1909.
 - Cook. “Castaways of the Year 2000.” *The Argosy*, December 1912.
 - Cook. “Gold Grabbers.” *The Argosy*, June 1914.
 - Cook. “Skates, Skis and a Saphead.” *Wide-Awake Magazine*, January 10, 1916.
