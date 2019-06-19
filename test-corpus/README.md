@@ -15,6 +15,7 @@ The Suspected Algo corpus includes:
 - Cook. “Castaways of the Year 2000.” *The Argosy*, December 1912.
 - Cook. “Gold Grabbers.” *The Argosy*, June 1914.  
 - Cook. “Skates, Skis and a Saphead.” *Wide-Awake Magazine*, January 10, 1916.
+- Cook. “Dollars Romantic.” *Top Notch Magazine*, February 1, 1922.
 - Olsen, James P. “Six-Gun Gamble.” Speed Western Stories, December 1945.
 
 2. Suspected No-algo
