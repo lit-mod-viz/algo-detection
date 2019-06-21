@@ -1,0 +1,740 @@
+
+**Locale**
+
+1.  2.  Aboard ship
+
+3.  By a lake
+
+4.  At the Casino
+
+5.  In an Abbey
+
+6.  In the oil fields
+
+7.  In a palatial home
+
+8.  At the harbor
+
+9.  In school
+
+10. In the Far North
+
+11. In India
+
+12. In a love nest
+
+13. At an Army post
+
+14. In Latin America
+
+15. In a shack
+
+16. In a colony
+
+17. In a light house
+
+18. At a saw mill
+
+19. In the marshes
+
+20. At the morgue
+
+21. In a factory district
+
+22. On a dude ranch
+
+23. At a camp meeting
+
+24. Behind the footlights
+
+25. On the Bowery
+
+26. In an office
+
+27. At a depot
+
+28. On a sugar plantation
+
+29. In a refugee camp
+
+30. At a resort
+
+31. At a hospital
+
+32. On a Bayou
+
+33. In a tenement
+
+34. On the farm
+
+35. On a country estate
+
+36. At the sea coast
+
+37. On a race track
+
+38. In a print shop
+
+39. At a cabaret
+
+40. On a sheep ranch
+
+41. On a small farm
+
+42. In a ball room
+
+43. In the under word
+
+44. In Dixie
+
+45. In a fishing village
+
+46. In a pirate hangout
+
+47. At an arsenal
+
+48. On a ranch
+
+49. In the rice fields
+
+50. At the Mardi Gras
+
+51. At a roadhouse
+
+52. In an explorer's camp
+
+53. At a convention
+
+54. In a department store
+
+55. In a coliseum
+
+56. On a tobacco plantation
+
+57. In a small town
+
+58. On a battlefield
+
+59. In the retail district
+
+60. In the countryside
+
+61. In court
+
+LOCALE
+
+(CONTINUED)
+
+62. 63. In a shop
+
+64. In the North Woods
+
+65. At a gambling resort
+
+66. In a corporation office
+
+67. In a bachelor's apartment
+
+68. On the desert
+
+69. At a party (or celebration)
+
+70. By a river
+
+71. In Egypt
+
+72. On a beach
+
+73. In a newspaper office
+
+74. In a bank
+
+75. In the slums
+
+76. At a masque ball
+
+77. In a small town hotel
+
+78. In college
+
+79. In the tropics
+
+80. On an island
+
+81. At a mission
+
+82. At steel mills
+
+83. In the jungle
+
+84. On a yacht
+
+85. In a mining town
+
+86. In an asylum
+
+87. On the gold links
+
+88. On the plains
+
+89. In a curio shop
+
+90. In a castle
+
+91. On the prairie
+
+92. In Mexico
+
+93. On a freighter
+
+94. In a vineyard
+
+95. In a caravan
+
+96. In a foundry
+
+97. At the altar
+
+98. At a dam site
+
+99. In Arabia
+
+100. In a haunted house
+
+101. At a mine
+
+102. In a questionable house
+
+103. On a distant frontier
+
+104. At a police station
+
+105. On the sea
+
+106. On the Amazon
+
+107. In prison
+
+108. In a park
+
+109. In the cane brake
+
+110. On a cotton plantation
+
+111. In a movie studio
+
+112. On the highway
+
+113. In a wireless station
+
+114. In the mountains
+
+115. At a fort
+
+116. In a middle class home
+
+117. At an airport
+
+118. In Africa
+
+119. At a hacienda
+
+120. At a field hospital
+
+121. In the Navy
+
+122. In a penthouse
+
+LOCALE
+
+(CONTINUED)
+
+123. 124. At a theatre
+
+125. In the legislature
+
+126. Backstage
+
+127. At a circus
+
+128. At Police headquarters
+
+129. In pine words
+
+130. At a logging camp
+
+131. In a dope den
+
+132. In a back settlement
+
+133. In an airplane
+
+134. In a swamp
+
+135. In a cheap boarding house
+
+136. At a hotel
+
+137. In an orchard
+
+138. In the Orient
+
+139. In a canyon
+
+140. In an encampment
+
+141. Out West
+
+142. At railroad yards
+
+143. Aboard a train
+
+144. In the forest
+
+145. In the deserted house
+
+146. At a banquet
+
+147. In a paper mill
+
+148. In the financial district
+
+149. On a wagon train
+
+150. In the South Seas
+
+151. In a bandit camp
+
+152. At a camp
+
+153. In a factory
+
+154. On city streets
+
+155. Down East
+
+156. In a construction camp
+
+157. In the trenches
+
+158. At a carnival
+
+159. In an artist's studio
+
+160. In China
+
+161. In a museum
+
+162. In Asia
+
+163. At a festival
+
+164. In a dance hall
+
+165. On a gambling ship
+
+166. In a taxi
+
+167. In a gypsy camp
+
+168. In the Far East
+
+169. At a country inn
+
+170. In grain fields
+
+171. In a laboratory
+
+172. In a savage country
+
+173. On a plantation
+
+174. In an academy
+
+175. In the poor house
+
+176. On a game preserve
+
+177. At a radio station
+
+178. On a river
+
+179. In Hawaii
+
+180. In an arena
+
+181. In the war zone
+
+182. At a lonely outpost
+
+183. In a flotilla
+
+**Characters**
+
+1.  2.  An old peddler
+
+3.  A police officer
+
+4.  A fisherman's daughter
+
+5.  A Shylock
+
+6.  A waitress
+
+7.  A roue
+
+8.  An ex-wife
+
+9.  A sheriff
+
+10. A cabaret girl
+
+11. A bully
+
+12. A negro mammy
+
+13. A smuggler
+
+14. A blind beggar
+
+15. A thief
+
+16. A small boy (or child)
+
+17. A detective
+
+18. An old maid
+
+19. A gangster
+
+20. A watchman
+
+21. A counterfeiter
+
+22. A mine operator
+
+23. An Arab
+
+24. A newspaperman
+
+25. An army officer
+
+26. A captain
+
+27. A spy
+
+28. A lineman
+
+29. A paramour
+
+30. A rich old man
+
+31. A member of the Black Hand
+
+32. A young doctor
+
+33. A playboy
+
+34. A stenographer
+
+35. An old hag
+
+36. A divorcee
+
+37. A caballero
+
+38. An ex-husband
+
+39. A gambler
+
+40. A society leader
+
+41. A bandit
+
+42. A saleslady
+
+43. A vice lord
+
+44. An old employee
+
+45. A duelist
+
+46. A fisherman
+
+47. A moonshiner
+
+48. An announcer
+
+49. An ex-servant
+
+50. A hunter
+
+51. A cowboy
+
+52. A nurse
+
+53. A dancer
+
+54. An athlete
+
+55. A wife
+
+56. An old farmer
+
+57. A country woman
+
+58. A young farmer lad
+
+59. A magician
+
+60. A seaman
+
+61. A pugilist
+
+CHARACTERS
+
+(CONTINUED)
+
+62. 63. An executive
+
+64. A fugitive
+
+65. A trainer
+
+66. A promoter
+
+67. A rancher
+
+68. A soldier
+
+69. A society girl
+
+70. A twin
+
+71. An office clerk
+
+72. A working girl
+
+73. A poor girl
+
+74. A chauffeur
+
+75. A small merchant
+
+76. A rich farmer
+
+77. A farm hand
+
+78. A merchant prince
+
+79. An actor
+
+80. A guide
+
+81. A henpecked husband
+
+82. A young negro
+
+83. A neglected wife
+
+84. A girl reporter
+
+85. A performer
+
+86. A waiter
+
+87. A technician
+
+88. A scientist
+
+89. An inventor
+
+90. A politician
+
+91. A confidence man
+
+92. A bank clerk
+
+93. A fireman
+
+94. A warden
+
+95. A widow
+
+96. A consul
+
+97. A scrubwoman
+
+98. A trader
+
+99. A telegrapher
+
+100. An interpreter
+
+101. A pretender
+
+102. An heir
+
+103. A derelict
+
+104. An heiress
+
+105. A playwright
+
+106. A failure
+
+107. An actress
+
+108. A producer
+
+109. A recruit
+
+110. A jokester
+
+111. An operator
+
+112. A weakling
+
+113. A teacher
+
+114. A business rival
+
+115. A photographer
+
+116. A vagabond
+
+117. A pilot
+
+118. A gigolo
+
+119. An artist
+
+120. A soldier of fortune
+
+121. A ranger
+
+122. A ne'er-do-well
+
+CHARACTERS
+
+(CONTINUED)
+
+123. 124. An editor
+
+125. A chemist
+
+126. A laborer
+
+127. A doctor
+
+128. An invalid
+
+129. An aviator
+
+130. A governess
+
+131. A rival in love
+
+132. A press agent
+
+133. An acrobat
+
+134. A young modern
+
+135. A smuggler
+
+136. A husband
+
+137. A dance hall girl
+
+138. An old woman
+
+139. A crook
+
+140. An old family servant
+
+141. A forger
+
+142. A card sharp
+
+143. A society dame
+
+144. A servant
+
+145. A night club hostess
+
+146. A farmer's daughter
+
+147. A dope peddler
+
+148. A boatman
+
+149. A taxi driver
+
+150. A gypsy
+
+151. A mystic
+
+152. A ranch owner
+
+153. A hermit
+
+154. A shepherd
+
+155. A jockey
+
+156. A writer
+
+157. A taxidermist
+
+158. A plastic surgeon
+
+159. A hypnotist
+
+160. A manufacturer
+
+161. A driver
+
+162. A journalist
+
+163. A prosecutor
+
+164. An adventuress
+
+165. An interne
+
+166. A girl clerk
+
+167. An animal trainer
+
+168. A prince
+
+169. A judge
+
+170. A sport star
+
+171. A Hindu
+
+172. A driller
+
+173. A bouncer
+
+174. An immigrant man
+
+175. A model
+
+176. A miner
+
+177. A bacteriologist
+
+178. A collegian
+
+179. A railroader
+
+180. An immigrant girl
+
+181. A bus driver
+
+182. A gypsy girl
+
+183. A Secret Service operative
