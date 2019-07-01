@@ -1,3 +1,0 @@
-#!/bin/bash
-python3 clean.py
-python3 -m syntok.segmenter argosy-1917.txt.clean
