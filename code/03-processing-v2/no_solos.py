@@ -49,7 +49,7 @@ def post_seg(directory, filename):
     # obj = remove_hyphens(obj)
     obj = make_lower(obj)
     obj = remove_punctuation(obj)
-    write_file(obj, "../processed-corpus/test-output/" + filename, ".stripped")
+    write_file(obj, directory + filename, ".stripped")
     # write_file(discard, "output/" + filename, ".discardedsolos")
 
 def main():

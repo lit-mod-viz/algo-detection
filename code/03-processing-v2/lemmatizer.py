@@ -16,4 +16,4 @@ def lemmatize_all_files(directory, extension):
         if filename.endswith(extension):
             obj = read_file_to_list(directory + filename)
             obj = lemmatize(obj, nlp)
-            write_file(obj, "../processed-corpus/test-output/" + filename, ".lemmatized")
+            write_file(obj, directory + filename, ".lemmatized")

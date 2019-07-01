@@ -1,0 +1,68 @@
+logged: opened file../../corpus/project-v2-corpus/source-processed-clean/adventure-pg.sentences.stripped.lemmatized  on Mon Jul  1 17:35:15 2019
+logged: opened file../../corpus/project-v2-corpus/source-processed-clean/short-story-pg.sentences.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:15 2019
+logged: opened file../../corpus/project-v2-corpus/source-processed-clean/detective.sentences.stripped.lemmatized  on Mon Jul  1 17:35:15 2019
+logged: opened file../../corpus/project-v2-corpus/source-processed-clean/romance-plot-genie.sentences.stripped.lemmatized  on Mon Jul  1 17:35:15 2019
+logged: opened file../../corpus/project-v2-corpus/source-processed-clean/plotto.txt.stripped.lemmatized  on Mon Jul  1 17:35:15 2019
+logged: opened file../../corpus/project-v2-corpus/source-processed-clean/plot-genie-index-ocr.sentences.stripped.lemmatized  on Mon Jul  1 17:35:15 2019
+logged: opened all files on Mon Jul  1 17:35:15 2019
+logged: finished writing to new file on Mon Jul  1 17:35:16 2019
+logged: successfully combined files on Mon Jul  1 17:35:16 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Strange_Stories_v01n02__1939-04.Better__c2c__ufikus-DPP__djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/argosy-1917.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Sata_Illustrated_012_1960-05_FIXED_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Planet_Stories_British_Ed._06_1953-08_LennyS-EXciter_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Extrapolation_v05n02_1964-05_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Hi-Tech_Terror28_toecutter_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/The.Videophiles.Newsletter.02.October.1976_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Thrilling_Wonder_Stories_v09n02_1937-04.Beacon_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Terror_Tales_v05n04_1936-04_Scan_Rascals_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Science_Wonder_Stories_v01n04_1929-09.Stellar_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Punch__1915-09-29__djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Scoops_v01n05_1934-03-10_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Popular_Detective_v012_n01__1937-08__djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/European_Trash_Cinema_05_toecutter_edit_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Air_Wonder_Stories_v01n03_1929-09.Stellar_paper_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Weird_Tales_v09n02_1927-02_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Fantastic_v14n05_1965-05_Lenny_Silv3r_djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened file../../corpus/project-v2-corpus/target-processed-clean/Dime_Detective_v13_n04__1934-09-01__djvu.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:35:47 2019
+logged: opened all files on Mon Jul  1 17:35:47 2019
+logged: finished writing to new file on Mon Jul  1 17:35:47 2019
+logged: successfully combined files on Mon Jul  1 17:35:47 2019
+logged: opened all files on Mon Jul  1 17:35:59 2019
+logged: finished writing to new file on Mon Jul  1 17:35:59 2019
+logged: successfully combined files on Mon Jul  1 17:35:59 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/six-gun-gamble.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/paul-jones-1905.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/skates-skis-cook.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/cast-away.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/paul-jones-pledge.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/dollars-romantic.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/castaways-2k-cook.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/adrift-unknown-cook.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/his-friend.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/quarter-to-four.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/algo-suspected/cook-argosy-v076-n003-1914.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:38:15 2019
+logged: opened all files on Mon Jul  1 17:38:15 2019
+logged: finished writing to new file on Mon Jul  1 17:38:15 2019
+logged: successfully combined files on Mon Jul  1 17:38:15 2019
+logged: opened all files on Mon Jul  1 17:38:29 2019
+logged: finished writing to new file on Mon Jul  1 17:38:29 2019
+logged: successfully combined files on Mon Jul  1 17:38:29 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/no-algo-suspected/joyce-artist.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:58:50 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/no-algo-suspected/tender-buttons.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:58:50 2019
+logged: opened file../../corpus/project-v2-corpus/test-processed-clean/no-algo-suspected/octopus.txt.clean.segmented.stripped.lemmatized  on Mon Jul  1 17:58:50 2019
+logged: opened all files on Mon Jul  1 17:58:50 2019
+logged: finished writing to new file on Mon Jul  1 17:58:50 2019
+logged: successfully combined files on Mon Jul  1 17:58:50 2019
+logged: opened file../../corpus/project-v2-corpus/combined-test-corpus-algo-suspected.txt  on Mon Jul  1 18:00:05 2019
+logged: opened file../../corpus/project-v2-corpus/combined-target-corpus.txt  on Mon Jul  1 18:00:05 2019
+logged: opened file../../corpus/project-v2-corpus/combined-test-corpus-no-algo-suspected.txt  on Mon Jul  1 18:00:05 2019
+logged: opened file../../corpus/project-v2-corpus/combined-source-corpus.txt  on Mon Jul  1 18:00:05 2019
+logged: opened all files on Mon Jul  1 18:00:06 2019
+logged: finished writing to new file on Mon Jul  1 18:00:06 2019
+logged: successfully combined files on Mon Jul  1 18:00:06 2019
+logged: opened file../../corpus/project-v2-corpus/combined-test-corpus-algo-suspected.txt  on Mon Jul  1 18:03:20 2019
+logged: opened file../../corpus/project-v2-corpus/combined-test-corpus-no-algo-suspected.txt  on Mon Jul  1 18:03:20 2019
+logged: opened all files on Mon Jul  1 18:03:20 2019
+logged: finished writing to new file on Mon Jul  1 18:03:20 2019
+logged: successfully combined files on Mon Jul  1 18:03:20 2019

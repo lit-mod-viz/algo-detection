@@ -58,9 +58,9 @@ def write_to_string(text):
     """
     return " ".join(text)
 
-def do_process(directory, filename, i):
-    filepath = directory + filename
-    out = read(filepath)
+def do_process(input_directory, output_directory, filename, i):
+    in_filepath = input_directory + filename
+    out = read(in_filepath)
     out = dehyphenate(out)
 
     out = tokenize(out)
@@ -70,11 +70,11 @@ def do_process(directory, filename, i):
     out = remove_uppers(out)
     out = remove_mixed(out)
     out = write_to_string(out)
-    with open("../processed-corpus/test-output/" + filename + ".clean", 'w') as f:
+    with open(output_directory + filename + ".clean", 'w') as f:
         f.write(out)
 
 def main():
-    do_process("../source-corpus-pared/clean-data/short-story-pg/", "short-story-pg.sentences.txt", "a")
+    do_process("../source-corpus-pared/clean-data/short-story-pg/", "../broken-link/", "short-story-pg.sentences.txt", "a")
     
 
 if __name__== "__main__":
