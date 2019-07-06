@@ -6,11 +6,12 @@ import numpy as np
 import pandas as pd
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
+import multiprocessing
 import glob
 
 def create_model():
     # Read all files and create training corpus
-    filename = '../../corpus/project-v2-corpus/combined-corpus.txt'
+    filename = '../../corpus/project-v2-corpus/combined-corpus-full.txt'
     with open(filename, 'r') as f:
         txt = f.read()
         list_of_tokens = txt.split('\n')
@@ -21,11 +22,12 @@ def create_model():
     for line in corpus:
         training_corpus.append([elem for elem in line if elem != ''])
 
-    print(training_corpus)
     # Train the word2vec model on the corpus
-    model = Word2Vec(training_corpus, size=50, window=3, min_count=1, workers=8, sg=1)
+    cores = multiprocessing.cpu_count()
+
+    model = Word2Vec(training_corpus, size=50, window=3, min_count=1, workers=cores-1, sg=1)
     model.train(training_corpus, total_examples=len(training_corpus), epochs=10)
-    model.save('word2vec_model_v2.model')
+    model.save('word2vec_model_v2_full.model')
 
 def other_stuff():
     w2v_model = gensim.models.Word2Vec.load('word2vec_model_v2.model')
@@ -154,8 +156,8 @@ def other_stuff():
         ax.annotate(word, pos) """
 
 def main():
-    # create_model()
-    other_stuff()
+    create_model()
+    # other_stuff()
 
 if __name__== "__main__":
   main()
