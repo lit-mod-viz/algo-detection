@@ -5,9 +5,16 @@ from gensim import corpora
 import numpy as np
 import pandas as pd
 from sklearn.manifold import TSNE
+from datetime import datetime
 import matplotlib.pyplot as plt
 import multiprocessing
 import glob
+
+def logging(x):
+	tex="logged: "+x+" on "+str(datetime.today().ctime())
+	with open('similarity-logger.txt','a') as f:
+		f.write(tex)
+		f.write("\n")
 
 def create_model():
     # Read all files and create training corpus
@@ -60,10 +67,11 @@ def other_stuff():
             
     # Calculate the similarity between every sentence in the source and every sentence in the test
     similarity=[]
-    for test_sentence in test_corpus: #iterate over every sentence in the test corpus
+    for i, test_sentence in enumerate(test_corpus): #iterate over every sentence in the test corpus
         similarities=[]
-        for source_sentence in source_corpus: #for every sentence in the test, iterate over every sentence in the source
+        for j, source_sentence in enumerate(source_corpus): #for every sentence in the test, iterate over every sentence in the source
             similarities.append(w2v_model.wv.n_similarity(source_sentence,test_sentence))
+            logging("Finished test sentence: " + str(i) + ", source sentence, " + str(j))
         # Out of all similarities for each sentence in the test to every sentence in the source, get the maximum one
         similarity.append(similarities)
 
