@@ -30,7 +30,7 @@ def create_model():
     model.save('word2vec_model_v2_full.model')
 
 def other_stuff():
-    w2v_model = gensim.models.Word2Vec.load('word2vec_model_v2.model')
+    w2v_model = gensim.models.Word2Vec.load('word2vec_model_v2_sample.model')
 
     # Open the source file, convert it in the required form
     source_file = open('../../corpus/project-v2-corpus/combined-source.txt','r')
@@ -156,8 +156,8 @@ def other_stuff():
         ax.annotate(word, pos) """
 
 def main():
-    create_model()
-    # other_stuff()
+    # create_model()
+    other_stuff()
 
 if __name__== "__main__":
   main()
