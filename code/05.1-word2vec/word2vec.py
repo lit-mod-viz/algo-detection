@@ -42,6 +42,19 @@ def sentence_similarities(source_list, compare_list, model):
         similarity.append(similarities)
     return similarity
 
+def create_sentence_vectors(model, sentences):
+    """
+    given a list of lists, with the inner lists representing sentences, split into words
+    return vector representations of each sentence (by averaging all the words)
+    """
+    return [np.mean(model[sentence], axis=0) for sentence in sentences]
+
+def smart_similarities(model, source_vectors, compare_vectors):
+    ret = []
+    for sentence_vector in source_vectors:
+        ret.append(model.cosine_similarities(sentence_vector, compare_vectors))
+    return ret
+
 def write_out(out_file, output):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
@@ -59,22 +72,15 @@ def main():
     args = parser.parse_args()
     
     model = gensim.models.KeyedVectors.load_word2vec_format('/home/ketonkakkar/GoogleNews-vectors-negative300.bin', binary='True')
-    # logging("loaded model")
-
     source_list, source_junk = process_file_as_list(args.source_file, model)
-    # logging("made source list")
-
     compare_list, compare_junk = process_file_as_list(args.compare_file, model)
-    # logging("made test list")
 
-    similarities_list = sentence_similarities(source_list, compare_list, model)
-    # logging("finished calculating similarities")
+    source_vectors = create_sentence_vectors(model, source_list)
+    compare_vectors = create_sentence_vectors(model, compare_list)
+    similarities = smart_similarities(model, source_vectors, compare_vectors)
+    # similarities_list = sentence_similarities(source_list, compare_list, model)
 
-    # write_out(args.out_file, similarities_list)
-    # logging("wrote to file")
-
-   # write_junk("junk-source.txt", source_junk)
-   #  write_junk("junk-compare.txt", compare_junk)
+    write_out(args.out_file, similarities)
 
 if __name__== "__main__":
   main()
