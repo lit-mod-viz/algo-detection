@@ -24,24 +24,24 @@ def build_counter(path, counts):
     except (IOError, OSError):
         print("Error opening / processing file")
 
-def remove_words(path, remove_list):
+def remove_words(path, output_path, remove_list):
     """
     """
     try:
-        with open(path) as file_handler:
-            for line in read_file(file_handler):
-                # TODO: write line out to a different file with a tweak
-                pass
+        with open(path) as read_fh, open(output_path, 'w') as write_fh:
+            for line in read_file(read_fh):
+                # write line out to a different file with junky words removed
+                cleaned = " ".join([word for word in line.split() if word not in remove_list])
+                write_fh.write(cleaned)
+                write_fh.write('\n')
+
     except (IOError, OSError):
         print("Error opening / processing file")
 
-def write_to_remove(remove_file, stopwords, hapaxes):
+def write_to_remove(remove_file, remove_list):
     with open(remove_file, 'w') as fh:
-        for word in stopwords:
+        for word in remove_list:
             fh.write(word)
-            fh.write("\n")
-        for hapax in hapaxes:
-            fh.write(hapax)
             fh.write("\n")
 
 def get_stopwords():
@@ -57,16 +57,19 @@ def main():
     parser = argparse.ArgumentParser(description='parse arguments')
     parser.add_argument('input_file', type=str, help='file to read')
     parser.add_argument('remove_file', type=str, help='file for writing words we want to remove')
+    parser.add_argument('extension', type=str, help='file extension to append to input file for naming output')
 
     args = parser.parse_args()
+    altered_file = args.input_file + args.extension
     counts = Counter()
     build_counter(args.input_file, counts)
     print(len(counts))
 
     stopwords = get_stopwords()
     hapaxes = get_hapaxes(counts)
+    remove_list = stopwords + hapaxes
+    write_to_remove(args.remove_file, remove_list)
+    remove_words(args.input_file, altered_file, remove_list)
 
-    write_to_remove(args.remove_file, stopwords, hapaxes)
-    
 if __name__== "__main__":
   main()
