@@ -24,6 +24,16 @@ def build_counter(path, counts):
     except (IOError, OSError):
         print("Error opening / processing file")
 
+def load_remove_set(path, rset):
+    """
+    """
+    try:
+        with open(path) as file_handler:
+            for line in read_file(file_handler):
+                rset.add(line.strip())
+    except (IOError, OSError):
+        print("Error opening / processing file")
+
 def remove_words(path, output_path, remove_list):
     """
     """
@@ -62,14 +72,16 @@ def main():
     args = parser.parse_args()
     altered_file = args.input_file + args.extension
     counts = Counter()
-    build_counter(args.input_file, counts)
-    print(len(counts))
-
-    stopwords = get_stopwords()
-    hapaxes = get_hapaxes(counts)
-    remove_list = stopwords + hapaxes
-    write_to_remove(args.remove_file, remove_list)
-    remove_words(args.input_file, altered_file, remove_list)
+    rset = set()
+    # build_counter(args.input_file, counts)
+    # print(len(counts))
+    # stopwords = get_stopwords()
+    # hapaxes = get_hapaxes(counts)
+    # remove_list = stopwords + hapaxes
+    # rset= set(remove_list)
+    # write_to_remove(args.remove_file, remove_list)
+    load_remove_set(args.remove_file, rset)
+    remove_words(args.input_file, altered_file, rset)
 
 if __name__== "__main__":
   main()
