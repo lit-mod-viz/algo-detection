@@ -28,7 +28,6 @@ def main():
     args = parser.parse_args()
     count_dict = Counter()
     process_file(args.input_file, count_dict)
-    print(count_dict)
     print(len(count_dict))
 
 if __name__== "__main__":
