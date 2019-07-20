@@ -20,7 +20,7 @@ def build_counter(path, counts):
         with open(path) as file_handler:
             for line in read_file(file_handler):
                 # process line
-                counts.update(line.strip().split(' '))
+                counts.update(line.lower().strip().split(' '))
     except (IOError, OSError):
         print("Error opening / processing file")
 
@@ -73,14 +73,14 @@ def main():
     altered_file = args.input_file + args.extension
     counts = Counter()
     rset = set()
-    # build_counter(args.input_file, counts)
-    # print(len(counts))
-    # stopwords = get_stopwords()
-    # hapaxes = get_hapaxes(counts)
-    # remove_list = stopwords + hapaxes
-    # rset= set(remove_list)
-    # write_to_remove(args.remove_file, remove_list)
-    load_remove_set(args.remove_file, rset)
+    build_counter(args.input_file, counts)
+    print(len(counts))
+    stopwords = get_stopwords()
+    hapaxes = get_hapaxes(counts)
+    remove_list = stopwords + hapaxes
+    rset = set(remove_list)
+    write_to_remove(args.remove_file, remove_list)
+    # load_remove_set(args.remove_file, rset)
     remove_words(args.input_file, altered_file, rset)
 
 if __name__== "__main__":
