@@ -7,10 +7,10 @@ import os
 import cython
 import numpy as np
 import pandas as pd
-import glob
 from datetime import datetime
-
-gensim.models.word2vec.FAST_VERSION = 1
+import smart_open
+import multiprocessing
+import argparse
 
 # Read all files and create training corpus
 
@@ -21,15 +21,12 @@ def logging(x):
 		f.write("\n")
 
 class MySentences(object):
-    def __init__(self, dirname):
-        self.dirname = dirname
+    def __init__(self, filename):
+        self.filename = filename
  
     def __iter__(self):
-        for subdir, dirs, files in os.walk(self.dirname):
-            for fname in files:
-                if fname != '.DS_Store':
-                    for line in open(os.path.join(subdir, fname)):
-                        yield line.split()
+        for line in open(self.filename):
+            yield line.split()
 
 class EpochLogger(CallbackAny2Vec):
     def __init__(self):
@@ -43,17 +40,40 @@ class EpochLogger(CallbackAny2Vec):
         self.epoch += 1
 
 
-logging('creating Training corpus')
-training_corpus = MySentences('../pre-processing/')
-logging('created training corpus')
+def create_model(training_corpus, epoch_logger):
+    
+    # Train the word2vec model on the corpus
+    cores = multiprocessing.cpu_count()
+
+    model = Word2Vec()
+    model.build_vocab(training_corpus)
+    model.train(training_corpus, total_examples=len(training_corpus), epochs=10, callbacks=[epoch_logger])
+    return model 
+
+def main():
+    gensim.models.word2vec.FAST_VERSION = 1
+
+    parser = argparse.ArgumentParser(description='parse arguments')
+    parser.add_argument('input_file', type=str, help='file to read')
+    parser.add_argument('output_file', type=str, help='file to write model out to')
+
+    args = parser.parse_args()
+
+    training_corpus = list(MySentences(args.input_file))
+
+    epoch_logger = EpochLogger()
+    logging('Training model begins')
+    model = create_model(training_corpus, epoch_logger)
+    logging('Training ended')
+    model.save(args.output_file)
+
+    logging('Model saved')
+
+
+if __name__== "__main__":
+  main()
+
 
 
 # Train the word2vec model on the corpus
 
-epoch_logger = EpochLogger()
-logging('Training model begins')
-model = Word2Vec(training_corpus, iter=50, size=50, window=3, min_count=1, workers=8, sg=1, callbacks=[epoch_logger])
-logging('Training ended')
-
-model.save('word2vec_model.model')
-logging('Model saved')
