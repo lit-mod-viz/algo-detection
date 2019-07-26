@@ -1,6 +1,8 @@
-../corpus/project-v2-corpus/
+corpus/project-v2-corpus/
 target-corpus/pulpmagazinearchive/
 .pyc
+.model
+.npy
 .DS_Store
 .ipynb_checkpoints
 .ipynb_checkpoints/
