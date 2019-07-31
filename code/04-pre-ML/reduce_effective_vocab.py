@@ -60,7 +60,7 @@ def remove_words_csv(path, output_path, remove_list):
             for line in reader:
                 # write line out to a different file with junky words removed
                 index = line[1]
-                cleaned = " ".join([word for word in line[0] if word not in remove_list])
+                cleaned = " ".join([word for word in line[0].split() if word not in remove_list])
                 row = [cleaned, index]
                 writer.writerow(row)
 
