@@ -1,6 +1,5 @@
 import argparse
 import csv
-
 def read_file(file_object):
     """
     Uses a generator to read a large file lazily
@@ -38,7 +37,7 @@ def remove_blanks_csv(path, output_path):
                 # write line out to a different file with blanks removed
                 index = line[1]
                 if line[0] != ['']:
-                    cleaned = " ".join([word for word in line.split() if word != ''])
+                    cleaned = " ".join([word for word in line[0].split() if word != ''])
                     row = [cleaned, index]
                     writer.writerow(row)
     except (IOError, OSError):
