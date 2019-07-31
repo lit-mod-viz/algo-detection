@@ -10,7 +10,7 @@ def read_file(file_object):
             break
         yield data
 
-def remove_words(path, output_path):
+def remove_blanks(path, output_path):
     """
     """
     try:
@@ -25,6 +25,22 @@ def remove_words(path, output_path):
     except (IOError, OSError):
         print("Error opening / processing file")
 
+def remove_blanks_csv(path, output_path, remove_list):
+    """
+    """
+    try:
+        with open(path) as read_fh, open(output_path, 'w') as write_fh:
+            reader = csv.reader(read_fh, delimiter=',')
+            writer = csv.writer(write_fh)
+            
+            for line in reader:
+                # write line out to a different file with blanks removed
+                index = line[1]
+                if line[0] != ['']:
+                    cleaned = " ".join([word for word in line.split() if word != ''])
+                    row = [cleaned, index]
+                    writer.writerow(row)
+
 def main():
     parser = argparse.ArgumentParser(description='parse arguments')
     parser.add_argument('input_file', type=str, help='file to read')
@@ -32,8 +48,10 @@ def main():
 
     args = parser.parse_args()
     altered_file = args.input_file + args.extension
-    
-    remove_words(args.input_file, altered_file)
+
+    remove_blanks(args.input_file, altered_file)
+    remove_blanks_csv(args.input_file, altered_file)
+
 
 if __name__== "__main__":
   main()
