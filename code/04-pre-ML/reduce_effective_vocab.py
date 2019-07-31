@@ -1,4 +1,5 @@
 import argparse
+import csv
 import nltk
 from nltk.corpus import stopwords
 from collections import Counter
@@ -34,7 +35,7 @@ def load_remove_set(path, rset):
     except (IOError, OSError):
         print("Error opening / processing file")
 
-def remove_words(path, output_path, remove_list):
+def remove_words_txt(path, output_path, remove_list):
     """
     """
     try:
@@ -44,6 +45,24 @@ def remove_words(path, output_path, remove_list):
                 cleaned = " ".join([word for word in line.split() if word not in remove_list])
                 write_fh.write(cleaned)
                 write_fh.write('\n')
+
+    except (IOError, OSError):
+        print("Error opening / processing file")
+
+def remove_words_csv(path, output_path, remove_list):
+    """
+    """
+    try:
+        with open(path) as read_fh, open(output_path, 'w') as write_fh:
+            reader = csv.reader(read_fh, delimiter=',')
+            writer = csv.writer(write_fh)
+
+            for line in reader:
+                # write line out to a different file with junky words removed
+                index = line[1]
+                cleaned = " ".join([word for word in line[0] if word not in remove_list])
+                row = [cleaned, index]
+                writer.writerow(row)
 
     except (IOError, OSError):
         print("Error opening / processing file")
@@ -81,7 +100,8 @@ def main():
     # rset = set(remove_list)
     # write_to_remove(args.remove_file, remove_list)
     load_remove_set(args.remove_file, rset)
-    remove_words(args.input_file, altered_file, rset)
+    # remove_words_txt(args.input_file, altered_file, rset)
+    remove_words_csv(args.input_file, altered_file, rset)
 
 if __name__== "__main__":
   main()
