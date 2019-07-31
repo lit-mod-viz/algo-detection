@@ -1,4 +1,5 @@
 import argparse
+import csv
 
 def read_file(file_object):
     """
