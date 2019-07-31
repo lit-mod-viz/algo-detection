@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import glob
+import argparse
 from datetime import datetime
 
 def logging(x):
@@ -8,8 +9,8 @@ def logging(x):
 		f.write(tex)
 		f.write("\n")
 
-def combine(source,dest):
-    files = glob.glob(source+'*.lemmatized')
+def combine(source, out_file, extension):
+    files = glob.glob(source + '*' + extension)
     combined_txt = ''
     for file in files:
     	logging('opened file'+file+' ')
@@ -17,12 +18,22 @@ def combine(source,dest):
     		txt = in_file.read()
     	combined_txt = combined_txt + txt
     logging('opened all files')
-    with open(dest+'combined-target-full.txt',"w") as out_file:  
+    with open(out_file,"w") as out_file:  
     	out_file.write('%s' % combined_txt)
     logging('finished writing to new file')
 
-src = '../../corpus/project-v2-corpus/target-full-processed-clean/'
 
-dst = '../../corpus/project-v2-corpus/'
-combine(src,dst)
-logging('successfully combined files')
+def main():
+    parser = argparse.ArgumentParser(description='parse arguments')
+    parser.add_argument('source_directory', type=str, help='file to read')
+    parser.add_argument('out_file', type=str, help='output file')
+    parser.add_argument('extension', type=str, help='types of files to combine')
+
+    args = parser.parse_args()
+    combine(args.source_directory, args.out_file, args.extension)
+    logging('successfully combined files')
+
+if __name__== "__main__":
+  main()
+
+
