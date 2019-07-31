@@ -25,7 +25,7 @@ def remove_blanks(path, output_path):
     except (IOError, OSError):
         print("Error opening / processing file")
 
-def remove_blanks_csv(path, output_path, remove_list):
+def remove_blanks_csv(path, output_path):
     """
     """
     try:
@@ -40,6 +40,8 @@ def remove_blanks_csv(path, output_path, remove_list):
                     cleaned = " ".join([word for word in line.split() if word != ''])
                     row = [cleaned, index]
                     writer.writerow(row)
+    except (IOError, OSError):
+        print("Error opening / processing file")
 
 def main():
     parser = argparse.ArgumentParser(description='parse arguments')
