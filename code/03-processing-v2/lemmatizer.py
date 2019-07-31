@@ -18,7 +18,7 @@ def lemmatize_all_files(directory, extension):
             obj = lemmatize(obj, nlp)
             write_file(obj, directory + filename, ".lemmatized")
 
-def lemmatize_csv(input_file, output_file, nlp):
+def lemmatize_csv(input_file, output_file):
     """
     """
     try:
@@ -38,3 +38,15 @@ def lemmatize_csv(input_file, output_file, nlp):
 
     except (IOError, OSError):
         print("Error opening / processing file")
+
+def main():
+    parser = argparse.ArgumentParser(description='parse arguments')
+    parser.add_argument('input_file', type=str, help='file to read')
+    parser.add_argument('extension', type=str, help='extension to write out with')
+    args = parser.parse_args()
+    output_file = args.input_file + args.extension
+
+    lemmatize_csv(args.input_file, output_file)
+
+if __name__== "__main__":
+  main()
