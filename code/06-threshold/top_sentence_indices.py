@@ -1,9 +1,10 @@
 import argparse
 import numpy as np
 import pandas as pd
+import csv
 
 def get_indices_and_values(matrix_file, thresh):
-    data = np.loadtxt(args.matrix_file)
+    data = np.loadtxt(matrix_file)
 
     values = data[data>thresh]
     index1, index2 = np.nonzero(data>thresh)
@@ -24,8 +25,8 @@ def write_csv(out_file, list1, list2, values):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
         header = ["Source", "Compare", "Value"]
-        writer.writerow()
-        for i, val in enumerate values:
+        writer.writerow(header)
+        for i, val in enumerate(values):
             row = [list1[i], list2[i], val]
             writer.writerow(row)
 
