@@ -4,7 +4,7 @@ import pandas as pd
 import csv
 
 def get_indices_and_values(matrix_file, thresh):
-    data = np.loadtxt(matrix_file)
+    data = np.loadtxt(matrix_file, delimeter=',')
 
     values = data[data>thresh]
     index1, index2 = np.nonzero(data>thresh)
