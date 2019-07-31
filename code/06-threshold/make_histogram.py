@@ -8,7 +8,7 @@ def create_histogram(input_file, output_file):
     reader=pandas.read_csv(input_file, iterator=True, header=None)
     datamin = -1
     datamax = 1
-    delimeters = 21
+    delimeters = 81
     mybins = np.linspace(datamin, datamax, delimeters)
     hist = np.zeros(delimeters-1, dtype='int32')
     for chunk in reader:
