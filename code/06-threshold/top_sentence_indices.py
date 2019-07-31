@@ -4,8 +4,8 @@ import pandas as pd
 import csv
 
 def get_indices_and_values(matrix_file, thresh):
-    data = np.loadtxt(matrix_file, delimiter=',')
-
+    data = pd.read_csv(matrix_file, sep=',', header=None)
+    data = data.values
     values = data[data>thresh]
     index1, index2 = np.nonzero(data>thresh)
     # indices = np.vstack((index1, index2))
