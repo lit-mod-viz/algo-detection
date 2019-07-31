@@ -6,6 +6,7 @@ target-corpus/pulpmagazinearchive/
 .DS_Store
 .ipynb_checkpoints
 .ipynb_checkpoints/
-.ipynb_checkpoints
-.ipynb_checkpoints
 __pycache__
+full_source_no_suspected.csv
+full_source_suspected.csv
+
