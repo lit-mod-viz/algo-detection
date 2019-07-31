@@ -44,3 +44,6 @@ def main():
     source_sents, comp_sents = get_sentences(args.source_file, args.comp_file, index1, index2)
 
     write_csv(args.out_file, source_sents, comp_sents, values)
+
+if __name__== "__main__":
+    main()
