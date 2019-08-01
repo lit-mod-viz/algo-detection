@@ -36,7 +36,7 @@ def remove_blanks_csv(path, output_path):
             for line in reader:
                 # write line out to a different file with blanks removed
                 index = line[1]
-                if line[0] != ['']:
+                if line[0] != '':
                     cleaned = " ".join([word for word in line[0].split() if word != ''])
                     row = [cleaned, index]
                     if index == 2633:
