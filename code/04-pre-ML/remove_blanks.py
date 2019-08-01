@@ -39,6 +39,8 @@ def remove_blanks_csv(path, output_path):
                 if line[0] != ['']:
                     cleaned = " ".join([word for word in line[0].split() if word != ''])
                     row = [cleaned, index]
+                    if index == 2633:
+                        print(line[1], cleaned, "DEBUG")
                     writer.writerow(row)
     except (IOError, OSError):
         print("Error opening / processing file")
