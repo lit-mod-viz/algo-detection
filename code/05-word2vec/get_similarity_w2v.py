@@ -63,8 +63,8 @@ def main():
     args = parser.parse_args()
     
     # NOTE: Word2Vec.load is the function to call for our model
-    # model = gensim.models.Word2Vec.load(args.model_file)
-    model = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
+    model = gensim.models.Word2Vec.load(args.model_file)
+    # model = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
     vecs = model.wv
     compare_vectors = create_sentence_vectors(model, args.compare_file)
     write_smart_similarities(args.out_file, vecs, args.source_file, compare_vectors)
