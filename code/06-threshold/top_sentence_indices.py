@@ -25,7 +25,7 @@ def extract_from_df(df, indices, column):
 def write_csv(out_file, list1, list2, values):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
-        header = ["Source Index", "Source Sentence", "Compare Index" "Compare Sentence", "Value"]
+        header = ["Source", "Compare", "Value"]
         writer.writerow(header)
         for i, val in enumerate(values):
             row = [list1[i], list2[i], val]
@@ -38,29 +38,39 @@ def main():
     parser.add_argument('comp_file', type=str, help='file with compare sentences used to generate matrix')
     parser.add_argument('out_file', type=str, help='file to write out to')    
     parser.add_argument('thresh', type=float, help='threshold to cull from matrix, range -1 to 1, (greater than)')
-    parser.add_argument('og_sent', type=bool, help='whether or not we are getting original sentences')    
-    parser.add_argument('og_indices_file', type=str, help='if og = true: read; else: write')    
+    parser.add_argument('og_source_file', type=str, help='file with og source sentences used to generate matrix')
+    parser.add_argument('og_comp_file', type=str, help='file with og compare sentences used to generate matrix')
 
     args = parser.parse_args()
 
     source_df = get_df(args.source_file)
     comp_df = get_df(args.comp_file)
 
-    if not args.og_sent:
-        source_idxs, comp_idxs, values = get_indices_and_values(args.matrix_file, args.thresh)
-        og_s_idxs = extract_from_df(source_df, source_idxs, 1)
-        og_c_idxs = extract_from_df(comp_df, comp_idxs, 1)
+    og_source_df = get_df(args.og_source_file)
+    og_comp_df = get_df(args.og_comp_file)
 
-    else:
-        source_idxs, comp_idxs, values = get_df(args.og_indices_file)
+    source_idxs, comp_idxs, values = get_indices_and_values(args.matrix_file, args.thresh)
+
 
     source_sents = extract_from_df(source_df, source_idxs, 0)
     comp_sents = extract_from_df(comp_df, source_idxs, 0)
 
-    if not args.og:
-        write_csv(args.og_indices_file, og_s_idxs, og_c_idxs, values)
+    og_s_idxs = extract_from_df(source_df, source_idxs, 1)
+    og_c_idxs = extract_from_df(comp_df, comp_idxs, 1)
 
-    write_csv(args.out_file, source_sents, comp_sents, values)
+    og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
+    og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
+    source_idxs, comp_idxs, values = get_df(args.og_indices_file)
+
+
+
+    sents_fp = args.out_file + ".sents.clean.thresh"
+    idxs_fp = args.out_file + ".idxs.og.thresh"
+    og_sents_fp = args.out_file + "sents.og.thresh"
+
+    write_csv(sents_fp, source_sents, comp_sents, values)
+    write_csv(idxs_fp, og_s_idxs, og_c_idxs, values)
+    write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
 
 if __name__== "__main__":
     main()
