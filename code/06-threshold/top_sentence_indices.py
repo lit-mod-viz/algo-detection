@@ -60,9 +60,6 @@ def main():
 
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
     og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
-    source_idxs, comp_idxs, values = get_df(args.og_indices_file)
-
-
 
     sents_fp = args.out_file + ".sents.clean.thresh"
     idxs_fp = args.out_file + ".idxs.og.thresh"
