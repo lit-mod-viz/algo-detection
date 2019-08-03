@@ -39,7 +39,7 @@ def main():
     parser.add_argument('out_file', type=str, help='file to write out to')    
     parser.add_argument('thresh', type=float, help='threshold to cull from matrix, range -1 to 1, (greater than)')
     parser.add_argument('og_sent', type=bool, help='whether or not we are getting original sentences')    
-    parser.add_argument('og_indices_file', type=bool, help='if og = true: read; else: write')    
+    parser.add_argument('og_indices_file', type=str, help='if og = true: read; else: write')    
 
     args = parser.parse_args()
 
@@ -50,7 +50,7 @@ def main():
         source_idxs, comp_idxs, values = get_indices_and_values(args.matrix_file, args.thresh)
         og_s_idxs = extract_from_df(source_df, source_idxs, 1)
         og_c_idxs = extract_from_df(comp_df, comp_idxs, 1)
-        
+
     else:
         source_idxs, comp_idxs, values = get_df(args.og_indices_file)
 
