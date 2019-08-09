@@ -40,13 +40,13 @@ def filter_sentence_length(source, compare, values):
     ret_vals = values[ret.index]
     return source_ret, comp_ret, og_s_idxs, og_c_idxs, ret_vals
 
-def write_csv(out_file, df1, df2, values):
+def write_csv(out_file, list1, list2, values):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
         header = ["Source", "Compare", "Value"]
         writer.writerow(header)
         for i, val in enumerate(values):
-            row = [df1.values[i], df2.values[i], val]
+            row = [list1[i], list2[i], val]
             writer.writerow(row)
 
 
@@ -86,15 +86,9 @@ def main():
     sents_fp = args.out_file + ".sents.clean.thresh"
     idxs_fp = args.out_file + ".idxs.og.thresh"
     og_sents_fp = args.out_file + ".sents.og.thresh"
-
-    print(source_sents)
-    print(comp_sents)
-    print(values)
-    print(len(source_sents), len(comp_sents), len(values))
     
-
-    write_csv(sents_fp, source_sents, comp_sents, values)
-    write_csv(idxs_fp, og_s_idxs, og_c_idxs, values)
+    write_csv(sents_fp, source_sents.values, comp_sents.values, values)
+    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values)
     write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
 
 if __name__== "__main__":
