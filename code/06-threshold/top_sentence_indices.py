@@ -81,7 +81,7 @@ def main():
     source_sents, comp_sents, og_s_idxs, og_c_idxs = filter_sentence_length(thresh_source, thresh_comp)
 
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
-    og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 1)
+    og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
 
     sents_fp = args.out_file + ".sents.clean.thresh"
     idxs_fp = args.out_file + ".idxs.og.thresh"
@@ -89,7 +89,7 @@ def main():
 
     write_csv(sents_fp, source_sents, comp_sents, values)
     write_csv(idxs_fp, og_s_idxs, og_c_idxs, values)
-    write_csv(og_sents_fp, og_s_sents[0], og_c_sents[0], values)
+    write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
 
 if __name__== "__main__":
     main()
