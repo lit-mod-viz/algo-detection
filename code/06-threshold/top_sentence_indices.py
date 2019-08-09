@@ -15,12 +15,12 @@ def get_indices_and_values(matrix_file, thresh):
 def get_df(fp):
     return(pd.read_csv(fp,sep=',', header=None))
 
-def extract_from_df(df, indices):
+def extract_from_df(df, indices, column):
     """
     returns the values of the specified column for a set of indices in the df
     column: 0 for sentences; 1 for the original indices
     """
-    return(df.iloc[indices].values.flatten())
+    return(df.iloc[indices][column].values.flatten())
 
 def filter_sentence_length(source, compare):
     """
@@ -70,13 +70,18 @@ def main():
 
     source_idxs, comp_idxs, values = get_indices_and_values(args.matrix_file, args.thresh)
 
-    thresholded_source = extract_from_df(source_df, source_idxs)
-    thresholded_comp = extract_from_df(comp_df, comp_idxs)
+    thresh_source_sents = extract_from_df(source_df, source_idxs, 0)
+    thresh_s_og_idxs = extract_from_df(source_df, source_idxs, 1)
+    thresh_source = pd.concat([pd.DataFrame(thresh_source_sents), pd.DataFrame(thresh_s_og_idxs)], axis=1, ignore_index=True) 
+    
+    thresh_comp_sents = extract_from_df(comp_df, comp_idxs, 0)
+    thresh_c_og_idxs = extract_from_df(comp_df, comp_idxs, 1)
+    thresh_comp = pd.concat([pd.DataFrame(thresh_comp_sents), pd.DataFrame(thresh_c_og_idxs)], axis=1, ignore_index=True)
 
-    source_sents, comp_sents, og_s_idxs, og_c_idxs = filter_sentence_length(thresholded_source, thresholded_comp)
+    source_sents, comp_sents, og_s_idxs, og_c_idxs = filter_sentence_length(thresh_source, thresh_comp)
 
-    og_s_sents = extract_from_df(og_source_df, og_s_idxs)
-    og_c_sents = extract_from_df(og_comp_df, og_c_idxs)
+    og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
+    og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 1)
 
     sents_fp = args.out_file + ".sents.clean.thresh"
     idxs_fp = args.out_file + ".idxs.og.thresh"
