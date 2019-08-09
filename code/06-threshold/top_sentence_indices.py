@@ -22,7 +22,7 @@ def extract_from_df(df, indices, column):
     """
     return(df.iloc[indices][column].values.flatten())
 
-def filter_sentence_length(source, compare):
+def filter_sentence_length(source, compare, values):
     """
     Should return the indices and sentences
     """
@@ -37,7 +37,7 @@ def filter_sentence_length(source, compare):
     og_s_idxs = ret[1]
     comp_ret = ret[2]
     og_c_idxs = ret[3]
-
+    values[values[ret.index]]
     return source_ret, comp_ret, og_s_idxs, og_c_idxs
 
 def write_csv(out_file, list1, list2, values):
@@ -68,7 +68,7 @@ def main():
     og_source_df = get_df(args.og_source_file)
     og_comp_df = get_df(args.og_comp_file)
 
-    source_idxs, comp_idxs, values = get_indices_and_values(args.matrix_file, args.thresh)
+    source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.matrix_file, args.thresh)
 
     thresh_source_sents = extract_from_df(source_df, source_idxs, 0)
     thresh_s_og_idxs = extract_from_df(source_df, source_idxs, 1)
@@ -78,7 +78,7 @@ def main():
     thresh_c_og_idxs = extract_from_df(comp_df, comp_idxs, 1)
     thresh_comp = pd.concat([pd.DataFrame(thresh_comp_sents), pd.DataFrame(thresh_c_og_idxs)], axis=1, ignore_index=True)
 
-    source_sents, comp_sents, og_s_idxs, og_c_idxs = filter_sentence_length(thresh_source, thresh_comp)
+    source_sents, comp_sents, og_s_idxs, og_c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
 
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
     og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
