@@ -37,8 +37,8 @@ def filter_sentence_length(source, compare, values):
     og_s_idxs = ret[1]
     comp_ret = ret[2]
     og_c_idxs = ret[3]
-    values[values[ret.index]]
-    return source_ret, comp_ret, og_s_idxs, og_c_idxs
+    values[ret.index]
+    return source_ret, comp_ret, og_s_idxs, og_c_idxs, values
 
 def write_csv(out_file, list1, list2, values):
     with open(out_file, 'w') as out:
@@ -86,6 +86,8 @@ def main():
     sents_fp = args.out_file + ".sents.clean.thresh"
     idxs_fp = args.out_file + ".idxs.og.thresh"
     og_sents_fp = args.out_file + ".sents.og.thresh"
+
+    print(source_sents)
 
     write_csv(sents_fp, source_sents, comp_sents, values)
     write_csv(idxs_fp, og_s_idxs, og_c_idxs, values)
