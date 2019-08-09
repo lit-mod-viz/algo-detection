@@ -15,12 +15,30 @@ def get_indices_and_values(matrix_file, thresh):
 def get_df(fp):
     return(pd.read_csv(fp,sep=',', header=None))
 
-def extract_from_df(df, indices, column):
+def extract_from_df(df, indices):
     """
     returns the values of the specified column for a set of indices in the df
     column: 0 for sentences; 1 for the original indices
     """
-    return(df.iloc[indices][column].values.flatten())
+    return(df.iloc[indices].values.flatten())
+
+def filter_sentence_length(source, compare):
+    """
+    Should return the indices and sentences
+    """
+    len1 = 1
+    len2 = 2
+    
+    combined = pd.concat([source, compare], axis=1, ignore_index=True)
+    source_lengths = combined.iloc[0:][0].str.split().str.len()
+    compare_lengths = combined.iloc[0:][2].str.split().str.len()
+    ret = combined[(source_lengths.gt(len1) & compare_lengths.gt(len2)) | (source_lengths.gt(len2) & compare_lengths.gt(len1))]
+    source_ret = ret[0]
+    comp_ret = ret[1]
+    og_s_idxs = ret[2]
+    og_c_idxs = ret[3]
+
+    return source_ret, comp_ret, og_s_idxs, og_c_idxs
 
 def write_csv(out_file, list1, list2, values):
     with open(out_file, 'w') as out:
@@ -30,6 +48,7 @@ def write_csv(out_file, list1, list2, values):
         for i, val in enumerate(values):
             row = [list1[i], list2[i], val]
             writer.writerow(row)
+
 
 def main():
     parser = argparse.ArgumentParser(description='parse arguments')
@@ -51,15 +70,13 @@ def main():
 
     source_idxs, comp_idxs, values = get_indices_and_values(args.matrix_file, args.thresh)
 
+    thresholded_source = extract_from_df(source_df, source_idxs)
+    thresholded_comp = extract_from_df(comp_df, comp_idxs)
 
-    source_sents = extract_from_df(source_df, source_idxs, 0)
-    comp_sents = extract_from_df(comp_df, comp_idxs, 0)
+    source_sents, comp_sents, og_s_idxs, og_c_idxs = filter_sentence_length(thresholded_source, thresholded_comp)
 
-    og_s_idxs = extract_from_df(source_df, source_idxs, 1)
-    og_c_idxs = extract_from_df(comp_df, comp_idxs, 1)
-
-    og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
-    og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
+    og_s_sents = extract_from_df(og_source_df, og_s_idxs)
+    og_c_sents = extract_from_df(og_comp_df, og_c_idxs)
 
     sents_fp = args.out_file + ".sents.clean.thresh"
     idxs_fp = args.out_file + ".idxs.og.thresh"
@@ -67,7 +84,7 @@ def main():
 
     write_csv(sents_fp, source_sents, comp_sents, values)
     write_csv(idxs_fp, og_s_idxs, og_c_idxs, values)
-    write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
+    write_csv(og_sents_fp, og_s_sents[0], og_c_sents[0], values)
 
 if __name__== "__main__":
     main()
