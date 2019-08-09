@@ -34,8 +34,8 @@ def filter_sentence_length(source, compare):
     compare_lengths = combined.iloc[0:][2].str.split().str.len()
     ret = combined[(source_lengths.gt(len1) & compare_lengths.gt(len2)) | (source_lengths.gt(len2) & compare_lengths.gt(len1))]
     source_ret = ret[0]
-    comp_ret = ret[1]
-    og_s_idxs = ret[2]
+    og_s_idxs = ret[1]
+    comp_ret = ret[2]
     og_c_idxs = ret[3]
 
     return source_ret, comp_ret, og_s_idxs, og_c_idxs
