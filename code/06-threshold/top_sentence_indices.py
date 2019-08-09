@@ -37,16 +37,16 @@ def filter_sentence_length(source, compare, values):
     og_s_idxs = ret[1]
     comp_ret = ret[2]
     og_c_idxs = ret[3]
-    values[ret.index]
-    return source_ret, comp_ret, og_s_idxs, og_c_idxs, values
+    ret_vals = values[ret.index]
+    return source_ret, comp_ret, og_s_idxs, og_c_idxs, ret_vals
 
-def write_csv(out_file, list1, list2, values):
+def write_csv(out_file, df1, df2, values):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
         header = ["Source", "Compare", "Value"]
         writer.writerow(header)
         for i, val in enumerate(values):
-            row = [list1[i], list2[i], val]
+            row = [df1.values[i], df2.values[i], val]
             writer.writerow(row)
 
 
