@@ -88,6 +88,10 @@ def main():
     og_sents_fp = args.out_file + ".sents.og.thresh"
 
     print(source_sents)
+    print(comp_sents)
+    print(values)
+    print(len(source_sents), len(comp_sents), len(values))
+    
 
     write_csv(sents_fp, source_sents, comp_sents, values)
     write_csv(idxs_fp, og_s_idxs, og_c_idxs, values)
