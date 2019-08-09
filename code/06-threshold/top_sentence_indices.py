@@ -53,7 +53,7 @@ def main():
 
 
     source_sents = extract_from_df(source_df, source_idxs, 0)
-    comp_sents = extract_from_df(comp_df, source_idxs, 0)
+    comp_sents = extract_from_df(comp_df, comp_idxs, 0)
 
     og_s_idxs = extract_from_df(source_df, source_idxs, 1)
     og_c_idxs = extract_from_df(comp_df, comp_idxs, 1)
@@ -63,7 +63,7 @@ def main():
 
     sents_fp = args.out_file + ".sents.clean.thresh"
     idxs_fp = args.out_file + ".idxs.og.thresh"
-    og_sents_fp = args.out_file + "sents.og.thresh"
+    og_sents_fp = args.out_file + ".sents.og.thresh"
 
     write_csv(sents_fp, source_sents, comp_sents, values)
     write_csv(idxs_fp, og_s_idxs, og_c_idxs, values)
