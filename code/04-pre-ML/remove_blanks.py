@@ -8,7 +8,7 @@ def read_file(file_object):
         data = file_object.readline()
         if not data:
             break
-        yield data
+        yield data.strip()
 
 def remove_blanks(path, output_path):
     """
@@ -18,11 +18,10 @@ def remove_blanks(path, output_path):
             for line in read_file(read_fh):
                 # write line out to a different file with blanks removed
                 if line:
+                    print(line)
                     cleaned = " ".join([word for word in line.split() if word != ''])
                     write_fh.write(cleaned)
                     write_fh.write('\n')
-                else:
-                    print("BLANKS")
 
     except (IOError, OSError):
         print("Error opening / processing file")
