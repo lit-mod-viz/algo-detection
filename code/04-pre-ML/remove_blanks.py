@@ -17,10 +17,12 @@ def remove_blanks(path, output_path):
         with open(path) as read_fh, open(output_path, 'w') as write_fh:
             for line in read_file(read_fh):
                 # write line out to a different file with blanks removed
-                if line != ['']:
+                if line:
                     cleaned = " ".join([word for word in line.split() if word != ''])
                     write_fh.write(cleaned)
                     write_fh.write('\n')
+                else:
+                    print("BLANKS")
 
     except (IOError, OSError):
         print("Error opening / processing file")
@@ -52,7 +54,7 @@ def main():
     altered_file = args.input_file + args.extension
 
     remove_blanks(args.input_file, altered_file)
-    remove_blanks_csv(args.input_file, altered_file)
+    # remove_blanks_csv(args.input_file, altered_file)
 
 
 if __name__== "__main__":
