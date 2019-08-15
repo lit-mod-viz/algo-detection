@@ -40,12 +40,12 @@ class EpochLogger(CallbackAny2Vec):
         logging("Epoch #{} end".format(self.epoch))
         self.epoch += 1
 
-
-def create_model(training_corpus):
-    
-    # Train the tfidf model on the corpus
+def create_dictionary(training_corpus):
     dct = Dictionary(training_corpus)
-    logging('Made dictionary')
+    return dct
+
+def create_model(dct, training_corpus):
+    # Train the tfidf model on the corpus
     corpus = [dct.doc2bow(line) for line in training_corpus]
     logging('Made bag of words')
     model = TfidfModel(corpus)
@@ -62,11 +62,18 @@ def main():
     logging('Begin loading sentences')
     training_corpus = list(MySentences(args.input_file))
     logging('Finished loading sentences')
-    logging('Training model begins')
-    model = create_model(training_corpus)
+
+    logging('begin making dictionary ')
+    dct = create_dictionary(training_corpus)
+    logging('dictionary made')
+    dct.save(args.output_file + ".dict")
+    logging('dictionary saved')
+
+    """ logging('Training model begins')
+    model = create_model(dct, training_corpus)
     logging('Training ended')
     model.save(args.output_file)
-    logging('Model saved')
+    logging('Model saved') """
 
 if __name__== "__main__":
   main()
