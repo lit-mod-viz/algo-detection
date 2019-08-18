@@ -27,7 +27,7 @@ class MySentences(object):
         for line in open(self.filename):
             yield line.lower().split()
 
-def create_sentence_vectors(model, compare_file):
+def create_sentence_vectors(model, compare_file, pc):
     """
     given a list of lists, with the inner lists representing sentences, split into words
     return vector representations of each sentence (by averaging all the words)
@@ -61,7 +61,7 @@ def get_two_similarities(model_file, component_file, out_file, source_file, comp
     model = gensim.models.Word2Vec.load(model_file)
     vecs = model.wv
     pc = np.loadtxt(component_file)
-    compare_vectors, comp_vecs_sans_pc = np.array(create_sentence_vectors(vecs, compare_file))
+    compare_vectors, comp_vecs_sans_pc = np.array(create_sentence_vectors(vecs, compare_file, pc))
     write_two_similarities("w2v_"+ out_file, "pc_w2c_" + out_file, vecs, source_file, compare_vectors, comp_vecs_sans_pc, pc)
 
 def remove_pc(X, pc, npc=1):
