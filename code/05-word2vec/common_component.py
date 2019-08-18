@@ -59,3 +59,6 @@ def main():
     sentence_vectors = create_sentence_vectors(vecs, args.input_file)
     components = compute_pc(sentence_vectors)
     np.savetxt(args.out_file, components)
+
+if __name__== "__main__":
+  main()
