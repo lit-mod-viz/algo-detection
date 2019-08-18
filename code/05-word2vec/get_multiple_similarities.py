@@ -145,7 +145,7 @@ def main():
     if w2v:
         logging("begin w2v & pc", logfile)
         get_two_similarities(args.model_file, args.component_file, args.out_file, args.source_file, args.compare_file)
-        logging("end w2v & pc, logfile")
+        logging("end w2v & pc", logfile)
 
     if jaccard:
         logging("begin jaccard", logfile)
