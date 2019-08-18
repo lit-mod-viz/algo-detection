@@ -60,8 +60,8 @@ def get_two_similarities(model_file, component_file, out_file, source_file, comp
     model = gensim.models.Word2Vec.load(model_file)
     vecs = model.wv
     pc = np.loadtxt(component_file)
-    compare_vectors = create_sentence_vectors(vecs, compare_file)
-    write_two_similarities("w2v_"+ out_file, "pc_w2c_" + out_file, vecs, source_file, compare_vectors)
+    compare_vectors = np.array(create_sentence_vectors(vecs, compare_file))
+    write_two_similarities("w2v_"+ out_file, "pc_w2c_" + out_file, vecs, source_file, compare_vectors, pc)
 
 def remove_pc(X, pc, npc=1):
     """
@@ -80,12 +80,12 @@ def remove_pc(X, pc, npc=1):
 def pc_w2v_similarities(pc_file, ):
     pc = np.loadtxt(pc_file)
 
-""" def SIF_weighting(a, word, vecs):
+def SIF_weighting(a, word, vecs):
     """
     # where a is a parameter often set to .001
     """
     weight = a/(a+vecs.vocab[word].count)
-    return weight * vecs[word] """
+    return weight * vecs[word]
 
 def jaccard(S,C):
     intersection = S.intersection(C)
@@ -141,8 +141,8 @@ def main():
 
     if w2v:
         logging("begin w2v & pc", logfile)
-        get_w2v_similarities(args.model_file, args.compare_file, args.out_file, args.source_file, args.compare_file)
-        logging("end w2v & pc, logfile)
+        get_two_similarities(args.model_file, args.component_file, args.out_file, args.source_file, args.compare_file)
+        logging("end w2v & pc, logfile")
 
     if jaccard:
         logging("begin jaccard", logfile)
