@@ -32,25 +32,26 @@ def create_sentence_vectors(model, compare_file):
     given a list of lists, with the inner lists representing sentences, split into words
     return vector representations of each sentence (by averaging all the words)
     """
-    ret = []
+    w2v_ret = []
+    pc_ret = []
     for sentence in MySentences(compare_file):
-        ret.append(np.mean(model[sentence], axis=0))
-    return ret
+        w2v_ret.append(np.mean(model[sentence], axis=0))
+        pc_ret.append(remove_pc(np.mean(model[sentence], axis=0), pc))
+    return w2v_ret, pc_ret
 
-def two_similarities(vecs, source_file, compare_vectors, pc):
-    compare_vectors_sans_pc = remove_pc(compare_vectors, pc)
+def two_similarities(vecs, source_file, compare_vectors, comp_vecs_sans_pc, pc):
     for sentence in MySentences(source_file):
         source_vector = np.mean(vecs[sentence], axis=0)
         souce_vector_sans_pc= remove_pc(source_vector, pc)
         yield vecs.cosine_similarities(source_vector, compare_vectors)
-        yield vecs.cosine_similarities(souce_vector_sans_pc, compare_vectors_sans_pc)
+        yield vecs.cosine_similarities(souce_vector_sans_pc, comp_vecs_sans_pc)
 
-def write_two_similarities(w2v_fp, pc_fp, model, source_file, compare_vectors, pc):
+def write_two_similarities(w2v_fp, pc_fp, model, source_file, compare_vectors, comp_vecs_sans_pc, pc):
     with open(w2v_fp, 'w') as w2v_fh, open(pc_fp, 'w') as pc_fh:
         w2v_writer = csv.writer(w2v_fh)
         pc_writer = csv.writer(pc_fh)
-        w2v_writer.writerows(two_similarities(model, source_file, compare_vectors, pc))
-        pc_writer.writerows(two_similarities(model, source_file, compare_vectors, pc))
+        w2v_writer.writerows(two_similarities(model, source_file, compare_vectors, comp_vecs_sans_pc, pc))
+        pc_writer.writerows(two_similarities(model, source_file, compare_vectors, comp_vecs_sans_pc, pc))
 
 def get_two_similarities(model_file, component_file, out_file, source_file, compare_file):
     # NOTE: Word2Vec.load is the function to call for our model. 
@@ -60,8 +61,8 @@ def get_two_similarities(model_file, component_file, out_file, source_file, comp
     model = gensim.models.Word2Vec.load(model_file)
     vecs = model.wv
     pc = np.loadtxt(component_file)
-    compare_vectors = np.array(create_sentence_vectors(vecs, compare_file))
-    write_two_similarities("w2v_"+ out_file, "pc_w2c_" + out_file, vecs, source_file, compare_vectors, pc)
+    compare_vectors, comp_vecs_sans_pc = np.array(create_sentence_vectors(vecs, compare_file))
+    write_two_similarities("w2v_"+ out_file, "pc_w2c_" + out_file, vecs, source_file, compare_vectors, comp_vecs_sans_pc, pc)
 
 def remove_pc(X, pc, npc=1):
     """
