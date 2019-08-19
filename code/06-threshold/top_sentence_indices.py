@@ -84,7 +84,7 @@ def main():
     matrix2 = get_df(args.second_matrix)
     matrix3 = get_df(args.third_matrix)
 
-    source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.matrix_file, args.thresh)
+    source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.primary_matrix, args.thresh)
 
     thresh_source_sents = extract_from_df(source_df, source_idxs, 0)
     thresh_s_og_idxs = extract_from_df(source_df, source_idxs, 1)
