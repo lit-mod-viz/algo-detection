@@ -100,8 +100,8 @@ def main():
 
     matrix2 = get_df(args.second_matrix)
     matrix3 = get_df(args.third_matrix)
-    values2 = values_at_indices(matrix2, s_idxs, c_idxs)
-    values3 = values_at_indices(matrix3, s_idxs, c_idxs)
+    values2 = values_at_indices(matrix2.values, s_idxs, c_idxs)
+    values3 = values_at_indices(matrix3.values, s_idxs, c_idxs)
 
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
     og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
