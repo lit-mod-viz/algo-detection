@@ -30,7 +30,6 @@ def filter_sentence_length(source, compare, values):
     len2 = 2
     
     combined = pd.concat([source, compare], axis=1, ignore_index=True)
-    print(combined)
     source_lengths = combined.iloc[0:][0].str.split().str.len()
     compare_lengths = combined.iloc[0:][3].str.split().str.len()
     ret = combined[(source_lengths.gt(len1) & compare_lengths.gt(len2))]
@@ -85,15 +84,16 @@ def main():
     og_comp_df = get_df(args.og_comp_file)
 
     source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.primary_matrix, args.thresh)
-
+    print(source_idxs)
+    print(comp_idxs)
     thresh_source_sents = pd.DataFrame(extract_from_df(source_df, source_idxs, 0))
     thresh_s_og_idxs = pd.DataFrame(extract_from_df(source_df, source_idxs, 1))
-    thresh_s_idxs = pd.DataFrame(thresh_source_sents.index)
+    thresh_s_idxs = pd.DataFrame(source_idxs)
     thresh_source = pd.concat([thresh_source_sents, thresh_s_og_idxs, thresh_s_idxs], axis=1, ignore_index=True) 
     
     thresh_comp_sents = pd.DataFrame(extract_from_df(comp_df, comp_idxs, 0))
     thresh_c_og_idxs = pd.DataFrame(extract_from_df(comp_df, comp_idxs, 1))
-    thresh_c_idxs = pd.DataFrame(thresh_comp_sents.index)
+    thresh_c_idxs = pd.DataFrame(comp_idxs)
     thresh_comp = pd.concat([thresh_comp_sents, thresh_c_og_idxs, thresh_c_idxs], axis=1, ignore_index=True)
 
     source_sents, comp_sents, og_s_idxs, og_c_idxs, s_idxs, c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
