@@ -30,6 +30,7 @@ def filter_sentence_length(source, compare, values):
     len2 = 2
     
     combined = pd.concat([source, compare], axis=1, ignore_index=True)
+    print(combined)
     source_lengths = combined.iloc[0:][0].str.split().str.len()
     compare_lengths = combined.iloc[0:][2].str.split().str.len()
     ret = combined[(source_lengths.gt(len1) & compare_lengths.gt(len2))]
@@ -81,9 +82,6 @@ def main():
     og_source_df = get_df(args.og_source_file)
     og_comp_df = get_df(args.og_comp_file)
 
-    matrix2 = get_df(args.second_matrix)
-    matrix3 = get_df(args.third_matrix)
-
     source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.primary_matrix, args.thresh)
 
     thresh_source_sents = extract_from_df(source_df, source_idxs, 0)
@@ -96,6 +94,8 @@ def main():
 
     source_sents, comp_sents, og_s_idxs, og_c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
 
+    matrix2 = get_df(args.second_matrix)
+    matrix3 = get_df(args.third_matrix)
     values2 = values_at_indices(matrix2, source_sents, comp_sents)
     values3 = values_at_indices(matrix3, source_sents, comp_sents)
 
