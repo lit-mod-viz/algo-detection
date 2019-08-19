@@ -32,14 +32,16 @@ def filter_sentence_length(source, compare, values):
     combined = pd.concat([source, compare], axis=1, ignore_index=True)
     print(combined)
     source_lengths = combined.iloc[0:][0].str.split().str.len()
-    compare_lengths = combined.iloc[0:][2].str.split().str.len()
+    compare_lengths = combined.iloc[0:][3].str.split().str.len()
     ret = combined[(source_lengths.gt(len1) & compare_lengths.gt(len2))]
     source_ret = ret[0]
     og_s_idxs = ret[1]
-    comp_ret = ret[2]
-    og_c_idxs = ret[3]
+    s_idxs = ret[2]
+    comp_ret = ret[3]
+    og_c_idxs = ret[4]
+    c_idxs = ret[5]
     ret_vals = values[ret.index]
-    return source_ret, comp_ret, og_s_idxs, og_c_idxs, ret_vals
+    return source_ret, comp_ret, og_s_idxs, og_c_idxs, s_idxs, c_idxs, ret_vals
 
 def values_at_indices(matrix, source_idxs, comp_idxs):
     """
@@ -51,13 +53,13 @@ def values_at_indices(matrix, source_idxs, comp_idxs):
         ret.append(matrix[i,j])
     return ret
 
-def write_csv(out_file, list1, list2, values):
+def write_csv(out_file, list1, list2, values, values2, values3):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
-        header = ["Source", "Compare", "Value"]
+        header = ["Source", "Compare", "Value", "Val Type 2", "Val Type 3"]
         writer.writerow(header)
         for i, val in enumerate(values):
-            row = [list1[i], list2[i], val]
+            row = [list1[i], list2[i], val, values2[i], values3[i]]
             writer.writerow(row)
 
 
@@ -84,20 +86,22 @@ def main():
 
     source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.primary_matrix, args.thresh)
 
-    thresh_source_sents = extract_from_df(source_df, source_idxs, 0)
-    thresh_s_og_idxs = extract_from_df(source_df, source_idxs, 1)
-    thresh_source = pd.concat([pd.DataFrame(thresh_source_sents), pd.DataFrame(thresh_s_og_idxs)], axis=1, ignore_index=True) 
+    thresh_source_sents = pd.DataFrame(extract_from_df(source_df, source_idxs, 0))
+    thresh_s_og_idxs = pd.DataFrame(extract_from_df(source_df, source_idxs, 1))
+    thresh_s_idxs = pd.DataFrame(thresh_source_sents.index)
+    thresh_source = pd.concat([thresh_source_sents, thresh_s_og_idxs, thresh_s_idxs], axis=1, ignore_index=True) 
     
-    thresh_comp_sents = extract_from_df(comp_df, comp_idxs, 0)
-    thresh_c_og_idxs = extract_from_df(comp_df, comp_idxs, 1)
-    thresh_comp = pd.concat([pd.DataFrame(thresh_comp_sents), pd.DataFrame(thresh_c_og_idxs)], axis=1, ignore_index=True)
+    thresh_comp_sents = pd.DataFrame(extract_from_df(comp_df, comp_idxs, 0))
+    thresh_c_og_idxs = pd.DataFrame(extract_from_df(comp_df, comp_idxs, 1))
+    thresh_c_idxs = pd.DataFrame(thresh_comp_sents.index)
+    thresh_comp = pd.concat([thresh_comp_sents, thresh_c_og_idxs, thresh_c_idxs], axis=1, ignore_index=True)
 
-    source_sents, comp_sents, og_s_idxs, og_c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
+    source_sents, comp_sents, og_s_idxs, og_c_idxs, s_idxs, c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
 
-    """ matrix2 = get_df(args.second_matrix)
+    matrix2 = get_df(args.second_matrix)
     matrix3 = get_df(args.third_matrix)
-    values2 = values_at_indices(matrix2, source_sents, comp_sents)
-    values3 = values_at_indices(matrix3, source_sents, comp_sents) """
+    values2 = values_at_indices(matrix2, s_idxs, c_idxs)
+    values3 = values_at_indices(matrix3, s_idxs, c_idxs)
 
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
     og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
@@ -106,9 +110,9 @@ def main():
     idxs_fp = args.out_file + ".idxs.og.thresh"
     og_sents_fp = args.out_file + ".sents.og.thresh"
     
-    write_csv(sents_fp, source_sents.values, comp_sents.values, values)
-    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values)
-    write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
+    write_csv(sents_fp, source_sents.values, comp_sents.values, values, values2, values3)
+    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values, values2, values3)
+    write_csv(og_sents_fp, og_s_sents, og_c_sents, values, values2, values3)
 
 if __name__== "__main__":
     main()
