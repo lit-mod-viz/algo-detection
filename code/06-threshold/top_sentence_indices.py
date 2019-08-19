@@ -32,7 +32,7 @@ def filter_sentence_length(source, compare, values):
     combined = pd.concat([source, compare], axis=1, ignore_index=True)
     source_lengths = combined.iloc[0:][0].str.split().str.len()
     compare_lengths = combined.iloc[0:][2].str.split().str.len()
-    ret = combined[(source_lengths.gt(len1) & compare_lengths.gt(len2)) | (source_lengths.gt(len2) & compare_lengths.gt(len1))]
+    ret = combined[(source_lengths.gt(len1) & compare_lengths.gt(len2))]
     source_ret = ret[0]
     og_s_idxs = ret[1]
     comp_ret = ret[2]
@@ -40,19 +40,32 @@ def filter_sentence_length(source, compare, values):
     ret_vals = values[ret.index]
     return source_ret, comp_ret, og_s_idxs, og_c_idxs, ret_vals
 
-def write_csv(out_file, list1, list2, values):
+def values_at_indices(matrix, source_idxs, comp_idxs):
+    """
+    params:
+    matrix should be a numpy array
+    """
+    ret = []
+    for i,j in zip(source_idxs, comp_idxs):
+        ret.append(matrix[i,j])
+    return ret
+
+def write_csv(out_file, list1, list2, values, values2, values3):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
         header = ["Source", "Compare", "Value"]
         writer.writerow(header)
         for i, val in enumerate(values):
-            row = [list1[i], list2[i], val]
+            row = [list1[i], list2[i], val, values2[i], values3[i]]
             writer.writerow(row)
 
 
 def main():
     parser = argparse.ArgumentParser(description='parse arguments')
-    parser.add_argument('matrix_file', type=str, help='matrix file')
+    parser.add_argument('primary_matrix', type=str, help='file with similarities you want to threshold on')
+    parser.add_argument('second_matrix', type=str, help='additional similarity metric')
+    parser.add_argument('third_matrix', type=str, help='another additional similarity metric')
+
     parser.add_argument('source_file', type=str, help='file with source sentences used to generate matrix')
     parser.add_argument('comp_file', type=str, help='file with compare sentences used to generate matrix')
     parser.add_argument('out_file', type=str, help='file to write out to')    
@@ -68,6 +81,9 @@ def main():
     og_source_df = get_df(args.og_source_file)
     og_comp_df = get_df(args.og_comp_file)
 
+    matrix2 = get_df(args.second_matrix)
+    matrix3 = get_df(args.third_matrix)
+
     source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.matrix_file, args.thresh)
 
     thresh_source_sents = extract_from_df(source_df, source_idxs, 0)
@@ -80,6 +96,9 @@ def main():
 
     source_sents, comp_sents, og_s_idxs, og_c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
 
+    values2 = values_at_indices(matrix2, source_sents, comp_sents)
+    values3 = values_at_indices(matrix3, source_sents, comp_sents)
+
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
     og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
 
@@ -87,9 +106,9 @@ def main():
     idxs_fp = args.out_file + ".idxs.og.thresh"
     og_sents_fp = args.out_file + ".sents.og.thresh"
     
-    write_csv(sents_fp, source_sents.values, comp_sents.values, values)
-    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values)
-    write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
+    write_csv(sents_fp, source_sents.values, comp_sents.values, values, values2, values3)
+    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values, values2, values3)
+    write_csv(og_sents_fp, og_s_sents, og_c_sents, values, values2, values3)
 
 if __name__== "__main__":
     main()
