@@ -35,13 +35,13 @@ def create_sentence_vectors(model, compare_file, pc):
     w2v_ret = []
     pc_ret = []
     for sentence in MySentences(compare_file):
-        w2v_ret.append(np.mean(model[sentence], axis=0))
-        pc_ret.append(remove_pc(np.mean(model[sentence], axis=0), pc))
+        w2v_ret.append(np.mean(model[set(sentence)], axis=0))
+        pc_ret.append(remove_pc(np.mean(model[set(sentence)], axis=0), pc))
     return w2v_ret, pc_ret
 
 def two_similarities(vecs, source_file, compare_vectors, comp_vecs_sans_pc, pc):
     for sentence in MySentences(source_file):
-        source_vector = np.mean(vecs[sentence], axis=0)
+        source_vector = np.mean(vecs[set(sentence)], axis=0)
         souce_vector_sans_pc = remove_pc(source_vector, pc)
         w2v_sims = vecs.cosine_similarities(source_vector, compare_vectors)
         pc_sims = vecs.cosine_similarities(souce_vector_sans_pc, comp_vecs_sans_pc)
@@ -139,7 +139,7 @@ def main():
     logfile = "log." + args.out_file
 
     w2v = True
-    jaccard = True
+    jaccard = False
     tfidf = False
 
     if w2v:
@@ -149,7 +149,7 @@ def main():
 
     if jaccard:
         logging("begin jaccard", logfile)
-        get_jaccard_similarities(args.out_file + ".jacc", args.source_file, args.compare_file)
+        get_jaccard_similarities("jac_"+args.out_file, args.source_file, args.compare_file)
         logging("end jaccard", logfile)
 
     if tfidf:
