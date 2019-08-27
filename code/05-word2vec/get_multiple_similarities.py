@@ -32,39 +32,40 @@ def create_sentence_vectors(model, compare_file, pc):
     given a list of lists, with the inner lists representing sentences, split into words
     return vector representations of each sentence (by averaging all the words)
     """
-    w2v_ret = []
     pc_ret = []
     for sentence in MySentences(compare_file):
-        w2v_ret.append(np.mean(model[set(sentence)], axis=0))
         pc_ret.append(remove_pc(np.mean(model[set(sentence)], axis=0), pc))
-    return w2v_ret, pc_ret
+    return pc_ret
 
-def two_similarities(vecs, source_file, compare_vectors, comp_vecs_sans_pc, pc):
+def two_similarities(vecs, source_file, comp_vecs_sans_pc, pc):
     for sentence in MySentences(source_file):
         source_vector = np.mean(vecs[set(sentence)], axis=0)
         souce_vector_sans_pc = remove_pc(source_vector, pc)
-        w2v_sims = vecs.cosine_similarities(source_vector, compare_vectors)
         pc_sims = vecs.cosine_similarities(souce_vector_sans_pc, comp_vecs_sans_pc)
-        yield w2v_sims, pc_sims
+        yield pc_sims
 
-def write_two_similarities(w2v_fp, pc_fp, model, source_file, compare_vectors, comp_vecs_sans_pc, pc):
-    with open(w2v_fp, 'w') as w2v_fh, open(pc_fp, 'w') as pc_fh:
-        w2v_writer = csv.writer(w2v_fh)
+def write_two_similarities(pc_fp, model, source_file, comp_vecs_sans_pc, pc):
+    with open(pc_fp, 'w') as pc_fh:
         pc_writer = csv.writer(pc_fh)
-        for w2v_sims, pc_sims in two_similarities(model, source_file, compare_vectors, comp_vecs_sans_pc, pc):
-            w2v_writer.writerow(w2v_sims)
+        for pc_sims in two_similarities(model, source_file, comp_vecs_sans_pc, pc):
             pc_writer.writerow(pc_sims)
 
-def get_two_similarities(model_file, component_file, out_file, source_file, compare_file):
+def get_two_similarities(model_file, component_file, out_file, source_file, compare_file, logfile):
     # NOTE: Word2Vec.load is the function to call for our model. 
     # Use the line below for the google model
     # model = gensim.models.KeyedVectors.load_word2vec_format("GoogleNews-vectors-negative300.bin", binary=True)
 
+    logging("begin loading w2v model", logfile)
     model = gensim.models.Word2Vec.load(model_file)
+    logging("end loading w2v model", logfile)
     vecs = model.wv
     pc = np.loadtxt(component_file)
-    compare_vectors, comp_vecs_sans_pc = np.array(create_sentence_vectors(vecs, compare_file, pc))
-    write_two_similarities("w2v_"+ out_file, "pc_w2c_" + out_file, vecs, source_file, compare_vectors, comp_vecs_sans_pc, pc)
+    logging("begin making compare array with pc removed", logfile)
+    comp_vecs_sans_pc = np.array(create_sentence_vectors(vecs, compare_file, pc))
+    logging("end making compare array", logfile)
+    logging("begin comparisons", logfile)
+    write_two_similarities("pc_w2v_" + out_file, vecs, source_file, comp_vecs_sans_pc, pc)
+    logging("end comparisons", logfile)
 
 def remove_pc(X, pc, npc=1):
     """
@@ -140,22 +141,15 @@ def main():
 
     w2v = True
     jaccard = False
-    tfidf = False
-
     if w2v:
-        logging("begin w2v & pc", logfile)
-        get_two_similarities(args.model_file, args.component_file, args.out_file, args.source_file, args.compare_file)
-        logging("end w2v & pc", logfile)
+        logging("begin w2v - pc", logfile)
+        get_two_similarities(args.model_file, args.component_file, args.out_file, args.source_file, args.compare_file, logfile)
+        logging("end w2v - pc", logfile)
 
     if jaccard:
         logging("begin jaccard", logfile)
         get_jaccard_similarities("jac_"+args.out_file, args.source_file, args.compare_file)
         logging("end jaccard", logfile)
-
-    if tfidf:
-        logging("begin tfidf", logfile)
-        get_tfidf_vector_similarities()
-        logging("end tfidf", logfile)
 
 if __name__== "__main__":
   main()
