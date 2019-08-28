@@ -92,9 +92,12 @@ def SIF_weighting(a, word, vecs):
     return weight * vecs[word]
 
 def jaccard(S,C):
+    # NOTE: This is sloppy:
+    # Editing this to remove the union from the equation. just intersection!
     intersection = S.intersection(C)
     union = S.union(C)
-    return len(intersection)/len(union)
+    return len(intersection)
+    # return len(intersection)/len(union)
 
 def compare_jaccard(source_file, compare_file):
     for source in MySentences(source_file):
@@ -139,7 +142,7 @@ def main():
     args = parser.parse_args()
     logfile = "log." + args.out_file
 
-    w2v = True
+    w2v = False
     jaccard = True
     if w2v:
         logging("begin w2v - pc", logfile)
