@@ -3,12 +3,19 @@ import numpy as np
 import pandas as pd
 import csv
 
-def get_indices_and_values(matrix_file, thresh):
-    data = pd.read_csv(matrix_file, sep=',', header=None)
+
+def combine_and_weight(pcw2v, jac):
+    # The values of .75 and .25 were experimentally determined on a tuning set
+    newpc = pcw2v.mul(.75, 1)
+    newjac = jac.mul(.25, 1)
+    combined = newjac.add(newpc, fill_value=0)
+    return combined
+
+def get_indices_and_values(data, thresh):
     data = data.values
     values = data[data>thresh]
     source_idxs, comp_idxs = np.nonzero(data>thresh)
-    # indices = np.vstack((index1, index2))
+    # indices = np.vstack((index1, index2)
     # coordinates = np.swapaxes(indices, 0, 1)
     return source_idxs, comp_idxs, values
 
@@ -52,21 +59,19 @@ def values_at_indices(matrix, source_idxs, comp_idxs):
         ret.append(matrix[i,j])
     return ret
 
-def write_csv(out_file, list1, list2, values, values2, values3):
+def write_csv(out_file, list1, list2, values):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
-        header = ["Source", "Compare", "Value", "Val Type 2", "Val Type 3"]
+        header = ["Source", "Compare", "Value", "Val Type 2"]
         writer.writerow(header)
         for i, val in enumerate(values):
-            row = [list1[i], list2[i], val, values2[i], values3[i]]
+            row = [list1[i], list2[i], val]
             writer.writerow(row)
-
 
 def main():
     parser = argparse.ArgumentParser(description='parse arguments')
     parser.add_argument('primary_matrix', type=str, help='file with similarities you want to threshold on')
     parser.add_argument('second_matrix', type=str, help='additional similarity metric')
-    parser.add_argument('third_matrix', type=str, help='another additional similarity metric')
 
     parser.add_argument('source_file', type=str, help='file with source sentences used to generate matrix')
     parser.add_argument('comp_file', type=str, help='file with compare sentences used to generate matrix')
@@ -83,9 +88,13 @@ def main():
     og_source_df = get_df(args.og_source_file)
     og_comp_df = get_df(args.og_comp_file)
 
-    source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.primary_matrix, args.thresh)
-    print(source_idxs)
-    print(comp_idxs)
+    pcw2v = get_df(args.primary_matrix)
+    jac = get_df(args.second_matrix)
+    combined = combine_and_weight(pcw2v, jac)
+
+
+    source_idxs, comp_idxs, thresh_values = get_indices_and_values(combined, args.thresh)
+
     thresh_source_sents = pd.DataFrame(extract_from_df(source_df, source_idxs, 0))
     thresh_s_og_idxs = pd.DataFrame(extract_from_df(source_df, source_idxs, 1))
     thresh_s_idxs = pd.DataFrame(source_idxs)
@@ -98,11 +107,6 @@ def main():
 
     source_sents, comp_sents, og_s_idxs, og_c_idxs, s_idxs, c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
 
-    matrix2 = get_df(args.second_matrix)
-    matrix3 = get_df(args.third_matrix)
-    values2 = values_at_indices(matrix2.values, s_idxs, c_idxs)
-    values3 = values_at_indices(matrix3.values, s_idxs, c_idxs)
-
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
     og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
 
@@ -110,9 +114,9 @@ def main():
     idxs_fp = args.out_file + ".idxs.og.thresh"
     og_sents_fp = args.out_file + ".sents.og.thresh"
     
-    write_csv(sents_fp, source_sents.values, comp_sents.values, values, values2, values3)
-    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values, values2, values3)
-    write_csv(og_sents_fp, og_s_sents, og_c_sents, values, values2, values3)
+    write_csv(sents_fp, source_sents.values, comp_sents.values, values)
+    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values)
+    write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
 
 if __name__== "__main__":
     main()
