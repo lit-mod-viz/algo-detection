@@ -140,7 +140,7 @@ def main():
     logfile = "log." + args.out_file
 
     w2v = True
-    jaccard = False
+    jaccard = True
     if w2v:
         logging("begin w2v - pc", logfile)
         get_two_similarities(args.model_file, args.component_file, args.out_file, args.source_file, args.compare_file, logfile)
