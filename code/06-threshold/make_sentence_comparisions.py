@@ -88,7 +88,6 @@ def main():
     og_source_df = get_df(args.og_source_file)
     og_comp_df = get_df(args.og_comp_file)
 
-<<<<<<< HEAD
     pcw2v = get_df(args.primary_matrix)
     jac = get_df(args.second_matrix)
     combined = combine_and_weight(pcw2v, jac)
@@ -96,9 +95,6 @@ def main():
 
     source_idxs, comp_idxs, thresh_values = get_indices_and_values(combined, args.thresh)
 
-=======
-    source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.primary_matrix, args.thresh)
->>>>>>> 6d153ae3ae9beb8f9eaad22925775405c56ee66b
     thresh_source_sents = pd.DataFrame(extract_from_df(source_df, source_idxs, 0))
     thresh_s_og_idxs = pd.DataFrame(extract_from_df(source_df, source_idxs, 1))
     thresh_s_idxs = pd.DataFrame(source_idxs)
