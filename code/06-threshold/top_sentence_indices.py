@@ -84,8 +84,6 @@ def main():
     og_comp_df = get_df(args.og_comp_file)
 
     source_idxs, comp_idxs, thresh_values = get_indices_and_values(args.primary_matrix, args.thresh)
-    print(source_idxs)
-    print(comp_idxs)
     thresh_source_sents = pd.DataFrame(extract_from_df(source_df, source_idxs, 0))
     thresh_s_og_idxs = pd.DataFrame(extract_from_df(source_df, source_idxs, 1))
     thresh_s_idxs = pd.DataFrame(source_idxs)
