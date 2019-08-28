@@ -59,20 +59,20 @@ def values_at_indices(matrix, source_idxs, comp_idxs):
         ret.append(matrix[i,j])
     return ret
 
-def write_csv(out_file, list1, list2, values):
+def write_csv(out_file, list1, list2, values, values3):
     with open(out_file, 'w') as out:
         writer = csv.writer(out)
         header = ["Source", "Compare", "Value", "Val Type 2"]
         writer.writerow(header)
         for i, val in enumerate(values):
-            row = [list1[i], list2[i], val]
+            row = [list1[i], list2[i], val, values3[i]]
             writer.writerow(row)
 
 def main():
     parser = argparse.ArgumentParser(description='parse arguments')
     parser.add_argument('primary_matrix', type=str, help='file with similarities you want to threshold on')
     parser.add_argument('second_matrix', type=str, help='additional similarity metric')
-
+    parser.add_argument('third_matrix', type=str, help='another additional similarity metric')
     parser.add_argument('source_file', type=str, help='file with source sentences used to generate matrix')
     parser.add_argument('comp_file', type=str, help='file with compare sentences used to generate matrix')
     parser.add_argument('out_file', type=str, help='file to write out to')    
@@ -107,6 +107,9 @@ def main():
 
     source_sents, comp_sents, og_s_idxs, og_c_idxs, s_idxs, c_idxs, values = filter_sentence_length(thresh_source, thresh_comp, thresh_values)
 
+    matrix3 = get_df(args.third_matrix)
+    values3 = values_at_indices(matrix3.values, s_idxs, c_idxs)
+
     og_s_sents = extract_from_df(og_source_df, og_s_idxs, 0)
     og_c_sents = extract_from_df(og_comp_df, og_c_idxs, 0)
 
@@ -114,9 +117,9 @@ def main():
     idxs_fp = args.out_file + ".idxs.og.thresh"
     og_sents_fp = args.out_file + ".sents.og.thresh"
     
-    write_csv(sents_fp, source_sents.values, comp_sents.values, values)
-    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values)
-    write_csv(og_sents_fp, og_s_sents, og_c_sents, values)
+    write_csv(sents_fp, source_sents.values, comp_sents.values, values, values3)
+    write_csv(idxs_fp, og_s_idxs.values, og_c_idxs.values, values, values3)
+    write_csv(og_sents_fp, og_s_sents, og_c_sents, values, values3)
 
 if __name__== "__main__":
     main()
